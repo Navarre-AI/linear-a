@@ -1,0 +1,20 @@
+{
+  "id": "ku-ro-summation-marker",
+  "title": "Re-discovery of ku-ro as a summation marker",
+  "category": "replication",
+  "status": "provisional success",
+  "review_state": "internal-review",
+  "corpus_size": 127,
+  "quantity_lines": 289,
+  "methods": [
+    "tokenization",
+    "quantity-line heuristic",
+    "line-initial frequency ranking",
+    "administrative context comparison"
+  ],
+  "primary_finding": "ku-ro is the dominant first token in quantity-bearing tablet lines",
+  "related_findings": [
+    "po-to-ku-ro appears as a rarer extended summation expression",
+    "ki-ro appears as a lower-frequency related administrative marker"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "benchmark": "commodity-distribution",
+  "level": "novel-discovery",
+  "status": "provisional_success",
+  "date": "2026-04-01",
+  "corpus_size": 772,
+  "key_findings": {
+    "top_commodity": "FIC (figs) - 49 documents",
+    "sign_A301_frequency": "33 documents (as frequent as grain)",
+    "fraction_count": 313,
+    "transaction_signs": 61
+  }
+}

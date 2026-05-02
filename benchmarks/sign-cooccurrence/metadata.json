@@ -1,0 +1,10 @@
+{
+  "benchmark": "sign-cooccurrence",
+  "level": "novel-discovery",
+  "status": "provisional_success",
+  "date": "2026-04-01",
+  "bigram_pairs": 4408,
+  "unique_bigrams": 1276,
+  "forbidden_rate": "16% among top 15 signs",
+  "key_rules": ["no vowel gemination", "nasal-liquid restriction", "stop harmony avoidance"]
+}

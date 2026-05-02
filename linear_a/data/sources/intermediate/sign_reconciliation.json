@@ -1,0 +1,5051 @@
+{
+  "AB59": {
+    "id": "AB59",
+    "total_occurrences": 114,
+    "documents": 94,
+    "roles": {
+      "syllabogram": 106,
+      "logogram": 7,
+      "erasure": 1
+    },
+    "readings": {
+      "ta": 106,
+      "AB59": 8
+    },
+    "in_inventory": true,
+    "inventory_phonetic": "ta",
+    "inventory_confidence": "high",
+    "inventory_unicode": "\ud801\ude3a",
+    "category": "syllabogram"
+  },
+  "AB39": {
+    "id": "AB39",
+    "total_occurrences": 37,
+    "documents": 33,
+    "roles": {
+      "syllabogram": 37
+    },
+    "readings": {
+      "pi": 37
+    },
+    "in_inventory": true,
+    "inventory_phonetic": "pi",
+    "inventory_confidence": "high",
+    "inventory_unicode": "\ud801\ude26",
+    "category": "syllabogram"
+  },
+  "AB16": {
+    "id": "AB16",
+    "total_occurrences": 28,
+    "documents": 25,
+    "roles": {
+      "logogram": 1,
+      "syllabogram": 27
+    },
+    "readings": {
+      "AB16": 1,
+      "qa": 27
+    },
+    "in_inventory": true,
+    "inventory_phonetic": "qa",
+    "inventory_confidence": "high",
+    "inventory_unicode": "\ud801\ude0f",
+    "category": "syllabogram"
+  },
+  "AB67": {
+    "id": "AB67",
+    "total_occurrences": 103,
+    "documents": 77,
+    "roles": {
+      "syllabogram": 92,
+      "logogram": 9,
+      "erasure": 2
+    },
+    "readings": {
+      "ki": 92,
+      "AB67": 11
+    },
+    "in_inventory": true,
+    "inventory_phonetic": "ki",
+    "inventory_confidence": "high",
+    "inventory_unicode": "\ud801\ude42",
+    "category": "syllabogram"
+  },
+  "AB08": {
+    "id": "AB08",
+    "total_occurrences": 139,
+    "documents": 103,
+    "roles": {
+      "syllabogram": 136,
+      "erasure": 1,
+      "logogram": 2
+    },
+    "readings": {
+      "a": 136,
+      "AB08": 3
+    },
+    "in_inventory": true,
+    "inventory_phonetic": "a",
+    "inventory_confidence": "high",
+    "inventory_unicode": "\ud801\ude07",
+    "category": "syllabogram"
+  },
+  "AB60": {
+    "id": "AB60",
+    "total_occurrences": 87,
+    "documents": 70,
+    "roles": {
+      "syllabogram": 85,
+      "erasure": 1,
+      "logogram": 1
+    },
+    "readings": {
+      "ra": 85,
+      "AB60": 2
+    },
+    "in_inventory": true,
+    "inventory_phonetic": "ra",
+    "inventory_confidence": "high",
+    "inventory_unicode": "\ud801\ude3b",
+    "category": "syllabogram"
+  },
+  "AB58": {
+    "id": "AB58",
+    "total_occurrences": 46,
+    "documents": 42,
+    "roles": {
+      "syllabogram": 40,
+      "erasure": 2,
+      "logogram": 4
+    },
+    "readings": {
+      "su": 40,
+      "AB58": 6
+    },
+    "in_inventory": true,
+    "inventory_phonetic": "su",
+    "inventory_confidence": "high",
+    "inventory_unicode": "\ud801\ude39",
+    "category": "syllabogram"
+  },
+  "AB73": {
+    "id": "AB73",
+    "total_occurrences": 69,
+    "documents": 56,
+    "roles": {
+      "syllabogram": 68,
+      "logogram": 1
+    },
+    "readings": {
+      "mi": 68,
+      "AB73": 1
+    },
+    "in_inventory": true,
+    "inventory_phonetic": "mi",
+    "inventory_confidence": "high",
+    "inventory_unicode": "\ud801\ude48",
+    "category": "syllabogram"
+  },
+  "AB118": {
+    "id": "AB118",
+    "total_occurrences": 24,
+    "documents": 22,
+    "roles": {
+      "syllabogram": 18,
+      "logogram": 6
+    },
+    "readings": {
+      "*118": 18,
+      "AB118": 6
+    },
+    "in_inventory": false,
+    "category": "logogram (missing from inventory)"
+  },
+  "AB24": {
+    "id": "AB24",
+    "total_occurrences": 46,
+    "documents": 41,
+    "roles": {
+      "logogram": 4,
+      "syllabogram": 42
+    },
+    "readings": {
+      "AB24": 4,
+      "ne": 42
+    },
+    "in_inventory": true,
+    "inventory_phonetic": "ne",
+    "inventory_confidence": "high",
+    "inventory_unicode": "\ud801\ude17",
+    "category": "syllabogram"
+  },
+  "AB03": {
+    "id": "AB03",
+    "total_occurrences": 91,
+    "documents": 84,
+    "roles": {
+      "syllabogram": 81,
+      "transaction": 1,
+      "logogram": 9
+    },
+    "readings": {
+      "pa": 81,
+      "AB03": 10
+    },
+    "in_inventory": true,
+    "inventory_phonetic": "pa",
+    "inventory_confidence": "high",
+    "inventory_unicode": "\ud801\ude02",
+    "category": "syllabogram"
+  },
+  "AB31": {
+    "id": "AB31",
+    "total_occurrences": 87,
+    "documents": 71,
+    "roles": {
+      "syllabogram": 79,
+      "transaction": 4,
+      "erasure": 1,
+      "logogram": 3
+    },
+    "readings": {
+      "sa": 79,
+      "AB31": 8
+    },
+    "in_inventory": true,
+    "inventory_phonetic": "sa",
+    "inventory_confidence": "high",
+    "inventory_unicode": "\ud801\ude1e",
+    "category": "syllabogram"
+  },
+  "AB57": {
+    "id": "AB57",
+    "total_occurrences": 88,
+    "documents": 72,
+    "roles": {
+      "syllabogram": 87,
+      "erasure": 1
+    },
+    "readings": {
+      "ja": 87,
+      "AB57": 1
+    },
+    "in_inventory": true,
+    "inventory_phonetic": "ja",
+    "inventory_confidence": "high",
+    "inventory_unicode": "\ud801\ude38",
+    "category": "syllabogram"
+  },
+  "AB27": {
+    "id": "AB27",
+    "total_occurrences": 95,
+    "documents": 76,
+    "roles": {
+      "syllabogram": 87,
+      "logogram": 3,
+      "erasure": 1,
+      "transaction": 4
+    },
+    "readings": {
+      "re": 87,
+      "AB27": 8
+    },
+    "in_inventory": true,
+    "inventory_phonetic": "re",
+    "inventory_confidence": "high",
+    "inventory_unicode": "\ud801\ude1a",
+    "category": "syllabogram"
+  },
+  "AB56": {
+    "id": "AB56",
+    "total_occurrences": 41,
+    "documents": 33,
+    "roles": {
+      "syllabogram": 38,
+      "transaction": 2,
+      "logogram": 1
+    },
+    "readings": {
+      "*56": 38,
+      "AB56": 3
+    },
+    "in_inventory": true,
+    "inventory_phonetic": "pa3",
+    "inventory_confidence": "medium",
+    "inventory_unicode": "\ud801\ude37",
+    "category": "syllabogram"
+  },
+  "AB06": {
+    "id": "AB06",
+    "total_occurrences": 97,
+    "documents": 79,
+    "roles": {
+      "syllabogram": 97
+    },
+    "readings": {
+      "na": 97
+    },
+    "in_inventory": true,
+    "inventory_phonetic": "na",
+    "inventory_confidence": "high",
+    "inventory_unicode": "\ud801\ude05",
+    "category": "syllabogram"
+  },
+  "AB41": {
+    "id": "AB41",
+    "total_occurrences": 103,
+    "documents": 86,
+    "roles": {
+      "syllabogram": 86,
+      "logogram": 16,
+      "erasure": 1
+    },
+    "readings": {
+      "si": 86,
+      "AB41": 17
+    },
+    "in_inventory": true,
+    "inventory_phonetic": "si",
+    "inventory_confidence": "high",
+    "inventory_unicode": "\ud801\ude28",
+    "category": "syllabogram"
+  },
+  "AB01": {
+    "id": "AB01",
+    "total_occurrences": 101,
+    "documents": 72,
+    "roles": {
+      "syllabogram": 99,
+      "logogram": 2
+    },
+    "readings": {
+      "da": 99,
+      "AB01": 2
+    },
+    "in_inventory": true,
+    "inventory_phonetic": "da",
+    "inventory_confidence": "high",
+    "inventory_unicode": "\ud801\ude00",
+    "category": "syllabogram"
+  },
+  "AB04": {
+    "id": "AB04",
+    "total_occurrences": 79,
+    "documents": 68,
+    "roles": {
+      "syllabogram": 56,
+      "logogram": 4,
+      "transaction": 19
+    },
+    "readings": {
+      "te": 56,
+      "AB04": 23
+    },
+    "in_inventory": true,
+    "inventory_phonetic": "te",
+    "inventory_confidence": "high",
+    "inventory_unicode": "\ud801\ude03",
+    "category": "syllabogram"
+  },
+  "AB81": {
+    "id": "AB81",
+    "total_occurrences": 175,
+    "documents": 132,
+    "roles": {
+      "syllabogram": 138,
+      "logogram": 37
+    },
+    "readings": {
+      "ku": 138,
+      "AB81": 37
+    },
+    "in_inventory": true,
+    "inventory_phonetic": "ku",
+    "inventory_confidence": "high",
+    "inventory_unicode": "\ud801\ude50",
+    "category": "syllabogram"
+  },
+  "AB131b": {
+    "id": "AB131b",
+    "total_occurrences": 4,
+    "documents": 4,
+    "roles": {
+      "syllabogram": 1,
+      "logogram": 3
+    },
+    "readings": {
+      "*131": 1,
+      "AB131/VIN": 3
+    },
+    "in_inventory": false,
+    "category": "logogram (missing from inventory)"
+  },
+  "AB05": {
+    "id": "AB05",
+    "total_occurrences": 11,
+    "documents": 10,
+    "roles": {
+      "syllabogram": 11
+    },
+    "readings": {
+      "to": 11
+    },
+    "in_inventory": true,
+    "inventory_phonetic": "to",
+    "inventory_confidence": "high",
+    "inventory_unicode": "\ud801\ude04",
+    "category": "syllabogram"
+  },
+  "AB28": {
+    "id": "AB28",
+    "total_occurrences": 99,
+    "documents": 84,
+    "roles": {
+      "syllabogram": 93,
+      "transaction": 2,
+      "erasure": 1,
+      "logogram": 3
+    },
+    "readings": {
+      "i": 93,
+      "AB28": 6
+    },
+    "in_inventory": true,
+    "inventory_phonetic": "i",
+    "inventory_confidence": "high",
+    "inventory_unicode": "\ud801\ude1b",
+    "category": "syllabogram"
+  },
+  "AB79": {
+    "id": "AB79",
+    "total_occurrences": 30,
+    "documents": 30,
+    "roles": {
+      "syllabogram": 28,
+      "transaction": 1,
+      "logogram": 1
+    },
+    "readings": {
+      "*79": 28,
+      "AB79": 2
+    },
+    "in_inventory": true,
+    "inventory_phonetic": "zu",
+    "inventory_confidence": "medium",
+    "inventory_unicode": "\ud801\ude4e",
+    "category": "syllabogram"
+  },
+  "A301": {
+    "id": "A301",
+    "total_occurrences": 48,
+    "documents": 48,
+    "roles": {
+      "syllabogram": 11,
+      "logogram": 36,
+      "erasure": 1
+    },
+    "readings": {
+      "A301": 48
+    },
+    "in_inventory": true,
+    "inventory_phonetic": null,
+    "inventory_confidence": "none",
+    "inventory_unicode": null,
+    "category": "syllabogram"
+  },
+  "AB09": {
+    "id": "AB09",
+    "total_occurrences": 50,
+    "documents": 41,
+    "roles": {
+      "syllabogram": 47,
+      "erasure": 1,
+      "logogram": 2
+    },
+    "readings": {
+      "se": 47,
+      "AB09": 3
+    },
+    "in_inventory": true,
+    "inventory_phonetic": "se",
+    "inventory_confidence": "high",
+    "inventory_unicode": "\ud801\ude08",
+    "category": "syllabogram"
+  },
+  "AB45": {
+    "id": "AB45",
+    "total_occurrences": 30,
+    "documents": 27,
+    "roles": {
+      "syllabogram": 30
+    },
+    "readings": {
+      "de": 30
+    },
+    "in_inventory": true,
+    "inventory_phonetic": "de",
+    "inventory_confidence": "high",
+    "inventory_unicode": "\ud801\ude2c",
+    "category": "syllabogram"
+  },
+  "AB21f": {
+    "id": "AB21f",
+    "total_occurrences": 34,
+    "documents": 30,
+    "roles": {
+      "syllabogram": 18,
+      "logogram": 16
+    },
+    "readings": {
+      "qi": 18,
+      "AB21/OVIS": 16
+    },
+    "in_inventory": false,
+    "category": "syllabogram (missing from inventory)"
+  },
+  "AB50": {
+    "id": "AB50",
+    "total_occurrences": 21,
+    "documents": 18,
+    "roles": {
+      "syllabogram": 20,
+      "logogram": 1
+    },
+    "readings": {
+      "pu": 20,
+      "AB50": 1
+    },
+    "in_inventory": true,
+    "inventory_phonetic": "pu",
+    "inventory_confidence": "high",
+    "inventory_unicode": "\ud801\ude31",
+    "category": "syllabogram"
+  },
+  "AB54": {
+    "id": "AB54",
+    "total_occurrences": 21,
+    "documents": 20,
+    "roles": {
+      "syllabogram": 17,
+      "logogram": 3,
+      "erasure": 1
+    },
+    "readings": {
+      "wa": 17,
+      "AB54/TELA": 3,
+      "AB54": 1
+    },
+    "in_inventory": true,
+    "inventory_phonetic": "wa",
+    "inventory_confidence": "high",
+    "inventory_unicode": "\ud801\ude35",
+    "category": "syllabogram"
+  },
+  "AB26": {
+    "id": "AB26",
+    "total_occurrences": 71,
+    "documents": 58,
+    "roles": {
+      "syllabogram": 69,
+      "logogram": 2
+    },
+    "readings": {
+      "ru": 69,
+      "AB26": 2
+    },
+    "in_inventory": true,
+    "inventory_phonetic": "ru",
+    "inventory_confidence": "high",
+    "inventory_unicode": "\ud801\ude19",
+    "category": "syllabogram"
+  },
+  "AB77": {
+    "id": "AB77",
+    "total_occurrences": 107,
+    "documents": 88,
+    "roles": {
+      "syllabogram": 92,
+      "logogram": 15
+    },
+    "readings": {
+      "ka": 92,
+      "AB77": 15
+    },
+    "in_inventory": true,
+    "inventory_phonetic": "ka",
+    "inventory_confidence": "high",
+    "inventory_unicode": null,
+    "category": "syllabogram"
+  },
+  "AB120b": {
+    "id": "AB120b",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "AB120/GRA": 1
+    },
+    "in_inventory": false,
+    "category": "logogram (missing from inventory)"
+  },
+  "AB122": {
+    "id": "AB122",
+    "total_occurrences": 23,
+    "documents": 16,
+    "roles": {
+      "logogram": 23
+    },
+    "readings": {
+      "AB122/OLIV": 23
+    },
+    "in_inventory": false,
+    "category": "logogram (missing from inventory)"
+  },
+  "A317": {
+    "id": "A317",
+    "total_occurrences": 4,
+    "documents": 3,
+    "roles": {
+      "logogram": 3,
+      "syllabogram": 1
+    },
+    "readings": {
+      "A317": 4
+    },
+    "in_inventory": true,
+    "inventory_phonetic": null,
+    "inventory_confidence": "none",
+    "inventory_unicode": null,
+    "category": "syllabogram"
+  },
+  "AB55": {
+    "id": "AB55",
+    "total_occurrences": 44,
+    "documents": 39,
+    "roles": {
+      "syllabogram": 44
+    },
+    "readings": {
+      "nu": 44
+    },
+    "in_inventory": true,
+    "inventory_phonetic": "nu",
+    "inventory_confidence": "high",
+    "inventory_unicode": "\ud801\ude36",
+    "category": "syllabogram"
+  },
+  "AB120": {
+    "id": "AB120",
+    "total_occurrences": 56,
+    "documents": 44,
+    "roles": {
+      "logogram": 54,
+      "erasure": 2
+    },
+    "readings": {
+      "AB120/GRA": 54,
+      "AB120": 2
+    },
+    "in_inventory": false,
+    "category": "logogram (missing from inventory)"
+  },
+  "A312": {
+    "id": "A312",
+    "total_occurrences": 8,
+    "documents": 8,
+    "roles": {
+      "logogram": 4,
+      "syllabogram": 4
+    },
+    "readings": {
+      "A312": 8
+    },
+    "in_inventory": true,
+    "inventory_phonetic": null,
+    "inventory_confidence": "none",
+    "inventory_unicode": null,
+    "category": "syllabogram"
+  },
+  "A314": {
+    "id": "A314",
+    "total_occurrences": 5,
+    "documents": 5,
+    "roles": {
+      "syllabogram": 5
+    },
+    "readings": {
+      "A314": 5
+    },
+    "in_inventory": true,
+    "inventory_phonetic": null,
+    "inventory_confidence": "none",
+    "inventory_unicode": null,
+    "category": "syllabogram"
+  },
+  "AB302": {
+    "id": "AB302",
+    "total_occurrences": 15,
+    "documents": 15,
+    "roles": {
+      "logogram": 15
+    },
+    "readings": {
+      "AB302/OLE": 15
+    },
+    "in_inventory": false,
+    "category": "logogram (missing from inventory)"
+  },
+  "AB131a": {
+    "id": "AB131a",
+    "total_occurrences": 44,
+    "documents": 38,
+    "roles": {
+      "logogram": 41,
+      "syllabogram": 3
+    },
+    "readings": {
+      "AB131/VIN": 41,
+      "*131": 3
+    },
+    "in_inventory": false,
+    "category": "logogram (missing from inventory)"
+  },
+  "AB30": {
+    "id": "AB30",
+    "total_occurrences": 114,
+    "documents": 91,
+    "roles": {
+      "syllabogram": 48,
+      "logogram": 65,
+      "erasure": 1
+    },
+    "readings": {
+      "ni": 48,
+      "AB30/FIC": 66
+    },
+    "in_inventory": true,
+    "inventory_phonetic": "ni",
+    "inventory_confidence": "high",
+    "inventory_unicode": "\ud801\ude1d",
+    "category": "syllabogram"
+  },
+  "AB65": {
+    "id": "AB65",
+    "total_occurrences": 35,
+    "documents": 30,
+    "roles": {
+      "syllabogram": 33,
+      "logogram": 1,
+      "transaction": 1
+    },
+    "readings": {
+      "ju": 33,
+      "AB65": 2
+    },
+    "in_inventory": true,
+    "inventory_phonetic": "ju",
+    "inventory_confidence": "medium",
+    "inventory_unicode": "\ud801\ude40",
+    "category": "syllabogram"
+  },
+  "AB47": {
+    "id": "AB47",
+    "total_occurrences": 7,
+    "documents": 7,
+    "roles": {
+      "syllabogram": 5,
+      "logogram": 2
+    },
+    "readings": {
+      "*47": 5,
+      "AB47": 2
+    },
+    "in_inventory": true,
+    "inventory_phonetic": null,
+    "inventory_confidence": "low",
+    "inventory_unicode": "\ud801\ude30",
+    "category": "syllabogram"
+  },
+  "AB37": {
+    "id": "AB37",
+    "total_occurrences": 74,
+    "documents": 57,
+    "roles": {
+      "syllabogram": 71,
+      "logogram": 3
+    },
+    "readings": {
+      "ti": 71,
+      "AB37": 3
+    },
+    "in_inventory": true,
+    "inventory_phonetic": "ti",
+    "inventory_confidence": "high",
+    "inventory_unicode": "\ud801\ude24",
+    "category": "syllabogram"
+  },
+  "AB10": {
+    "id": "AB10",
+    "total_occurrences": 47,
+    "documents": 39,
+    "roles": {
+      "syllabogram": 46,
+      "erasure": 1
+    },
+    "readings": {
+      "u": 46,
+      "AB10": 1
+    },
+    "in_inventory": true,
+    "inventory_phonetic": "u",
+    "inventory_confidence": "high",
+    "inventory_unicode": "\ud801\ude09",
+    "category": "syllabogram"
+  },
+  "AB02": {
+    "id": "AB02",
+    "total_occurrences": 91,
+    "documents": 72,
+    "roles": {
+      "syllabogram": 89,
+      "logogram": 2
+    },
+    "readings": {
+      "ro": 89,
+      "AB02": 2
+    },
+    "in_inventory": true,
+    "inventory_phonetic": "ro",
+    "inventory_confidence": "high",
+    "inventory_unicode": "\ud801\ude01",
+    "category": "syllabogram"
+  },
+  "AB17": {
+    "id": "AB17",
+    "total_occurrences": 31,
+    "documents": 27,
+    "roles": {
+      "syllabogram": 30,
+      "logogram": 1
+    },
+    "readings": {
+      "za": 30,
+      "AB17": 1
+    },
+    "in_inventory": true,
+    "inventory_phonetic": "za",
+    "inventory_confidence": "high",
+    "inventory_unicode": "\ud801\ude10",
+    "category": "syllabogram"
+  },
+  "AB51": {
+    "id": "AB51",
+    "total_occurrences": 68,
+    "documents": 60,
+    "roles": {
+      "syllabogram": 67,
+      "logogram": 1
+    },
+    "readings": {
+      "du": 67,
+      "AB51": 1
+    },
+    "in_inventory": true,
+    "inventory_phonetic": "du",
+    "inventory_confidence": "high",
+    "inventory_unicode": "\ud801\ude32",
+    "category": "syllabogram"
+  },
+  "AB69": {
+    "id": "AB69",
+    "total_occurrences": 61,
+    "documents": 51,
+    "roles": {
+      "syllabogram": 57,
+      "logogram": 4
+    },
+    "readings": {
+      "tu": 57,
+      "AB69": 4
+    },
+    "in_inventory": true,
+    "inventory_phonetic": "tu",
+    "inventory_confidence": "high",
+    "inventory_unicode": "\ud801\ude44",
+    "category": "syllabogram"
+  },
+  "AB53": {
+    "id": "AB53",
+    "total_occurrences": 71,
+    "documents": 51,
+    "roles": {
+      "syllabogram": 70,
+      "erasure": 1
+    },
+    "readings": {
+      "ri": 70,
+      "AB53": 1
+    },
+    "in_inventory": true,
+    "inventory_phonetic": "ri",
+    "inventory_confidence": "high",
+    "inventory_unicode": "\ud801\ude34",
+    "category": "syllabogram"
+  },
+  "A308": {
+    "id": "A308",
+    "total_occurrences": 13,
+    "documents": 9,
+    "roles": {
+      "logogram": 11,
+      "syllabogram": 2
+    },
+    "readings": {
+      "A308": 13
+    },
+    "in_inventory": true,
+    "inventory_phonetic": null,
+    "inventory_confidence": "none",
+    "inventory_unicode": null,
+    "category": "syllabogram"
+  },
+  "AB80": {
+    "id": "AB80",
+    "total_occurrences": 87,
+    "documents": 70,
+    "roles": {
+      "syllabogram": 84,
+      "logogram": 2,
+      "erasure": 1
+    },
+    "readings": {
+      "ma": 84,
+      "AB80": 3
+    },
+    "in_inventory": true,
+    "inventory_phonetic": "ma",
+    "inventory_confidence": "high",
+    "inventory_unicode": "\ud801\ude4f",
+    "category": "syllabogram"
+  },
+  "AB23m": {
+    "id": "AB23m",
+    "total_occurrences": 7,
+    "documents": 6,
+    "roles": {
+      "logogram": 7
+    },
+    "readings": {
+      "AB23/BOS": 7
+    },
+    "in_inventory": false,
+    "category": "syllabogram (missing from inventory)"
+  },
+  "AB78": {
+    "id": "AB78",
+    "total_occurrences": 36,
+    "documents": 34,
+    "roles": {
+      "syllabogram": 36
+    },
+    "readings": {
+      "qe": 36
+    },
+    "in_inventory": true,
+    "inventory_phonetic": "qe",
+    "inventory_confidence": "high",
+    "inventory_unicode": "\ud801\ude4d",
+    "category": "syllabogram"
+  },
+  "AB76": {
+    "id": "AB76",
+    "total_occurrences": 43,
+    "documents": 40,
+    "roles": {
+      "syllabogram": 43
+    },
+    "readings": {
+      "ra": 43
+    },
+    "in_inventory": true,
+    "inventory_phonetic": "ra2",
+    "inventory_confidence": "medium",
+    "inventory_unicode": "\ud801\ude4b",
+    "category": "syllabogram"
+  },
+  "AB07": {
+    "id": "AB07",
+    "total_occurrences": 91,
+    "documents": 68,
+    "roles": {
+      "syllabogram": 79,
+      "logogram": 10,
+      "erasure": 2
+    },
+    "readings": {
+      "di": 79,
+      "AB07": 12
+    },
+    "in_inventory": true,
+    "inventory_phonetic": "di",
+    "inventory_confidence": "high",
+    "inventory_unicode": "\ud801\ude06",
+    "category": "syllabogram"
+  },
+  "AB44": {
+    "id": "AB44",
+    "total_occurrences": 9,
+    "documents": 9,
+    "roles": {
+      "syllabogram": 9
+    },
+    "readings": {
+      "ke": 9
+    },
+    "in_inventory": true,
+    "inventory_phonetic": "ke",
+    "inventory_confidence": "high",
+    "inventory_unicode": "\ud801\ude2b",
+    "category": "syllabogram"
+  },
+  "A568": {
+    "id": "A568",
+    "total_occurrences": 9,
+    "documents": 9,
+    "roles": {
+      "logogram": 9
+    },
+    "readings": {
+      "A568": 9
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A629": {
+    "id": "A629",
+    "total_occurrences": 6,
+    "documents": 6,
+    "roles": {
+      "logogram": 4,
+      "syllabogram": 2
+    },
+    "readings": {
+      "A629": 6
+    },
+    "in_inventory": false,
+    "category": "ligature/complex logogram"
+  },
+  "A523": {
+    "id": "A523",
+    "total_occurrences": 2,
+    "documents": 2,
+    "roles": {
+      "logogram": 2
+    },
+    "readings": {
+      "A523": 2
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A305": {
+    "id": "A305",
+    "total_occurrences": 18,
+    "documents": 17,
+    "roles": {
+      "logogram": 9,
+      "syllabogram": 6,
+      "transaction": 3
+    },
+    "readings": {
+      "A305": 18
+    },
+    "in_inventory": true,
+    "inventory_phonetic": null,
+    "inventory_confidence": "none",
+    "inventory_unicode": null,
+    "category": "syllabogram"
+  },
+  "A570": {
+    "id": "A570",
+    "total_occurrences": 2,
+    "documents": 2,
+    "roles": {
+      "logogram": 2
+    },
+    "readings": {
+      "A570": 2
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A303": {
+    "id": "A303",
+    "total_occurrences": 48,
+    "documents": 37,
+    "roles": {
+      "logogram": 46,
+      "syllabogram": 1,
+      "erasure": 1
+    },
+    "readings": {
+      "A303": 48
+    },
+    "in_inventory": true,
+    "inventory_phonetic": null,
+    "inventory_confidence": "none",
+    "inventory_unicode": null,
+    "category": "syllabogram"
+  },
+  "A704": {
+    "id": "A704",
+    "total_occurrences": 68,
+    "documents": 44,
+    "roles": {
+      "fraction": 68
+    },
+    "readings": {
+      "A704": 68
+    },
+    "in_inventory": false,
+    "category": "fraction"
+  },
+  "A703": {
+    "id": "A703",
+    "total_occurrences": 27,
+    "documents": 13,
+    "roles": {
+      "fraction": 26,
+      "erasure": 1
+    },
+    "readings": {
+      "A703": 27
+    },
+    "in_inventory": false,
+    "category": "fraction"
+  },
+  "A707": {
+    "id": "A707",
+    "total_occurrences": 112,
+    "documents": 65,
+    "roles": {
+      "fraction": 111,
+      "erasure": 1
+    },
+    "readings": {
+      "A707": 112
+    },
+    "in_inventory": false,
+    "category": "fraction"
+  },
+  "A610": {
+    "id": "A610",
+    "total_occurrences": 22,
+    "documents": 12,
+    "roles": {
+      "logogram": 21,
+      "erasure": 1
+    },
+    "readings": {
+      "A610": 22
+    },
+    "in_inventory": false,
+    "category": "ligature/complex logogram"
+  },
+  "A706": {
+    "id": "A706",
+    "total_occurrences": 16,
+    "documents": 12,
+    "roles": {
+      "fraction": 16
+    },
+    "readings": {
+      "A706": 16
+    },
+    "in_inventory": false,
+    "category": "fraction"
+  },
+  "A622": {
+    "id": "A622",
+    "total_occurrences": 19,
+    "documents": 13,
+    "roles": {
+      "logogram": 19
+    },
+    "readings": {
+      "A622": 19
+    },
+    "in_inventory": false,
+    "category": "ligature/complex logogram"
+  },
+  "A612": {
+    "id": "A612",
+    "total_occurrences": 5,
+    "documents": 4,
+    "roles": {
+      "logogram": 5
+    },
+    "readings": {
+      "A612": 5
+    },
+    "in_inventory": false,
+    "category": "ligature/complex logogram"
+  },
+  "AB22f": {
+    "id": "AB22f",
+    "total_occurrences": 4,
+    "documents": 3,
+    "roles": {
+      "syllabogram": 1,
+      "logogram": 3
+    },
+    "readings": {
+      "*22": 1,
+      "AB22/CAP": 3
+    },
+    "in_inventory": false,
+    "category": "syllabogram (missing from inventory)"
+  },
+  "A578": {
+    "id": "A578",
+    "total_occurrences": 5,
+    "documents": 5,
+    "roles": {
+      "logogram": 5
+    },
+    "readings": {
+      "A578": 5
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A618": {
+    "id": "A618",
+    "total_occurrences": 20,
+    "documents": 15,
+    "roles": {
+      "logogram": 20
+    },
+    "readings": {
+      "A618": 20
+    },
+    "in_inventory": false,
+    "category": "ligature/complex logogram"
+  },
+  "N800": {
+    "id": "N800",
+    "total_occurrences": 4,
+    "documents": 4,
+    "roles": {
+      "erasure": 3,
+      "syllabogram": 1
+    },
+    "readings": {
+      "N800": 4
+    },
+    "in_inventory": false,
+    "category": "other"
+  },
+  "A506": {
+    "id": "A506",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A506": 1
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A304": {
+    "id": "A304",
+    "total_occurrences": 25,
+    "documents": 22,
+    "roles": {
+      "logogram": 24,
+      "syllabogram": 1
+    },
+    "readings": {
+      "A304": 25
+    },
+    "in_inventory": true,
+    "inventory_phonetic": null,
+    "inventory_confidence": "none",
+    "inventory_unicode": null,
+    "category": "syllabogram"
+  },
+  "A587": {
+    "id": "A587",
+    "total_occurrences": 3,
+    "documents": 3,
+    "roles": {
+      "logogram": 3
+    },
+    "readings": {
+      "A587": 3
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A574": {
+    "id": "A574",
+    "total_occurrences": 17,
+    "documents": 11,
+    "roles": {
+      "logogram": 17
+    },
+    "readings": {
+      "A574": 17
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A705": {
+    "id": "A705",
+    "total_occurrences": 14,
+    "documents": 11,
+    "roles": {
+      "fraction": 14
+    },
+    "readings": {
+      "A705": 14
+    },
+    "in_inventory": false,
+    "category": "fraction"
+  },
+  "AB100": {
+    "id": "AB100",
+    "total_occurrences": 31,
+    "documents": 27,
+    "roles": {
+      "logogram": 23,
+      "syllabogram": 7,
+      "transaction": 1
+    },
+    "readings": {
+      "AB100/VIR": 23,
+      "*100": 7,
+      "AB100": 1
+    },
+    "in_inventory": true,
+    "inventory_phonetic": null,
+    "inventory_confidence": "none",
+    "inventory_unicode": null,
+    "category": "syllabogram"
+  },
+  "AB40": {
+    "id": "AB40",
+    "total_occurrences": 21,
+    "documents": 19,
+    "roles": {
+      "logogram": 1,
+      "syllabogram": 20
+    },
+    "readings": {
+      "AB40": 1,
+      "wi": 20
+    },
+    "in_inventory": true,
+    "inventory_phonetic": "wi",
+    "inventory_confidence": "high",
+    "inventory_unicode": "\ud801\ude27",
+    "category": "syllabogram"
+  },
+  "AB66": {
+    "id": "AB66",
+    "total_occurrences": 12,
+    "documents": 12,
+    "roles": {
+      "syllabogram": 11,
+      "logogram": 1
+    },
+    "readings": {
+      "ta": 11,
+      "AB66": 1
+    },
+    "in_inventory": true,
+    "inventory_phonetic": "ta2",
+    "inventory_confidence": "medium",
+    "inventory_unicode": "\ud801\ude41",
+    "category": "syllabogram"
+  },
+  "AB188": {
+    "id": "AB188",
+    "total_occurrences": 14,
+    "documents": 11,
+    "roles": {
+      "logogram": 6,
+      "syllabogram": 6,
+      "transaction": 2
+    },
+    "readings": {
+      "AB188": 8,
+      "*188": 6
+    },
+    "in_inventory": false,
+    "category": "logogram (missing from inventory)"
+  },
+  "A505": {
+    "id": "A505",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A505": 1
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A332": {
+    "id": "A332",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A332": 1
+    },
+    "in_inventory": false,
+    "category": "LA-unique syllabogram"
+  },
+  "A583": {
+    "id": "A583",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A583": 1
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A325": {
+    "id": "A325",
+    "total_occurrences": 3,
+    "documents": 2,
+    "roles": {
+      "syllabogram": 3
+    },
+    "readings": {
+      "A325": 3
+    },
+    "in_inventory": false,
+    "category": "LA-unique syllabogram"
+  },
+  "AB13": {
+    "id": "AB13",
+    "total_occurrences": 19,
+    "documents": 19,
+    "roles": {
+      "syllabogram": 19
+    },
+    "readings": {
+      "me": 19
+    },
+    "in_inventory": true,
+    "inventory_phonetic": "me",
+    "inventory_confidence": "high",
+    "inventory_unicode": "\ud801\ude0c",
+    "category": "syllabogram"
+  },
+  "AB34": {
+    "id": "AB34",
+    "total_occurrences": 9,
+    "documents": 8,
+    "roles": {
+      "syllabogram": 9
+    },
+    "readings": {
+      "*34": 9
+    },
+    "in_inventory": true,
+    "inventory_phonetic": null,
+    "inventory_confidence": "low",
+    "inventory_unicode": null,
+    "category": "syllabogram"
+  },
+  "A626": {
+    "id": "A626",
+    "total_occurrences": 15,
+    "documents": 12,
+    "roles": {
+      "logogram": 15
+    },
+    "readings": {
+      "A626": 15
+    },
+    "in_inventory": false,
+    "category": "ligature/complex logogram"
+  },
+  "A648": {
+    "id": "A648",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A648": 1
+    },
+    "in_inventory": false,
+    "category": "ligature/complex logogram"
+  },
+  "AB61": {
+    "id": "AB61",
+    "total_occurrences": 24,
+    "documents": 24,
+    "roles": {
+      "logogram": 14,
+      "syllabogram": 10
+    },
+    "readings": {
+      "AB61": 14,
+      "o": 10
+    },
+    "in_inventory": true,
+    "inventory_phonetic": "o",
+    "inventory_confidence": "high",
+    "inventory_unicode": "\ud801\ude3c",
+    "category": "syllabogram"
+  },
+  "A522": {
+    "id": "A522",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A522": 1
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A576": {
+    "id": "A576",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A576": 1
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A718": {
+    "id": "A718",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "syllabogram": 1
+    },
+    "readings": {
+      "A718": 1
+    },
+    "in_inventory": false,
+    "category": "fraction"
+  },
+  "AB11": {
+    "id": "AB11",
+    "total_occurrences": 6,
+    "documents": 6,
+    "roles": {
+      "syllabogram": 6
+    },
+    "readings": {
+      "po": 6
+    },
+    "in_inventory": true,
+    "inventory_phonetic": "po",
+    "inventory_confidence": "high",
+    "inventory_unicode": "\ud801\ude0a",
+    "category": "syllabogram"
+  },
+  "A306": {
+    "id": "A306",
+    "total_occurrences": 18,
+    "documents": 17,
+    "roles": {
+      "syllabogram": 12,
+      "logogram": 6
+    },
+    "readings": {
+      "A306": 18
+    },
+    "in_inventory": true,
+    "inventory_phonetic": null,
+    "inventory_confidence": "none",
+    "inventory_unicode": null,
+    "category": "syllabogram"
+  },
+  "A634": {
+    "id": "A634",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A634": 1
+    },
+    "in_inventory": false,
+    "category": "ligature/complex logogram"
+  },
+  "A608": {
+    "id": "A608",
+    "total_occurrences": 12,
+    "documents": 8,
+    "roles": {
+      "logogram": 12
+    },
+    "readings": {
+      "A608": 12
+    },
+    "in_inventory": false,
+    "category": "ligature/complex logogram"
+  },
+  "A529": {
+    "id": "A529",
+    "total_occurrences": 4,
+    "documents": 4,
+    "roles": {
+      "logogram": 3,
+      "transaction": 1
+    },
+    "readings": {
+      "A529": 4
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "AB23": {
+    "id": "AB23",
+    "total_occurrences": 9,
+    "documents": 9,
+    "roles": {
+      "syllabogram": 8,
+      "logogram": 1
+    },
+    "readings": {
+      "mu": 8,
+      "AB23/BOS": 1
+    },
+    "in_inventory": true,
+    "inventory_phonetic": "mu",
+    "inventory_confidence": "high",
+    "inventory_unicode": "\ud801\ude16",
+    "category": "syllabogram"
+  },
+  "AB70": {
+    "id": "AB70",
+    "total_occurrences": 11,
+    "documents": 11,
+    "roles": {
+      "syllabogram": 11
+    },
+    "readings": {
+      "ko": 11
+    },
+    "in_inventory": true,
+    "inventory_phonetic": "ko",
+    "inventory_confidence": "high",
+    "inventory_unicode": "\ud801\ude45",
+    "category": "syllabogram"
+  },
+  "AB85": {
+    "id": "AB85",
+    "total_occurrences": 3,
+    "documents": 3,
+    "roles": {
+      "logogram": 2,
+      "syllabogram": 1
+    },
+    "readings": {
+      "AB85/SUS": 2,
+      "au": 1
+    },
+    "in_inventory": true,
+    "inventory_phonetic": "au",
+    "inventory_confidence": "medium",
+    "inventory_unicode": null,
+    "category": "syllabogram"
+  },
+  "A516": {
+    "id": "A516",
+    "total_occurrences": 10,
+    "documents": 10,
+    "roles": {
+      "transaction": 2,
+      "logogram": 7,
+      "syllabogram": 1
+    },
+    "readings": {
+      "A516": 10
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A327": {
+    "id": "A327",
+    "total_occurrences": 3,
+    "documents": 2,
+    "roles": {
+      "logogram": 2,
+      "syllabogram": 1
+    },
+    "readings": {
+      "A327": 3
+    },
+    "in_inventory": false,
+    "category": "LA-unique syllabogram"
+  },
+  "A345": {
+    "id": "A345",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "syllabogram": 1
+    },
+    "readings": {
+      "A345": 1
+    },
+    "in_inventory": false,
+    "category": "LA-unique syllabogram"
+  },
+  "A322": {
+    "id": "A322",
+    "total_occurrences": 4,
+    "documents": 4,
+    "roles": {
+      "syllabogram": 1,
+      "logogram": 3
+    },
+    "readings": {
+      "A322": 4
+    },
+    "in_inventory": false,
+    "category": "LA-unique syllabogram"
+  },
+  "AB86": {
+    "id": "AB86",
+    "total_occurrences": 11,
+    "documents": 11,
+    "roles": {
+      "syllabogram": 7,
+      "logogram": 2,
+      "transaction": 2
+    },
+    "readings": {
+      "*86": 7,
+      "AB86": 4
+    },
+    "in_inventory": true,
+    "inventory_phonetic": "nwa",
+    "inventory_confidence": "medium",
+    "inventory_unicode": null,
+    "category": "syllabogram"
+  },
+  "A510": {
+    "id": "A510",
+    "total_occurrences": 8,
+    "documents": 8,
+    "roles": {
+      "logogram": 8
+    },
+    "readings": {
+      "A510": 8
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "AB38": {
+    "id": "AB38",
+    "total_occurrences": 25,
+    "documents": 20,
+    "roles": {
+      "logogram": 9,
+      "transaction": 1,
+      "syllabogram": 15
+    },
+    "readings": {
+      "AB38": 10,
+      "e": 15
+    },
+    "in_inventory": true,
+    "inventory_phonetic": "e",
+    "inventory_confidence": "high",
+    "inventory_unicode": "\ud801\ude25",
+    "category": "syllabogram"
+  },
+  "A559": {
+    "id": "A559",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A559": 1
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A511": {
+    "id": "A511",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A511": 1
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A708": {
+    "id": "A708",
+    "total_occurrences": 22,
+    "documents": 16,
+    "roles": {
+      "fraction": 22
+    },
+    "readings": {
+      "A708": 22
+    },
+    "in_inventory": false,
+    "category": "fraction"
+  },
+  "A584": {
+    "id": "A584",
+    "total_occurrences": 3,
+    "documents": 3,
+    "roles": {
+      "logogram": 3
+    },
+    "readings": {
+      "A584": 3
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A701": {
+    "id": "A701",
+    "total_occurrences": 14,
+    "documents": 7,
+    "roles": {
+      "fraction": 14
+    },
+    "readings": {
+      "A701": 14
+    },
+    "in_inventory": false,
+    "category": "fraction"
+  },
+  "AB49": {
+    "id": "AB49",
+    "total_occurrences": 3,
+    "documents": 3,
+    "roles": {
+      "syllabogram": 3
+    },
+    "readings": {
+      "*49": 3
+    },
+    "in_inventory": true,
+    "inventory_phonetic": null,
+    "inventory_confidence": "none",
+    "inventory_unicode": "\ud801\ude30",
+    "category": "syllabogram"
+  },
+  "A517": {
+    "id": "A517",
+    "total_occurrences": 4,
+    "documents": 3,
+    "roles": {
+      "logogram": 4
+    },
+    "readings": {
+      "A517": 4
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A580": {
+    "id": "A580",
+    "total_occurrences": 2,
+    "documents": 2,
+    "roles": {
+      "logogram": 2
+    },
+    "readings": {
+      "A580": 2
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A623": {
+    "id": "A623",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A623": 1
+    },
+    "in_inventory": false,
+    "category": "ligature/complex logogram"
+  },
+  "A310": {
+    "id": "A310",
+    "total_occurrences": 9,
+    "documents": 9,
+    "roles": {
+      "syllabogram": 8,
+      "logogram": 1
+    },
+    "readings": {
+      "A310": 9
+    },
+    "in_inventory": false,
+    "category": "LA-unique syllabogram"
+  },
+  "A324": {
+    "id": "A324",
+    "total_occurrences": 3,
+    "documents": 3,
+    "roles": {
+      "syllabogram": 3
+    },
+    "readings": {
+      "A324": 3
+    },
+    "in_inventory": false,
+    "category": "LA-unique syllabogram"
+  },
+  "AB46": {
+    "id": "AB46",
+    "total_occurrences": 9,
+    "documents": 9,
+    "roles": {
+      "syllabogram": 9
+    },
+    "readings": {
+      "je": 9
+    },
+    "in_inventory": true,
+    "inventory_phonetic": "je",
+    "inventory_confidence": "high",
+    "inventory_unicode": "\ud801\ude2d",
+    "category": "syllabogram"
+  },
+  "A346": {
+    "id": "A346",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "transaction": 1
+    },
+    "readings": {
+      "A346": 1
+    },
+    "in_inventory": false,
+    "category": "LA-unique syllabogram"
+  },
+  "A711": {
+    "id": "A711",
+    "total_occurrences": 3,
+    "documents": 2,
+    "roles": {
+      "fraction": 3
+    },
+    "readings": {
+      "A711": 3
+    },
+    "in_inventory": false,
+    "category": "fraction"
+  },
+  "A7092": {
+    "id": "A7092",
+    "total_occurrences": 12,
+    "documents": 10,
+    "roles": {
+      "fraction": 12
+    },
+    "readings": {
+      "A709": 12
+    },
+    "in_inventory": false,
+    "category": "compound logogram"
+  },
+  "A318": {
+    "id": "A318",
+    "total_occurrences": 4,
+    "documents": 4,
+    "roles": {
+      "transaction": 2,
+      "logogram": 1,
+      "syllabogram": 1
+    },
+    "readings": {
+      "A318": 4
+    },
+    "in_inventory": true,
+    "inventory_phonetic": null,
+    "inventory_confidence": "none",
+    "inventory_unicode": null,
+    "category": "syllabogram"
+  },
+  "AB87": {
+    "id": "AB87",
+    "total_occurrences": 2,
+    "documents": 1,
+    "roles": {
+      "logogram": 2
+    },
+    "readings": {
+      "AB87": 2
+    },
+    "in_inventory": true,
+    "inventory_phonetic": "twe",
+    "inventory_confidence": "medium",
+    "inventory_unicode": null,
+    "category": "syllabogram"
+  },
+  "A307": {
+    "id": "A307",
+    "total_occurrences": 5,
+    "documents": 5,
+    "roles": {
+      "logogram": 1,
+      "transaction": 3,
+      "syllabogram": 1
+    },
+    "readings": {
+      "A307": 5
+    },
+    "in_inventory": true,
+    "inventory_phonetic": null,
+    "inventory_confidence": "none",
+    "inventory_unicode": null,
+    "category": "syllabogram"
+  },
+  "A572": {
+    "id": "A572",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A572": 1
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A545": {
+    "id": "A545",
+    "total_occurrences": 2,
+    "documents": 2,
+    "roles": {
+      "logogram": 2
+    },
+    "readings": {
+      "A545": 2
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A326": {
+    "id": "A326",
+    "total_occurrences": 3,
+    "documents": 3,
+    "roles": {
+      "transaction": 3
+    },
+    "readings": {
+      "A326": 3
+    },
+    "in_inventory": false,
+    "category": "LA-unique syllabogram"
+  },
+  "A579": {
+    "id": "A579",
+    "total_occurrences": 7,
+    "documents": 3,
+    "roles": {
+      "logogram": 6,
+      "syllabogram": 1
+    },
+    "readings": {
+      "A579": 7
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A329": {
+    "id": "A329",
+    "total_occurrences": 2,
+    "documents": 2,
+    "roles": {
+      "syllabogram": 2
+    },
+    "readings": {
+      "A329": 2
+    },
+    "in_inventory": false,
+    "category": "LA-unique syllabogram"
+  },
+  "A702": {
+    "id": "A702",
+    "total_occurrences": 19,
+    "documents": 12,
+    "roles": {
+      "fraction": 19
+    },
+    "readings": {
+      "A702": 19
+    },
+    "in_inventory": false,
+    "category": "fraction"
+  },
+  "A589": {
+    "id": "A589",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A589": 1
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A319": {
+    "id": "A319",
+    "total_occurrences": 5,
+    "documents": 4,
+    "roles": {
+      "transaction": 1,
+      "syllabogram": 2,
+      "logogram": 2
+    },
+    "readings": {
+      "A319": 5
+    },
+    "in_inventory": false,
+    "category": "LA-unique syllabogram"
+  },
+  "A573": {
+    "id": "A573",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A573": 1
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "AB29": {
+    "id": "AB29",
+    "total_occurrences": 7,
+    "documents": 7,
+    "roles": {
+      "syllabogram": 7
+    },
+    "readings": {
+      "pu": 7
+    },
+    "in_inventory": true,
+    "inventory_phonetic": "pu2",
+    "inventory_confidence": "medium",
+    "inventory_unicode": "\ud801\ude1c",
+    "category": "syllabogram"
+  },
+  "AB123": {
+    "id": "AB123",
+    "total_occurrences": 7,
+    "documents": 7,
+    "roles": {
+      "syllabogram": 7
+    },
+    "readings": {
+      "*123": 7
+    },
+    "in_inventory": false,
+    "category": "logogram (missing from inventory)"
+  },
+  "A586": {
+    "id": "A586",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A586": 1
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A604": {
+    "id": "A604",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A604": 1
+    },
+    "in_inventory": false,
+    "category": "ligature/complex logogram"
+  },
+  "AB74": {
+    "id": "AB74",
+    "total_occurrences": 22,
+    "documents": 22,
+    "roles": {
+      "logogram": 21,
+      "syllabogram": 1
+    },
+    "readings": {
+      "AB74": 21,
+      "ze": 1
+    },
+    "in_inventory": true,
+    "inventory_phonetic": "ze",
+    "inventory_confidence": "high",
+    "inventory_unicode": "\ud801\ude49",
+    "category": "syllabogram"
+  },
+  "AB164a": {
+    "id": "AB164a",
+    "total_occurrences": 5,
+    "documents": 5,
+    "roles": {
+      "syllabogram": 2,
+      "logogram": 3
+    },
+    "readings": {
+      "*164": 2,
+      "AB164": 3
+    },
+    "in_inventory": false,
+    "category": "logogram (missing from inventory)"
+  },
+  "A609": {
+    "id": "A609",
+    "total_occurrences": 2,
+    "documents": 1,
+    "roles": {
+      "logogram": 2
+    },
+    "readings": {
+      "A609": 2
+    },
+    "in_inventory": false,
+    "category": "ligature/complex logogram"
+  },
+  "A613": {
+    "id": "A613",
+    "total_occurrences": 4,
+    "documents": 4,
+    "roles": {
+      "logogram": 4
+    },
+    "readings": {
+      "A613": 4
+    },
+    "in_inventory": false,
+    "category": "ligature/complex logogram"
+  },
+  "AB22m": {
+    "id": "AB22m",
+    "total_occurrences": 5,
+    "documents": 4,
+    "roles": {
+      "logogram": 5
+    },
+    "readings": {
+      "AB22/CAP": 5
+    },
+    "in_inventory": false,
+    "category": "syllabogram (missing from inventory)"
+  },
+  "A684": {
+    "id": "A684",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A684": 1
+    },
+    "in_inventory": false,
+    "category": "ligature/complex logogram"
+  },
+  "A585": {
+    "id": "A585",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A585": 1
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A643": {
+    "id": "A643",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A643": 1
+    },
+    "in_inventory": false,
+    "category": "ligature/complex logogram"
+  },
+  "A621": {
+    "id": "A621",
+    "total_occurrences": 3,
+    "documents": 3,
+    "roles": {
+      "logogram": 3
+    },
+    "readings": {
+      "A621": 3
+    },
+    "in_inventory": false,
+    "category": "ligature/complex logogram"
+  },
+  "A614": {
+    "id": "A614",
+    "total_occurrences": 4,
+    "documents": 4,
+    "roles": {
+      "logogram": 4
+    },
+    "readings": {
+      "A614": 4
+    },
+    "in_inventory": false,
+    "category": "ligature/complex logogram"
+  },
+  "A550": {
+    "id": "A550",
+    "total_occurrences": 9,
+    "documents": 9,
+    "roles": {
+      "logogram": 8,
+      "transaction": 1
+    },
+    "readings": {
+      "A550": 9
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A508": {
+    "id": "A508",
+    "total_occurrences": 6,
+    "documents": 6,
+    "roles": {
+      "logogram": 6
+    },
+    "readings": {
+      "A508": 6
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A530": {
+    "id": "A530",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A530": 1
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A546": {
+    "id": "A546",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A546": 1
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A561": {
+    "id": "A561",
+    "total_occurrences": 3,
+    "documents": 1,
+    "roles": {
+      "logogram": 3
+    },
+    "readings": {
+      "A561": 3
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A560": {
+    "id": "A560",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A560": 1
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A531": {
+    "id": "A531",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A531": 1
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A539": {
+    "id": "A539",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A539": 1
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A656": {
+    "id": "A656",
+    "total_occurrences": 2,
+    "documents": 2,
+    "roles": {
+      "logogram": 2
+    },
+    "readings": {
+      "A656": 2
+    },
+    "in_inventory": false,
+    "category": "ligature/complex logogram"
+  },
+  "A592": {
+    "id": "A592",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A592": 1
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A597": {
+    "id": "A597",
+    "total_occurrences": 2,
+    "documents": 1,
+    "roles": {
+      "logogram": 2
+    },
+    "readings": {
+      "A597": 2
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A590": {
+    "id": "A590",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A590": 1
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A591": {
+    "id": "A591",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A591": 1
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "AB72": {
+    "id": "AB72",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "syllabogram": 1
+    },
+    "readings": {
+      "*72": 1
+    },
+    "in_inventory": true,
+    "inventory_phonetic": "pe",
+    "inventory_confidence": "high",
+    "inventory_unicode": null,
+    "category": "syllabogram"
+  },
+  "A323": {
+    "id": "A323",
+    "total_occurrences": 4,
+    "documents": 3,
+    "roles": {
+      "syllabogram": 2,
+      "transaction": 2
+    },
+    "readings": {
+      "A323": 4
+    },
+    "in_inventory": false,
+    "category": "LA-unique syllabogram"
+  },
+  "A340": {
+    "id": "A340",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "syllabogram": 1
+    },
+    "readings": {
+      "A340": 1
+    },
+    "in_inventory": false,
+    "category": "LA-unique syllabogram"
+  },
+  "A615": {
+    "id": "A615",
+    "total_occurrences": 8,
+    "documents": 7,
+    "roles": {
+      "logogram": 8
+    },
+    "readings": {
+      "A615": 8
+    },
+    "in_inventory": false,
+    "category": "ligature/complex logogram"
+  },
+  "A410": {
+    "id": "A410",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A410": 1
+    },
+    "in_inventory": false,
+    "category": "other"
+  },
+  "A402": {
+    "id": "A402",
+    "total_occurrences": 4,
+    "documents": 1,
+    "roles": {
+      "logogram": 4
+    },
+    "readings": {
+      "A402": 4
+    },
+    "in_inventory": false,
+    "category": "other"
+  },
+  "A415": {
+    "id": "A415",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A415": 1
+    },
+    "in_inventory": false,
+    "category": "other"
+  },
+  "A416": {
+    "id": "A416",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A416": 1
+    },
+    "in_inventory": false,
+    "category": "other"
+  },
+  "A653": {
+    "id": "A653",
+    "total_occurrences": 3,
+    "documents": 3,
+    "roles": {
+      "logogram": 3
+    },
+    "readings": {
+      "A653": 3
+    },
+    "in_inventory": false,
+    "category": "ligature/complex logogram"
+  },
+  "A509": {
+    "id": "A509",
+    "total_occurrences": 3,
+    "documents": 2,
+    "roles": {
+      "logogram": 3
+    },
+    "readings": {
+      "A509": 3
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A7094": {
+    "id": "A7094",
+    "total_occurrences": 2,
+    "documents": 2,
+    "roles": {
+      "fraction": 2
+    },
+    "readings": {
+      "A709": 2
+    },
+    "in_inventory": false,
+    "category": "compound logogram"
+  },
+  "A526": {
+    "id": "A526",
+    "total_occurrences": 2,
+    "documents": 2,
+    "roles": {
+      "logogram": 2
+    },
+    "readings": {
+      "A526": 2
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A552": {
+    "id": "A552",
+    "total_occurrences": 2,
+    "documents": 2,
+    "roles": {
+      "logogram": 2
+    },
+    "readings": {
+      "A552": 2
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A646": {
+    "id": "A646",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A646": 1
+    },
+    "in_inventory": false,
+    "category": "ligature/complex logogram"
+  },
+  "A537": {
+    "id": "A537",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A537": 1
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A525": {
+    "id": "A525",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A525": 1
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A521": {
+    "id": "A521",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A521": 1
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A638": {
+    "id": "A638",
+    "total_occurrences": 3,
+    "documents": 3,
+    "roles": {
+      "logogram": 1,
+      "transaction": 2
+    },
+    "readings": {
+      "A638": 3
+    },
+    "in_inventory": false,
+    "category": "ligature/complex logogram"
+  },
+  "A551": {
+    "id": "A551",
+    "total_occurrences": 2,
+    "documents": 2,
+    "roles": {
+      "logogram": 2
+    },
+    "readings": {
+      "A551": 2
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A403": {
+    "id": "A403",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A403": 1
+    },
+    "in_inventory": false,
+    "category": "other"
+  },
+  "AB21": {
+    "id": "AB21",
+    "total_occurrences": 3,
+    "documents": 3,
+    "roles": {
+      "logogram": 3
+    },
+    "readings": {
+      "AB21/OVIS": 3
+    },
+    "in_inventory": true,
+    "inventory_phonetic": "qi",
+    "inventory_confidence": "medium",
+    "inventory_unicode": "\ud801\ude14",
+    "category": "syllabogram"
+  },
+  "A554": {
+    "id": "A554",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A554": 1
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A535": {
+    "id": "A535",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A535": 1
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A536": {
+    "id": "A536",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A536": 1
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A657": {
+    "id": "A657",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A657": 1
+    },
+    "in_inventory": false,
+    "category": "ligature/complex logogram"
+  },
+  "A564": {
+    "id": "A564",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A564": 1
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A534": {
+    "id": "A534",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A534": 1
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A331": {
+    "id": "A331",
+    "total_occurrences": 2,
+    "documents": 2,
+    "roles": {
+      "syllabogram": 2
+    },
+    "readings": {
+      "A331": 2
+    },
+    "in_inventory": false,
+    "category": "LA-unique syllabogram"
+  },
+  "A342": {
+    "id": "A342",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "syllabogram": 1
+    },
+    "readings": {
+      "A342": 1
+    },
+    "in_inventory": false,
+    "category": "LA-unique syllabogram"
+  },
+  "A617": {
+    "id": "A617",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A617": 1
+    },
+    "in_inventory": false,
+    "category": "ligature/complex logogram"
+  },
+  "A616": {
+    "id": "A616",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A616": 1
+    },
+    "in_inventory": false,
+    "category": "ligature/complex logogram"
+  },
+  "A582": {
+    "id": "A582",
+    "total_occurrences": 3,
+    "documents": 3,
+    "roles": {
+      "logogram": 3
+    },
+    "readings": {
+      "A582": 3
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A547": {
+    "id": "A547",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A547": 1
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A549": {
+    "id": "A549",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A549": 1
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "AB28b": {
+    "id": "AB28b",
+    "total_occurrences": 5,
+    "documents": 5,
+    "roles": {
+      "syllabogram": 5
+    },
+    "readings": {
+      "i": 5
+    },
+    "in_inventory": false,
+    "category": "syllabogram (missing from inventory)"
+  },
+  "A644": {
+    "id": "A644",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A644": 1
+    },
+    "in_inventory": false,
+    "category": "ligature/complex logogram"
+  },
+  "A538": {
+    "id": "A538",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A538": 1
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A717": {
+    "id": "A717",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "syllabogram": 1
+    },
+    "readings": {
+      "A717": 1
+    },
+    "in_inventory": false,
+    "category": "fraction"
+  },
+  "A321": {
+    "id": "A321",
+    "total_occurrences": 3,
+    "documents": 3,
+    "roles": {
+      "syllabogram": 3
+    },
+    "readings": {
+      "A321": 3
+    },
+    "in_inventory": false,
+    "category": "LA-unique syllabogram"
+  },
+  "A575": {
+    "id": "A575",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A575": 1
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A542": {
+    "id": "A542",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A542": 1
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A565": {
+    "id": "A565",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A565": 1
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A577": {
+    "id": "A577",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A577": 1
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A515": {
+    "id": "A515",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A515": 1
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A502": {
+    "id": "A502",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A502": 1
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A406": {
+    "id": "A406",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A406": 1
+    },
+    "in_inventory": false,
+    "category": "other"
+  },
+  "A343": {
+    "id": "A343",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A343": 1
+    },
+    "in_inventory": false,
+    "category": "LA-unique syllabogram"
+  },
+  "A571": {
+    "id": "A571",
+    "total_occurrences": 4,
+    "documents": 2,
+    "roles": {
+      "logogram": 4
+    },
+    "readings": {
+      "A571": 4
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A344": {
+    "id": "A344",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A344": 1
+    },
+    "in_inventory": false,
+    "category": "LA-unique syllabogram"
+  },
+  "A541": {
+    "id": "A541",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A541": 1
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A520": {
+    "id": "A520",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A520": 1
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A365": {
+    "id": "A365",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A365": 1
+    },
+    "in_inventory": false,
+    "category": "LA-unique syllabogram"
+  },
+  "A366": {
+    "id": "A366",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A366": 1
+    },
+    "in_inventory": false,
+    "category": "LA-unique syllabogram"
+  },
+  "A367": {
+    "id": "A367",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A367": 1
+    },
+    "in_inventory": false,
+    "category": "LA-unique syllabogram"
+  },
+  "A368": {
+    "id": "A368",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A368": 1
+    },
+    "in_inventory": false,
+    "category": "LA-unique syllabogram"
+  },
+  "A369": {
+    "id": "A369",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A369": 1
+    },
+    "in_inventory": false,
+    "category": "LA-unique syllabogram"
+  },
+  "A370": {
+    "id": "A370",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A370": 1
+    },
+    "in_inventory": false,
+    "category": "LA-unique syllabogram"
+  },
+  "A631": {
+    "id": "A631",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A631": 1
+    },
+    "in_inventory": false,
+    "category": "ligature/complex logogram"
+  },
+  "A333": {
+    "id": "A333",
+    "total_occurrences": 2,
+    "documents": 2,
+    "roles": {
+      "syllabogram": 2
+    },
+    "readings": {
+      "A333": 2
+    },
+    "in_inventory": false,
+    "category": "LA-unique syllabogram"
+  },
+  "AB22": {
+    "id": "AB22",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "AB22/CAP": 1
+    },
+    "in_inventory": true,
+    "inventory_phonetic": "pi2",
+    "inventory_confidence": "low",
+    "inventory_unicode": "\ud801\ude15",
+    "category": "syllabogram"
+  },
+  "A624": {
+    "id": "A624",
+    "total_occurrences": 18,
+    "documents": 9,
+    "roles": {
+      "logogram": 18
+    },
+    "readings": {
+      "A624": 18
+    },
+    "in_inventory": false,
+    "category": "ligature/complex logogram"
+  },
+  "A625": {
+    "id": "A625",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A625": 1
+    },
+    "in_inventory": false,
+    "category": "ligature/complex logogram"
+  },
+  "A630": {
+    "id": "A630",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A630": 1
+    },
+    "in_inventory": false,
+    "category": "ligature/complex logogram"
+  },
+  "A595": {
+    "id": "A595",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A595": 1
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A352": {
+    "id": "A352",
+    "total_occurrences": 2,
+    "documents": 2,
+    "roles": {
+      "syllabogram": 2
+    },
+    "readings": {
+      "A352": 2
+    },
+    "in_inventory": false,
+    "category": "LA-unique syllabogram"
+  },
+  "A647": {
+    "id": "A647",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A647": 1
+    },
+    "in_inventory": false,
+    "category": "ligature/complex logogram"
+  },
+  "A349": {
+    "id": "A349",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "syllabogram": 1
+    },
+    "readings": {
+      "A349": 1
+    },
+    "in_inventory": false,
+    "category": "LA-unique syllabogram"
+  },
+  "A350": {
+    "id": "A350",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "syllabogram": 1
+    },
+    "readings": {
+      "A350": 1
+    },
+    "in_inventory": false,
+    "category": "LA-unique syllabogram"
+  },
+  "A533": {
+    "id": "A533",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A533": 1
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A335": {
+    "id": "A335",
+    "total_occurrences": 3,
+    "documents": 3,
+    "roles": {
+      "logogram": 2,
+      "syllabogram": 1
+    },
+    "readings": {
+      "A335": 3
+    },
+    "in_inventory": false,
+    "category": "LA-unique syllabogram"
+  },
+  "A651": {
+    "id": "A651",
+    "total_occurrences": 7,
+    "documents": 6,
+    "roles": {
+      "logogram": 6,
+      "syllabogram": 1
+    },
+    "readings": {
+      "A651": 7
+    },
+    "in_inventory": false,
+    "category": "ligature/complex logogram"
+  },
+  "A632": {
+    "id": "A632",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A632": 1
+    },
+    "in_inventory": false,
+    "category": "ligature/complex logogram"
+  },
+  "A336": {
+    "id": "A336",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A336": 1
+    },
+    "in_inventory": false,
+    "category": "LA-unique syllabogram"
+  },
+  "A569": {
+    "id": "A569",
+    "total_occurrences": 2,
+    "documents": 2,
+    "roles": {
+      "logogram": 2
+    },
+    "readings": {
+      "A569": 2
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A649": {
+    "id": "A649",
+    "total_occurrences": 3,
+    "documents": 3,
+    "roles": {
+      "logogram": 3
+    },
+    "readings": {
+      "A649": 3
+    },
+    "in_inventory": false,
+    "category": "ligature/complex logogram"
+  },
+  "AB131c": {
+    "id": "AB131c",
+    "total_occurrences": 4,
+    "documents": 3,
+    "roles": {
+      "logogram": 4
+    },
+    "readings": {
+      "AB131/VIN": 4
+    },
+    "in_inventory": false,
+    "category": "logogram (missing from inventory)"
+  },
+  "A503": {
+    "id": "A503",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A503": 1
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A504": {
+    "id": "A504",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A504": 1
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A635": {
+    "id": "A635",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A635": 1
+    },
+    "in_inventory": false,
+    "category": "ligature/complex logogram"
+  },
+  "A636": {
+    "id": "A636",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A636": 1
+    },
+    "in_inventory": false,
+    "category": "ligature/complex logogram"
+  },
+  "A652": {
+    "id": "A652",
+    "total_occurrences": 3,
+    "documents": 3,
+    "roles": {
+      "logogram": 3
+    },
+    "readings": {
+      "A652": 3
+    },
+    "in_inventory": false,
+    "category": "ligature/complex logogram"
+  },
+  "A628": {
+    "id": "A628",
+    "total_occurrences": 2,
+    "documents": 1,
+    "roles": {
+      "logogram": 2
+    },
+    "readings": {
+      "A628": 2
+    },
+    "in_inventory": false,
+    "category": "ligature/complex logogram"
+  },
+  "A637": {
+    "id": "A637",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A637": 1
+    },
+    "in_inventory": false,
+    "category": "ligature/complex logogram"
+  },
+  "A562": {
+    "id": "A562",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A562": 1
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A527": {
+    "id": "A527",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A527": 1
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A598": {
+    "id": "A598",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A598": 1
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "AB20": {
+    "id": "AB20",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "syllabogram": 1
+    },
+    "readings": {
+      "zo": 1
+    },
+    "in_inventory": true,
+    "inventory_phonetic": "zo",
+    "inventory_confidence": "high",
+    "inventory_unicode": "\ud801\ude13",
+    "category": "syllabogram"
+  },
+  "A347": {
+    "id": "A347",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A347": 1
+    },
+    "in_inventory": false,
+    "category": "LA-unique syllabogram"
+  },
+  "A334": {
+    "id": "A334",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A334": 1
+    },
+    "in_inventory": false,
+    "category": "LA-unique syllabogram"
+  },
+  "AB131": {
+    "id": "AB131",
+    "total_occurrences": 3,
+    "documents": 3,
+    "roles": {
+      "logogram": 3
+    },
+    "readings": {
+      "AB131/VIN": 3
+    },
+    "in_inventory": false,
+    "category": "logogram (missing from inventory)"
+  },
+  "A543": {
+    "id": "A543",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A543": 1
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "AB130": {
+    "id": "AB130",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "AB130": 1
+    },
+    "in_inventory": false,
+    "category": "logogram (missing from inventory)"
+  },
+  "A605": {
+    "id": "A605",
+    "total_occurrences": 3,
+    "documents": 3,
+    "roles": {
+      "logogram": 3
+    },
+    "readings": {
+      "A605": 3
+    },
+    "in_inventory": false,
+    "category": "ligature/complex logogram"
+  },
+  "A7096": {
+    "id": "A7096",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "fraction": 1
+    },
+    "readings": {
+      "A709": 1
+    },
+    "in_inventory": false,
+    "category": "compound logogram"
+  },
+  "A710": {
+    "id": "A710",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "fraction": 1
+    },
+    "readings": {
+      "A710": 1
+    },
+    "in_inventory": false,
+    "category": "fraction"
+  },
+  "A641": {
+    "id": "A641",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A641": 1
+    },
+    "in_inventory": false,
+    "category": "ligature/complex logogram"
+  },
+  "A627": {
+    "id": "A627",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A627": 1
+    },
+    "in_inventory": false,
+    "category": "ligature/complex logogram"
+  },
+  "A567": {
+    "id": "A567",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A567": 1
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A315": {
+    "id": "A315",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A315": 1
+    },
+    "in_inventory": true,
+    "inventory_phonetic": null,
+    "inventory_confidence": "none",
+    "inventory_unicode": null,
+    "category": "syllabogram"
+  },
+  "A650": {
+    "id": "A650",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A650": 1
+    },
+    "in_inventory": false,
+    "category": "ligature/complex logogram"
+  },
+  "A633": {
+    "id": "A633",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A633": 1
+    },
+    "in_inventory": false,
+    "category": "ligature/complex logogram"
+  },
+  "A532": {
+    "id": "A532",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A532": 1
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A316": {
+    "id": "A316",
+    "total_occurrences": 4,
+    "documents": 3,
+    "roles": {
+      "logogram": 4
+    },
+    "readings": {
+      "A316": 4
+    },
+    "in_inventory": true,
+    "inventory_phonetic": null,
+    "inventory_confidence": "none",
+    "inventory_unicode": null,
+    "category": "syllabogram"
+  },
+  "A709": {
+    "id": "A709",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "fraction": 1
+    },
+    "readings": {
+      "A709": 1
+    },
+    "in_inventory": false,
+    "category": "fraction"
+  },
+  "A640": {
+    "id": "A640",
+    "total_occurrences": 2,
+    "documents": 2,
+    "roles": {
+      "logogram": 1,
+      "syllabogram": 1
+    },
+    "readings": {
+      "A640": 2
+    },
+    "in_inventory": false,
+    "category": "ligature/complex logogram"
+  },
+  "A501": {
+    "id": "A501",
+    "total_occurrences": 2,
+    "documents": 2,
+    "roles": {
+      "logogram": 1,
+      "syllabogram": 1
+    },
+    "readings": {
+      "A501": 2
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "AB82": {
+    "id": "AB82",
+    "total_occurrences": 3,
+    "documents": 3,
+    "roles": {
+      "logogram": 2,
+      "syllabogram": 1
+    },
+    "readings": {
+      "AB82": 2,
+      "*82": 1
+    },
+    "in_inventory": true,
+    "inventory_phonetic": null,
+    "inventory_confidence": "none",
+    "inventory_unicode": null,
+    "category": "syllabogram"
+  },
+  "A371": {
+    "id": "A371",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A371": 1
+    },
+    "in_inventory": false,
+    "category": "LA-unique syllabogram"
+  },
+  "A417": {
+    "id": "A417",
+    "total_occurrences": 3,
+    "documents": 3,
+    "roles": {
+      "logogram": 3
+    },
+    "readings": {
+      "A417": 3
+    },
+    "in_inventory": false,
+    "category": "other"
+  },
+  "A411b": {
+    "id": "A411b",
+    "total_occurrences": 12,
+    "documents": 12,
+    "roles": {
+      "syllabogram": 2,
+      "logogram": 10
+    },
+    "readings": {
+      "A411": 12
+    },
+    "in_inventory": false,
+    "category": "other"
+  },
+  "A411": {
+    "id": "A411",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A411": 1
+    },
+    "in_inventory": false,
+    "category": "other"
+  },
+  "A411c": {
+    "id": "A411c",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A411": 1
+    },
+    "in_inventory": false,
+    "category": "other"
+  },
+  "A411a": {
+    "id": "A411a",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A411": 1
+    },
+    "in_inventory": false,
+    "category": "other"
+  },
+  "A409": {
+    "id": "A409",
+    "total_occurrences": 3,
+    "documents": 3,
+    "roles": {
+      "logogram": 3
+    },
+    "readings": {
+      "A409": 3
+    },
+    "in_inventory": false,
+    "category": "other"
+  },
+  "AB191": {
+    "id": "AB191",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "AB191": 1
+    },
+    "in_inventory": false,
+    "category": "logogram (missing from inventory)"
+  },
+  "A606": {
+    "id": "A606",
+    "total_occurrences": 10,
+    "documents": 10,
+    "roles": {
+      "logogram": 10
+    },
+    "readings": {
+      "A606": 10
+    },
+    "in_inventory": false,
+    "category": "ligature/complex logogram"
+  },
+  "AB164d": {
+    "id": "AB164d",
+    "total_occurrences": 5,
+    "documents": 5,
+    "roles": {
+      "logogram": 5
+    },
+    "readings": {
+      "AB164": 5
+    },
+    "in_inventory": false,
+    "category": "logogram (missing from inventory)"
+  },
+  "AB164b": {
+    "id": "AB164b",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "AB164": 1
+    },
+    "in_inventory": false,
+    "category": "logogram (missing from inventory)"
+  },
+  "AB164c": {
+    "id": "AB164c",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "AB164": 1
+    },
+    "in_inventory": false,
+    "category": "logogram (missing from inventory)"
+  },
+  "A645": {
+    "id": "A645",
+    "total_occurrences": 2,
+    "documents": 2,
+    "roles": {
+      "logogram": 2
+    },
+    "readings": {
+      "A645": 2
+    },
+    "in_inventory": false,
+    "category": "ligature/complex logogram"
+  },
+  "A566": {
+    "id": "A566",
+    "total_occurrences": 5,
+    "documents": 5,
+    "roles": {
+      "logogram": 5
+    },
+    "readings": {
+      "A566": 5
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A553": {
+    "id": "A553",
+    "total_occurrences": 2,
+    "documents": 2,
+    "roles": {
+      "logogram": 2
+    },
+    "readings": {
+      "A553": 2
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A607": {
+    "id": "A607",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A607": 1
+    },
+    "in_inventory": false,
+    "category": "ligature/complex logogram"
+  },
+  "A338": {
+    "id": "A338",
+    "total_occurrences": 2,
+    "documents": 2,
+    "roles": {
+      "logogram": 2
+    },
+    "readings": {
+      "A338": 2
+    },
+    "in_inventory": false,
+    "category": "LA-unique syllabogram"
+  },
+  "A408": {
+    "id": "A408",
+    "total_occurrences": 3,
+    "documents": 3,
+    "roles": {
+      "logogram": 3
+    },
+    "readings": {
+      "A408": 3
+    },
+    "in_inventory": false,
+    "category": "other"
+  },
+  "A519": {
+    "id": "A519",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A519": 1
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A7093": {
+    "id": "A7093",
+    "total_occurrences": 2,
+    "documents": 1,
+    "roles": {
+      "fraction": 2
+    },
+    "readings": {
+      "A709": 2
+    },
+    "in_inventory": false,
+    "category": "compound logogram"
+  },
+  "A540": {
+    "id": "A540",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A540": 1
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A588": {
+    "id": "A588",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A588": 1
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A528": {
+    "id": "A528",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A528": 1
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A581": {
+    "id": "A581",
+    "total_occurrences": 2,
+    "documents": 2,
+    "roles": {
+      "logogram": 2
+    },
+    "readings": {
+      "A581": 2
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A660": {
+    "id": "A660",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A660": 1
+    },
+    "in_inventory": false,
+    "category": "ligature/complex logogram"
+  },
+  "A658": {
+    "id": "A658",
+    "total_occurrences": 3,
+    "documents": 3,
+    "roles": {
+      "logogram": 3
+    },
+    "readings": {
+      "A658": 3
+    },
+    "in_inventory": false,
+    "category": "ligature/complex logogram"
+  },
+  "A659": {
+    "id": "A659",
+    "total_occurrences": 2,
+    "documents": 2,
+    "roles": {
+      "logogram": 2
+    },
+    "readings": {
+      "A659": 2
+    },
+    "in_inventory": false,
+    "category": "ligature/complex logogram"
+  },
+  "A655": {
+    "id": "A655",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A655": 1
+    },
+    "in_inventory": false,
+    "category": "ligature/complex logogram"
+  },
+  "A654": {
+    "id": "A654",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A654": 1
+    },
+    "in_inventory": false,
+    "category": "ligature/complex logogram"
+  },
+  "A524": {
+    "id": "A524",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A524": 1
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A713": {
+    "id": "A713",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "fraction": 1
+    },
+    "readings": {
+      "A713": 1
+    },
+    "in_inventory": false,
+    "category": "fraction"
+  },
+  "A662": {
+    "id": "A662",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A662": 1
+    },
+    "in_inventory": false,
+    "category": "ligature/complex logogram"
+  },
+  "A661": {
+    "id": "A661",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A661": 1
+    },
+    "in_inventory": false,
+    "category": "ligature/complex logogram"
+  },
+  "A602": {
+    "id": "A602",
+    "total_occurrences": 3,
+    "documents": 3,
+    "roles": {
+      "logogram": 3
+    },
+    "readings": {
+      "A602": 3
+    },
+    "in_inventory": false,
+    "category": "ligature/complex logogram"
+  },
+  "A603": {
+    "id": "A603",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A603": 1
+    },
+    "in_inventory": false,
+    "category": "ligature/complex logogram"
+  },
+  "A601": {
+    "id": "A601",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A601": 1
+    },
+    "in_inventory": false,
+    "category": "ligature/complex logogram"
+  },
+  "A600": {
+    "id": "A600",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A600": 1
+    },
+    "in_inventory": false,
+    "category": "ligature/complex logogram"
+  },
+  "AB180": {
+    "id": "AB180",
+    "total_occurrences": 9,
+    "documents": 9,
+    "roles": {
+      "logogram": 8,
+      "syllabogram": 1
+    },
+    "readings": {
+      "AB180": 8,
+      "*180": 1
+    },
+    "in_inventory": false,
+    "category": "logogram (missing from inventory)"
+  },
+  "A599": {
+    "id": "A599",
+    "total_occurrences": 2,
+    "documents": 1,
+    "roles": {
+      "logogram": 2
+    },
+    "readings": {
+      "A599": 2
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "AB43": {
+    "id": "AB43",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "syllabogram": 1
+    },
+    "readings": {
+      "*43": 1
+    },
+    "in_inventory": true,
+    "inventory_phonetic": "a3",
+    "inventory_confidence": "medium",
+    "inventory_unicode": null,
+    "category": "syllabogram"
+  },
+  "A355": {
+    "id": "A355",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "syllabogram": 1
+    },
+    "readings": {
+      "A355": 1
+    },
+    "in_inventory": false,
+    "category": "LA-unique syllabogram"
+  },
+  "A354": {
+    "id": "A354",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "syllabogram": 1
+    },
+    "readings": {
+      "A354": 1
+    },
+    "in_inventory": false,
+    "category": "LA-unique syllabogram"
+  },
+  "A339": {
+    "id": "A339",
+    "total_occurrences": 2,
+    "documents": 2,
+    "roles": {
+      "syllabogram": 1,
+      "logogram": 1
+    },
+    "readings": {
+      "A339": 2
+    },
+    "in_inventory": false,
+    "category": "LA-unique syllabogram"
+  },
+  "A328": {
+    "id": "A328",
+    "total_occurrences": 3,
+    "documents": 3,
+    "roles": {
+      "syllabogram": 1,
+      "logogram": 2
+    },
+    "readings": {
+      "A328": 3
+    },
+    "in_inventory": false,
+    "category": "LA-unique syllabogram"
+  },
+  "A356": {
+    "id": "A356",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "syllabogram": 1
+    },
+    "readings": {
+      "A356": 1
+    },
+    "in_inventory": false,
+    "category": "LA-unique syllabogram"
+  },
+  "A357": {
+    "id": "A357",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "syllabogram": 1
+    },
+    "readings": {
+      "A357": 1
+    },
+    "in_inventory": false,
+    "category": "LA-unique syllabogram"
+  },
+  "A320": {
+    "id": "A320",
+    "total_occurrences": 5,
+    "documents": 4,
+    "roles": {
+      "syllabogram": 4,
+      "logogram": 1
+    },
+    "readings": {
+      "A320": 5
+    },
+    "in_inventory": false,
+    "category": "LA-unique syllabogram"
+  },
+  "A358": {
+    "id": "A358",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "syllabogram": 1
+    },
+    "readings": {
+      "A358": 1
+    },
+    "in_inventory": false,
+    "category": "LA-unique syllabogram"
+  },
+  "A359": {
+    "id": "A359",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "syllabogram": 1
+    },
+    "readings": {
+      "A359": 1
+    },
+    "in_inventory": false,
+    "category": "LA-unique syllabogram"
+  },
+  "A360": {
+    "id": "A360",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "syllabogram": 1
+    },
+    "readings": {
+      "A360": 1
+    },
+    "in_inventory": false,
+    "category": "LA-unique syllabogram"
+  },
+  "A513": {
+    "id": "A513",
+    "total_occurrences": 2,
+    "documents": 1,
+    "roles": {
+      "logogram": 2
+    },
+    "readings": {
+      "A513": 2
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "AB21m": {
+    "id": "AB21m",
+    "total_occurrences": 6,
+    "documents": 3,
+    "roles": {
+      "logogram": 6
+    },
+    "readings": {
+      "AB21/OVIS": 6
+    },
+    "in_inventory": false,
+    "category": "syllabogram (missing from inventory)"
+  },
+  "A1000": {
+    "id": "A1000",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A1000/SUS+SI+RE": 1
+    },
+    "in_inventory": false,
+    "category": "compound logogram"
+  },
+  "A1001": {
+    "id": "A1001",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A1001/SUS+SI": 1
+    },
+    "in_inventory": false,
+    "category": "compound logogram"
+  },
+  "A556": {
+    "id": "A556",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A556": 1
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A557": {
+    "id": "A557",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A557": 1
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A563": {
+    "id": "A563",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A563": 1
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A558": {
+    "id": "A558",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A558": 1
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A548": {
+    "id": "A548",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A548": 1
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A418": {
+    "id": "A418",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A418": 1
+    },
+    "in_inventory": false,
+    "category": "other"
+  },
+  "A642": {
+    "id": "A642",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A642": 1
+    },
+    "in_inventory": false,
+    "category": "ligature/complex logogram"
+  },
+  "A353": {
+    "id": "A353",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "syllabogram": 1
+    },
+    "readings": {
+      "A353": 1
+    },
+    "in_inventory": false,
+    "category": "LA-unique syllabogram"
+  },
+  "A412": {
+    "id": "A412",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A412": 1
+    },
+    "in_inventory": false,
+    "category": "other"
+  },
+  "A639": {
+    "id": "A639",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A639": 1
+    },
+    "in_inventory": false,
+    "category": "ligature/complex logogram"
+  },
+  "AB48": {
+    "id": "AB48",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "syllabogram": 1
+    },
+    "readings": {
+      "nwa": 1
+    },
+    "in_inventory": true,
+    "inventory_phonetic": null,
+    "inventory_confidence": "low",
+    "inventory_unicode": null,
+    "category": "syllabogram"
+  },
+  "A309b": {
+    "id": "A309b",
+    "total_occurrences": 5,
+    "documents": 1,
+    "roles": {
+      "syllabogram": 5
+    },
+    "readings": {
+      "A309": 5
+    },
+    "in_inventory": false,
+    "category": "LA-unique syllabogram"
+  },
+  "A309a": {
+    "id": "A309a",
+    "total_occurrences": 5,
+    "documents": 1,
+    "roles": {
+      "syllabogram": 5
+    },
+    "readings": {
+      "A309": 5
+    },
+    "in_inventory": false,
+    "category": "LA-unique syllabogram"
+  },
+  "A309c": {
+    "id": "A309c",
+    "total_occurrences": 2,
+    "documents": 1,
+    "roles": {
+      "syllabogram": 2
+    },
+    "readings": {
+      "A309": 2
+    },
+    "in_inventory": false,
+    "category": "LA-unique syllabogram"
+  },
+  "A514": {
+    "id": "A514",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A514": 1
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A611": {
+    "id": "A611",
+    "total_occurrences": 2,
+    "documents": 1,
+    "roles": {
+      "logogram": 2
+    },
+    "readings": {
+      "A611": 2
+    },
+    "in_inventory": false,
+    "category": "ligature/complex logogram"
+  },
+  "A619": {
+    "id": "A619",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A619": 1
+    },
+    "in_inventory": false,
+    "category": "ligature/complex logogram"
+  },
+  "A620": {
+    "id": "A620",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A620": 1
+    },
+    "in_inventory": false,
+    "category": "ligature/complex logogram"
+  },
+  "A361": {
+    "id": "A361",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "syllabogram": 1
+    },
+    "readings": {
+      "A361": 1
+    },
+    "in_inventory": false,
+    "category": "LA-unique syllabogram"
+  },
+  "A362": {
+    "id": "A362",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "syllabogram": 1
+    },
+    "readings": {
+      "A362": 1
+    },
+    "in_inventory": false,
+    "category": "LA-unique syllabogram"
+  },
+  "A555": {
+    "id": "A555",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A555": 1
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A518": {
+    "id": "A518",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A518": 1
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A363": {
+    "id": "A363",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "syllabogram": 1
+    },
+    "readings": {
+      "A363": 1
+    },
+    "in_inventory": false,
+    "category": "LA-unique syllabogram"
+  },
+  "A507": {
+    "id": "A507",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A507": 1
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A364": {
+    "id": "A364",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "syllabogram": 1
+    },
+    "readings": {
+      "A364": 1
+    },
+    "in_inventory": false,
+    "category": "LA-unique syllabogram"
+  },
+  "A594": {
+    "id": "A594",
+    "total_occurrences": 2,
+    "documents": 2,
+    "roles": {
+      "logogram": 2
+    },
+    "readings": {
+      "A594": 2
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A593": {
+    "id": "A593",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A593": 1
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "AB171": {
+    "id": "AB171",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "AB171": 1
+    },
+    "in_inventory": false,
+    "category": "logogram (missing from inventory)"
+  },
+  "A596": {
+    "id": "A596",
+    "total_occurrences": 1,
+    "documents": 1,
+    "roles": {
+      "logogram": 1
+    },
+    "readings": {
+      "A596": 1
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  },
+  "A512": {
+    "id": "A512",
+    "total_occurrences": 3,
+    "documents": 1,
+    "roles": {
+      "logogram": 3
+    },
+    "readings": {
+      "A512": 3
+    },
+    "in_inventory": false,
+    "category": "logogram"
+  }
+}

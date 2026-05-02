@@ -1,0 +1,3337 @@
+{
+  "_metadata": {
+    "source": "Younger's Linear A Lexicon (2024 edition, 10960 lines)",
+    "total_word_forms_extracted": 758,
+    "total_suffixed_words": 210,
+    "percent_suffixed": 27.7,
+    "methodology": "Systematic extraction from Younger lexicon, cross-referenced with glossary suffix entries"
+  },
+  "section_1_suffix_inventory": {
+    "-RO": {
+      "count": 16,
+      "unique_stems": 16,
+      "words": [
+        "A-DA-RO",
+        "A-KI-RO",
+        "DI-NA-RO",
+        "KA-I-RO",
+        "KA-RE-RO",
+        "KI-DA-RO",
+        "KI-RO",
+        "KU-MA-RO",
+        "KU-RO",
+        "O-TI-RO",
+        "PO-TO-KU-RO",
+        "RE-RO",
+        "SA-MA-RO",
+        "SA-RO",
+        "U-TA-RO",
+        "WI-TE-RO"
+      ],
+      "stems": {
+        "A-DA": [
+          "A-DA-RO"
+        ],
+        "A-KI": [
+          "A-KI-RO"
+        ],
+        "DI-NA": [
+          "DI-NA-RO"
+        ],
+        "KA-I": [
+          "KA-I-RO"
+        ],
+        "KA-RE": [
+          "KA-RE-RO"
+        ],
+        "KI": [
+          "KI-RO"
+        ],
+        "KI-DA": [
+          "KI-DA-RO"
+        ],
+        "KU": [
+          "KU-RO"
+        ],
+        "KU-MA": [
+          "KU-MA-RO"
+        ],
+        "O-TI": [
+          "O-TI-RO"
+        ],
+        "PO-TO-KU": [
+          "PO-TO-KU-RO"
+        ],
+        "RE": [
+          "RE-RO"
+        ],
+        "SA": [
+          "SA-RO"
+        ],
+        "SA-MA": [
+          "SA-MA-RO"
+        ],
+        "U-TA": [
+          "U-TA-RO"
+        ],
+        "WI-TE": [
+          "WI-TE-RO"
+        ]
+      }
+    },
+    "-RA": {
+      "count": 33,
+      "unique_stems": 32,
+      "words": [
+        "A-DA-RA",
+        "A-KA-RA",
+        "A-RA",
+        "A-RU-DA-RA",
+        "A-RU-RA",
+        "A-SA-RA2",
+        "A-SA-SA-RA",
+        "A-SI-KI-RA",
+        "A-ZU-RA",
+        "DA-QE-RA",
+        "DA-TA-RA",
+        "I-RA2",
+        "JA-SA-SA-RA",
+        "KI-RA",
+        "KU-KU-DA-RA",
+        "KU-RA",
+        "MI-DA-MA-RA2",
+        "MI-DA-RA",
+        "NI-RA",
+        "PA-RA",
+        "PI-TA-RA",
+        "PU-RA2",
+        "QA-MI-*047-NA-RA",
+        "RA-PU3-RA",
+        "RO-SI-RA",
+        "RU-RA2",
+        "SA-RA",
+        "SA-RA-RA",
+        "SA-RA2",
+        "SI-KI-RA",
+        "TA-RA",
+        "WA-PI-TI-NA-RA2",
+        "ZU-DI-RA"
+      ],
+      "stems": {
+        "A": [
+          "A-RA"
+        ],
+        "A-DA": [
+          "A-DA-RA"
+        ],
+        "A-KA": [
+          "A-KA-RA"
+        ],
+        "A-RU": [
+          "A-RU-RA"
+        ],
+        "A-RU-DA": [
+          "A-RU-DA-RA"
+        ],
+        "A-SA": [
+          "A-SA-RA2"
+        ],
+        "A-SA-SA": [
+          "A-SA-SA-RA"
+        ],
+        "A-SI-KI": [
+          "A-SI-KI-RA"
+        ],
+        "A-ZU": [
+          "A-ZU-RA"
+        ],
+        "DA-QE": [
+          "DA-QE-RA"
+        ],
+        "DA-TA": [
+          "DA-TA-RA"
+        ],
+        "I": [
+          "I-RA2"
+        ],
+        "JA-SA-SA": [
+          "JA-SA-SA-RA"
+        ],
+        "KI": [
+          "KI-RA"
+        ],
+        "KU": [
+          "KU-RA"
+        ],
+        "KU-KU-DA": [
+          "KU-KU-DA-RA"
+        ],
+        "MI-DA": [
+          "MI-DA-RA"
+        ],
+        "MI-DA-MA": [
+          "MI-DA-MA-RA2"
+        ],
+        "NI": [
+          "NI-RA"
+        ],
+        "PA": [
+          "PA-RA"
+        ],
+        "PI-TA": [
+          "PI-TA-RA"
+        ],
+        "PU": [
+          "PU-RA2"
+        ],
+        "QA-MI-*047-NA": [
+          "QA-MI-*047-NA-RA"
+        ],
+        "RA-PU3": [
+          "RA-PU3-RA"
+        ],
+        "RO-SI": [
+          "RO-SI-RA"
+        ],
+        "RU": [
+          "RU-RA2"
+        ],
+        "SA": [
+          "SA-RA",
+          "SA-RA2"
+        ],
+        "SA-RA": [
+          "SA-RA-RA"
+        ],
+        "SI-KI": [
+          "SI-KI-RA"
+        ],
+        "TA": [
+          "TA-RA"
+        ],
+        "WA-PI-TI-NA": [
+          "WA-PI-TI-NA-RA2"
+        ],
+        "ZU-DI": [
+          "ZU-DI-RA"
+        ]
+      }
+    },
+    "-TE": {
+      "count": 36,
+      "unique_stems": 36,
+      "words": [
+        "A-*123-TE",
+        "A-DI-KI-TE",
+        "A-DI-KI-TE-TE",
+        "A-KI-PI-E-TE",
+        "A-RO-TE",
+        "A-TA-NA-TE",
+        "AU-RE-TE",
+        "DA-JU-TE",
+        "DA-MA-TE",
+        "DA-RU-NE-TE",
+        "DA-SE-RA-TE",
+        "I-DA-MA-TE",
+        "I-JA-TE",
+        "KA-KU-NE-TE",
+        "KI-DA-TE",
+        "KI-TA-NI-TE",
+        "KU-NI-TE",
+        "KU-PA3-NA-TU-NA-TE",
+        "MA-KA-RI-TE",
+        "MA-KI-DE-TE",
+        "MA-TI-ZA-I-TE",
+        "ME-TE",
+        "MI-NU-TE",
+        "NA-TE",
+        "NI-TE",
+        "PI-*034-TE",
+        "QA-TI-DA-TE",
+        "QE-SI-TE",
+        "SI-DA-TE",
+        "SI-RU-TE",
+        "SI-TE",
+        "TA-NA-SU-TE",
+        "TA-NA-TE",
+        "TA2-TI-TE",
+        "TI-MA-RU-WI-TE",
+        "WI-RA-RE-MI-TE"
+      ],
+      "stems": {
+        "A-*123": [
+          "A-*123-TE"
+        ],
+        "A-DI-KI": [
+          "A-DI-KI-TE"
+        ],
+        "A-DI-KI-TE": [
+          "A-DI-KI-TE-TE"
+        ],
+        "A-KI-PI-E": [
+          "A-KI-PI-E-TE"
+        ],
+        "A-RO": [
+          "A-RO-TE"
+        ],
+        "A-TA-NA": [
+          "A-TA-NA-TE"
+        ],
+        "AU-RE": [
+          "AU-RE-TE"
+        ],
+        "DA-JU": [
+          "DA-JU-TE"
+        ],
+        "DA-MA": [
+          "DA-MA-TE"
+        ],
+        "DA-RU-NE": [
+          "DA-RU-NE-TE"
+        ],
+        "DA-SE-RA": [
+          "DA-SE-RA-TE"
+        ],
+        "I-DA-MA": [
+          "I-DA-MA-TE"
+        ],
+        "I-JA": [
+          "I-JA-TE"
+        ],
+        "KA-KU-NE": [
+          "KA-KU-NE-TE"
+        ],
+        "KI-DA": [
+          "KI-DA-TE"
+        ],
+        "KI-TA-NI": [
+          "KI-TA-NI-TE"
+        ],
+        "KU-NI": [
+          "KU-NI-TE"
+        ],
+        "KU-PA3-NA-TU-NA": [
+          "KU-PA3-NA-TU-NA-TE"
+        ],
+        "MA-KA-RI": [
+          "MA-KA-RI-TE"
+        ],
+        "MA-KI-DE": [
+          "MA-KI-DE-TE"
+        ],
+        "MA-TI-ZA-I": [
+          "MA-TI-ZA-I-TE"
+        ],
+        "ME": [
+          "ME-TE"
+        ],
+        "MI-NU": [
+          "MI-NU-TE"
+        ],
+        "NA": [
+          "NA-TE"
+        ],
+        "NI": [
+          "NI-TE"
+        ],
+        "PI-*034": [
+          "PI-*034-TE"
+        ],
+        "QA-TI-DA": [
+          "QA-TI-DA-TE"
+        ],
+        "QE-SI": [
+          "QE-SI-TE"
+        ],
+        "SI": [
+          "SI-TE"
+        ],
+        "SI-DA": [
+          "SI-DA-TE"
+        ],
+        "SI-RU": [
+          "SI-RU-TE"
+        ],
+        "TA-NA": [
+          "TA-NA-TE"
+        ],
+        "TA-NA-SU": [
+          "TA-NA-SU-TE"
+        ],
+        "TA2-TI": [
+          "TA2-TI-TE"
+        ],
+        "TI-MA-RU-WI": [
+          "TI-MA-RU-WI-TE"
+        ],
+        "WI-RA-RE-MI": [
+          "WI-RA-RE-MI-TE"
+        ]
+      }
+    },
+    "-JA": {
+      "count": 39,
+      "unique_stems": 39,
+      "words": [
+        "A-JA",
+        "A-MA-JA",
+        "A-RI-JA",
+        "A-SE-JA",
+        "A-SU-JA",
+        "A-TA-I-*301-WA-JA",
+        "DU-JA",
+        "I-JA",
+        "I-NA-JA",
+        "I-PA-SA-JA",
+        "I-RU-JA",
+        "I-TA-JA",
+        "JA-JA",
+        "JA-SA-JA",
+        "JA-TA-I-*301-U-JA",
+        "JA-TO-JA",
+        "KI-KI-RA-JA",
+        "KO-JA",
+        "KU-PA-JA",
+        "KU-PA3-RI-JA",
+        "O-TE-JA",
+        "PA-JA",
+        "PA-SA-JA",
+        "PA-SA-RI-JA",
+        "PA-SE-JA",
+        "PI-SE-JA",
+        "PI-TA-JA",
+        "PU2-RE-JA",
+        "QE-RA2-JA",
+        "QE-RI-JA",
+        "RE-JA",
+        "RU-JA",
+        "SA-RI-JA",
+        "SE-TO-I-JA",
+        "SI-DI-JA",
+        "SU-KI-RI-TE-I-JA",
+        "TA-JA",
+        "TE-I-JA",
+        "TI-NU-JA"
+      ],
+      "stems": {
+        "A": [
+          "A-JA"
+        ],
+        "A-MA": [
+          "A-MA-JA"
+        ],
+        "A-RI": [
+          "A-RI-JA"
+        ],
+        "A-SE": [
+          "A-SE-JA"
+        ],
+        "A-SU": [
+          "A-SU-JA"
+        ],
+        "A-TA-I-*301-WA": [
+          "A-TA-I-*301-WA-JA"
+        ],
+        "DU": [
+          "DU-JA"
+        ],
+        "I": [
+          "I-JA"
+        ],
+        "I-NA": [
+          "I-NA-JA"
+        ],
+        "I-PA-SA": [
+          "I-PA-SA-JA"
+        ],
+        "I-RU": [
+          "I-RU-JA"
+        ],
+        "I-TA": [
+          "I-TA-JA"
+        ],
+        "JA": [
+          "JA-JA"
+        ],
+        "JA-SA": [
+          "JA-SA-JA"
+        ],
+        "JA-TA-I-*301-U": [
+          "JA-TA-I-*301-U-JA"
+        ],
+        "JA-TO": [
+          "JA-TO-JA"
+        ],
+        "KI-KI-RA": [
+          "KI-KI-RA-JA"
+        ],
+        "KO": [
+          "KO-JA"
+        ],
+        "KU-PA": [
+          "KU-PA-JA"
+        ],
+        "KU-PA3-RI": [
+          "KU-PA3-RI-JA"
+        ],
+        "O-TE": [
+          "O-TE-JA"
+        ],
+        "PA": [
+          "PA-JA"
+        ],
+        "PA-SA": [
+          "PA-SA-JA"
+        ],
+        "PA-SA-RI": [
+          "PA-SA-RI-JA"
+        ],
+        "PA-SE": [
+          "PA-SE-JA"
+        ],
+        "PI-SE": [
+          "PI-SE-JA"
+        ],
+        "PI-TA": [
+          "PI-TA-JA"
+        ],
+        "PU2-RE": [
+          "PU2-RE-JA"
+        ],
+        "QE-RA2": [
+          "QE-RA2-JA"
+        ],
+        "QE-RI": [
+          "QE-RI-JA"
+        ],
+        "RE": [
+          "RE-JA"
+        ],
+        "RU": [
+          "RU-JA"
+        ],
+        "SA-RI": [
+          "SA-RI-JA"
+        ],
+        "SE-TO-I": [
+          "SE-TO-I-JA"
+        ],
+        "SI-DI": [
+          "SI-DI-JA"
+        ],
+        "SU-KI-RI-TE-I": [
+          "SU-KI-RI-TE-I-JA"
+        ],
+        "TA": [
+          "TA-JA"
+        ],
+        "TE-I": [
+          "TE-I-JA"
+        ],
+        "TI-NU": [
+          "TI-NU-JA"
+        ]
+      }
+    },
+    "-ME": {
+      "count": 10,
+      "unique_stems": 10,
+      "words": [
+        "A-RA-TU-ME",
+        "A-SA-SA-RA-ME",
+        "DA-ME",
+        "DI-DI-KO-RA-ME",
+        "I-JA-PA-ME",
+        "JA-SA-SA-RA-ME",
+        "RA-ME",
+        "SA-SA-ME",
+        "TO-ME",
+        "TU-RU-NU-SE-ME"
+      ],
+      "stems": {
+        "A-RA-TU": [
+          "A-RA-TU-ME"
+        ],
+        "A-SA-SA-RA": [
+          "A-SA-SA-RA-ME"
+        ],
+        "DA": [
+          "DA-ME"
+        ],
+        "DI-DI-KO-RA": [
+          "DI-DI-KO-RA-ME"
+        ],
+        "I-JA-PA": [
+          "I-JA-PA-ME"
+        ],
+        "JA-SA-SA-RA": [
+          "JA-SA-SA-RA-ME"
+        ],
+        "RA": [
+          "RA-ME"
+        ],
+        "SA-SA": [
+          "SA-SA-ME"
+        ],
+        "TO": [
+          "TO-ME"
+        ],
+        "TU-RU-NU-SE": [
+          "TU-RU-NU-SE-ME"
+        ]
+      }
+    },
+    "-NA": {
+      "count": 33,
+      "unique_stems": 33,
+      "words": [
+        "A-DU-KU-MI-NA",
+        "A-DU-NI-TA-NA",
+        "A-KU-MI-NA",
+        "A-NA",
+        "A-RE-PI-RE-NA",
+        "A-RE-SA-NA",
+        "A-SE-SI-NA",
+        "A-TA-NA",
+        "DA-KU-NA",
+        "DI-RE-DI-NA",
+        "DI-RI-NA",
+        "DU-MA-I-NA",
+        "DU-NA",
+        "DU-PA3-NA",
+        "I-KU-RI-NA",
+        "I-NA",
+        "I-PI-NA-MI-NA",
+        "JA-SA-SA-RA-MA-NA",
+        "JE-TA-NA",
+        "KA-NA",
+        "KA-RO-NA",
+        "KI-DE-MA-*323-NA",
+        "KI-KI-NA",
+        "KI-RE-TA-NA",
+        "KU-ZU-NA",
+        "MI-KI-SE-NA",
+        "O-KA-MI-ZA-SI-I-NA",
+        "PA3-NI-NA",
+        "RU-ZU-NA",
+        "TA-NA",
+        "TA-NU-NI-KI-NA",
+        "TA-RI-NA",
+        "WI-DI-NA"
+      ],
+      "stems": {
+        "A": [
+          "A-NA"
+        ],
+        "A-DU-KU-MI": [
+          "A-DU-KU-MI-NA"
+        ],
+        "A-DU-NI-TA": [
+          "A-DU-NI-TA-NA"
+        ],
+        "A-KU-MI": [
+          "A-KU-MI-NA"
+        ],
+        "A-RE-PI-RE": [
+          "A-RE-PI-RE-NA"
+        ],
+        "A-RE-SA": [
+          "A-RE-SA-NA"
+        ],
+        "A-SE-SI": [
+          "A-SE-SI-NA"
+        ],
+        "A-TA": [
+          "A-TA-NA"
+        ],
+        "DA-KU": [
+          "DA-KU-NA"
+        ],
+        "DI-RE-DI": [
+          "DI-RE-DI-NA"
+        ],
+        "DI-RI": [
+          "DI-RI-NA"
+        ],
+        "DU": [
+          "DU-NA"
+        ],
+        "DU-MA-I": [
+          "DU-MA-I-NA"
+        ],
+        "DU-PA3": [
+          "DU-PA3-NA"
+        ],
+        "I": [
+          "I-NA"
+        ],
+        "I-KU-RI": [
+          "I-KU-RI-NA"
+        ],
+        "I-PI-NA-MI": [
+          "I-PI-NA-MI-NA"
+        ],
+        "JA-SA-SA-RA-MA": [
+          "JA-SA-SA-RA-MA-NA"
+        ],
+        "JE-TA": [
+          "JE-TA-NA"
+        ],
+        "KA": [
+          "KA-NA"
+        ],
+        "KA-RO": [
+          "KA-RO-NA"
+        ],
+        "KI-DE-MA-*323": [
+          "KI-DE-MA-*323-NA"
+        ],
+        "KI-KI": [
+          "KI-KI-NA"
+        ],
+        "KI-RE-TA": [
+          "KI-RE-TA-NA"
+        ],
+        "KU-ZU": [
+          "KU-ZU-NA"
+        ],
+        "MI-KI-SE": [
+          "MI-KI-SE-NA"
+        ],
+        "O-KA-MI-ZA-SI-I": [
+          "O-KA-MI-ZA-SI-I-NA"
+        ],
+        "PA3-NI": [
+          "PA3-NI-NA"
+        ],
+        "RU-ZU": [
+          "RU-ZU-NA"
+        ],
+        "TA": [
+          "TA-NA"
+        ],
+        "TA-NU-NI-KI": [
+          "TA-NU-NI-KI-NA"
+        ],
+        "TA-RI": [
+          "TA-RI-NA"
+        ],
+        "WI-DI": [
+          "WI-DI-NA"
+        ]
+      }
+    },
+    "-NE": {
+      "count": 21,
+      "unique_stems": 21,
+      "words": [
+        "A-DI-NE",
+        "A-KO-A-NE",
+        "A-MA-RA-NE",
+        "A-NE",
+        "A-PA-RA-NE",
+        "A-SA-MU-NE",
+        "DA-DU-MI-NE",
+        "DA-KU-SE-NE",
+        "JA-SA-RA-A-NA-NE",
+        "JA-SA-SA-RA-ME-NE",
+        "KA-DU-MA-NE",
+        "MI-NE",
+        "NA-TU-*301-NE",
+        "O-RA2-DI-NE",
+        "PA-RA-NE",
+        "PA-RO-NE",
+        "PA-TA-NE",
+        "QE-TU-NE",
+        "SE-NE",
+        "SI-KI-NE",
+        "WI-SA-SA-NE"
+      ],
+      "stems": {
+        "A": [
+          "A-NE"
+        ],
+        "A-DI": [
+          "A-DI-NE"
+        ],
+        "A-KO-A": [
+          "A-KO-A-NE"
+        ],
+        "A-MA-RA": [
+          "A-MA-RA-NE"
+        ],
+        "A-PA-RA": [
+          "A-PA-RA-NE"
+        ],
+        "A-SA-MU": [
+          "A-SA-MU-NE"
+        ],
+        "DA-DU-MI": [
+          "DA-DU-MI-NE"
+        ],
+        "DA-KU-SE": [
+          "DA-KU-SE-NE"
+        ],
+        "JA-SA-RA-A-NA": [
+          "JA-SA-RA-A-NA-NE"
+        ],
+        "JA-SA-SA-RA-ME": [
+          "JA-SA-SA-RA-ME-NE"
+        ],
+        "KA-DU-MA": [
+          "KA-DU-MA-NE"
+        ],
+        "MI": [
+          "MI-NE"
+        ],
+        "NA-TU-*301": [
+          "NA-TU-*301-NE"
+        ],
+        "O-RA2-DI": [
+          "O-RA2-DI-NE"
+        ],
+        "PA-RA": [
+          "PA-RA-NE"
+        ],
+        "PA-RO": [
+          "PA-RO-NE"
+        ],
+        "PA-TA": [
+          "PA-TA-NE"
+        ],
+        "QE-TU": [
+          "QE-TU-NE"
+        ],
+        "SE": [
+          "SE-NE"
+        ],
+        "SI-KI": [
+          "SI-KI-NE"
+        ],
+        "WI-SA-SA": [
+          "WI-SA-SA-NE"
+        ]
+      }
+    },
+    "-SE": {
+      "count": 22,
+      "unique_stems": 22,
+      "words": [
+        "A-NA-NU-SI-JA-SE",
+        "A-SA-SU-MA-I-SE",
+        "A-SE",
+        "DI-DI-KA-SE",
+        "DI-KI-SE",
+        "DU-RE-ZA-SE",
+        "I-SE",
+        "JA-PA-RA-JA-SE",
+        "KI-TA-NA-SI-JA-SE",
+        "MA-KA-I-SE",
+        "MI-ZA-SE",
+        "NU-SE",
+        "O-TA-NI-ZA-SE",
+        "PA-SE",
+        "PI-TA-KA-SE",
+        "RA-TI-SE",
+        "RE-DI-SE",
+        "RU-MA-TA-SE",
+        "SO-KE-MA-SE",
+        "TU-MI-TI-ZA-SE",
+        "U-TA-I-SE",
+        "ZA-SE"
+      ],
+      "stems": {
+        "A": [
+          "A-SE"
+        ],
+        "A-NA-NU-SI-JA": [
+          "A-NA-NU-SI-JA-SE"
+        ],
+        "A-SA-SU-MA-I": [
+          "A-SA-SU-MA-I-SE"
+        ],
+        "DI-DI-KA": [
+          "DI-DI-KA-SE"
+        ],
+        "DI-KI": [
+          "DI-KI-SE"
+        ],
+        "DU-RE-ZA": [
+          "DU-RE-ZA-SE"
+        ],
+        "I": [
+          "I-SE"
+        ],
+        "JA-PA-RA-JA": [
+          "JA-PA-RA-JA-SE"
+        ],
+        "KI-TA-NA-SI-JA": [
+          "KI-TA-NA-SI-JA-SE"
+        ],
+        "MA-KA-I": [
+          "MA-KA-I-SE"
+        ],
+        "MI-ZA": [
+          "MI-ZA-SE"
+        ],
+        "NU": [
+          "NU-SE"
+        ],
+        "O-TA-NI-ZA": [
+          "O-TA-NI-ZA-SE"
+        ],
+        "PA": [
+          "PA-SE"
+        ],
+        "PI-TA-KA": [
+          "PI-TA-KA-SE"
+        ],
+        "RA-TI": [
+          "RA-TI-SE"
+        ],
+        "RE-DI": [
+          "RE-DI-SE"
+        ],
+        "RU-MA-TA": [
+          "RU-MA-TA-SE"
+        ],
+        "SO-KE-MA": [
+          "SO-KE-MA-SE"
+        ],
+        "TU-MI-TI-ZA": [
+          "TU-MI-TI-ZA-SE"
+        ],
+        "U-TA-I": [
+          "U-TA-I-SE"
+        ],
+        "ZA": [
+          "ZA-SE"
+        ]
+      }
+    }
+  },
+  "section_2_suffix_cooccurrence": {
+    "total_stacking_patterns": 27,
+    "patterns": {
+      "JA-SE": {
+        "count": 3,
+        "words": [
+          "A-NA-NU-SI-JA-SE",
+          "JA-PA-RA-JA-SE",
+          "KI-TA-NA-SI-JA-SE"
+        ]
+      },
+      "JA-TE": {
+        "count": 1,
+        "words": [
+          "I-JA-TE"
+        ]
+      },
+      "ME-NE": {
+        "count": 1,
+        "words": [
+          "JA-SA-SA-RA-ME-NE"
+        ]
+      },
+      "NA-JA": {
+        "count": 1,
+        "words": [
+          "I-NA-JA"
+        ]
+      },
+      "NA-NE": {
+        "count": 1,
+        "words": [
+          "JA-SA-RA-A-NA-NE"
+        ]
+      },
+      "NA-RA": {
+        "count": 2,
+        "words": [
+          "QA-MI-*047-NA-RA",
+          "WA-PI-TI-NA-RA2"
+        ]
+      },
+      "NA-RO": {
+        "count": 1,
+        "words": [
+          "DI-NA-RO"
+        ]
+      },
+      "NA-TE": {
+        "count": 3,
+        "words": [
+          "A-TA-NA-TE",
+          "KU-PA3-NA-TU-NA-TE",
+          "TA-NA-TE"
+        ]
+      },
+      "NE-TE": {
+        "count": 2,
+        "words": [
+          "DA-RU-NE-TE",
+          "KA-KU-NE-TE"
+        ]
+      },
+      "RA-JA": {
+        "count": 2,
+        "words": [
+          "KI-KI-RA-JA",
+          "QE-RA2-JA"
+        ]
+      },
+      "RA-JA-SE": {
+        "count": 1,
+        "words": [
+          "JA-PA-RA-JA-SE"
+        ]
+      },
+      "RA-ME": {
+        "count": 3,
+        "words": [
+          "A-SA-SA-RA-ME",
+          "DI-DI-KO-RA-ME",
+          "JA-SA-SA-RA-ME"
+        ]
+      },
+      "RA-ME-NE": {
+        "count": 1,
+        "words": [
+          "JA-SA-SA-RA-ME-NE"
+        ]
+      },
+      "RA-NE": {
+        "count": 3,
+        "words": [
+          "A-MA-RA-NE",
+          "A-PA-RA-NE",
+          "PA-RA-NE"
+        ]
+      },
+      "RA-RA": {
+        "count": 1,
+        "words": [
+          "SA-RA-RA"
+        ]
+      },
+      "RA-TE": {
+        "count": 1,
+        "words": [
+          "DA-SE-RA-TE"
+        ]
+      },
+      "RO-NA": {
+        "count": 1,
+        "words": [
+          "KA-RO-NA"
+        ]
+      },
+      "RO-NE": {
+        "count": 1,
+        "words": [
+          "PA-RO-NE"
+        ]
+      },
+      "RO-TE": {
+        "count": 1,
+        "words": [
+          "A-RO-TE"
+        ]
+      },
+      "SE-JA": {
+        "count": 3,
+        "words": [
+          "A-SE-JA",
+          "PA-SE-JA",
+          "PI-SE-JA"
+        ]
+      },
+      "SE-ME": {
+        "count": 1,
+        "words": [
+          "TU-RU-NU-SE-ME"
+        ]
+      },
+      "SE-NA": {
+        "count": 1,
+        "words": [
+          "MI-KI-SE-NA"
+        ]
+      },
+      "SE-NE": {
+        "count": 1,
+        "words": [
+          "DA-KU-SE-NE"
+        ]
+      },
+      "SE-RA-TE": {
+        "count": 1,
+        "words": [
+          "DA-SE-RA-TE"
+        ]
+      },
+      "TE-JA": {
+        "count": 1,
+        "words": [
+          "O-TE-JA"
+        ]
+      },
+      "TE-RO": {
+        "count": 1,
+        "words": [
+          "WI-TE-RO"
+        ]
+      },
+      "TE-TE": {
+        "count": 1,
+        "words": [
+          "A-DI-KI-TE-TE"
+        ]
+      }
+    },
+    "slot_order": {
+      "position_1_stem_adjacent": [
+        "RA",
+        "RO",
+        "SE",
+        "NA",
+        "TE",
+        "NE"
+      ],
+      "position_2_outer": [
+        "JA",
+        "ME",
+        "NE",
+        "TE",
+        "SE"
+      ],
+      "position_3_outermost": [
+        "NE",
+        "SE"
+      ],
+      "attested_3_suffix_chains": [
+        "RA-ME-NE (ja-sa-sa-ra-me-ne)",
+        "RA-JA-SE (ja-pa-ra-ja-se)",
+        "SE-RA-TE (da-se-ra-te)"
+      ]
+    }
+  },
+  "section_3_paradigm_candidates": {
+    "total_stems_with_3plus_endings": 51,
+    "candidates": {
+      "A": {
+        "n_endings": 20,
+        "endings": [
+          "*",
+          "*301",
+          "DA",
+          "DE",
+          "DU",
+          "I",
+          "JA",
+          "JU",
+          "MA",
+          "MI",
+          "NA",
+          "NE",
+          "PA",
+          "PI",
+          "RA",
+          "RI",
+          "RU",
+          "SE",
+          "SI",
+          "TA"
+        ],
+        "forms": {
+          "A-*": {
+            "ending": "*",
+            "proposed_case": ""
+          },
+          "A-*301": {
+            "ending": "*301",
+            "proposed_case": ""
+          },
+          "A-DA": {
+            "ending": "DA",
+            "proposed_case": ""
+          },
+          "A-DE": {
+            "ending": "DE",
+            "proposed_case": ""
+          },
+          "A-DU": {
+            "ending": "DU",
+            "proposed_case": ""
+          },
+          "A-I": {
+            "ending": "I",
+            "proposed_case": ""
+          },
+          "A-JA": {
+            "ending": "JA",
+            "proposed_case": "adjectival/ethnic?"
+          },
+          "A-JU": {
+            "ending": "JU",
+            "proposed_case": ""
+          },
+          "A-MA": {
+            "ending": "MA",
+            "proposed_case": ""
+          },
+          "A-MI": {
+            "ending": "MI",
+            "proposed_case": ""
+          },
+          "A-NA": {
+            "ending": "NA",
+            "proposed_case": "genitive/agentive?"
+          },
+          "A-NE": {
+            "ending": "NE",
+            "proposed_case": "dative_plural?"
+          },
+          "A-PA": {
+            "ending": "PA",
+            "proposed_case": ""
+          },
+          "A-PI": {
+            "ending": "PI",
+            "proposed_case": ""
+          },
+          "A-RA": {
+            "ending": "RA",
+            "proposed_case": "agent/category?"
+          },
+          "A-RI": {
+            "ending": "RI",
+            "proposed_case": ""
+          },
+          "A-RU": {
+            "ending": "RU",
+            "proposed_case": ""
+          },
+          "A-SE": {
+            "ending": "SE",
+            "proposed_case": "instrumental?"
+          },
+          "A-SI": {
+            "ending": "SI",
+            "proposed_case": ""
+          },
+          "A-TA": {
+            "ending": "TA",
+            "proposed_case": ""
+          }
+        }
+      },
+      "A-DA": {
+        "n_endings": 3,
+        "endings": [
+          "QI",
+          "RA",
+          "RO"
+        ],
+        "forms": {
+          "A-DA-QI": {
+            "ending": "QI",
+            "proposed_case": ""
+          },
+          "A-DA-RA": {
+            "ending": "RA",
+            "proposed_case": "agent/category?"
+          },
+          "A-DA-RO": {
+            "ending": "RO",
+            "proposed_case": "result/total?"
+          }
+        }
+      },
+      "A-DU": {
+        "n_endings": 4,
+        "endings": [
+          "KO",
+          "KU",
+          "RE",
+          "ZA"
+        ],
+        "forms": {
+          "A-DU-KO": {
+            "ending": "KO",
+            "proposed_case": ""
+          },
+          "A-DU-KU": {
+            "ending": "KU",
+            "proposed_case": ""
+          },
+          "A-DU-RE": {
+            "ending": "RE",
+            "proposed_case": ""
+          },
+          "A-DU-ZA": {
+            "ending": "ZA",
+            "proposed_case": ""
+          }
+        }
+      },
+      "A-KA": {
+        "n_endings": 3,
+        "endings": [
+          "RA",
+          "RU",
+          "TA"
+        ],
+        "forms": {
+          "A-KA-RA": {
+            "ending": "RA",
+            "proposed_case": "agent/category?"
+          },
+          "A-KA-RU": {
+            "ending": "RU",
+            "proposed_case": ""
+          },
+          "A-KA-TA": {
+            "ending": "TA",
+            "proposed_case": ""
+          }
+        }
+      },
+      "A-RI": {
+        "n_endings": 4,
+        "endings": [
+          "JA",
+          "NIM",
+          "PA",
+          "SU"
+        ],
+        "forms": {
+          "A-RI-JA": {
+            "ending": "JA",
+            "proposed_case": "adjectival/ethnic?"
+          },
+          "A-RI-NIM": {
+            "ending": "NIM",
+            "proposed_case": ""
+          },
+          "A-RI-PA": {
+            "ending": "PA",
+            "proposed_case": ""
+          },
+          "A-RI-SU": {
+            "ending": "SU",
+            "proposed_case": ""
+          }
+        }
+      },
+      "A-TA": {
+        "n_endings": 4,
+        "endings": [
+          "DE",
+          "I",
+          "NA",
+          "RE"
+        ],
+        "forms": {
+          "A-TA-DE": {
+            "ending": "DE",
+            "proposed_case": ""
+          },
+          "A-TA-I": {
+            "ending": "I",
+            "proposed_case": ""
+          },
+          "A-TA-NA": {
+            "ending": "NA",
+            "proposed_case": "genitive/agentive?"
+          },
+          "A-TA-RE": {
+            "ending": "RE",
+            "proposed_case": ""
+          }
+        }
+      },
+      "DA": {
+        "n_endings": 9,
+        "endings": [
+          "I",
+          "KA",
+          "KI",
+          "KU",
+          "ME",
+          "PA3",
+          "RE",
+          "TU",
+          "WA"
+        ],
+        "forms": {
+          "DA-I": {
+            "ending": "I",
+            "proposed_case": ""
+          },
+          "DA-KA": {
+            "ending": "KA",
+            "proposed_case": ""
+          },
+          "DA-KI": {
+            "ending": "KI",
+            "proposed_case": ""
+          },
+          "DA-KU": {
+            "ending": "KU",
+            "proposed_case": ""
+          },
+          "DA-ME": {
+            "ending": "ME",
+            "proposed_case": "possessive?"
+          },
+          "DA-PA3": {
+            "ending": "PA3",
+            "proposed_case": ""
+          },
+          "DA-RE": {
+            "ending": "RE",
+            "proposed_case": ""
+          },
+          "DA-TU": {
+            "ending": "TU",
+            "proposed_case": ""
+          },
+          "DA-WA": {
+            "ending": "WA",
+            "proposed_case": ""
+          }
+        }
+      },
+      "DE": {
+        "n_endings": 3,
+        "endings": [
+          "DI",
+          "PA3",
+          "SU"
+        ],
+        "forms": {
+          "DE-DI": {
+            "ending": "DI",
+            "proposed_case": ""
+          },
+          "DE-PA3": {
+            "ending": "PA3",
+            "proposed_case": ""
+          },
+          "DE-SU": {
+            "ending": "SU",
+            "proposed_case": ""
+          }
+        }
+      },
+      "DI": {
+        "n_endings": 3,
+        "endings": [
+          "*306",
+          "DI",
+          "SI"
+        ],
+        "forms": {
+          "DI-*306": {
+            "ending": "*306",
+            "proposed_case": ""
+          },
+          "DI-DI": {
+            "ending": "DI",
+            "proposed_case": ""
+          },
+          "DI-SI": {
+            "ending": "SI",
+            "proposed_case": ""
+          }
+        }
+      },
+      "DU": {
+        "n_endings": 5,
+        "endings": [
+          "JA",
+          "JU",
+          "KA",
+          "NA",
+          "PU3"
+        ],
+        "forms": {
+          "DU-JA": {
+            "ending": "JA",
+            "proposed_case": "adjectival/ethnic?"
+          },
+          "DU-JU": {
+            "ending": "JU",
+            "proposed_case": ""
+          },
+          "DU-KA": {
+            "ending": "KA",
+            "proposed_case": ""
+          },
+          "DU-NA": {
+            "ending": "NA",
+            "proposed_case": "genitive/agentive?"
+          },
+          "DU-PU3": {
+            "ending": "PU3",
+            "proposed_case": ""
+          }
+        }
+      },
+      "E": {
+        "n_endings": 4,
+        "endings": [
+          "*",
+          "*082",
+          "KA",
+          "MI"
+        ],
+        "forms": {
+          "E-*": {
+            "ending": "*",
+            "proposed_case": ""
+          },
+          "E-*082": {
+            "ending": "*082",
+            "proposed_case": ""
+          },
+          "E-KA": {
+            "ending": "KA",
+            "proposed_case": ""
+          },
+          "E-MI": {
+            "ending": "MI",
+            "proposed_case": ""
+          }
+        }
+      },
+      "I": {
+        "n_endings": 14,
+        "endings": [
+          "*",
+          "*047",
+          "*301",
+          "*308",
+          "*331",
+          "DA",
+          "DI",
+          "JA",
+          "KA",
+          "NA",
+          "PI",
+          "RA2",
+          "SE",
+          "TI"
+        ],
+        "forms": {
+          "I-*": {
+            "ending": "*",
+            "proposed_case": ""
+          },
+          "I-*047": {
+            "ending": "*047",
+            "proposed_case": ""
+          },
+          "I-*301": {
+            "ending": "*301",
+            "proposed_case": ""
+          },
+          "I-*308": {
+            "ending": "*308",
+            "proposed_case": ""
+          },
+          "I-*331": {
+            "ending": "*331",
+            "proposed_case": ""
+          },
+          "I-DA": {
+            "ending": "DA",
+            "proposed_case": ""
+          },
+          "I-DI": {
+            "ending": "DI",
+            "proposed_case": ""
+          },
+          "I-JA": {
+            "ending": "JA",
+            "proposed_case": "adjectival/ethnic?"
+          },
+          "I-KA": {
+            "ending": "KA",
+            "proposed_case": ""
+          },
+          "I-NA": {
+            "ending": "NA",
+            "proposed_case": "genitive/agentive?"
+          },
+          "I-PI": {
+            "ending": "PI",
+            "proposed_case": ""
+          },
+          "I-RA2": {
+            "ending": "RA2",
+            "proposed_case": "agent/category?"
+          },
+          "I-SE": {
+            "ending": "SE",
+            "proposed_case": "instrumental?"
+          },
+          "I-TI": {
+            "ending": "TI",
+            "proposed_case": ""
+          }
+        }
+      },
+      "I-DA": {
+        "n_endings": 3,
+        "endings": [
+          "A",
+          "DA",
+          "MI"
+        ],
+        "forms": {
+          "I-DA-A": {
+            "ending": "A",
+            "proposed_case": ""
+          },
+          "I-DA-DA": {
+            "ending": "DA",
+            "proposed_case": ""
+          },
+          "I-DA-MI": {
+            "ending": "MI",
+            "proposed_case": ""
+          }
+        }
+      },
+      "JA": {
+        "n_endings": 14,
+        "endings": [
+          "*304",
+          "*345",
+          "DA",
+          "DI",
+          "JA",
+          "KI",
+          "KU",
+          "PA",
+          "QE",
+          "QI",
+          "SA",
+          "SI",
+          "WA",
+          "WI"
+        ],
+        "forms": {
+          "JA-*304": {
+            "ending": "*304",
+            "proposed_case": ""
+          },
+          "JA-*345": {
+            "ending": "*345",
+            "proposed_case": ""
+          },
+          "JA-DA": {
+            "ending": "DA",
+            "proposed_case": ""
+          },
+          "JA-DI": {
+            "ending": "DI",
+            "proposed_case": ""
+          },
+          "JA-JA": {
+            "ending": "JA",
+            "proposed_case": "adjectival/ethnic?"
+          },
+          "JA-KI": {
+            "ending": "KI",
+            "proposed_case": ""
+          },
+          "JA-KU": {
+            "ending": "KU",
+            "proposed_case": ""
+          },
+          "JA-PA": {
+            "ending": "PA",
+            "proposed_case": ""
+          },
+          "JA-QE": {
+            "ending": "QE",
+            "proposed_case": ""
+          },
+          "JA-QI": {
+            "ending": "QI",
+            "proposed_case": ""
+          },
+          "JA-SA": {
+            "ending": "SA",
+            "proposed_case": ""
+          },
+          "JA-SI": {
+            "ending": "SI",
+            "proposed_case": ""
+          },
+          "JA-WA": {
+            "ending": "WA",
+            "proposed_case": ""
+          },
+          "JA-WI": {
+            "ending": "WI",
+            "proposed_case": ""
+          }
+        }
+      },
+      "JA-SA": {
+        "n_endings": 3,
+        "endings": [
+          "JA",
+          "MU",
+          "SA"
+        ],
+        "forms": {
+          "JA-SA-JA": {
+            "ending": "JA",
+            "proposed_case": "adjectival/ethnic?"
+          },
+          "JA-SA-MU": {
+            "ending": "MU",
+            "proposed_case": ""
+          },
+          "JA-SA-SA": {
+            "ending": "SA",
+            "proposed_case": ""
+          }
+        }
+      },
+      "JA-WA": {
+        "n_endings": 3,
+        "endings": [
+          "PA",
+          "PA3",
+          "PI"
+        ],
+        "forms": {
+          "JA-WA-PA": {
+            "ending": "PA",
+            "proposed_case": ""
+          },
+          "JA-WA-PA3": {
+            "ending": "PA3",
+            "proposed_case": ""
+          },
+          "JA-WA-PI": {
+            "ending": "PI",
+            "proposed_case": ""
+          }
+        }
+      },
+      "KA": {
+        "n_endings": 12,
+        "endings": [
+          "*305",
+          "DI",
+          "JU",
+          "KI",
+          "KU",
+          "NA",
+          "PA",
+          "QA",
+          "RU",
+          "SA",
+          "SI",
+          "TI"
+        ],
+        "forms": {
+          "KA-*305": {
+            "ending": "*305",
+            "proposed_case": ""
+          },
+          "KA-DI": {
+            "ending": "DI",
+            "proposed_case": ""
+          },
+          "KA-JU": {
+            "ending": "JU",
+            "proposed_case": ""
+          },
+          "KA-KI": {
+            "ending": "KI",
+            "proposed_case": ""
+          },
+          "KA-KU": {
+            "ending": "KU",
+            "proposed_case": ""
+          },
+          "KA-NA": {
+            "ending": "NA",
+            "proposed_case": "genitive/agentive?"
+          },
+          "KA-PA": {
+            "ending": "PA",
+            "proposed_case": ""
+          },
+          "KA-QA": {
+            "ending": "QA",
+            "proposed_case": ""
+          },
+          "KA-RU": {
+            "ending": "RU",
+            "proposed_case": ""
+          },
+          "KA-SA": {
+            "ending": "SA",
+            "proposed_case": ""
+          },
+          "KA-SI": {
+            "ending": "SI",
+            "proposed_case": ""
+          },
+          "KA-TI": {
+            "ending": "TI",
+            "proposed_case": ""
+          }
+        }
+      },
+      "KI": {
+        "n_endings": 6,
+        "endings": [
+          "DA",
+          "RA",
+          "RI",
+          "RO",
+          "RU",
+          "TA"
+        ],
+        "forms": {
+          "KI-DA": {
+            "ending": "DA",
+            "proposed_case": ""
+          },
+          "KI-RA": {
+            "ending": "RA",
+            "proposed_case": "agent/category?"
+          },
+          "KI-RI": {
+            "ending": "RI",
+            "proposed_case": ""
+          },
+          "KI-RO": {
+            "ending": "RO",
+            "proposed_case": "result/total?"
+          },
+          "KI-RU": {
+            "ending": "RU",
+            "proposed_case": ""
+          },
+          "KI-TA": {
+            "ending": "TA",
+            "proposed_case": ""
+          }
+        }
+      },
+      "KI-DA": {
+        "n_endings": 3,
+        "endings": [
+          "RO",
+          "TA",
+          "TE"
+        ],
+        "forms": {
+          "KI-DA-RO": {
+            "ending": "RO",
+            "proposed_case": "result/total?"
+          },
+          "KI-DA-TA": {
+            "ending": "TA",
+            "proposed_case": ""
+          },
+          "KI-DA-TE": {
+            "ending": "TE",
+            "proposed_case": "dative/locative?"
+          }
+        }
+      },
+      "KO": {
+        "n_endings": 3,
+        "endings": [
+          "JA",
+          "MU",
+          "RU"
+        ],
+        "forms": {
+          "KO-JA": {
+            "ending": "JA",
+            "proposed_case": "adjectival/ethnic?"
+          },
+          "KO-MU": {
+            "ending": "MU",
+            "proposed_case": ""
+          },
+          "KO-RU": {
+            "ending": "RU",
+            "proposed_case": ""
+          }
+        }
+      },
+      "KU": {
+        "n_endings": 11,
+        "endings": [
+          "*305",
+          "*321",
+          "DA",
+          "KA",
+          "PA",
+          "PA3",
+          "PI",
+          "RA",
+          "RE",
+          "RO",
+          "TA"
+        ],
+        "forms": {
+          "KU-*305": {
+            "ending": "*305",
+            "proposed_case": ""
+          },
+          "KU-*321": {
+            "ending": "*321",
+            "proposed_case": ""
+          },
+          "KU-DA": {
+            "ending": "DA",
+            "proposed_case": ""
+          },
+          "KU-KA": {
+            "ending": "KA",
+            "proposed_case": ""
+          },
+          "KU-PA": {
+            "ending": "PA",
+            "proposed_case": ""
+          },
+          "KU-PA3": {
+            "ending": "PA3",
+            "proposed_case": ""
+          },
+          "KU-PI": {
+            "ending": "PI",
+            "proposed_case": ""
+          },
+          "KU-RA": {
+            "ending": "RA",
+            "proposed_case": "agent/category?"
+          },
+          "KU-RE": {
+            "ending": "RE",
+            "proposed_case": ""
+          },
+          "KU-RO": {
+            "ending": "RO",
+            "proposed_case": "result/total?"
+          },
+          "KU-TA": {
+            "ending": "TA",
+            "proposed_case": ""
+          }
+        }
+      },
+      "KU-PA": {
+        "n_endings": 3,
+        "endings": [
+          "JA",
+          "RI",
+          "ZU"
+        ],
+        "forms": {
+          "KU-PA-JA": {
+            "ending": "JA",
+            "proposed_case": "adjectival/ethnic?"
+          },
+          "KU-PA-RI": {
+            "ending": "RI",
+            "proposed_case": ""
+          },
+          "KU-PA-ZU": {
+            "ending": "ZU",
+            "proposed_case": ""
+          }
+        }
+      },
+      "MA": {
+        "n_endings": 7,
+        "endings": [
+          "*321",
+          "DI",
+          "RE",
+          "RI",
+          "RU",
+          "ZA",
+          "ZU"
+        ],
+        "forms": {
+          "MA-*321": {
+            "ending": "*321",
+            "proposed_case": ""
+          },
+          "MA-DI": {
+            "ending": "DI",
+            "proposed_case": ""
+          },
+          "MA-RE": {
+            "ending": "RE",
+            "proposed_case": ""
+          },
+          "MA-RI": {
+            "ending": "RI",
+            "proposed_case": ""
+          },
+          "MA-RU": {
+            "ending": "RU",
+            "proposed_case": ""
+          },
+          "MA-ZA": {
+            "ending": "ZA",
+            "proposed_case": ""
+          },
+          "MA-ZU": {
+            "ending": "ZU",
+            "proposed_case": ""
+          }
+        }
+      },
+      "MI": {
+        "n_endings": 3,
+        "endings": [
+          "KA",
+          "NE",
+          "TU"
+        ],
+        "forms": {
+          "MI-KA": {
+            "ending": "KA",
+            "proposed_case": ""
+          },
+          "MI-NE": {
+            "ending": "NE",
+            "proposed_case": "dative_plural?"
+          },
+          "MI-TU": {
+            "ending": "TU",
+            "proposed_case": ""
+          }
+        }
+      },
+      "NA": {
+        "n_endings": 5,
+        "endings": [
+          "MA",
+          "QI",
+          "TE",
+          "TI",
+          "WI"
+        ],
+        "forms": {
+          "NA-MA": {
+            "ending": "MA",
+            "proposed_case": ""
+          },
+          "NA-QI": {
+            "ending": "QI",
+            "proposed_case": ""
+          },
+          "NA-TE": {
+            "ending": "TE",
+            "proposed_case": "dative/locative?"
+          },
+          "NA-TI": {
+            "ending": "TI",
+            "proposed_case": ""
+          },
+          "NA-WI": {
+            "ending": "WI",
+            "proposed_case": ""
+          }
+        }
+      },
+      "NI": {
+        "n_endings": 4,
+        "endings": [
+          "MI",
+          "PI",
+          "RA",
+          "TE"
+        ],
+        "forms": {
+          "NI-MI": {
+            "ending": "MI",
+            "proposed_case": ""
+          },
+          "NI-PI": {
+            "ending": "PI",
+            "proposed_case": ""
+          },
+          "NI-RA": {
+            "ending": "RA",
+            "proposed_case": "agent/category?"
+          },
+          "NI-TE": {
+            "ending": "TE",
+            "proposed_case": "dative/locative?"
+          }
+        }
+      },
+      "NU": {
+        "n_endings": 4,
+        "endings": [
+          "I",
+          "RE",
+          "SE",
+          "WI"
+        ],
+        "forms": {
+          "NU-I": {
+            "ending": "I",
+            "proposed_case": ""
+          },
+          "NU-RE": {
+            "ending": "RE",
+            "proposed_case": ""
+          },
+          "NU-SE": {
+            "ending": "SE",
+            "proposed_case": "instrumental?"
+          },
+          "NU-WI": {
+            "ending": "WI",
+            "proposed_case": ""
+          }
+        }
+      },
+      "O": {
+        "n_endings": 3,
+        "endings": [
+          "DI",
+          "MI",
+          "TI"
+        ],
+        "forms": {
+          "O-DI": {
+            "ending": "DI",
+            "proposed_case": ""
+          },
+          "O-MI": {
+            "ending": "MI",
+            "proposed_case": ""
+          },
+          "O-TI": {
+            "ending": "TI",
+            "proposed_case": ""
+          }
+        }
+      },
+      "PA": {
+        "n_endings": 9,
+        "endings": [
+          "DE",
+          "JA",
+          "MI",
+          "QA",
+          "RA",
+          "RE",
+          "SE",
+          "TA",
+          "ZA"
+        ],
+        "forms": {
+          "PA-DE": {
+            "ending": "DE",
+            "proposed_case": ""
+          },
+          "PA-JA": {
+            "ending": "JA",
+            "proposed_case": "adjectival/ethnic?"
+          },
+          "PA-MI": {
+            "ending": "MI",
+            "proposed_case": ""
+          },
+          "PA-QA": {
+            "ending": "QA",
+            "proposed_case": ""
+          },
+          "PA-RA": {
+            "ending": "RA",
+            "proposed_case": "agent/category?"
+          },
+          "PA-RE": {
+            "ending": "RE",
+            "proposed_case": ""
+          },
+          "PA-SE": {
+            "ending": "SE",
+            "proposed_case": "instrumental?"
+          },
+          "PA-TA": {
+            "ending": "TA",
+            "proposed_case": ""
+          },
+          "PA-ZA": {
+            "ending": "ZA",
+            "proposed_case": ""
+          }
+        }
+      },
+      "PA-RO": {
+        "n_endings": 3,
+        "endings": [
+          "NE",
+          "NI",
+          "SU"
+        ],
+        "forms": {
+          "PA-RO-NE": {
+            "ending": "NE",
+            "proposed_case": "dative_plural?"
+          },
+          "PA-RO-NI": {
+            "ending": "NI",
+            "proposed_case": ""
+          },
+          "PA-RO-SU": {
+            "ending": "SU",
+            "proposed_case": ""
+          }
+        }
+      },
+      "PA3": {
+        "n_endings": 3,
+        "endings": [
+          "*188",
+          "E",
+          "NI"
+        ],
+        "forms": {
+          "PA3-*188": {
+            "ending": "*188",
+            "proposed_case": ""
+          },
+          "PA3-E": {
+            "ending": "E",
+            "proposed_case": ""
+          },
+          "PA3-NI": {
+            "ending": "NI",
+            "proposed_case": ""
+          }
+        }
+      },
+      "PI": {
+        "n_endings": 5,
+        "endings": [
+          "KA",
+          "NU",
+          "O",
+          "SA",
+          "TU"
+        ],
+        "forms": {
+          "PI-KA": {
+            "ending": "KA",
+            "proposed_case": ""
+          },
+          "PI-NU": {
+            "ending": "NU",
+            "proposed_case": ""
+          },
+          "PI-O": {
+            "ending": "O",
+            "proposed_case": ""
+          },
+          "PI-SA": {
+            "ending": "SA",
+            "proposed_case": ""
+          },
+          "PI-TU": {
+            "ending": "TU",
+            "proposed_case": ""
+          }
+        }
+      },
+      "PU": {
+        "n_endings": 4,
+        "endings": [
+          "DE",
+          "KO",
+          "RA2",
+          "VIN"
+        ],
+        "forms": {
+          "PU-DE": {
+            "ending": "DE",
+            "proposed_case": ""
+          },
+          "PU-KO": {
+            "ending": "KO",
+            "proposed_case": ""
+          },
+          "PU-RA2": {
+            "ending": "RA2",
+            "proposed_case": "agent/category?"
+          },
+          "PU-VIN": {
+            "ending": "VIN",
+            "proposed_case": ""
+          }
+        }
+      },
+      "QA": {
+        "n_endings": 4,
+        "endings": [
+          "*118",
+          "*305",
+          "KI",
+          "SA"
+        ],
+        "forms": {
+          "QA-*118": {
+            "ending": "*118",
+            "proposed_case": ""
+          },
+          "QA-*305": {
+            "ending": "*305",
+            "proposed_case": ""
+          },
+          "QA-KI": {
+            "ending": "KI",
+            "proposed_case": ""
+          },
+          "QA-SA": {
+            "ending": "SA",
+            "proposed_case": ""
+          }
+        }
+      },
+      "QA-RA2": {
+        "n_endings": 3,
+        "endings": [
+          "DU",
+          "TI",
+          "WA"
+        ],
+        "forms": {
+          "QA-RA2-DU": {
+            "ending": "DU",
+            "proposed_case": ""
+          },
+          "QA-RA2-TI": {
+            "ending": "TI",
+            "proposed_case": ""
+          },
+          "QA-RA2-WA": {
+            "ending": "WA",
+            "proposed_case": ""
+          }
+        }
+      },
+      "QA-TI": {
+        "n_endings": 3,
+        "endings": [
+          "DA",
+          "JU",
+          "KI"
+        ],
+        "forms": {
+          "QA-TI-DA": {
+            "ending": "DA",
+            "proposed_case": ""
+          },
+          "QA-TI-JU": {
+            "ending": "JU",
+            "proposed_case": ""
+          },
+          "QA-TI-KI": {
+            "ending": "KI",
+            "proposed_case": ""
+          }
+        }
+      },
+      "QE": {
+        "n_endings": 3,
+        "endings": [
+          "KA",
+          "PU",
+          "TI"
+        ],
+        "forms": {
+          "QE-KA": {
+            "ending": "KA",
+            "proposed_case": ""
+          },
+          "QE-PU": {
+            "ending": "PU",
+            "proposed_case": ""
+          },
+          "QE-TI": {
+            "ending": "TI",
+            "proposed_case": ""
+          }
+        }
+      },
+      "RA": {
+        "n_endings": 3,
+        "endings": [
+          "*164",
+          "KA",
+          "ME"
+        ],
+        "forms": {
+          "RA-*164": {
+            "ending": "*164",
+            "proposed_case": ""
+          },
+          "RA-KA": {
+            "ending": "KA",
+            "proposed_case": ""
+          },
+          "RA-ME": {
+            "ending": "ME",
+            "proposed_case": "possessive?"
+          }
+        }
+      },
+      "RE": {
+        "n_endings": 3,
+        "endings": [
+          "JA",
+          "RO",
+          "ZA"
+        ],
+        "forms": {
+          "RE-JA": {
+            "ending": "JA",
+            "proposed_case": "adjectival/ethnic?"
+          },
+          "RE-RO": {
+            "ending": "RO",
+            "proposed_case": "result/total?"
+          },
+          "RE-ZA": {
+            "ending": "ZA",
+            "proposed_case": ""
+          }
+        }
+      },
+      "RO": {
+        "n_endings": 3,
+        "endings": [
+          "E",
+          "KE",
+          "QA"
+        ],
+        "forms": {
+          "RO-E": {
+            "ending": "E",
+            "proposed_case": ""
+          },
+          "RO-KE": {
+            "ending": "KE",
+            "proposed_case": ""
+          },
+          "RO-QA": {
+            "ending": "QA",
+            "proposed_case": ""
+          }
+        }
+      },
+      "RU": {
+        "n_endings": 8,
+        "endings": [
+          "DI",
+          "JA",
+          "MA",
+          "MI",
+          "PI",
+          "RA2",
+          "SA",
+          "WA"
+        ],
+        "forms": {
+          "RU-DI": {
+            "ending": "DI",
+            "proposed_case": ""
+          },
+          "RU-JA": {
+            "ending": "JA",
+            "proposed_case": "adjectival/ethnic?"
+          },
+          "RU-MA": {
+            "ending": "MA",
+            "proposed_case": ""
+          },
+          "RU-MI": {
+            "ending": "MI",
+            "proposed_case": ""
+          },
+          "RU-PI": {
+            "ending": "PI",
+            "proposed_case": ""
+          },
+          "RU-RA2": {
+            "ending": "RA2",
+            "proposed_case": "agent/category?"
+          },
+          "RU-SA": {
+            "ending": "SA",
+            "proposed_case": ""
+          },
+          "RU-WA": {
+            "ending": "WA",
+            "proposed_case": ""
+          }
+        }
+      },
+      "SA": {
+        "n_endings": 10,
+        "endings": [
+          "*315",
+          "DI",
+          "MA",
+          "PO",
+          "RA",
+          "RA2",
+          "RI",
+          "RO",
+          "RU",
+          "TA"
+        ],
+        "forms": {
+          "SA-*315": {
+            "ending": "*315",
+            "proposed_case": ""
+          },
+          "SA-DI": {
+            "ending": "DI",
+            "proposed_case": ""
+          },
+          "SA-MA": {
+            "ending": "MA",
+            "proposed_case": ""
+          },
+          "SA-PO": {
+            "ending": "PO",
+            "proposed_case": ""
+          },
+          "SA-RA": {
+            "ending": "RA",
+            "proposed_case": "agent/category?"
+          },
+          "SA-RA2": {
+            "ending": "RA2",
+            "proposed_case": "agent/category?"
+          },
+          "SA-RI": {
+            "ending": "RI",
+            "proposed_case": ""
+          },
+          "SA-RO": {
+            "ending": "RO",
+            "proposed_case": "result/total?"
+          },
+          "SA-RU": {
+            "ending": "RU",
+            "proposed_case": ""
+          },
+          "SA-TA": {
+            "ending": "TA",
+            "proposed_case": ""
+          }
+        }
+      },
+      "SI": {
+        "n_endings": 9,
+        "endings": [
+          "DA",
+          "KA",
+          "MA",
+          "RE",
+          "RU",
+          "TA2",
+          "TE",
+          "TU",
+          "VIR"
+        ],
+        "forms": {
+          "SI-DA": {
+            "ending": "DA",
+            "proposed_case": ""
+          },
+          "SI-KA": {
+            "ending": "KA",
+            "proposed_case": ""
+          },
+          "SI-MA": {
+            "ending": "MA",
+            "proposed_case": ""
+          },
+          "SI-RE": {
+            "ending": "RE",
+            "proposed_case": ""
+          },
+          "SI-RU": {
+            "ending": "RU",
+            "proposed_case": ""
+          },
+          "SI-TA2": {
+            "ending": "TA2",
+            "proposed_case": ""
+          },
+          "SI-TE": {
+            "ending": "TE",
+            "proposed_case": "dative/locative?"
+          },
+          "SI-TU": {
+            "ending": "TU",
+            "proposed_case": ""
+          },
+          "SI-VIR": {
+            "ending": "VIR",
+            "proposed_case": ""
+          }
+        }
+      },
+      "SU": {
+        "n_endings": 3,
+        "endings": [
+          "DU",
+          "PU2",
+          "RE"
+        ],
+        "forms": {
+          "SU-DU": {
+            "ending": "DU",
+            "proposed_case": ""
+          },
+          "SU-PU2": {
+            "ending": "PU2",
+            "proposed_case": ""
+          },
+          "SU-RE": {
+            "ending": "RE",
+            "proposed_case": ""
+          }
+        }
+      },
+      "TA": {
+        "n_endings": 7,
+        "endings": [
+          "JA",
+          "KE",
+          "NA",
+          "PA",
+          "RA",
+          "TA",
+          "TI"
+        ],
+        "forms": {
+          "TA-JA": {
+            "ending": "JA",
+            "proposed_case": "adjectival/ethnic?"
+          },
+          "TA-KE": {
+            "ending": "KE",
+            "proposed_case": ""
+          },
+          "TA-NA": {
+            "ending": "NA",
+            "proposed_case": "genitive/agentive?"
+          },
+          "TA-PA": {
+            "ending": "PA",
+            "proposed_case": ""
+          },
+          "TA-RA": {
+            "ending": "RA",
+            "proposed_case": "agent/category?"
+          },
+          "TA-TA": {
+            "ending": "TA",
+            "proposed_case": ""
+          },
+          "TA-TI": {
+            "ending": "TI",
+            "proposed_case": ""
+          }
+        }
+      },
+      "TE": {
+        "n_endings": 6,
+        "endings": [
+          "*123",
+          "*301",
+          "KE",
+          "KI",
+          "RI",
+          "TU"
+        ],
+        "forms": {
+          "TE-*123": {
+            "ending": "*123",
+            "proposed_case": ""
+          },
+          "TE-*301": {
+            "ending": "*301",
+            "proposed_case": ""
+          },
+          "TE-KE": {
+            "ending": "KE",
+            "proposed_case": ""
+          },
+          "TE-KI": {
+            "ending": "KI",
+            "proposed_case": ""
+          },
+          "TE-RI": {
+            "ending": "RI",
+            "proposed_case": ""
+          },
+          "TE-TU": {
+            "ending": "TU",
+            "proposed_case": ""
+          }
+        }
+      },
+      "TI": {
+        "n_endings": 3,
+        "endings": [
+          "DU",
+          "NI",
+          "TI"
+        ],
+        "forms": {
+          "TI-DU": {
+            "ending": "DU",
+            "proposed_case": ""
+          },
+          "TI-NI": {
+            "ending": "NI",
+            "proposed_case": ""
+          },
+          "TI-TI": {
+            "ending": "TI",
+            "proposed_case": ""
+          }
+        }
+      },
+      "TU": {
+        "n_endings": 4,
+        "endings": [
+          "MA",
+          "NU",
+          "QI",
+          "SU"
+        ],
+        "forms": {
+          "TU-MA": {
+            "ending": "MA",
+            "proposed_case": ""
+          },
+          "TU-NU": {
+            "ending": "NU",
+            "proposed_case": ""
+          },
+          "TU-QI": {
+            "ending": "QI",
+            "proposed_case": ""
+          },
+          "TU-SU": {
+            "ending": "SU",
+            "proposed_case": ""
+          }
+        }
+      },
+      "U": {
+        "n_endings": 6,
+        "endings": [
+          "*",
+          "*049",
+          "JU",
+          "SU",
+          "TA2",
+          "TI"
+        ],
+        "forms": {
+          "U-*": {
+            "ending": "*",
+            "proposed_case": ""
+          },
+          "U-*049": {
+            "ending": "*049",
+            "proposed_case": ""
+          },
+          "U-JU": {
+            "ending": "JU",
+            "proposed_case": ""
+          },
+          "U-SU": {
+            "ending": "SU",
+            "proposed_case": ""
+          },
+          "U-TA2": {
+            "ending": "TA2",
+            "proposed_case": ""
+          },
+          "U-TI": {
+            "ending": "TI",
+            "proposed_case": ""
+          }
+        }
+      },
+      "VIR": {
+        "n_endings": 3,
+        "endings": [
+          "*",
+          "*329",
+          "I"
+        ],
+        "forms": {
+          "VIR-*": {
+            "ending": "*",
+            "proposed_case": ""
+          },
+          "VIR-*329": {
+            "ending": "*329",
+            "proposed_case": ""
+          },
+          "VIR-I": {
+            "ending": "I",
+            "proposed_case": ""
+          }
+        }
+      },
+      "ZU": {
+        "n_endings": 3,
+        "endings": [
+          "*022",
+          "DU",
+          "SU"
+        ],
+        "forms": {
+          "ZU-*022": {
+            "ending": "*022",
+            "proposed_case": ""
+          },
+          "ZU-DU": {
+            "ending": "DU",
+            "proposed_case": ""
+          },
+          "ZU-SU": {
+            "ending": "SU",
+            "proposed_case": ""
+          }
+        }
+      }
+    }
+  },
+  "section_4_word_formation": {
+    "reduplication": {
+      "total_forms": 34,
+      "forms": [
+        {
+          "word": "A-DI-KI-TE-TE",
+          "repeated_syllable": "TE",
+          "base": "A-DI-KI-TE",
+          "base_attested": true
+        },
+        {
+          "word": "A-DI-KI-TE-TE-DU",
+          "repeated_syllable": "TE",
+          "base": "A-DI-KI-TE-DU",
+          "base_attested": false
+        },
+        {
+          "word": "A-SA-SA-RA",
+          "repeated_syllable": "SA",
+          "base": "A-SA-RA",
+          "base_attested": false
+        },
+        {
+          "word": "A-SA-SA-RA-ME",
+          "repeated_syllable": "SA",
+          "base": "A-SA-RA-ME",
+          "base_attested": false
+        },
+        {
+          "word": "DI-DI-KA-SE",
+          "repeated_syllable": "DI",
+          "base": "DI-KA-SE",
+          "base_attested": false
+        },
+        {
+          "word": "DI-DI-KO",
+          "repeated_syllable": "DI",
+          "base": "DI-KO",
+          "base_attested": false
+        },
+        {
+          "word": "DI-DI-KO-RA-ME",
+          "repeated_syllable": "DI",
+          "base": "DI-KO-RA-ME",
+          "base_attested": false
+        },
+        {
+          "word": "DI-DI-ZA-KE",
+          "repeated_syllable": "DI",
+          "base": "DI-ZA-KE",
+          "base_attested": false
+        },
+        {
+          "word": "DI-DII-DA-DA",
+          "repeated_syllable": "DA",
+          "base": "DI-DII-DA",
+          "base_attested": false
+        },
+        {
+          "word": "I-DA-DA",
+          "repeated_syllable": "DA",
+          "base": "I-DA",
+          "base_attested": true
+        },
+        {
+          "word": "I-TI-TI-KU-NI",
+          "repeated_syllable": "TI",
+          "base": "I-TI-KU-NI",
+          "base_attested": false
+        },
+        {
+          "word": "JA-DI-KI-TE-TE-DU-PU2-RE",
+          "repeated_syllable": "TE",
+          "base": "JA-DI-KI-TE-DU-PU2-RE",
+          "base_attested": false
+        },
+        {
+          "word": "JA-SA-SA",
+          "repeated_syllable": "SA",
+          "base": "JA-SA",
+          "base_attested": true
+        },
+        {
+          "word": "JA-SA-SA-RA",
+          "repeated_syllable": "SA",
+          "base": "JA-SA-RA",
+          "base_attested": false
+        },
+        {
+          "word": "JA-SA-SA-RA-MA-NA",
+          "repeated_syllable": "SA",
+          "base": "JA-SA-RA-MA-NA",
+          "base_attested": false
+        },
+        {
+          "word": "JA-SA-SA-RA-ME",
+          "repeated_syllable": "SA",
+          "base": "JA-SA-RA-ME",
+          "base_attested": false
+        },
+        {
+          "word": "JA-SA-SA-RA-ME-NE",
+          "repeated_syllable": "SA",
+          "base": "JA-SA-RA-ME-NE",
+          "base_attested": false
+        },
+        {
+          "word": "KI-KI-NA",
+          "repeated_syllable": "KI",
+          "base": "KI-NA",
+          "base_attested": false
+        },
+        {
+          "word": "KI-KI-RA-JA",
+          "repeated_syllable": "KI",
+          "base": "KI-RA-JA",
+          "base_attested": false
+        },
+        {
+          "word": "KU-KU-DA-RA",
+          "repeated_syllable": "KU",
+          "base": "KU-DA-RA",
+          "base_attested": false
+        },
+        {
+          "word": "KU-PA3-PA3",
+          "repeated_syllable": "PA3",
+          "base": "KU-PA3",
+          "base_attested": true
+        },
+        {
+          "word": "NA-MA-MA-TI-TI",
+          "repeated_syllable": "MA",
+          "base": "NA-MA-TI-TI",
+          "base_attested": true
+        },
+        {
+          "word": "NA-MA-MA-TI-TI-*319",
+          "repeated_syllable": "MA",
+          "base": "NA-MA-TI-TI-*319",
+          "base_attested": false
+        },
+        {
+          "word": "NA-MA-TI-TI",
+          "repeated_syllable": "TI",
+          "base": "NA-MA-TI",
+          "base_attested": false
+        },
+        {
+          "word": "QA-QA-DA",
+          "repeated_syllable": "QA",
+          "base": "QA-DA",
+          "base_attested": false
+        },
+        {
+          "word": "QA-QA-RU",
+          "repeated_syllable": "QA",
+          "base": "QA-RU",
+          "base_attested": false
+        },
+        {
+          "word": "RI-QE-TI-A-SA-SA-RA-*325",
+          "repeated_syllable": "SA",
+          "base": "RI-QE-TI-A-SA-RA-*325",
+          "base_attested": false
+        },
+        {
+          "word": "SA-RA-RA",
+          "repeated_syllable": "RA",
+          "base": "SA-RA",
+          "base_attested": true
+        },
+        {
+          "word": "SA-SA-ME",
+          "repeated_syllable": "SA",
+          "base": "SA-ME",
+          "base_attested": false
+        },
+        {
+          "word": "TI-TI-KU",
+          "repeated_syllable": "TI",
+          "base": "TI-KU",
+          "base_attested": false
+        },
+        {
+          "word": "TI-TI-MA",
+          "repeated_syllable": "TI",
+          "base": "TI-MA",
+          "base_attested": false
+        },
+        {
+          "word": "WI-JA-SU-MA-MA-TI-TI-*319",
+          "repeated_syllable": "MA",
+          "base": "WI-JA-SU-MA-TI-TI-*319",
+          "base_attested": false
+        },
+        {
+          "word": "WI-JA-SU-MA-TI-TI",
+          "repeated_syllable": "TI",
+          "base": "WI-JA-SU-MA-TI",
+          "base_attested": false
+        },
+        {
+          "word": "WI-SA-SA-NE",
+          "repeated_syllable": "SA",
+          "base": "WI-SA-NE",
+          "base_attested": false
+        }
+      ],
+      "syllables_reduplicated": [
+        "DI",
+        "RA",
+        "PA3",
+        "TI",
+        "DA",
+        "MA",
+        "SA",
+        "KI",
+        "QA",
+        "TE",
+        "KU"
+      ],
+      "note": "SA reduplication most productive (ja-sa-sa-ra family). Also QA, KI, DI, TE, TI, MA, DA, PA3, RA."
+    },
+    "compounding": {
+      "total_identified": 15,
+      "compounds": [
+        {
+          "word": "A-DI-KI-TE",
+          "part1": "A-DI",
+          "part1_meaning": "?",
+          "part2": "KI-TE",
+          "part2_meaning": "Dikte?"
+        },
+        {
+          "word": "A-DU-KU-MI-NA",
+          "part1": "A-DU",
+          "part1_meaning": "name/place",
+          "part2": "KU-MI-NA",
+          "part2_meaning": "cumin?"
+        },
+        {
+          "word": "A-DU-NI-TA-NA",
+          "part1": "A-DU",
+          "part1_meaning": "name/place",
+          "part2": "NI-TA-NA",
+          "part2_meaning": "?"
+        },
+        {
+          "word": "A-DU-RE-ZA",
+          "part1": "A-DU",
+          "part1_meaning": "name/place",
+          "part2": "RE-ZA",
+          "part2_meaning": "?"
+        },
+        {
+          "word": "A-SA-SA-RA",
+          "part1": "A-SA",
+          "part1_meaning": "?",
+          "part2": "SA-RA",
+          "part2_meaning": "assessment"
+        },
+        {
+          "word": "I-DA-MA-TE",
+          "part1": "I-DA",
+          "part1_meaning": "Mt. Ida",
+          "part2": "MA-TE",
+          "part2_meaning": "mother"
+        },
+        {
+          "word": "I-DA-PA3-I-SA-RI",
+          "part1": "I-DA",
+          "part1_meaning": "Mt. Ida",
+          "part2": "PA3-I-SA-RI",
+          "part2_meaning": "?"
+        },
+        {
+          "word": "I-NA-I-DA",
+          "part1": "I-NA",
+          "part1_meaning": "?",
+          "part2": "I-DA",
+          "part2_meaning": "Mt. Ida"
+        },
+        {
+          "word": "I-TI-TI-KU-NI",
+          "part1": "I-TI-TI",
+          "part1_meaning": "?",
+          "part2": "KU-NI",
+          "part2_meaning": "emmer?"
+        },
+        {
+          "word": "JA-DI-KI-TE-TE-DU-PU2-RE",
+          "part1": "JA-DI-KI-TE-TE",
+          "part1_meaning": "?",
+          "part2": "DU-PU2-RE",
+          "part2_meaning": "master"
+        },
+        {
+          "word": "JA-SA-SA-RA",
+          "part1": "JA-SA",
+          "part1_meaning": "?",
+          "part2": "SA-RA",
+          "part2_meaning": "assessment"
+        },
+        {
+          "word": "JA-SA-SA-RA-MA-NA",
+          "part1": "JA-SA-SA-RA",
+          "part1_meaning": "lady",
+          "part2": "MA-NA",
+          "part2_meaning": "?"
+        },
+        {
+          "word": "JA-SA-SA-RA-ME-NE",
+          "part1": "JA-SA-SA-RA",
+          "part1_meaning": "lady",
+          "part2": "ME-NE",
+          "part2_meaning": "?"
+        },
+        {
+          "word": "PA-TA-DA-DU-PU2-RE",
+          "part1": "PA-TA-DA",
+          "part1_meaning": "?",
+          "part2": "DU-PU2-RE",
+          "part2_meaning": "master"
+        },
+        {
+          "word": "PO-TO-KU-RO",
+          "part1": "PO-TO",
+          "part1_meaning": "prefix (great?)",
+          "part2": "KU-RO",
+          "part2_meaning": "total"
+        }
+      ],
+      "confirmed_compounds": [
+        {
+          "word": "PO-TO-KU-RO",
+          "analysis": "po-to (great?) + ku-ro (total) = grand total"
+        },
+        {
+          "word": "I-DA-MA-TE",
+          "analysis": "i-da (Mt. Ida) + ma-te (mother) = Mother of Ida"
+        },
+        {
+          "word": "JA-SA-SA-RA-ME",
+          "analysis": "ja-sa-sa-ra (lady) + -me (my) = my lady"
+        },
+        {
+          "word": "A-DI-KI-TE-TE-DU-PU2-RE",
+          "analysis": "a-di-ki-te (Dikte) + te + du-pu2-re (master) = master of Dikte"
+        },
+        {
+          "word": "SU-KI-RI-TE-I-JA",
+          "analysis": "su-ki-ri-ta (Sybrita) + -i-ja (ethnic) = Sybritan"
+        },
+        {
+          "word": "SE-TO-I-JA",
+          "analysis": "se-to-i (Siteia) + -ja (ethnic) = Siteian"
+        }
+      ]
+    },
+    "derivation": {
+      "ethnic_adjectival_ja": {
+        "function": "noun -> adjective (ethnic/relational)",
+        "examples": [
+          "se-to-i -> se-to-i-ja",
+          "pa-se -> pa-se-ja",
+          "su-ki-ri-te-i -> su-ki-ri-te-i-ja"
+        ]
+      },
+      "possessive_me": {
+        "function": "noun -> possessed noun",
+        "examples": [
+          "ja-sa-sa-ra -> ja-sa-sa-ra-me"
+        ]
+      },
+      "locative_te": {
+        "function": "noun -> locative",
+        "examples": [
+          "ta-na -> ta-na-te",
+          "ki-da -> ki-da-te",
+          "i-da-ma -> i-da-ma-te"
+        ]
+      }
+    }
+  },
+  "section_5_hurrian_comparison": {
+    "suffix_mappings": {
+      "-SE <-> Hurrian ergative -se/-ze": {
+        "strength": "STRONG",
+        "la_count": 22,
+        "note": "Both mark agent/instrument. Phonological match."
+      },
+      "-JA <-> Hurrian relational -ya": {
+        "strength": "STRONG",
+        "la_count": 39,
+        "note": "Both form relational adjectives. Direct functional match."
+      },
+      "-NA <-> Hurrian article -na/-ni": {
+        "strength": "MODERATE",
+        "la_count": 33,
+        "note": "High frequency consistent with article function."
+      },
+      "-TE <-> Hurrian allative -da": {
+        "strength": "MODERATE",
+        "la_count": 36,
+        "note": "Both mark location/direction. Regular voicing difference."
+      },
+      "-NE <-> Hurrian genitive -(v)e": {
+        "strength": "MODERATE",
+        "la_count": 21,
+        "note": "Possible but Hurrian genitive is -(v)e not -ne."
+      },
+      "-ME <-> Hurrian possessive": {
+        "strength": "WEAK",
+        "la_count": 10,
+        "note": "Hurrian 1sg is -tta not -me. Some dialects show -me."
+      },
+      "-RO <-> no Hurrian match": {
+        "strength": "NONE",
+        "la_count": 16,
+        "note": "Unique to LA? Resultative/administrative function."
+      },
+      "-RA <-> no clear Hurrian match": {
+        "strength": "NONE",
+        "la_count": 33,
+        "note": "Nominal/agentive. Possibly relates to Hurrian -re?"
+      }
+    },
+    "typological_matches": [
+      "Exclusively suffixing (no productive prefixes)",
+      "Agglutinative suffix stacking in fixed order",
+      "-se ~ ergative -se (strong)",
+      "-ja ~ relational -ya (strong)",
+      "-na ~ article -na (moderate)",
+      "No verbal prefixes (matches Hurrian except neg. un-)"
+    ],
+    "conclusion": "LA morphology shows strongest typological affinity with Hurrian among compared languages. Two suffix mappings (SE, JA) are strong; two more (NA, TE) are moderate. The exclusively suffixing, agglutinative profile is a strong typological match."
+  },
+  "section_6_greek_comparison": {
+    "suffix_mappings": {
+      "-JA <-> Greek -ia": {
+        "strength": "STRUCTURAL_PARALLEL",
+        "note": "Both mark ethnics/place-derivatives. Likely areal not genetic."
+      },
+      "-TE <-> Greek dative": {
+        "strength": "WEAK",
+        "note": "No systematic match."
+      },
+      "-RO <-> Greek -ros/-ron": {
+        "strength": "WEAK",
+        "note": "No functional parallel."
+      },
+      "-RA <-> Greek -tra/-ter": {
+        "strength": "WEAK",
+        "note": "Speculative."
+      },
+      "-NA <-> Linear B names in -na": {
+        "strength": "WEAK",
+        "note": "Substrate, not Greek."
+      },
+      "-SE <-> Greek instrumental": {
+        "strength": "NONE",
+        "note": "No phonological connection."
+      },
+      "-ME <-> Greek -me": {
+        "strength": "VERY_WEAK",
+        "note": "Coincidental."
+      },
+      "-NE <-> Greek -nen": {
+        "strength": "NONE",
+        "note": "No match."
+      }
+    },
+    "conclusion": "LA morphology is NOT Greek. No case endings map to Greek. Only -ja shows a structural parallel with Greek -ia, but this is areal (Aegean sprachbund). LA lacks Greek features: augments, reduplication for perfect tense, preposition-prefixes."
+  },
+  "summary": {
+    "total_corpus_words": 758,
+    "suffixed_words": 210,
+    "percent_suffixed": 27.7,
+    "suffix_ranking": {
+      "-JA": 39,
+      "-TE": 36,
+      "-NA": 33,
+      "-RA": 33,
+      "-SE": 22,
+      "-NE": 21,
+      "-RO": 16,
+      "-ME": 10
+    },
+    "stacking_patterns": 27,
+    "reduplicated_forms": 34,
+    "paradigm_stems": 51,
+    "compounds_identified": 15,
+    "strongest_paradigm_stems": [
+      "KI-DA (RO/TE/TA)",
+      "SA (RA/RO/RI/RU/DI/MA/PO/TA)",
+      "TA (JA/NA/RA/KE/PA/TA/TI)",
+      "A-DA (QI/RA/RO)"
+    ],
+    "key_finding": "Linear A is an exclusively suffixing agglutinative language with at least 8 productive suffixes that stack in fixed order (up to 3 deep). Strongest external parallels are with Hurrian morphology."
+  }
+}

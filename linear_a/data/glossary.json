@@ -1,0 +1,1664 @@
+{
+  "ku-ro": {
+    "meaning": "total / sum",
+    "confidence": "HIGH",
+    "frequency": 41,
+    "sites": [
+      "Haghia Triada",
+      "Phaistos",
+      "Zakros"
+    ],
+    "word_class": "administrative",
+    "evidence": [
+      "Arithmetic totals match in 77% of tablets",
+      "74 occurrences as first token in quantity-bearing lines",
+      "5.3x more frequent than next candidate",
+      "Appears with ALL commodity ideograms"
+    ],
+    "notes": "Most securely read word in Linear A. 95% word-final 'ro'.",
+    "gorila_refs": {
+      "HT 100": "1, p. 176",
+      "HT 102": "1, p. 176",
+      "HT 104": "1, p. 178",
+      "HT 109": "1, p. 182",
+      "HT 110a": "1, p. 182",
+      "HT 116b": "1, p. 192",
+      "HT 117a": "1, p. 196",
+      "HT 118": "1, p. 200",
+      "HT 119": "1, p. 202",
+      "HT 11a": "1, p. 22",
+      "HT 11b": "1, p. 22",
+      "HT 122a": "1, p. 206",
+      "HT 122b": "1, p. 206",
+      "HT 123a": "1, p. 210",
+      "HT 123b": "1, p. 210",
+      "HT 127b": "1, p. 218",
+      "HT 13": "1, p. 28",
+      "HT 25b": "1, p. 52",
+      "HT 27a": "1, p. 56",
+      "HT 39": "1, p. 80",
+      "HT 40": "1, p. 82",
+      "HT 46a": "1, p. 94",
+      "HT 67": "1, p. 130",
+      "HT 74": "1, p. 136",
+      "HT 85a": "1, p. 146",
+      "HT 88": "1, p. 152",
+      "HT 89": "1, p. 154",
+      "HT 94a": "1, p. 164",
+      "HT 94b": "1, p. 164",
+      "HT 9b": "1, p. 18",
+      "PH (?)31a": "1, p. 318",
+      "PH 31a": "1, p. 318",
+      "ZA 15b": "3, p. 182"
+    },
+    "gorila_attestations": 33,
+    "museum_inventory_samples": {
+      "HT 100": "HM 1331",
+      "HT 102": "HM 1333",
+      "HT 104": "HM 1335",
+      "HT 109": "HM 1340",
+      "HT 110a": "HM 1341"
+    }
+  },
+  "ki-ro": {
+    "meaning": "deficit / owed / remainder",
+    "confidence": "HIGH",
+    "frequency": 23,
+    "sites": [
+      "Haghia Triada"
+    ],
+    "word_class": "administrative",
+    "evidence": [
+      "Always follows ku-ro with smaller value",
+      "Value = expected total minus actual sum",
+      "cf. Linear B ki-ri-to (possibly related)"
+    ],
+    "notes": "Exclusively on tablets with commodity ideograms (100%).",
+    "gorila_refs": {
+      "HT 1": "1, p. 2",
+      "HT 117a": "1, p. 196",
+      "HT 123a": "1, p. 210",
+      "HT 123b": "1, p. 210",
+      "HT 15": "1, p. 32",
+      "HT 30": "1, p. 62",
+      "HT 34": "1, p. 70",
+      "HT 37": "1, p. 76",
+      "HT 55a": "1, p. 112",
+      "HT 88": "1, p. 152",
+      "HT 93b": "1, p. 160",
+      "HT 94b": "1, p. 164"
+    },
+    "gorila_attestations": 12,
+    "museum_inventory_samples": {
+      "HT 1": "HM 3",
+      "HT 117a": "HM 1364",
+      "HT 123a": "HM 1367 + 1371",
+      "HT 123b": "HM 1367 + 1371",
+      "HT 15": "HM 18"
+    }
+  },
+  "po-to-ku-ro": {
+    "meaning": "grand total",
+    "confidence": "HIGH",
+    "frequency": 3,
+    "sites": [
+      "Haghia Triada"
+    ],
+    "word_class": "administrative",
+    "evidence": [
+      "Transparent compound: po-to + ku-ro",
+      "100% structural alignment with ku-ro pattern",
+      "Appears with larger quantities (e.g., GRA 576)"
+    ],
+    "notes": "Compound word demonstrating productive morphology.",
+    "gorila_refs": {
+      "HT 122b": "1, p. 206",
+      "HT 131b": "1, p. 226"
+    },
+    "gorila_attestations": 2,
+    "museum_inventory_samples": {
+      "HT 122b": "HM 1366",
+      "HT 131b": "HM 1372"
+    }
+  },
+  "sa-ra": {
+    "meaning": "assessment / levy / transaction type",
+    "confidence": "HIGH",
+    "frequency": 20,
+    "sites": [
+      "Haghia Triada",
+      "Samothrace"
+    ],
+    "word_class": "administrative",
+    "evidence": [
+      "2nd most frequent admin word after ku-ro",
+      "Co-occurs with FIC (65%), VIN (50%), GRA (45%)",
+      "Appears with fractions in 65% of cases",
+      "7-word family: sa-ra-di, sa-ra-ra, sa-ra-su-re etc."
+    ],
+    "notes": "HT-exclusive. May be a type of assessment or redistribution term.",
+    "gorila_refs": {
+      "HT 100": "1, p. 176",
+      "HT 101": "1, p. 176",
+      "HT 102": "1, p. 176",
+      "HT 114a": "1, p. 186",
+      "HT 121": "1, p. 206",
+      "HT 130": "1, p. 224",
+      "HT 18": "1, p. 38",
+      "HT 28b": "1, p. 58",
+      "HT 30": "1, p. 62",
+      "HT 32": "1, p. 66",
+      "HT 33": "1, p. 68",
+      "HT 34": "1, p. 70",
+      "HT 90": "1, p. 156",
+      "HT 93a": "1, p. 160",
+      "HT 94a": "1, p. 164",
+      "HT 97b": "1, p. 170",
+      "HT 99a": "1, p. 174"
+    },
+    "gorila_attestations": 17,
+    "museum_inventory_samples": {
+      "HT 100": "HM 1331",
+      "HT 101": "HM 1332",
+      "HT 102": "HM 1333",
+      "HT 114a": "PIG 83735",
+      "HT 121": "HM 1365"
+    }
+  },
+  "da-me": {
+    "meaning": "assessment / levy (heading term)",
+    "confidence": "HIGH",
+    "frequency": 3,
+    "sites": [
+      "Haghia Triada"
+    ],
+    "word_class": "administrative",
+    "evidence": [
+      "Heading word on assessment-type tablets",
+      "Appears with multiple commodity ideograms"
+    ],
+    "notes": "Possibly related to -me possessive: 'my assessment'?",
+    "gorila_refs": {
+      "HT 120": "1, p. 204",
+      "HT 86a": "1, p. 148",
+      "HT 95a": "1, p. 166"
+    },
+    "gorila_attestations": 3,
+    "museum_inventory_samples": {
+      "HT 120": "HM 1363",
+      "HT 86a": "HM 1311",
+      "HT 95a": "HM 1320"
+    }
+  },
+  "pa-ja-re": {
+    "meaning": "Phaistos (place name)",
+    "confidence": "HIGH",
+    "frequency": 4,
+    "sites": [
+      "Haghia Triada",
+      "Zakros"
+    ],
+    "word_class": "name",
+    "evidence": [
+      "Linear B pa-i-to = Phaistos",
+      "Appears at multiple non-Phaistos sites (referencing the city)",
+      "Member of -re suffix class"
+    ],
+    "notes": "Found at HT and ZA but not at Phaistos itself (expected for a toponym in admin records).",
+    "gorila_refs": {
+      "HT 29": "1, p. 60",
+      "HT 88": "1, p. 152",
+      "HT 8b": "1, p. 16",
+      "ZA 10b": "3, p. 168"
+    },
+    "gorila_attestations": 4,
+    "museum_inventory_samples": {
+      "HT 29": "HM 32",
+      "HT 88": "HM 1313",
+      "HT 8b": "HM 11",
+      "ZA 10b": "HM 1621"
+    }
+  },
+  "ku-do-ni": {
+    "meaning": "Kydonia / Khania (place name)",
+    "confidence": "HIGH",
+    "frequency": 2,
+    "sites": [
+      "Khania"
+    ],
+    "word_class": "name",
+    "evidence": [
+      "Linear B ku-do-ni-ja = Kydonia",
+      "Self-referencing at Khania site"
+    ],
+    "notes": "Rare in corpus but identification is secure."
+  },
+  "su-ki-ri-ta": {
+    "meaning": "Sybrita (place name)",
+    "confidence": "HIGH",
+    "frequency": 2,
+    "sites": [
+      "Haghia Triada"
+    ],
+    "word_class": "name",
+    "evidence": [
+      "Identical form in Linear B",
+      "Known Cretan settlement"
+    ]
+  },
+  "a-du": {
+    "meaning": "personal name or place name",
+    "confidence": "MEDIUM",
+    "frequency": 12,
+    "sites": [
+      "Haghia Triada",
+      "Khania",
+      "Tylissos"
+    ],
+    "word_class": "name",
+    "evidence": [
+      "Most frequent non-admin multi-syllable word",
+      "12-word family (a-du-re, a-du-za, a-du-ni-ta-na)",
+      "Appears on tablets with ideograms (92%) but rarely with numbers",
+      "Cross-site distribution suggests place name over personal name"
+    ],
+    "notes": "Cf. speculative Akkadian adu. Root of largest word family in corpus.",
+    "gorila_refs": {
+      "HT 133": "1, p. 228",
+      "HT 85a": "1, p. 146",
+      "HT 86a": "1, p. 148",
+      "HT 88": "1, p. 152",
+      "HT 92": "1, p. 160",
+      "HT 95b": "1, p. 166",
+      "HT 99a": "1, p. 174",
+      "TY 3a": "1, p. 326"
+    },
+    "gorila_attestations": 8,
+    "museum_inventory_samples": {
+      "HT 133": "HM —",
+      "HT 85a": "HM —",
+      "HT 86a": "HM 1311",
+      "HT 88": "HM 1313",
+      "HT 92": "HM —"
+    }
+  },
+  "ja-sa-sa-ra-me": {
+    "meaning": "'My Lady' (deity epithet)",
+    "confidence": "MEDIUM",
+    "frequency": 7,
+    "sites": [
+      "Iouktas",
+      "Palaikastro",
+      "Platanos",
+      "Psykhro",
+      "Troullos"
+    ],
+    "word_class": "ritual",
+    "evidence": [
+      "Luwian ishassara 'lady' + possessive -me",
+      "100% ritual-exclusive (libation formula)",
+      "Shows reduplication (sa-sa)"
+    ],
+    "notes": "Most famous Linear A phrase. Part of libation formula tier 2.",
+    "gorila_refs": {
+      "IO Za 2": "4, p. 8",
+      "IO Za 6": "4, p. 12",
+      "PL Zf 1": "4, p. 161",
+      "PS Za 2": "4, p. 52",
+      "TL Za 1": "4, p. 58"
+    },
+    "gorila_attestations": 5,
+    "museum_inventory_samples": {
+      "IO Za 2": "HM 3642",
+      "IO Za 6": "HM 2794",
+      "PL Zf 1": "HM 498",
+      "PS Za 2": "a) Louvre I.P.S. 352; b) AM 1923.661; c) AM AE 1",
+      "TL Za 1": "HM 1545"
+    }
+  },
+  "i-da-ma-te": {
+    "meaning": "'Mother of Ida' (deity name)",
+    "confidence": "MEDIUM",
+    "frequency": 2,
+    "sites": [
+      "Arkalochori"
+    ],
+    "word_class": "ritual",
+    "evidence": [
+      "Compound: i-da (Mt. Ida) + ma-te (mother)",
+      "Part of libation formula tier 3",
+      "Religious continuity: Rhea/Cybele cult centered on Mt. Ida"
+    ],
+    "notes": "If correct, links Minoan religion to later Greek mother goddess tradition.",
+    "gorila_refs": {
+      "AR Zf 1": "4, p. 142",
+      "AR Zf 2": "4, p. 143"
+    },
+    "gorila_attestations": 2,
+    "museum_inventory_samples": {
+      "AR Zf 1": "Boston M. 58.1009",
+      "AR Zf 2": "HM 626"
+    }
+  },
+  "a-ta-i-*301-wa-ja": {
+    "meaning": "dedicatory formula (opening phrase)",
+    "confidence": "MEDIUM",
+    "frequency": 10,
+    "sites": [
+      "Iouktas",
+      "Kophinas",
+      "Palaikastro",
+      "Syme",
+      "Troullos"
+    ],
+    "word_class": "ritual",
+    "evidence": [
+      "100% ritual-exclusive",
+      "Libation formula tier 1 core",
+      "Contains undeciphered sign *301"
+    ],
+    "gorila_refs": {
+      "IO Za 2": "4, p. 8",
+      "IO Za 3": "4, p. 10",
+      "IO Za 7": "4, p. 14",
+      "KOZ a1": "4, p. 18",
+      "PK Za 12": "4, p. 36",
+      "SY Za 1": "5, p. 62",
+      "SY Za 2": "5, p. 64",
+      "SY Za 3": "5, p. 66",
+      "TL Za 1": "4, p. 58"
+    },
+    "gorila_attestations": 9,
+    "museum_inventory_samples": {
+      "IO Za 2": "HM 3642",
+      "IO Za 3": "HM 3643",
+      "IO Za 7": "HM —",
+      "KOZ a1": "HM 2627",
+      "PK Za 12": "HM 942"
+    }
+  },
+  "se-to-i-ja": {
+    "meaning": "Siteia (place name)",
+    "confidence": "MEDIUM",
+    "frequency": 1,
+    "sites": [
+      "Prassa"
+    ],
+    "word_class": "name",
+    "evidence": [
+      "Greek toponym Siteia survives",
+      "Member of -ja suffix class (ethnic/adjectival)"
+    ],
+    "gorila_refs": {
+      "PR Za 1": "4, p. 46"
+    },
+    "gorila_attestations": 1,
+    "museum_inventory_samples": {
+      "PR Za 1": "HM 2444"
+    }
+  },
+  "ma-di": {
+    "meaning": "personal name",
+    "confidence": "MEDIUM",
+    "frequency": 8,
+    "sites": [
+      "Haghia Triada",
+      "Phaistos"
+    ],
+    "word_class": "name",
+    "evidence": [
+      "Appears on tablets with ideograms (100%) but not with numbers",
+      "Distributional pattern matches name class",
+      "Cross-site attestation (HT + PH)"
+    ],
+    "gorila_refs": {
+      "HT 118": "1, p. 200",
+      "HT 3": "1, p. 6",
+      "HT 69": "1, p. 132",
+      "HT 85b": "1, p. 146",
+      "PH (?)31a": "1, p. 318",
+      "PH 31a": "1, p. 318"
+    },
+    "gorila_attestations": 6,
+    "museum_inventory_samples": {
+      "HT 118": "PIG 83734",
+      "HT 3": "HM 5",
+      "HT 69": "HM —",
+      "HT 85b": "HM —",
+      "PH (?)31a": "HM 1609"
+    }
+  },
+  "ku-*56-nu": {
+    "meaning": "personal name or commodity",
+    "confidence": "MEDIUM",
+    "frequency": 8,
+    "sites": [
+      "Haghia Triada",
+      "Phaistos"
+    ],
+    "word_class": "name",
+    "evidence": [
+      "5-word family (ku-*56-na-tu, ku-*56-ri-ja)",
+      "Contains undeciphered sign *56",
+      "Cross-site (HT + PH)"
+    ],
+    "gorila_refs": {
+      "HT 1": "1, p. 2",
+      "HT 117a": "1, p. 196",
+      "HT 122a": "1, p. 206",
+      "HT 3": "1, p. 6",
+      "HT 49a": "1, p. 100",
+      "HT 88": "1, p. 152",
+      "PH 31a": "1, p. 318"
+    },
+    "gorila_attestations": 7,
+    "museum_inventory_samples": {
+      "HT 1": "HM 3",
+      "HT 117a": "HM 1364",
+      "HT 122a": "HM 1366",
+      "HT 3": "HM 5",
+      "HT 49a": "HM 53"
+    }
+  },
+  "da-ka": {
+    "meaning": "personal name (on sealings)",
+    "confidence": "MEDIUM",
+    "frequency": 5,
+    "sites": [
+      "Haghia Triada"
+    ],
+    "word_class": "name",
+    "evidence": [
+      "Exclusively on nodules (100%)",
+      "Never with ideograms or numbers",
+      "Nodule context suggests name on a sealing"
+    ]
+  },
+  "si-ka": {
+    "meaning": "personal name (on sealings)",
+    "confidence": "MEDIUM",
+    "frequency": 6,
+    "sites": [
+      "Haghia Triada"
+    ],
+    "word_class": "name",
+    "evidence": [
+      "Exclusively on nodules (100%)",
+      "Same distribution as da-ka"
+    ]
+  },
+  "i-ra": {
+    "meaning": "personal name (on sealings)",
+    "confidence": "MEDIUM",
+    "frequency": 8,
+    "sites": [
+      "Haghia Triada"
+    ],
+    "word_class": "name",
+    "evidence": [
+      "Exclusively on nodules (100%)",
+      "Highest frequency nodule name"
+    ]
+  },
+  "ka-pa": {
+    "meaning": "transaction term or name",
+    "confidence": "MEDIUM",
+    "frequency": 6,
+    "sites": [
+      "Haghia Triada"
+    ],
+    "word_class": "administrative",
+    "evidence": [
+      "Appears with numbers (100%) and ideograms (100%)",
+      "Co-occurs with FIC, fractions",
+      "5-word family including ka-pa-qe"
+    ],
+    "gorila_refs": {
+      "HT 102": "1, p. 176",
+      "HT 105": "1, p. 180",
+      "HT 140": "1, p. 236",
+      "HT 6a": "1, p. 12",
+      "HT 8b": "1, p. 16",
+      "HT 94a": "1, p. 164"
+    },
+    "gorila_attestations": 6,
+    "museum_inventory_samples": {
+      "HT 102": "HM 1333",
+      "HT 105": "HM 1336",
+      "HT 140": "HM —",
+      "HT 6a": "HM 8",
+      "HT 8b": "HM 11"
+    }
+  },
+  "je-di": {
+    "meaning": "transaction term",
+    "confidence": "MEDIUM",
+    "frequency": 4,
+    "sites": [
+      "Haghia Triada"
+    ],
+    "word_class": "administrative",
+    "evidence": [
+      "Appears with fractions (75%)",
+      "4-word family"
+    ],
+    "gorila_refs": {
+      "HT 122b": "1, p. 206",
+      "HT 140": "1, p. 236",
+      "HT 36": "1, p. 74",
+      "HT 8a": "1, p. 16"
+    },
+    "gorila_attestations": 4,
+    "museum_inventory_samples": {
+      "HT 122b": "HM 1366",
+      "HT 140": "HM —",
+      "HT 36": "HM 39",
+      "HT 8a": "HM 11"
+    }
+  },
+  "sa-ro": {
+    "meaning": "transaction term",
+    "confidence": "MEDIUM",
+    "frequency": 4,
+    "sites": [
+      "Haghia Triada"
+    ],
+    "word_class": "administrative",
+    "evidence": [
+      "Appears with fractions (75%)",
+      "Co-occurs with VIN, commodity ideograms"
+    ],
+    "gorila_refs": {
+      "HT 17": "1, p. 36",
+      "HT 19": "1, p. 40",
+      "HT 9a": "1, p. 18"
+    },
+    "gorila_attestations": 3,
+    "museum_inventory_samples": {
+      "HT 17": "HM 20",
+      "HT 19": "HM 22",
+      "HT 9a": "HM 13"
+    }
+  },
+  "ki-re-ta-na": {
+    "meaning": "place name or ethnic designation",
+    "confidence": "MEDIUM",
+    "frequency": 4,
+    "sites": [
+      "Haghia Triada"
+    ],
+    "word_class": "name",
+    "evidence": [
+      "Shows -ta-na suffix (ethnic/locative?)",
+      "Root ki-re- has 4-word family"
+    ],
+    "gorila_refs": {
+      "HT 108": "1, p. 180",
+      "HT 120": "1, p. 204",
+      "HT 2": "1, p. 4",
+      "HT 8a": "1, p. 16"
+    },
+    "gorila_attestations": 4,
+    "museum_inventory_samples": {
+      "HT 108": "HM 1339",
+      "HT 120": "HM 1363",
+      "HT 2": "HM 4",
+      "HT 8a": "HM 11"
+    }
+  },
+  "da-re": {
+    "meaning": "personal name or transaction type",
+    "confidence": "MEDIUM",
+    "frequency": 7,
+    "sites": [
+      "Haghia Triada",
+      "Khania",
+      "Palaikastro"
+    ],
+    "word_class": "name",
+    "evidence": [
+      "Appears with VIR ideogram",
+      "Member of -re suffix class"
+    ],
+    "gorila_refs": {
+      "HT 10a": "1, p. 20",
+      "HT 10b": "1, p. 20",
+      "HT 122b": "1, p. 206",
+      "HT 7a": "1, p. 14",
+      "HT 85a": "1, p. 146"
+    },
+    "gorila_attestations": 5,
+    "museum_inventory_samples": {
+      "HT 10a": "HM 17",
+      "HT 10b": "HM 17",
+      "HT 122b": "HM 1366",
+      "HT 7a": "HM 10",
+      "HT 85a": "HM —"
+    }
+  },
+  "ku-pa": {
+    "meaning": "place name or personal name",
+    "confidence": "MEDIUM",
+    "frequency": 5,
+    "sites": [
+      "Haghia Triada",
+      "Khania",
+      "Zakros"
+    ],
+    "word_class": "name",
+    "evidence": [
+      "Appears at 3 sites (inter-palatial)",
+      "Root of ka-ku-pa compound"
+    ],
+    "gorila_refs": {
+      "HT 110a": "1, p. 182",
+      "KH 29": "3, p. 58",
+      "ZA 11a": "3, p. 172",
+      "ZA 11b": "3, p. 172"
+    },
+    "gorila_attestations": 4,
+    "museum_inventory_samples": {
+      "HT 110a": "HM 1341",
+      "KH 29": "Khania M. 47",
+      "ZA 11a": "HM 1623",
+      "ZA 11b": "HM 1623"
+    }
+  },
+  "pu-ra": {
+    "meaning": "place name or product term",
+    "confidence": "MEDIUM",
+    "frequency": 4,
+    "sites": [
+      "Haghia Triada",
+      "Knossos",
+      "Zakros"
+    ],
+    "word_class": "name",
+    "evidence": [
+      "Cross-site (HT + ZA)",
+      "Co-occurs heavily with GRA and OLIV"
+    ],
+    "gorila_refs": {
+      "HT 116a": "1, p. 192",
+      "HT 28b": "1, p. 58",
+      "ZA 6a": "3, p. 156"
+    },
+    "gorila_attestations": 3,
+    "museum_inventory_samples": {
+      "HT 116a": "HM 1361",
+      "HT 28b": "HM 31",
+      "ZA 6a": "HM 1617 + 1628 + 1648"
+    }
+  },
+  "pa-se-ja": {
+    "meaning": "ethnic/adjectival form",
+    "confidence": "MEDIUM",
+    "frequency": 3,
+    "sites": [
+      "Haghia Triada"
+    ],
+    "word_class": "name",
+    "evidence": [
+      "-ja suffix (ethnic marker)",
+      "Appears on roundels and tablets"
+    ],
+    "gorila_refs": {
+      "HT 93a": "1, p. 160",
+      "HT Wc 3001": "2, p. 88",
+      "HT Wc 3002": "2, p. 88"
+    },
+    "gorila_attestations": 3,
+    "museum_inventory_samples": {
+      "HT 93a": "HM 1316",
+      "HT Wc 3001": "HM 481.1",
+      "HT Wc 3002": "HM 481.2"
+    }
+  },
+  "da-ri-da": {
+    "meaning": "personal name",
+    "confidence": "MEDIUM",
+    "frequency": 4,
+    "sites": [
+      "Haghia Triada"
+    ],
+    "word_class": "name",
+    "evidence": [
+      "Tablets with ideograms, some with fractions"
+    ],
+    "gorila_refs": {
+      "HT 10a": "1, p. 20",
+      "HT 122a": "1, p. 206",
+      "HT 85a": "1, p. 146",
+      "HT 93a": "1, p. 160"
+    },
+    "gorila_attestations": 4,
+    "museum_inventory_samples": {
+      "HT 10a": "HM 17",
+      "HT 122a": "HM 1366",
+      "HT 85a": "HM —",
+      "HT 93a": "HM 1316"
+    }
+  },
+  "ta-na-ti": {
+    "meaning": "place name or derived form",
+    "confidence": "MEDIUM",
+    "frequency": 4,
+    "sites": [
+      "Haghia Triada"
+    ],
+    "word_class": "name",
+    "evidence": [
+      "Root ta-na- (cf. paradigm ta-na-te, ta-na-ti, ta-na-su)",
+      "Shows -ti suffix variant"
+    ],
+    "gorila_refs": {
+      "HT 10b": "1, p. 20",
+      "HT 49a": "1, p. 100",
+      "HT 7a": "1, p. 14",
+      "HT 98a": "1, p. 172"
+    },
+    "gorila_attestations": 4,
+    "museum_inventory_samples": {
+      "HT 10b": "HM 17",
+      "HT 49a": "HM 53",
+      "HT 7a": "HM 10",
+      "HT 98a": "HM 1326"
+    }
+  },
+  "qi-tu-ne": {
+    "meaning": "personal name",
+    "confidence": "MEDIUM",
+    "frequency": 3,
+    "sites": [
+      "Haghia Triada"
+    ],
+    "word_class": "name",
+    "evidence": [
+      "Tablet context without ideograms",
+      "5-word family"
+    ],
+    "gorila_refs": {
+      "HT 117b": "1, p. 196",
+      "HT 7b": "1, p. 14",
+      "HT 87": "1, p. 150"
+    },
+    "gorila_attestations": 3,
+    "museum_inventory_samples": {
+      "HT 117b": "HM 1364",
+      "HT 7b": "HM 10",
+      "HT 87": "HM 1312"
+    }
+  },
+  "di-na-u": {
+    "meaning": "personal name",
+    "confidence": "MEDIUM",
+    "frequency": 6,
+    "sites": [
+      "Haghia Triada",
+      "Knossos"
+    ],
+    "word_class": "name",
+    "evidence": [
+      "Tablet context, some with TELA (textile)",
+      "4-word family (di-na-u, di-na, di-na-ro)"
+    ],
+    "gorila_refs": {
+      "HT 16": "1, p. 34",
+      "HT 25a": "1, p. 52",
+      "HT 9a": "1, p. 18",
+      "HT 9b": "1, p. 18",
+      "KN Zb <27>": "4, p. 78"
+    },
+    "gorila_attestations": 5,
+    "museum_inventory_samples": {
+      "HT 16": "HM 19",
+      "HT 25a": "HM 28",
+      "HT 9a": "HM 13",
+      "HT 9b": "HM 13"
+    }
+  },
+  "ka-ku-pa": {
+    "meaning": "personal name or compound place name",
+    "confidence": "MEDIUM",
+    "frequency": 5,
+    "sites": [
+      "Haghia Triada"
+    ],
+    "word_class": "name",
+    "evidence": [
+      "Possible compound: ka-ku + pa, or ka + ku-pa",
+      "Tablets with TELA ideogram"
+    ],
+    "gorila_refs": {
+      "HT 16": "1, p. 34",
+      "HT Wc 3015": "2, p. 92",
+      "HT Wc 3015a": "2, p. 92",
+      "HT Wc 3016": "2, p. 92",
+      "HT Wc 3016a": "2, p. 92"
+    },
+    "gorila_attestations": 5,
+    "museum_inventory_samples": {
+      "HT 16": "HM 19",
+      "HT Wc 3015": "HM 484.5",
+      "HT Wc 3015a": "HM 484.5",
+      "HT Wc 3016": "HM 484.6",
+      "HT Wc 3016a": "HM 484.6"
+    }
+  },
+  "wa-di-ni": {
+    "meaning": "personal name (on sealings)",
+    "confidence": "MEDIUM",
+    "frequency": 3,
+    "sites": [
+      "Haghia Triada"
+    ],
+    "word_class": "name",
+    "evidence": [
+      "Exclusively on roundels"
+    ],
+    "gorila_refs": {
+      "HT Wc 3007": "2, p. 90",
+      "HT Wc 3008": "2, p. 90",
+      "HT Wc 3008a": "2, p. 90"
+    },
+    "gorila_attestations": 3,
+    "museum_inventory_samples": {
+      "HT Wc 3007": "HM 482.3",
+      "HT Wc 3008": "HM 482.4",
+      "HT Wc 3008a": "HM 482.4"
+    }
+  },
+  "*188-du": {
+    "meaning": "personal name (on sealings)",
+    "confidence": "MEDIUM",
+    "frequency": 5,
+    "sites": [
+      "Haghia Triada"
+    ],
+    "word_class": "name",
+    "evidence": [
+      "On nodules and roundels",
+      "Contains undeciphered sign *188"
+    ],
+    "gorila_refs": {
+      "HT Wc 3020a": "2, p. 94"
+    },
+    "gorila_attestations": 1,
+    "museum_inventory_samples": {
+      "HT Wc 3020a": "HM 486.1"
+    }
+  },
+  "sa-ru": {
+    "meaning": "personal name",
+    "confidence": "MEDIUM",
+    "frequency": 7,
+    "sites": [
+      "Haghia Triada"
+    ],
+    "word_class": "name",
+    "evidence": [
+      "Tablets with OLIV ideogram"
+    ],
+    "gorila_refs": {
+      "HT 123a": "1, p. 210",
+      "HT 86a": "1, p. 148",
+      "HT 86b": "1, p. 148",
+      "HT 94b": "1, p. 164",
+      "HT 95a": "1, p. 166",
+      "HT 95b": "1, p. 166"
+    },
+    "gorila_attestations": 6,
+    "museum_inventory_samples": {
+      "HT 123a": "HM 1367 + 1371",
+      "HT 86a": "HM 1311",
+      "HT 86b": "HM 1311",
+      "HT 94b": "HM 1317",
+      "HT 95a": "HM 1320"
+    }
+  },
+  "mi-nu-te": {
+    "meaning": "personal or place name",
+    "confidence": "MEDIUM",
+    "frequency": 4,
+    "sites": [
+      "Haghia Triada"
+    ],
+    "word_class": "name",
+    "evidence": [
+      "Shows -te suffix (dative/locative?)",
+      "Tablets with ideograms"
+    ],
+    "gorila_refs": {
+      "HT 106": "1, p. 180",
+      "HT 86a": "1, p. 148",
+      "HT 95a": "1, p. 166",
+      "HT 95b": "1, p. 166"
+    },
+    "gorila_attestations": 4,
+    "museum_inventory_samples": {
+      "HT 106": "HM 1337",
+      "HT 86a": "HM 1311",
+      "HT 95a": "HM 1320",
+      "HT 95b": "HM 1320"
+    }
+  },
+  "ku-ni-su": {
+    "meaning": "emmer wheat?",
+    "confidence": "SPECULATIVE",
+    "frequency": 4,
+    "sites": [
+      "Haghia Triada"
+    ],
+    "word_class": "commodity?",
+    "evidence": [
+      "Akkadian kunisu 'emmer wheat'",
+      "Appears on tablets with commodity ideograms",
+      "4-word family (ku-ni, ku-ni-su, ku-ni-te)"
+    ],
+    "notes": "If correct, would be a Mesopotamian loanword into Minoan trade vocabulary.",
+    "gorila_refs": {
+      "HT 10a": "1, p. 20",
+      "HT 86a": "1, p. 148",
+      "HT 86b": "1, p. 148",
+      "HT 95b": "1, p. 166"
+    },
+    "gorila_attestations": 4,
+    "museum_inventory_samples": {
+      "HT 10a": "HM 17",
+      "HT 86a": "HM 1311",
+      "HT 86b": "HM 1311",
+      "HT 95b": "HM 1320"
+    }
+  },
+  "qa-qa-ru": {
+    "meaning": "land / ground?",
+    "confidence": "SPECULATIVE",
+    "frequency": 3,
+    "sites": [
+      "Haghia Triada"
+    ],
+    "word_class": "unknown",
+    "evidence": [
+      "Akkadian qaqqaru 'ground'",
+      "Shows reduplication (qa-qa)",
+      "Tablets with ideograms"
+    ],
+    "gorila_refs": {
+      "HT 118": "1, p. 200",
+      "HT 122b": "1, p. 206",
+      "HT 93a": "1, p. 160"
+    },
+    "gorila_attestations": 3,
+    "museum_inventory_samples": {
+      "HT 118": "PIG 83734",
+      "HT 122b": "HM 1366",
+      "HT 93a": "HM 1316"
+    }
+  },
+  "te-ki": {
+    "meaning": "delivery / payment?",
+    "confidence": "LOW",
+    "frequency": 2,
+    "sites": [
+      "Haghia Triada"
+    ],
+    "word_class": "administrative",
+    "evidence": [
+      "Heading word on delivery-type tablets"
+    ],
+    "gorila_refs": {
+      "HT 122a": "1, p. 206",
+      "HT 13": "1, p. 28"
+    },
+    "gorila_attestations": 2,
+    "museum_inventory_samples": {
+      "HT 122a": "HM 1366",
+      "HT 13": "HM 15"
+    }
+  },
+  "a-di-ki-te": {
+    "meaning": "Dikte (Mt. Dikta)?",
+    "confidence": "LOW",
+    "frequency": 1,
+    "sites": [
+      "Palaikastro"
+    ],
+    "word_class": "ritual",
+    "evidence": [
+      "Possibly = Dikte/Dikta, mountain of Zeus' birth",
+      "Libation formula context"
+    ],
+    "gorila_refs": {
+      "PK Za 12": "4, p. 36"
+    },
+    "gorila_attestations": 1,
+    "museum_inventory_samples": {
+      "PK Za 12": "HM 942"
+    }
+  },
+  "da-qe-ra": {
+    "meaning": "personal name or place name",
+    "confidence": "MEDIUM",
+    "frequency": 3,
+    "sites": [
+      "Haghia Triada"
+    ],
+    "word_class": "name",
+    "evidence": [
+      "100% with fractions and ideograms",
+      "Member of -ra suffix class",
+      "3-word family"
+    ],
+    "gorila_refs": {
+      "HT 120": "1, p. 204",
+      "HT 57a": "1, p. 116",
+      "HT 6a": "1, p. 12"
+    },
+    "gorila_attestations": 3,
+    "museum_inventory_samples": {
+      "HT 120": "HM 1363",
+      "HT 57a": "HM 61",
+      "HT 6a": "HM 8"
+    }
+  },
+  "re-za": {
+    "meaning": "transaction term or name",
+    "confidence": "MEDIUM",
+    "frequency": 3,
+    "sites": [
+      "Haghia Triada",
+      "Khania"
+    ],
+    "word_class": "administrative",
+    "evidence": [
+      "Cross-site (HT + KH)",
+      "Appears with numbers and ideograms"
+    ],
+    "gorila_refs": {
+      "HT 13": "1, p. 28",
+      "HT 88": "1, p. 152",
+      "KH 86": "3, p. 86"
+    },
+    "gorila_attestations": 3,
+    "museum_inventory_samples": {
+      "HT 13": "HM 15",
+      "HT 88": "HM 1313",
+      "KH 86": "Khania M. 86"
+    }
+  },
+  "pa-ta-ne": {
+    "meaning": "personal name",
+    "confidence": "MEDIUM",
+    "frequency": 3,
+    "sites": [
+      "Haghia Triada"
+    ],
+    "word_class": "name",
+    "evidence": [
+      "Shows -ne suffix",
+      "Member of pa-ta- family (pa-ta-da, pa-ta-qe)"
+    ],
+    "gorila_refs": {
+      "HT 94b": "1, p. 164"
+    },
+    "gorila_attestations": 1,
+    "museum_inventory_samples": {
+      "HT 94b": "HM 1317"
+    }
+  },
+  "a-ka-ru": {
+    "meaning": "personal name",
+    "confidence": "MEDIUM",
+    "frequency": 3,
+    "sites": [
+      "Haghia Triada"
+    ],
+    "word_class": "name",
+    "evidence": [
+      "Root of 7-word a-ka- family",
+      "100% with ideograms on tablets"
+    ],
+    "gorila_refs": {
+      "HT 2": "1, p. 4",
+      "HT 86a": "1, p. 148",
+      "HT 86b": "1, p. 148"
+    },
+    "gorila_attestations": 3,
+    "museum_inventory_samples": {
+      "HT 2": "HM 4",
+      "HT 86a": "HM 1311",
+      "HT 86b": "HM 1311"
+    }
+  },
+  "a-ri-ni-ta": {
+    "meaning": "place name or ethnic",
+    "confidence": "MEDIUM",
+    "frequency": 2,
+    "sites": [
+      "Haghia Triada",
+      "Zakros"
+    ],
+    "word_class": "name",
+    "evidence": [
+      "Cross-site (HT + ZA)",
+      "Shows -ta suffix"
+    ],
+    "gorila_refs": {
+      "HT 25a": "1, p. 52",
+      "ZA 8": "3, p. 164"
+    },
+    "gorila_attestations": 2,
+    "museum_inventory_samples": {
+      "HT 25a": "HM 28",
+      "ZA 8": "HM 1619"
+    }
+  },
+  "-ro": {
+    "meaning": "nominal suffix (totals, results)",
+    "confidence": "MEDIUM",
+    "frequency": 103,
+    "word_class": "suffix",
+    "evidence": [
+      "95% word-final position",
+      "99% on tablets (administrative)",
+      "77% with ideograms",
+      "ku-ro, ki-ro, sa-ro, ki-da-ro"
+    ],
+    "gorila_refs": {
+      "ARKH 4b": "3, p. 12",
+      "ARKH 5": "3, p. 16",
+      "HT 1": "1, p. 2",
+      "HT 100": "1, p. 176",
+      "HT 102": "1, p. 176",
+      "HT 104": "1, p. 178",
+      "HT 108": "1, p. 180",
+      "HT 109": "1, p. 182",
+      "HT 110a": "1, p. 182",
+      "HT 116a": "1, p. 192",
+      "HT 116b": "1, p. 192",
+      "HT 117a": "1, p. 196",
+      "HT 118": "1, p. 200",
+      "HT 119": "1, p. 202",
+      "HT 11a": "1, p. 22",
+      "HT 11b": "1, p. 22",
+      "HT 122a": "1, p. 206",
+      "HT 122b": "1, p. 206",
+      "HT 123a": "1, p. 210",
+      "HT 123b": "1, p. 210",
+      "HT 127b": "1, p. 218",
+      "HT 13": "1, p. 28",
+      "HT 131b": "1, p. 226",
+      "HT 15": "1, p. 32",
+      "HT 17": "1, p. 36",
+      "HT 19": "1, p. 40",
+      "HT 25b": "1, p. 52",
+      "HT 27a": "1, p. 56",
+      "HT 30": "1, p. 62",
+      "HT 34": "1, p. 70",
+      "HT 37": "1, p. 76",
+      "HT 39": "1, p. 80",
+      "HT 40": "1, p. 82",
+      "HT 46a": "1, p. 94",
+      "HT 47a": "1, p. 96",
+      "HT 55a": "1, p. 112",
+      "HT 67": "1, p. 130",
+      "HT 74": "1, p. 136",
+      "HT 85a": "1, p. 146",
+      "HT 88": "1, p. 152",
+      "HT 89": "1, p. 154",
+      "HT 93b": "1, p. 160",
+      "HT 94a": "1, p. 164",
+      "HT 94b": "1, p. 164",
+      "HT 96a": "1, p. 168",
+      "HT 9a": "1, p. 18",
+      "HT 9b": "1, p. 18",
+      "HT Wc 3003": "2, p. 88",
+      "HT Wc 3012": "2, p. 92",
+      "HT Wc 3012b": "2, p. 92",
+      "KH Wa 1013": "3, p. 112",
+      "KH Wa 1014": "3, p. 112",
+      "KH Wa 1015": "3, p. 114",
+      "KH Wa 1016": "3, p. 114",
+      "PH (?)31a": "1, p. 318",
+      "PH 31a": "1, p. 318",
+      "ZA 15b": "3, p. 182",
+      "ZA 1b": "1, p. 332",
+      "ZA 8": "3, p. 164"
+    },
+    "gorila_attestations": 59,
+    "museum_inventory_samples": {
+      "ARKH 4b": "HM 1670",
+      "ARKH 5": "HM 1674",
+      "HT 1": "HM 3",
+      "HT 100": "HM 1331",
+      "HT 102": "HM 1333"
+    }
+  },
+  "-ra": {
+    "meaning": "nominal suffix (agents, categories)",
+    "confidence": "MEDIUM",
+    "frequency": 100,
+    "word_class": "suffix",
+    "evidence": [
+      "79% word-final position",
+      "75% tablets, 16% nodules",
+      "sa-ra, i-ra, pu-ra, da-qe-ra"
+    ],
+    "gorila_refs": {
+      "ARKH 1a": "3, p. 2",
+      "HT 100": "1, p. 176",
+      "HT 101": "1, p. 176",
+      "HT 102": "1, p. 176",
+      "HT 103": "1, p. 178",
+      "HT 114a": "1, p. 186",
+      "HT 116a": "1, p. 192",
+      "HT 117a": "1, p. 196",
+      "HT 11a": "1, p. 22",
+      "HT 11b": "1, p. 22",
+      "HT 120": "1, p. 204",
+      "HT 121": "1, p. 206",
+      "HT 122a": "1, p. 206",
+      "HT 128a": "1, p. 220",
+      "HT 130": "1, p. 224",
+      "HT 139": "1, p. 234",
+      "HT 18": "1, p. 38",
+      "HT 23b": "1, p. 48",
+      "HT 25a": "1, p. 52",
+      "HT 27a": "1, p. 56",
+      "HT 28a": "1, p. 58",
+      "HT 28b": "1, p. 58",
+      "HT 30": "1, p. 62",
+      "HT 31": "1, p. 64",
+      "HT 32": "1, p. 66",
+      "HT 33": "1, p. 68",
+      "HT 34": "1, p. 70",
+      "HT 49a": "1, p. 100",
+      "HT 53a": "1, p. 108",
+      "HT 54a": "1, p. 110",
+      "HT 57a": "1, p. 116",
+      "HT 6a": "1, p. 12",
+      "HT 80": "1, p. 142",
+      "HT 89": "1, p. 154",
+      "HT 8a": "1, p. 16",
+      "HT 90": "1, p. 156",
+      "HT 93a": "1, p. 160",
+      "HT 94a": "1, p. 164",
+      "HT 96a": "1, p. 168",
+      "HT 97b": "1, p. 170",
+      "HT 99a": "1, p. 174",
+      "HT 9a": "1, p. 18",
+      "HT 9b": "1, p. 18",
+      "HT Wc 3006": "2, p. 90",
+      "HT Wc 3006b": "2, p. 90",
+      "HT Wc 3011": "2, p. 90",
+      "HT Wc 3012": "2, p. 92",
+      "HT Wc 3012a": "2, p. 92",
+      "KH 20": "3, p. 52",
+      "KN Wc 30": "2, p. 85",
+      "KN Zf 31": "4, p. 154",
+      "MA 2a": "1, p. 270",
+      "PH 3a": "1, p. 290",
+      "PH 7a": "1, p. 294",
+      "PH 7b": "1, p. 294",
+      "PK Za 4": "4, p. 23",
+      "ZA 20": "3, p. 192",
+      "ZA 6a": "3, p. 156",
+      "ZA 8": "3, p. 164",
+      "ZA 9": "3, p. 166"
+    },
+    "gorila_attestations": 60,
+    "museum_inventory_samples": {
+      "ARKH 1a": "HM 1668 [+] 1669 [+]",
+      "HT 100": "HM 1331",
+      "HT 101": "HM 1332",
+      "HT 102": "HM 1333",
+      "HT 103": "HM 1334"
+    }
+  },
+  "-te": {
+    "meaning": "dative / locative case marker",
+    "confidence": "MEDIUM",
+    "frequency": 36,
+    "word_class": "suffix",
+    "evidence": [
+      "100% on tablets",
+      "72% with ideograms",
+      "mi-nu-te, ma-ka-ri-te, ta-na-te, a-di-ki-te",
+      "i-da-ma-te (locative? 'at/of Ida mother')"
+    ],
+    "gorila_refs": {
+      "AP Za 2": "4, p. 4",
+      "AR Zf 1": "4, p. 142",
+      "AR Zf 2": "4, p. 143",
+      "ARKH 2": "3, p. 6",
+      "ARKH 4a": "3, p. 12",
+      "HT 106": "1, p. 180",
+      "HT 116a": "1, p. 192",
+      "HT 117a": "1, p. 196",
+      "HT 12": "1, p. 26",
+      "HT 26a": "1, p. 54",
+      "HT 34": "1, p. 70",
+      "HT 4": "1, p. 8",
+      "HT 86a": "1, p. 148",
+      "HT 87": "1, p. 150",
+      "HT 94b": "1, p. 164",
+      "HT 95a": "1, p. 166",
+      "HT 95b": "1, p. 166",
+      "HT 96a": "1, p. 168",
+      "HT 98b": "1, p. 172",
+      "IO Za 2": "4, p. 8",
+      "KH 10": "3, p. 40",
+      "KH 6": "3, p. 32",
+      "KOZ a1": "4, p. 18",
+      "MA Ze 11": "4, p. 140",
+      "PH Zb 4": "4, p. 93",
+      "PK 1": "1, p. 280",
+      "PK Za 11": "4, p. 32",
+      "PK Za 12": "4, p. 36",
+      "PYR 1": "1, p. 322",
+      "SY Za 3": "5, p. 66",
+      "TL Za 1": "4, p. 58",
+      "VRY Za 1": "4, p. 61",
+      "ZA 10a": "3, p. 168",
+      "ZA 10b": "3, p. 168",
+      "ZA 19": "3, p. 192",
+      "ZA 23": "3, p. 200",
+      "ZA 26a": "3, p. 202",
+      "ZA 29": "3, p. 206",
+      "ZA 9": "3, p. 166"
+    },
+    "gorila_attestations": 39,
+    "museum_inventory_samples": {
+      "AP Za 2": "HM 2479 [+] 2480",
+      "AR Zf 1": "Boston M. 58.1009",
+      "AR Zf 2": "HM 626",
+      "ARKH 2": "HM 1673",
+      "ARKH 4a": "HM 1670"
+    }
+  },
+  "-ja": {
+    "meaning": "adjectival / ethnic suffix",
+    "confidence": "MEDIUM",
+    "frequency": 46,
+    "word_class": "suffix",
+    "evidence": [
+      "72% tablets, 17% roundels",
+      "se-to-i-ja (Siteia), pa-se-ja, su-ki-ri-te-i-ja",
+      "Parallels Linear B -ja ethnic/adjectival"
+    ],
+    "gorila_refs": {
+      "AP Za 1": "4, p. 2",
+      "CR (?)Zf1": "4, p. 146",
+      "HT 115b": "1, p. 188",
+      "HT 116a": "1, p. 192",
+      "HT 119": "1, p. 202",
+      "HT 11a": "1, p. 22",
+      "HT 126a": "1, p. 216",
+      "HT 154A": "1, p. 242",
+      "HT 154a": "1, p. 242",
+      "HT 24a": "1, p. 50",
+      "HT 28a": "1, p. 58",
+      "HT 3": "1, p. 6",
+      "HT 41a": "1, p. 84",
+      "HT 55b": "1, p. 112",
+      "HT 6a": "1, p. 12",
+      "HT 7a": "1, p. 14",
+      "HT 85b": "1, p. 146",
+      "HT 93a": "1, p. 160",
+      "HT Wc 3001": "2, p. 88",
+      "HT Wc 3002": "2, p. 88",
+      "HT Zb 158b": "1, p. 248",
+      "IO Za 2": "4, p. 8",
+      "IO Za 3": "4, p. 10",
+      "IO Za 5": "4, p. 12",
+      "IO Za 7": "4, p. 14",
+      "IO Za 8": "4, p. 14",
+      "KH 10": "3, p. 40",
+      "KH 14": "3, p. 46",
+      "KN Wc 26": "4, p. 56",
+      "KN Wc 26a": "4, p. 56",
+      "KN Za 10": "4, p. 8",
+      "KOZ a1": "4, p. 18",
+      "MA 4b": "1, p. 272",
+      "PH 18a": "1, p. 308",
+      "PH 1a": "1, p. 286",
+      "PH 28a": "1, p. 314",
+      "PH 7a": "1, p. 294",
+      "PK 1": "1, p. 280",
+      "PK Za 12": "4, p. 36",
+      "PK Za 16": "4, p. 42",
+      "PK Za 18": "4, p. 44",
+      "PK Zc 13": "4, p. 127",
+      "PR Za 1": "4, p. 46",
+      "SY Za 1": "5, p. 62",
+      "SY Za 2": "5, p. 64",
+      "SY Za 3": "5, p. 66",
+      "TL Za 1": "4, p. 58",
+      "TRA Zb 1": "4, p. 107",
+      "ZA 4a": "3, p. 148",
+      "ZA Zb 34": "4, p. 114"
+    },
+    "gorila_attestations": 50,
+    "museum_inventory_samples": {
+      "AP Za 1": "HM 2478",
+      "CR (?)Zf1": "A. Nik. M. 9675",
+      "HT 115b": "HM 1360",
+      "HT 116a": "HM 1361",
+      "HT 119": "HM 1362"
+    }
+  },
+  "-me": {
+    "meaning": "possessive 'my'",
+    "confidence": "MEDIUM",
+    "frequency": 8,
+    "word_class": "suffix",
+    "evidence": [
+      "ja-sa-sa-ra-me ('my lady')",
+      "da-me (possibly 'my assessment')",
+      "Low frequency but consistent ritual+admin pattern"
+    ],
+    "gorila_refs": {
+      "HT 120": "1, p. 204",
+      "HT 128a": "1, p. 220",
+      "HT 23a": "1, p. 48",
+      "HT 86a": "1, p. 148",
+      "HT 95a": "1, p. 166",
+      "HT Wc 3024": "2, p. 96",
+      "IO Za 2": "4, p. 8",
+      "IO Za 6": "4, p. 12",
+      "KH 7a": "3, p. 34",
+      "PK Za 11": "4, p. 32",
+      "PK Za 12": "4, p. 36",
+      "PK Za 14": "4, p. 40",
+      "PL Zf 1": "4, p. 161",
+      "PR Za 1": "4, p. 46",
+      "PS Za 2": "4, p. 52",
+      "TL Za 1": "4, p. 58",
+      "ZA 21b": "3, p. 194"
+    },
+    "gorila_attestations": 17,
+    "museum_inventory_samples": {
+      "HT 120": "HM 1363",
+      "HT 128a": "HM —",
+      "HT 23a": "HM 26",
+      "HT 86a": "HM 1311",
+      "HT 95a": "HM 1320"
+    }
+  },
+  "-na": {
+    "meaning": "genitive or agentive suffix",
+    "confidence": "LOW",
+    "frequency": 59,
+    "word_class": "suffix",
+    "evidence": [
+      "86% word-final position",
+      "64% with ideograms",
+      "ki-re-ta-na, ka-na, *56-ni-na"
+    ],
+    "gorila_refs": {
+      "ARKH 1b": "3, p. 2",
+      "ARKH 5": "3, p. 16",
+      "HT 102": "1, p. 176",
+      "HT 103": "1, p. 178",
+      "HT 108": "1, p. 180",
+      "HT 10b": "1, p. 20",
+      "HT 115a": "1, p. 188",
+      "HT 115b": "1, p. 188",
+      "HT 11a": "1, p. 22",
+      "HT 11b": "1, p. 22",
+      "HT 120": "1, p. 204",
+      "HT 123b": "1, p. 210",
+      "HT 126a": "1, p. 216",
+      "HT 135a": "1, p. 230",
+      "HT 2": "1, p. 4",
+      "HT 23a": "1, p. 48",
+      "HT 26a": "1, p. 54",
+      "HT 28b": "1, p. 58",
+      "HT 3": "1, p. 6",
+      "HT 31": "1, p. 64",
+      "HT 37": "1, p. 76",
+      "HT 64": "1, p. 128",
+      "HT 6b": "1, p. 12",
+      "HT 88": "1, p. 152",
+      "HT 8a": "1, p. 16",
+      "HT 90": "1, p. 156",
+      "HT 93a": "1, p. 160",
+      "HT 98a": "1, p. 172",
+      "HT Wc 3014a": "2, p. 92",
+      "KH 36": "3, p. 62",
+      "KH 40": "3, p. 68",
+      "KH 5": "3, p. 30",
+      "KH 59": "3, p. 80",
+      "KN 2": "1, p. 258",
+      "KN 22c": "4, p. 260",
+      "KN Za 19": "4, p. 14",
+      "MA 2c": "1, p. 270",
+      "PH 16a": "1, p. 306",
+      "PH 1a": "1, p. 286",
+      "PK 1": "1, p. 280",
+      "PK Za 10": "4, p. 30",
+      "PK Za 11": "4, p. 32",
+      "PL Zf 1": "4, p. 161",
+      "THE Zb 2": "4, p. 102",
+      "TL Za 1": "4, p. 58",
+      "ZA 10a": "3, p. 168",
+      "ZA 15a": "3, p. 182",
+      "ZA 6a": "3, p. 156",
+      "ZA 9": "3, p. 166",
+      "ZA Zb 3": "4, p. 112"
+    },
+    "gorila_attestations": 50,
+    "museum_inventory_samples": {
+      "ARKH 1b": "HM 1668 [+] 1669 [+]",
+      "ARKH 5": "HM 1674",
+      "HT 102": "HM 1333",
+      "HT 103": "HM 1334",
+      "HT 108": "HM 1339"
+    }
+  },
+  "-ne": {
+    "meaning": "dative plural? or locative variant",
+    "confidence": "LOW",
+    "frequency": 32,
+    "word_class": "suffix",
+    "evidence": [
+      "91% word-final position",
+      "qi-tu-ne, pa-ta-ne, pa-ra-ne"
+    ],
+    "gorila_refs": {
+      "ARKH 1a": "3, p. 2",
+      "ARKH 3a": "3, p. 8",
+      "HT 103": "1, p. 178",
+      "HT 115a": "1, p. 188",
+      "HT 115b": "1, p. 188",
+      "HT 116a": "1, p. 192",
+      "HT 117b": "1, p. 196",
+      "HT 12": "1, p. 26",
+      "HT 122a": "1, p. 206",
+      "HT 135a": "1, p. 230",
+      "HT 135b": "1, p. 230",
+      "HT 29": "1, p. 60",
+      "HT 53a": "1, p. 108",
+      "HT 6a": "1, p. 12",
+      "HT 7b": "1, p. 14",
+      "HT 87": "1, p. 150",
+      "HT 94b": "1, p. 164",
+      "HT 96a": "1, p. 168",
+      "HT 96b": "1, p. 168",
+      "KH 47": "3, p. 72",
+      "KH 5": "3, p. 30",
+      "KH 53": "3, p. 76",
+      "KH 6": "3, p. 32",
+      "KH 83": "3, p. 84",
+      "KN Zf 31": "4, p. 154",
+      "PH 7a": "1, p. 294",
+      "PK Za 11": "4, p. 32",
+      "PK Za 12": "4, p. 36",
+      "SK Zb 1": "4, p. 98",
+      "THE Zb 3": "4, p. 103",
+      "ZA Zb 3": "4, p. 112"
+    },
+    "gorila_attestations": 31,
+    "museum_inventory_samples": {
+      "ARKH 1a": "HM 1668 [+] 1669 [+]",
+      "ARKH 3a": "HM 1675",
+      "HT 103": "HM 1334",
+      "HT 115a": "HM 1360",
+      "HT 115b": "HM 1360"
+    }
+  },
+  "-se": {
+    "meaning": "instrumental? or ablative?",
+    "confidence": "LOW",
+    "frequency": 36,
+    "word_class": "suffix",
+    "evidence": [
+      "90% word-final position",
+      "du-re-za-se (3x), a-se, di-ki-se"
+    ],
+    "gorila_refs": {
+      "GO Wc 1a": "2, p. 2",
+      "HT 117b": "1, p. 196",
+      "HT 132": "1, p. 226",
+      "HT 18": "1, p. 38",
+      "HT 21": "1, p. 44",
+      "HT 27b": "1, p. 56",
+      "HT 6b": "1, p. 12",
+      "HT 81": "1, p. 142",
+      "HT 85b": "1, p. 146",
+      "HT 87": "1, p. 150",
+      "HT 93a": "1, p. 160",
+      "HT Zb 159": "1, p. 248",
+      "KH 7b": "3, p. 34",
+      "KN Wb 33": "2, p. 82",
+      "KN Wb 33b": "2, p. 82",
+      "ZA 10a": "3, p. 168",
+      "ZA 10b": "3, p. 168",
+      "ZA 14": "3, p. 180",
+      "ZA 15a": "3, p. 182",
+      "ZA 20": "3, p. 192",
+      "ZA 4a": "3, p. 148",
+      "ZA 5a": "3, p. 152",
+      "ZA 6a": "3, p. 156",
+      "ZA 8": "3, p. 164",
+      "ZA Zb 3": "4, p. 112"
+    },
+    "gorila_attestations": 25,
+    "museum_inventory_samples": {
+      "GO Wc 1a": "HM 83",
+      "HT 117b": "HM 1364",
+      "HT 132": "HM —",
+      "HT 18": "HM 21",
+      "HT 21": "HM 24"
+    }
+  },
+  "__metadata__": {
+    "gorila_footnote_integration_date": "2026-04-05",
+    "enriched_entries": 47,
+    "total_entries": 51,
+    "notes": "Each lexical entry now carries gorila_refs: a mapping of corpus document id to the GORILA volume/page citation where that document is published. Suffix entries (starting with '-') aggregate citations across all words ending with that suffix.",
+    "source": "linked via linear_a/data/corpus.json words[] field after corpus enrichment from gorila_concordances_full.json",
+    "frequency_refresh_date": "2026-04-12",
+    "frequency_refresh_note": "Frequencies updated to token counts from post-dedup corpus.json. Sites updated from corpus.json site field."
+  }
+}

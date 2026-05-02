@@ -1,0 +1,133 @@
+{
+  "source_file": "references/core/RILA_Supplement_2025_Index_Only.pdf",
+  "source_sha1": "5ddddc024314a7638f4b34078f5fcd3f167d3cd4",
+  "extraction_status": "partial",
+  "confidence": "partial-structural-extract",
+  "note": "This PDF is not a full concordance dump. It appears to contain front matter and table-of-contents material only. Full concordance pages are not present in the available artifact.",
+  "document_type_groups": [
+    {
+      "type_code": "Tablettes",
+      "roman_numeral": "I",
+      "sites": [
+        {"name": "Gournia", "page": 5},
+        {"name": "Kea", "page": 9},
+        {"name": "Khania", "page": 13},
+        {"name": "Knossos", "page": 33},
+        {"name": "Petras", "page": 37},
+        {"name": "Phaistos", "page": 45},
+        {"name": "Thera", "page": 49}
+      ]
+    },
+    {
+      "type_code": "Wa_Wb_We_Wc_Wy",
+      "label": "Nodules (Wa, Wb, We), Rondelles (Wc), Documents divers (Wy)",
+      "roman_numeral": "II",
+      "sites": [
+        {"name": "Gournia", "subtypes": ["Wc"], "page": 58},
+        {"name": "Haghia Triada", "subtypes": ["Wc"], "page": 58},
+        {"name": "Khania", "subtypes": ["Wc"], "page": 59},
+        {"name": "Knossos", "subtypes": ["Wa", "Wc"], "page": 63},
+        {"name": "Palaikastro", "subtypes": ["Wy"], "page": 64},
+        {"name": "Petras", "subtypes": ["Wy"], "page": 65},
+        {"name": "Phaistos", "subtypes": ["Wa"], "page": 65},
+        {"name": "Pyrgos", "subtypes": ["Wc"], "page": 66},
+        {"name": "Samothrace", "subtypes": ["We"], "page": 67},
+        {"name": "Zakros", "subtypes": ["Wa", "Wb"], "page": 68}
+      ]
+    },
+    {
+      "type_code": "Za",
+      "label": "Inscriptions sur vases de pierre",
+      "roman_numeral": "III",
+      "sites": [
+        {"name": "Iouktas", "page": 70},
+        {"name": "Kythera", "page": 78},
+        {"name": "Palaikastro", "page": 79},
+        {"name": "Symi", "page": 82}
+      ]
+    },
+    {
+      "type_code": "Zb",
+      "label": "Inscriptions incisees sur vases d'argile",
+      "roman_numeral": "IV",
+      "sites": [
+        {"name": "Haghia Triada", "page": 94},
+        {"name": "Kalo Khoraphi", "page": 95},
+        {"name": "Khania", "page": 96},
+        {"name": "Knossos", "page": 97},
+        {"name": "Malia", "page": 100},
+        {"name": "Milet", "page": 101},
+        {"name": "Palaikastro", "page": 105},
+        {"name": "Petras", "page": 111},
+        {"name": "Pseira", "page": 113},
+        {"name": "Symi", "page": 114},
+        {"name": "Thera", "page": 115}
+      ]
+    },
+    {
+      "type_code": "Zc",
+      "label": "Inscriptions peintes sur vases d'argile",
+      "roman_numeral": "V",
+      "sites": [
+        {"name": "Arkhanes", "page": 120},
+        {"name": "Khania", "page": 122},
+        {"name": "Petras", "page": 123},
+        {"name": "Skoteino", "page": 124}
+      ]
+    },
+    {
+      "type_code": "Zf",
+      "label": "Inscriptions sur supports metalliques",
+      "roman_numeral": "VI",
+      "sites": [
+        {"name": "Arkhanes", "page": 128},
+        {"name": "Mokhlos", "page": 129},
+        {"name": "Poros Herakleiou", "page": 130}
+      ]
+    },
+    {
+      "type_code": "Zg",
+      "label": "Inscriptions sur supports varies",
+      "roman_numeral": "VII",
+      "sites": [
+        {"name": "Crete (?)", "page": 132},
+        {"name": "Haghia Triada", "page": 133},
+        {"name": "Knossos", "page": 133},
+        {"name": "Poros Herakleiou", "page": 134},
+        {"name": "Thera", "page": 136},
+        {"name": "Zakros", "page": 137}
+      ]
+    }
+  ],
+  "doubtful_inscriptions": {
+    "label": "Inscriptions douteuses",
+    "entries": [
+      {"id": "D 1", "site": "Knossos", "page": 142, "group": "Rondelles et documents divers"},
+      {"id": "D 2", "site": "Knossos", "page": 142, "group": "Rondelles et documents divers"},
+      {"id": "D 3", "site": "Tylissos", "page": 143, "group": "Rondelles et documents divers"},
+      {"id": "D 4", "site": "Nerokourou", "page": 146, "group": "Inscriptions sur vases de pierre"},
+      {"id": "D 5", "site": "Tel Lachish", "page": 147, "group": "Inscriptions sur vases de pierre"},
+      {"id": "D 6", "site": "Vrysinas", "page": 148, "group": "Inscriptions sur vases de pierre"},
+      {"id": "D 7", "site": "Inatos", "page": 150, "group": "Inscriptions incisees sur vases d'argile"},
+      {"id": "D 8", "site": "Knossos", "page": 151, "group": "Inscriptions incisees sur vases d'argile"},
+      {"id": "D 9", "site": "Milos", "page": 152, "group": "Inscriptions incisees sur vases d'argile"},
+      {"id": "<D 10>", "site": "Palaikastro", "page": 153, "group": "Inscriptions incisees sur vases d'argile"},
+      {"id": "D 11", "site": "Phaistos", "page": 154, "group": "Inscriptions incisees sur vases d'argile"},
+      {"id": "D 12", "site": "Pyrgos", "page": 155, "group": "Inscriptions incisees sur vases d'argile"},
+      {"id": "D 13", "site": "Tel Haror", "page": 156, "group": "Inscriptions incisees sur vases d'argile"},
+      {"id": "D 14", "site": "Thera", "page": 157, "group": "Inscriptions incisees sur vases d'argile"},
+      {"id": "D 15", "site": "Thera", "page": 157, "group": "Inscriptions incisees sur vases d'argile"},
+      {"id": "D 16", "site": "Tirynthe", "page": 159, "group": "Inscriptions incisees sur vases d'argile"},
+      {"id": "D 17", "site": "Vrysinas", "page": 160, "group": "Inscriptions incisees sur vases d'argile"},
+      {"id": "D 18", "site": "Vrysinas", "page": 160, "group": "Inscriptions incisees sur vases d'argile"}
+    ]
+  },
+  "missing_from_available_pdf": [
+    "complete concordance generale",
+    "complete concordance typologique",
+    "complete concordance geographique",
+    "complete concordance museographique",
+    "normal supplement document IDs beyond visible doubtful-inscription entries",
+    "museum holdings mapping for all supplement documents"
+  ]
+}

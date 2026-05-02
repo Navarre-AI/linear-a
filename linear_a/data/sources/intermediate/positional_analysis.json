@@ -1,0 +1,270 @@
+{
+  "bigram_total": 2602,
+  "bigram_unique": 1273,
+  "top_bigrams": [
+    {
+      "pair": "ku-ro",
+      "count": 38
+    },
+    {
+      "pair": "sa-ra",
+      "count": 24
+    },
+    {
+      "pair": "ki-ro",
+      "count": 17
+    },
+    {
+      "pair": "a-du",
+      "count": 15
+    },
+    {
+      "pair": "ta-na",
+      "count": 15
+    },
+    {
+      "pair": "ku-*56",
+      "count": 13
+    },
+    {
+      "pair": "di-na",
+      "count": 12
+    },
+    {
+      "pair": "ku-pa",
+      "count": 11
+    },
+    {
+      "pair": "ru-ku",
+      "count": 11
+    },
+    {
+      "pair": "da-re",
+      "count": 10
+    },
+    {
+      "pair": "mi-na",
+      "count": 10
+    },
+    {
+      "pair": "ru-ma",
+      "count": 10
+    },
+    {
+      "pair": "pa-ja",
+      "count": 10
+    },
+    {
+      "pair": "re-ta",
+      "count": 9
+    },
+    {
+      "pair": "ku-ni",
+      "count": 9
+    },
+    {
+      "pair": "ta-i",
+      "count": 9
+    },
+    {
+      "pair": "re-za",
+      "count": 9
+    },
+    {
+      "pair": "a-ra",
+      "count": 8
+    },
+    {
+      "pair": "ra-a",
+      "count": 8
+    },
+    {
+      "pair": "*56-nu",
+      "count": 8
+    },
+    {
+      "pair": "ro-ku",
+      "count": 8
+    },
+    {
+      "pair": "re-ku",
+      "count": 8
+    },
+    {
+      "pair": "ma-di",
+      "count": 8
+    },
+    {
+      "pair": "i-ra",
+      "count": 8
+    },
+    {
+      "pair": "a-si",
+      "count": 7
+    },
+    {
+      "pair": "qe-ra",
+      "count": 7
+    },
+    {
+      "pair": "ka-ku",
+      "count": 7
+    },
+    {
+      "pair": "ki-ra",
+      "count": 7
+    },
+    {
+      "pair": "ki-re",
+      "count": 7
+    },
+    {
+      "pair": "sa-ru",
+      "count": 7
+    },
+    {
+      "pair": "nu-ma",
+      "count": 7
+    },
+    {
+      "pair": "mi-nu",
+      "count": 7
+    },
+    {
+      "pair": "a-ri",
+      "count": 7
+    },
+    {
+      "pair": "mi-da",
+      "count": 7
+    },
+    {
+      "pair": "da-ka",
+      "count": 7
+    },
+    {
+      "pair": "na-u",
+      "count": 7
+    },
+    {
+      "pair": "pi-ta",
+      "count": 7
+    },
+    {
+      "pair": "pa-ta",
+      "count": 7
+    },
+    {
+      "pair": "du-re",
+      "count": 7
+    },
+    {
+      "pair": "ja-re",
+      "count": 6
+    },
+    {
+      "pair": "su-pu",
+      "count": 6
+    },
+    {
+      "pair": "ni-ta",
+      "count": 6
+    },
+    {
+      "pair": "ka-pa",
+      "count": 6
+    },
+    {
+      "pair": "*56-ni",
+      "count": 6
+    },
+    {
+      "pair": "i-ka",
+      "count": 6
+    },
+    {
+      "pair": "da-ku",
+      "count": 6
+    },
+    {
+      "pair": "pa-da",
+      "count": 6
+    },
+    {
+      "pair": "sa-ma",
+      "count": 6
+    },
+    {
+      "pair": "ti-da",
+      "count": 6
+    },
+    {
+      "pair": "ri-ta",
+      "count": 6
+    }
+  ],
+  "initial_signs": {
+    "a": 163,
+    "ku": 99,
+    "i": 70,
+    "ka": 64,
+    "da": 63,
+    "sa": 60,
+    "ki": 52,
+    "pa": 52,
+    "si": 45,
+    "ja": 41,
+    "ta": 35,
+    "ma": 35,
+    "di": 33,
+    "u": 33,
+    "du": 28,
+    "ra": 27,
+    "qa": 27,
+    "mi": 22,
+    "qe": 22,
+    "ru": 20,
+    "te": 20,
+    "pi": 19,
+    "tu": 18,
+    "ti": 17,
+    "re": 16,
+    "su": 16,
+    "qi": 15,
+    "wa": 14,
+    "*79": 13,
+    "pu": 12
+  },
+  "final_signs": {
+    "ro": 103,
+    "ra": 100,
+    "na": 59,
+    "re": 59,
+    "ta": 54,
+    "ka": 47,
+    "ja": 46,
+    "ti": 44,
+    "te": 36,
+    "se": 36,
+    "ru": 34,
+    "mi": 33,
+    "ne": 32,
+    "tu": 32,
+    "du": 31,
+    "pa": 30,
+    "di": 30,
+    "ma": 29,
+    "si": 29,
+    "i": 26,
+    "ki": 26,
+    "ni": 24,
+    "ju": 23,
+    "ri": 22,
+    "za": 21,
+    "nu": 19,
+    "da": 19,
+    "*118": 17,
+    "a": 16,
+    "pi": 15
+  }
+}

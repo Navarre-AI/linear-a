@@ -1,0 +1,1587 @@
+{
+  "method": "cosine similarity on sign-type frequency vectors",
+  "reference_hand_filter": "scribe_profiles.json hands with >=20 total sign tokens",
+  "test_filter": "HT tablets with no gorila_scribe and >=10 sign tokens",
+  "warning": "Attributions are speculative. A high margin indicates the top hand is distinctly closer than other hands on sign inventory alone; it does NOT establish paleographic identity and should be treated as a lead for further verification, not a conclusion.",
+  "reference_hands": [
+    "1 ARKH",
+    "1 KH",
+    "1 ZA",
+    "10 HT",
+    "11 HT",
+    "12 HT",
+    "2 HT",
+    "2 ZA",
+    "3 HT",
+    "3 ZA",
+    "4 HT",
+    "4 ZA",
+    "5 ZA",
+    "6 HT",
+    "8 HT",
+    "9 HT"
+  ],
+  "n_tests": 78,
+  "results": [
+    {
+      "doc_id": "HT 11b",
+      "sign_count": 18,
+      "top3": [
+        {
+          "scribe": "12 HT",
+          "cosine": 0.5477225575051661
+        },
+        {
+          "scribe": "9 HT",
+          "cosine": 0.30500616688511667
+        },
+        {
+          "scribe": "5 ZA",
+          "cosine": 0.2941742027072761
+        }
+      ],
+      "margin_top1_top2": 0.2427163906200494,
+      "confidence": "high"
+    },
+    {
+      "doc_id": "HT 90",
+      "sign_count": 19,
+      "top3": [
+        {
+          "scribe": "4 HT",
+          "cosine": 0.5588005588008381
+        },
+        {
+          "scribe": "9 HT",
+          "cosine": 0.408279792097976
+        },
+        {
+          "scribe": "3 HT",
+          "cosine": 0.363191956059829
+        }
+      ],
+      "margin_top1_top2": 0.15052076670286213,
+      "confidence": "high"
+    },
+    {
+      "doc_id": "HT 94b",
+      "sign_count": 24,
+      "top3": [
+        {
+          "scribe": "9 HT",
+          "cosine": 0.5813537894661276
+        },
+        {
+          "scribe": "3 HT",
+          "cosine": 0.4325479624958397
+        },
+        {
+          "scribe": "6 HT",
+          "cosine": 0.43159530790304146
+        }
+      ],
+      "margin_top1_top2": 0.14880582697028788,
+      "confidence": "medium"
+    },
+    {
+      "doc_id": "HT 47a",
+      "sign_count": 16,
+      "top3": [
+        {
+          "scribe": "9 HT",
+          "cosine": 0.5871063528845625
+        },
+        {
+          "scribe": "4 ZA",
+          "cosine": 0.4429403980178327
+        },
+        {
+          "scribe": "6 HT",
+          "cosine": 0.40585385168540034
+        }
+      ],
+      "margin_top1_top2": 0.14416595486672978,
+      "confidence": "medium"
+    },
+    {
+      "doc_id": "HT 110a",
+      "sign_count": 12,
+      "top3": [
+        {
+          "scribe": "9 HT",
+          "cosine": 0.49881968327786136
+        },
+        {
+          "scribe": "3 HT",
+          "cosine": 0.35668818750321063
+        },
+        {
+          "scribe": "5 ZA",
+          "cosine": 0.3508232077228117
+        }
+      ],
+      "margin_top1_top2": 0.14213149577465073,
+      "confidence": "medium"
+    },
+    {
+      "doc_id": "HT 28b",
+      "sign_count": 28,
+      "top3": [
+        {
+          "scribe": "5 ZA",
+          "cosine": 0.4833775399766173
+        },
+        {
+          "scribe": "4 HT",
+          "cosine": 0.348286898175714
+        },
+        {
+          "scribe": "10 HT",
+          "cosine": 0.34815531191139565
+        }
+      ],
+      "margin_top1_top2": 0.1350906418009033,
+      "confidence": "medium"
+    },
+    {
+      "doc_id": "HT 40",
+      "sign_count": 12,
+      "top3": [
+        {
+          "scribe": "9 HT",
+          "cosine": 0.5712171403205627
+        },
+        {
+          "scribe": "3 HT",
+          "cosine": 0.44137911326715323
+        },
+        {
+          "scribe": "6 HT",
+          "cosine": 0.41943524640393
+        }
+      ],
+      "margin_top1_top2": 0.12983802705340947,
+      "confidence": "medium"
+    },
+    {
+      "doc_id": "HT 3",
+      "sign_count": 23,
+      "top3": [
+        {
+          "scribe": "9 HT",
+          "cosine": 0.5055224299331326
+        },
+        {
+          "scribe": "3 HT",
+          "cosine": 0.37693422898831647
+        },
+        {
+          "scribe": "5 ZA",
+          "cosine": 0.35938727423232897
+        }
+      ],
+      "margin_top1_top2": 0.1285882009448161,
+      "confidence": "medium"
+    },
+    {
+      "doc_id": "HT 26a",
+      "sign_count": 13,
+      "top3": [
+        {
+          "scribe": "4 ZA",
+          "cosine": 0.5025460700797014
+        },
+        {
+          "scribe": "9 HT",
+          "cosine": 0.3820171437177079
+        },
+        {
+          "scribe": "3 ZA",
+          "cosine": 0.34914862437758787
+        }
+      ],
+      "margin_top1_top2": 0.12052892636199353,
+      "confidence": "medium"
+    },
+    {
+      "doc_id": "HT 27b",
+      "sign_count": 18,
+      "top3": [
+        {
+          "scribe": "5 ZA",
+          "cosine": 0.39223227027636814
+        },
+        {
+          "scribe": "4 ZA",
+          "cosine": 0.2759096339857056
+        },
+        {
+          "scribe": "9 HT",
+          "cosine": 0.257626568145681
+        }
+      ],
+      "margin_top1_top2": 0.11632263629066253,
+      "confidence": "medium"
+    },
+    {
+      "doc_id": "HT 127b",
+      "sign_count": 11,
+      "top3": [
+        {
+          "scribe": "9 HT",
+          "cosine": 0.4081766867992829
+        },
+        {
+          "scribe": "6 HT",
+          "cosine": 0.2937396106403356
+        },
+        {
+          "scribe": "3 HT",
+          "cosine": 0.25459484458023757
+        }
+      ],
+      "margin_top1_top2": 0.11443707615894727,
+      "confidence": "medium"
+    },
+    {
+      "doc_id": "HT 9b",
+      "sign_count": 26,
+      "top3": [
+        {
+          "scribe": "9 HT",
+          "cosine": 0.5202830894429443
+        },
+        {
+          "scribe": "2 ZA",
+          "cosine": 0.42521003213538056
+        },
+        {
+          "scribe": "1 ARKH",
+          "cosine": 0.40504629365049144
+        }
+      ],
+      "margin_top1_top2": 0.09507305730756377,
+      "confidence": "medium"
+    },
+    {
+      "doc_id": "HT 18",
+      "sign_count": 11,
+      "top3": [
+        {
+          "scribe": "4 HT",
+          "cosine": 0.31701147915435607
+        },
+        {
+          "scribe": "10 HT",
+          "cosine": 0.22299786933522422
+        },
+        {
+          "scribe": "1 ZA",
+          "cosine": 0.21663658034191347
+        }
+      ],
+      "margin_top1_top2": 0.09401360981913184,
+      "confidence": "medium"
+    },
+    {
+      "doc_id": "HT 12",
+      "sign_count": 19,
+      "top3": [
+        {
+          "scribe": "11 HT",
+          "cosine": 0.4703170810017723
+        },
+        {
+          "scribe": "3 HT",
+          "cosine": 0.38526727556556506
+        },
+        {
+          "scribe": "9 HT",
+          "cosine": 0.3269502930554492
+        }
+      ],
+      "margin_top1_top2": 0.08504980543620722,
+      "confidence": "medium"
+    },
+    {
+      "doc_id": "HT 8b",
+      "sign_count": 20,
+      "top3": [
+        {
+          "scribe": "10 HT",
+          "cosine": 0.4264014327112208
+        },
+        {
+          "scribe": "6 HT",
+          "cosine": 0.343414797579954
+        },
+        {
+          "scribe": "8 HT",
+          "cosine": 0.33920026264998393
+        }
+      ],
+      "margin_top1_top2": 0.08298663513126675,
+      "confidence": "medium"
+    },
+    {
+      "doc_id": "HT 29",
+      "sign_count": 31,
+      "top3": [
+        {
+          "scribe": "2 ZA",
+          "cosine": 0.5497624996033738
+        },
+        {
+          "scribe": "4 ZA",
+          "cosine": 0.4673701453486419
+        },
+        {
+          "scribe": "1 ZA",
+          "cosine": 0.4477674802439638
+        }
+      ],
+      "margin_top1_top2": 0.08239235425473185,
+      "confidence": "medium"
+    },
+    {
+      "doc_id": "HT 9a",
+      "sign_count": 30,
+      "top3": [
+        {
+          "scribe": "6 HT",
+          "cosine": 0.5694067277372492
+        },
+        {
+          "scribe": "10 HT",
+          "cosine": 0.48780783917080295
+        },
+        {
+          "scribe": "9 HT",
+          "cosine": 0.44671256302919043
+        }
+      ],
+      "margin_top1_top2": 0.08159888856644626,
+      "confidence": "medium"
+    },
+    {
+      "doc_id": "HT 50a",
+      "sign_count": 15,
+      "top3": [
+        {
+          "scribe": "6 HT",
+          "cosine": 0.4078501935476649
+        },
+        {
+          "scribe": "2 HT",
+          "cosine": 0.3266526290040743
+        },
+        {
+          "scribe": "10 HT",
+          "cosine": 0.309471388365685
+        }
+      ],
+      "margin_top1_top2": 0.08119756454359056,
+      "confidence": "medium"
+    },
+    {
+      "doc_id": "HT 100",
+      "sign_count": 23,
+      "top3": [
+        {
+          "scribe": "6 HT",
+          "cosine": 0.4673230195461173
+        },
+        {
+          "scribe": "10 HT",
+          "cosine": 0.39192475766909807
+        },
+        {
+          "scribe": "4 HT",
+          "cosine": 0.259416646850118
+        }
+      ],
+      "margin_top1_top2": 0.07539826187701926,
+      "confidence": "medium"
+    },
+    {
+      "doc_id": "HT 154A",
+      "sign_count": 10,
+      "top3": [
+        {
+          "scribe": "9 HT",
+          "cosine": 0.3514180988924154
+        },
+        {
+          "scribe": "1 ZA",
+          "cosine": 0.27751692525438426
+        },
+        {
+          "scribe": "8 HT",
+          "cosine": 0.2666982304552208
+        }
+      ],
+      "margin_top1_top2": 0.07390117363803111,
+      "confidence": "medium"
+    },
+    {
+      "doc_id": "HT 21",
+      "sign_count": 15,
+      "top3": [
+        {
+          "scribe": "6 HT",
+          "cosine": 0.4142761324995802
+        },
+        {
+          "scribe": "12 HT",
+          "cosine": 0.3410932504096794
+        },
+        {
+          "scribe": "10 HT",
+          "cosine": 0.29339081961556807
+        }
+      ],
+      "margin_top1_top2": 0.07318288208990076,
+      "confidence": "medium"
+    },
+    {
+      "doc_id": "HT 33",
+      "sign_count": 17,
+      "top3": [
+        {
+          "scribe": "6 HT",
+          "cosine": 0.18305654912175845
+        },
+        {
+          "scribe": "4 HT",
+          "cosine": 0.11085479909473865
+        },
+        {
+          "scribe": "10 HT",
+          "cosine": 0.08772689266130254
+        }
+      ],
+      "margin_top1_top2": 0.0722017500270198,
+      "confidence": "medium"
+    },
+    {
+      "doc_id": "HT 39",
+      "sign_count": 17,
+      "top3": [
+        {
+          "scribe": "9 HT",
+          "cosine": 0.4978313704098855
+        },
+        {
+          "scribe": "2 ZA",
+          "cosine": 0.42656259231359045
+        },
+        {
+          "scribe": "5 ZA",
+          "cosine": 0.40099132741870175
+        }
+      ],
+      "margin_top1_top2": 0.07126877809629506,
+      "confidence": "medium"
+    },
+    {
+      "doc_id": "HT 17",
+      "sign_count": 11,
+      "top3": [
+        {
+          "scribe": "5 ZA",
+          "cosine": 0.44877455520405957
+        },
+        {
+          "scribe": "9 HT",
+          "cosine": 0.3783379022164755
+        },
+        {
+          "scribe": "11 HT",
+          "cosine": 0.3249182166443294
+        }
+      ],
+      "margin_top1_top2": 0.07043665298758406,
+      "confidence": "medium"
+    },
+    {
+      "doc_id": "HT 23a",
+      "sign_count": 30,
+      "top3": [
+        {
+          "scribe": "10 HT",
+          "cosine": 0.28721347895177635
+        },
+        {
+          "scribe": "5 ZA",
+          "cosine": 0.21942686286812776
+        },
+        {
+          "scribe": "1 KH",
+          "cosine": 0.1631973496965611
+        }
+      ],
+      "margin_top1_top2": 0.06778661608364858,
+      "confidence": "medium"
+    },
+    {
+      "doc_id": "HT 1",
+      "sign_count": 18,
+      "top3": [
+        {
+          "scribe": "9 HT",
+          "cosine": 0.5150999467127447
+        },
+        {
+          "scribe": "3 HT",
+          "cosine": 0.45117883479494114
+        },
+        {
+          "scribe": "4 ZA",
+          "cosine": 0.3901951463719815
+        }
+      ],
+      "margin_top1_top2": 0.06392111191780359,
+      "confidence": "medium"
+    },
+    {
+      "doc_id": "HT 4",
+      "sign_count": 16,
+      "top3": [
+        {
+          "scribe": "4 ZA",
+          "cosine": 0.4802401801501311
+        },
+        {
+          "scribe": "2 ZA",
+          "cosine": 0.4192627457812106
+        },
+        {
+          "scribe": "3 HT",
+          "cosine": 0.3835020095757
+        }
+      ],
+      "margin_top1_top2": 0.0609774343689205,
+      "confidence": "medium"
+    },
+    {
+      "doc_id": "HT 26b",
+      "sign_count": 15,
+      "top3": [
+        {
+          "scribe": "2 ZA",
+          "cosine": 0.36380343755449956
+        },
+        {
+          "scribe": "12 HT",
+          "cosine": 0.3033940182060688
+        },
+        {
+          "scribe": "10 HT",
+          "cosine": 0.2925089696508522
+        }
+      ],
+      "margin_top1_top2": 0.06040941934843075,
+      "confidence": "medium"
+    },
+    {
+      "doc_id": "HT 94a",
+      "sign_count": 26,
+      "top3": [
+        {
+          "scribe": "10 HT",
+          "cosine": 0.31456714361385035
+        },
+        {
+          "scribe": "2 ZA",
+          "cosine": 0.25515518153991446
+        },
+        {
+          "scribe": "1 KH",
+          "cosine": 0.2243963558327715
+        }
+      ],
+      "margin_top1_top2": 0.0594119620739359,
+      "confidence": "medium"
+    },
+    {
+      "doc_id": "HT 88",
+      "sign_count": 31,
+      "top3": [
+        {
+          "scribe": "9 HT",
+          "cosine": 0.5828114425959513
+        },
+        {
+          "scribe": "6 HT",
+          "cosine": 0.5284387395618562
+        },
+        {
+          "scribe": "4 ZA",
+          "cosine": 0.524257832412902
+        }
+      ],
+      "margin_top1_top2": 0.05437270303409514,
+      "confidence": "medium"
+    },
+    {
+      "doc_id": "HT 19",
+      "sign_count": 12,
+      "top3": [
+        {
+          "scribe": "6 HT",
+          "cosine": 0.4011956510627131
+        },
+        {
+          "scribe": "10 HT",
+          "cosine": 0.34918995107766476
+        },
+        {
+          "scribe": "2 HT",
+          "cosine": 0.3299144395369291
+        }
+      ],
+      "margin_top1_top2": 0.05200569998504834,
+      "confidence": "medium"
+    },
+    {
+      "doc_id": "HT 28a",
+      "sign_count": 31,
+      "top3": [
+        {
+          "scribe": "1 ARKH",
+          "cosine": 0.38706936721401924
+        },
+        {
+          "scribe": "11 HT",
+          "cosine": 0.34057563609046
+        },
+        {
+          "scribe": "8 HT",
+          "cosine": 0.33171755390459884
+        }
+      ],
+      "margin_top1_top2": 0.046493731123559257,
+      "confidence": "low"
+    },
+    {
+      "doc_id": "HT 55a",
+      "sign_count": 10,
+      "top3": [
+        {
+          "scribe": "9 HT",
+          "cosine": 0.4204939388124909
+        },
+        {
+          "scribe": "3 ZA",
+          "cosine": 0.3741657386773942
+        },
+        {
+          "scribe": "6 HT",
+          "cosine": 0.34904492357641254
+        }
+      ],
+      "margin_top1_top2": 0.0463282001350967,
+      "confidence": "low"
+    },
+    {
+      "doc_id": "HT 45b",
+      "sign_count": 19,
+      "top3": [
+        {
+          "scribe": "6 HT",
+          "cosine": 0.31107255078815776
+        },
+        {
+          "scribe": "9 HT",
+          "cosine": 0.2669064656728009
+        },
+        {
+          "scribe": "4 ZA",
+          "cosine": 0.1719535680584428
+        }
+      ],
+      "margin_top1_top2": 0.04416608511535686,
+      "confidence": "low"
+    },
+    {
+      "doc_id": "HT 10b",
+      "sign_count": 21,
+      "top3": [
+        {
+          "scribe": "11 HT",
+          "cosine": 0.38345372496534375
+        },
+        {
+          "scribe": "2 ZA",
+          "cosine": 0.34312178324836057
+        },
+        {
+          "scribe": "4 ZA",
+          "cosine": 0.33775611833769076
+        }
+      ],
+      "margin_top1_top2": 0.04033194171698318,
+      "confidence": "low"
+    },
+    {
+      "doc_id": "HT 108",
+      "sign_count": 16,
+      "top3": [
+        {
+          "scribe": "10 HT",
+          "cosine": 0.4500904011951776
+        },
+        {
+          "scribe": "4 ZA",
+          "cosine": 0.41130179815941603
+        },
+        {
+          "scribe": "3 HT",
+          "cosine": 0.38046740000342477
+        }
+      ],
+      "margin_top1_top2": 0.03878860303576159,
+      "confidence": "low"
+    },
+    {
+      "doc_id": "HT 23b",
+      "sign_count": 12,
+      "top3": [
+        {
+          "scribe": "4 HT",
+          "cosine": 0.16971105832553263
+        },
+        {
+          "scribe": "5 ZA",
+          "cosine": 0.13259870882635919
+        },
+        {
+          "scribe": "1 KH",
+          "cosine": 0.12019246203225048
+        }
+      ],
+      "margin_top1_top2": 0.03711234949917344,
+      "confidence": "low"
+    },
+    {
+      "doc_id": "HT 24a",
+      "sign_count": 20,
+      "top3": [
+        {
+          "scribe": "8 HT",
+          "cosine": 0.3198010745334155
+        },
+        {
+          "scribe": "10 HT",
+          "cosine": 0.2847607143234434
+        },
+        {
+          "scribe": "9 HT",
+          "cosine": 0.24971241106909847
+        }
+      ],
+      "margin_top1_top2": 0.03504036020997209,
+      "confidence": "low"
+    },
+    {
+      "doc_id": "HT 34",
+      "sign_count": 29,
+      "top3": [
+        {
+          "scribe": "6 HT",
+          "cosine": 0.3228000831375012
+        },
+        {
+          "scribe": "3 HT",
+          "cosine": 0.28977485337560754
+        },
+        {
+          "scribe": "9 HT",
+          "cosine": 0.2575559057530794
+        }
+      ],
+      "margin_top1_top2": 0.03302522976189365,
+      "confidence": "low"
+    },
+    {
+      "doc_id": "HT 131a",
+      "sign_count": 11,
+      "top3": [
+        {
+          "scribe": "10 HT",
+          "cosine": 0.4181210050035454
+        },
+        {
+          "scribe": "2 HT",
+          "cosine": 0.3851644432598218
+        },
+        {
+          "scribe": "6 HT",
+          "cosine": 0.2938873433482577
+        }
+      ],
+      "margin_top1_top2": 0.03295656174372358,
+      "confidence": "low"
+    },
+    {
+      "doc_id": "HT 98a",
+      "sign_count": 26,
+      "top3": [
+        {
+          "scribe": "10 HT",
+          "cosine": 0.5116817192534653
+        },
+        {
+          "scribe": "6 HT",
+          "cosine": 0.48078071661193583
+        },
+        {
+          "scribe": "8 HT",
+          "cosine": 0.3417128571881321
+        }
+      ],
+      "margin_top1_top2": 0.03090100264152945,
+      "confidence": "low"
+    },
+    {
+      "doc_id": "HT 110b",
+      "sign_count": 14,
+      "top3": [
+        {
+          "scribe": "10 HT",
+          "cosine": 0.37986858819879316
+        },
+        {
+          "scribe": "2 HT",
+          "cosine": 0.34992710611188277
+        },
+        {
+          "scribe": "6 HT",
+          "cosine": 0.3254070133091429
+        }
+      ],
+      "margin_top1_top2": 0.029941482086910387,
+      "confidence": "low"
+    },
+    {
+      "doc_id": "HT 35",
+      "sign_count": 21,
+      "top3": [
+        {
+          "scribe": "5 ZA",
+          "cosine": 0.2673275516124679
+        },
+        {
+          "scribe": "1 ZA",
+          "cosine": 0.23741160791610122
+        },
+        {
+          "scribe": "2 ZA",
+          "cosine": 0.2245066275334687
+        }
+      ],
+      "margin_top1_top2": 0.029915943696366687,
+      "confidence": "low"
+    },
+    {
+      "doc_id": "HT 60",
+      "sign_count": 10,
+      "top3": [
+        {
+          "scribe": "5 ZA",
+          "cosine": 0.09302605094190634
+        },
+        {
+          "scribe": "4 HT",
+          "cosine": 0.06350006350009524
+        },
+        {
+          "scribe": "6 HT",
+          "cosine": 0.02207553928441737
+        }
+      ],
+      "margin_top1_top2": 0.029525987441811105,
+      "confidence": "low"
+    },
+    {
+      "doc_id": "HT 103",
+      "sign_count": 20,
+      "top3": [
+        {
+          "scribe": "9 HT",
+          "cosine": 0.5347148690085616
+        },
+        {
+          "scribe": "10 HT",
+          "cosine": 0.505419854312669
+        },
+        {
+          "scribe": "3 HT",
+          "cosine": 0.4909792937940575
+        }
+      ],
+      "margin_top1_top2": 0.029295014695892574,
+      "confidence": "low"
+    },
+    {
+      "doc_id": "HT 44a",
+      "sign_count": 12,
+      "top3": [
+        {
+          "scribe": "2 ZA",
+          "cosine": 0.3340765523905305
+        },
+        {
+          "scribe": "1 ZA",
+          "cosine": 0.30510526257025805
+        },
+        {
+          "scribe": "3 HT",
+          "cosine": 0.24266783307288137
+        }
+      ],
+      "margin_top1_top2": 0.028971289820272472,
+      "confidence": "low"
+    },
+    {
+      "doc_id": "HT 11a",
+      "sign_count": 19,
+      "top3": [
+        {
+          "scribe": "1 ARKH",
+          "cosine": 0.39800147287892457
+        },
+        {
+          "scribe": "8 HT",
+          "cosine": 0.3695102051502846
+        },
+        {
+          "scribe": "9 HT",
+          "cosine": 0.358211576543233
+        }
+      ],
+      "margin_top1_top2": 0.02849126772863997,
+      "confidence": "low"
+    },
+    {
+      "doc_id": "HT 14",
+      "sign_count": 18,
+      "top3": [
+        {
+          "scribe": "4 ZA",
+          "cosine": 0.30633942587241964
+        },
+        {
+          "scribe": "1 ARKH",
+          "cosine": 0.2795084971874738
+        },
+        {
+          "scribe": "4 HT",
+          "cosine": 0.23186944788008407
+        }
+      ],
+      "margin_top1_top2": 0.026830928684945854,
+      "confidence": "low"
+    },
+    {
+      "doc_id": "HT 96b",
+      "sign_count": 19,
+      "top3": [
+        {
+          "scribe": "1 ARKH",
+          "cosine": 0.367423461417477
+        },
+        {
+          "scribe": "8 HT",
+          "cosine": 0.3411211461689766
+        },
+        {
+          "scribe": "10 HT",
+          "cosine": 0.2814105882725794
+        }
+      ],
+      "margin_top1_top2": 0.026302315248500407,
+      "confidence": "low"
+    },
+    {
+      "doc_id": "HT 25a",
+      "sign_count": 28,
+      "top3": [
+        {
+          "scribe": "9 HT",
+          "cosine": 0.46586383481879434
+        },
+        {
+          "scribe": "1 KH",
+          "cosine": 0.440684999337929
+        },
+        {
+          "scribe": "8 HT",
+          "cosine": 0.43926330346437026
+        }
+      ],
+      "margin_top1_top2": 0.025178835480865358,
+      "confidence": "low"
+    },
+    {
+      "doc_id": "HT 86b",
+      "sign_count": 14,
+      "top3": [
+        {
+          "scribe": "9 HT",
+          "cosine": 0.30745444492927665
+        },
+        {
+          "scribe": "1 ARKH",
+          "cosine": 0.2828761909280092
+        },
+        {
+          "scribe": "3 HT",
+          "cosine": 0.2688638375227463
+        }
+      ],
+      "margin_top1_top2": 0.024578254001267452,
+      "confidence": "low"
+    },
+    {
+      "doc_id": "HT 62+73",
+      "sign_count": 28,
+      "top3": [
+        {
+          "scribe": "5 ZA",
+          "cosine": 0.4296689244236598
+        },
+        {
+          "scribe": "9 HT",
+          "cosine": 0.40818563794426693
+        },
+        {
+          "scribe": "6 HT",
+          "cosine": 0.3696142379025713
+        }
+      ],
+      "margin_top1_top2": 0.02148328647939285,
+      "confidence": "low"
+    },
+    {
+      "doc_id": "HT 10a",
+      "sign_count": 27,
+      "top3": [
+        {
+          "scribe": "3 HT",
+          "cosine": 0.41674524030882676
+        },
+        {
+          "scribe": "9 HT",
+          "cosine": 0.3959982353186685
+        },
+        {
+          "scribe": "10 HT",
+          "cosine": 0.32368692037257435
+        }
+      ],
+      "margin_top1_top2": 0.020747004990158247,
+      "confidence": "low"
+    },
+    {
+      "doc_id": "HT 27a",
+      "sign_count": 31,
+      "top3": [
+        {
+          "scribe": "9 HT",
+          "cosine": 0.5164958815276849
+        },
+        {
+          "scribe": "3 HT",
+          "cosine": 0.49629671827443544
+        },
+        {
+          "scribe": "5 ZA",
+          "cosine": 0.4807401700618654
+        }
+      ],
+      "margin_top1_top2": 0.02019916325324944,
+      "confidence": "low"
+    },
+    {
+      "doc_id": "HT 126a",
+      "sign_count": 15,
+      "top3": [
+        {
+          "scribe": "1 KH",
+          "cosine": 0.3761908148267026
+        },
+        {
+          "scribe": "1 ARKH",
+          "cosine": 0.3563483225498994
+        },
+        {
+          "scribe": "10 HT",
+          "cosine": 0.3509075706452101
+        }
+      ],
+      "margin_top1_top2": 0.01984249227680318,
+      "confidence": "low"
+    },
+    {
+      "doc_id": "HT 58",
+      "sign_count": 10,
+      "top3": [
+        {
+          "scribe": "11 HT",
+          "cosine": 0.22718473369882594
+        },
+        {
+          "scribe": "3 HT",
+          "cosine": 0.20737054884737624
+        },
+        {
+          "scribe": "12 HT",
+          "cosine": 0.18257418583505536
+        }
+      ],
+      "margin_top1_top2": 0.0198141848514497,
+      "confidence": "low"
+    },
+    {
+      "doc_id": "HT 102",
+      "sign_count": 22,
+      "top3": [
+        {
+          "scribe": "10 HT",
+          "cosine": 0.45333950359163006
+        },
+        {
+          "scribe": "1 ZA",
+          "cosine": 0.4359886319595969
+        },
+        {
+          "scribe": "9 HT",
+          "cosine": 0.404024221878
+        }
+      ],
+      "margin_top1_top2": 0.017350871632033138,
+      "confidence": "low"
+    },
+    {
+      "doc_id": "HT 13",
+      "sign_count": 27,
+      "top3": [
+        {
+          "scribe": "9 HT",
+          "cosine": 0.5397951370472434
+        },
+        {
+          "scribe": "3 HT",
+          "cosine": 0.5230923994123576
+        },
+        {
+          "scribe": "4 ZA",
+          "cosine": 0.4708115588949629
+        }
+      ],
+      "margin_top1_top2": 0.016702737634885723,
+      "confidence": "low"
+    },
+    {
+      "doc_id": "HT 79+83",
+      "sign_count": 13,
+      "top3": [
+        {
+          "scribe": "2 ZA",
+          "cosine": 0.45184805705753195
+        },
+        {
+          "scribe": "9 HT",
+          "cosine": 0.43520940423536353
+        },
+        {
+          "scribe": "3 HT",
+          "cosine": 0.41678115475443356
+        }
+      ],
+      "margin_top1_top2": 0.01663865282216842,
+      "confidence": "low"
+    },
+    {
+      "doc_id": "HT 101",
+      "sign_count": 23,
+      "top3": [
+        {
+          "scribe": "4 HT",
+          "cosine": 0.26529461297122914
+        },
+        {
+          "scribe": "12 HT",
+          "cosine": 0.2512594538148031
+        },
+        {
+          "scribe": "9 HT",
+          "cosine": 0.2347344963825534
+        }
+      ],
+      "margin_top1_top2": 0.014035159156426058,
+      "confidence": "low"
+    },
+    {
+      "doc_id": "HT 38",
+      "sign_count": 10,
+      "top3": [
+        {
+          "scribe": "6 HT",
+          "cosine": 0.2373505480319605
+        },
+        {
+          "scribe": "3 HT",
+          "cosine": 0.22332212952794359
+        },
+        {
+          "scribe": "9 HT",
+          "cosine": 0.1895183949577424
+        }
+      ],
+      "margin_top1_top2": 0.014028418504016926,
+      "confidence": "low"
+    },
+    {
+      "doc_id": "HT 113",
+      "sign_count": 10,
+      "top3": [
+        {
+          "scribe": "10 HT",
+          "cosine": 0.2261335084333227
+        },
+        {
+          "scribe": "8 HT",
+          "cosine": 0.21320071635561033
+        },
+        {
+          "scribe": "9 HT",
+          "cosine": 0.13109901581127673
+        }
+      ],
+      "margin_top1_top2": 0.012932792077712363,
+      "confidence": "low"
+    },
+    {
+      "doc_id": "HT 42+59",
+      "sign_count": 20,
+      "top3": [
+        {
+          "scribe": "9 HT",
+          "cosine": 0.317832010584124
+        },
+        {
+          "scribe": "12 HT",
+          "cosine": 0.30618621784789724
+        },
+        {
+          "scribe": "6 HT",
+          "cosine": 0.2887806252376886
+        }
+      ],
+      "margin_top1_top2": 0.01164579273622679,
+      "confidence": "low"
+    },
+    {
+      "doc_id": "HT 31",
+      "sign_count": 33,
+      "top3": [
+        {
+          "scribe": "9 HT",
+          "cosine": 0.3072174857843027
+        },
+        {
+          "scribe": "8 HT",
+          "cosine": 0.29606793688179667
+        },
+        {
+          "scribe": "1 ARKH",
+          "cosine": 0.2790343518126856
+        }
+      ],
+      "margin_top1_top2": 0.011149548902506023,
+      "confidence": "low"
+    },
+    {
+      "doc_id": "HT 2",
+      "sign_count": 12,
+      "top3": [
+        {
+          "scribe": "12 HT",
+          "cosine": 0.360843918243516
+        },
+        {
+          "scribe": "4 ZA",
+          "cosine": 0.3523569289873625
+        },
+        {
+          "scribe": "2 ZA",
+          "cosine": 0.34375000000000006
+        }
+      ],
+      "margin_top1_top2": 0.008486989256153543,
+      "confidence": "low"
+    },
+    {
+      "doc_id": "HT 97a",
+      "sign_count": 25,
+      "top3": [
+        {
+          "scribe": "3 HT",
+          "cosine": 0.39805593182458476
+        },
+        {
+          "scribe": "2 ZA",
+          "cosine": 0.3904475948502237
+        },
+        {
+          "scribe": "1 ZA",
+          "cosine": 0.38523333502170204
+        }
+      ],
+      "margin_top1_top2": 0.007608336974361085,
+      "confidence": "low"
+    },
+    {
+      "doc_id": "HT 20",
+      "sign_count": 22,
+      "top3": [
+        {
+          "scribe": "6 HT",
+          "cosine": 0.4088797653818288
+        },
+        {
+          "scribe": "9 HT",
+          "cosine": 0.4014874236644528
+        },
+        {
+          "scribe": "10 HT",
+          "cosine": 0.3619613829965135
+        }
+      ],
+      "margin_top1_top2": 0.007392341717376016,
+      "confidence": "low"
+    },
+    {
+      "doc_id": "HT 49a",
+      "sign_count": 32,
+      "top3": [
+        {
+          "scribe": "3 HT",
+          "cosine": 0.3226366050272955
+        },
+        {
+          "scribe": "9 HT",
+          "cosine": 0.3154402746676994
+        },
+        {
+          "scribe": "8 HT",
+          "cosine": 0.2803030303030302
+        }
+      ],
+      "margin_top1_top2": 0.007196330359596104,
+      "confidence": "low"
+    },
+    {
+      "doc_id": "HT 86a",
+      "sign_count": 24,
+      "top3": [
+        {
+          "scribe": "9 HT",
+          "cosine": 0.5139039022904995
+        },
+        {
+          "scribe": "1 ARKH",
+          "cosine": 0.5076015304601539
+        },
+        {
+          "scribe": "4 ZA",
+          "cosine": 0.42587856135242064
+        }
+      ],
+      "margin_top1_top2": 0.006302371830345654,
+      "confidence": "low"
+    },
+    {
+      "doc_id": "HT 16",
+      "sign_count": 16,
+      "top3": [
+        {
+          "scribe": "10 HT",
+          "cosine": 0.2842676218074806
+        },
+        {
+          "scribe": "9 HT",
+          "cosine": 0.2781030092611085
+        },
+        {
+          "scribe": "12 HT",
+          "cosine": 0.24948506639458295
+        }
+      ],
+      "margin_top1_top2": 0.006164612546372128,
+      "confidence": "low"
+    },
+    {
+      "doc_id": "HT 8a",
+      "sign_count": 27,
+      "top3": [
+        {
+          "scribe": "10 HT",
+          "cosine": 0.524377670804744
+        },
+        {
+          "scribe": "6 HT",
+          "cosine": 0.5199506815885361
+        },
+        {
+          "scribe": "3 HT",
+          "cosine": 0.41358059856202956
+        }
+      ],
+      "margin_top1_top2": 0.004426989216207877,
+      "confidence": "low"
+    },
+    {
+      "doc_id": "HT 32",
+      "sign_count": 18,
+      "top3": [
+        {
+          "scribe": "10 HT",
+          "cosine": 0.26590801173915524
+        },
+        {
+          "scribe": "2 HT",
+          "cosine": 0.26244532958391203
+        },
+        {
+          "scribe": "6 HT",
+          "cosine": 0.21693800887276193
+        }
+      ],
+      "margin_top1_top2": 0.003462682155243202,
+      "confidence": "low"
+    },
+    {
+      "doc_id": "HT 41a",
+      "sign_count": 13,
+      "top3": [
+        {
+          "scribe": "11 HT",
+          "cosine": 0.3484854734952257
+        },
+        {
+          "scribe": "9 HT",
+          "cosine": 0.34521568747844905
+        },
+        {
+          "scribe": "1 ZA",
+          "cosine": 0.27687851418276294
+        }
+      ],
+      "margin_top1_top2": 0.0032697860167766324,
+      "confidence": "low"
+    },
+    {
+      "doc_id": "HT 25b",
+      "sign_count": 12,
+      "top3": [
+        {
+          "scribe": "9 HT",
+          "cosine": 0.37932691257508155
+        },
+        {
+          "scribe": "6 HT",
+          "cosine": 0.3765216631499363
+        },
+        {
+          "scribe": "3 HT",
+          "cosine": 0.32263660502729546
+        }
+      ],
+      "margin_top1_top2": 0.002805249425145262,
+      "confidence": "low"
+    },
+    {
+      "doc_id": "HT 37",
+      "sign_count": 20,
+      "top3": [
+        {
+          "scribe": "3 HT",
+          "cosine": 0.3638219512532748
+        },
+        {
+          "scribe": "6 HT",
+          "cosine": 0.3621465138115879
+        },
+        {
+          "scribe": "1 ARKH",
+          "cosine": 0.3031088913245537
+        }
+      ],
+      "margin_top1_top2": 0.0016754374416869111,
+      "confidence": "low"
+    },
+    {
+      "doc_id": "HT 15",
+      "sign_count": 12,
+      "top3": [
+        {
+          "scribe": "6 HT",
+          "cosine": 0.3696142379025712
+        },
+        {
+          "scribe": "4 ZA",
+          "cosine": 0.3681175226887607
+        },
+        {
+          "scribe": "9 HT",
+          "cosine": 0.3297923697298052
+        }
+      ],
+      "margin_top1_top2": 0.0014967152138105067,
+      "confidence": "low"
+    },
+    {
+      "doc_id": "HT 30",
+      "sign_count": 32,
+      "top3": [
+        {
+          "scribe": "6 HT",
+          "cosine": 0.2797829245740917
+        },
+        {
+          "scribe": "10 HT",
+          "cosine": 0.278638002545715
+        },
+        {
+          "scribe": "4 HT",
+          "cosine": 0.2514977274139284
+        }
+      ],
+      "margin_top1_top2": 0.0011449220283766826,
+      "confidence": "low"
+    },
+    {
+      "doc_id": "HT 96a",
+      "sign_count": 33,
+      "top3": [
+        {
+          "scribe": "9 HT",
+          "cosine": 0.5227456072802583
+        },
+        {
+          "scribe": "2 ZA",
+          "cosine": 0.5225048934090127
+        },
+        {
+          "scribe": "4 ZA",
+          "cosine": 0.4705930529213338
+        }
+      ],
+      "margin_top1_top2": 0.0002407138712455792,
+      "confidence": "low"
+    }
+  ]
+}

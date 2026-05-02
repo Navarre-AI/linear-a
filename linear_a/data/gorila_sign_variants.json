@@ -1,0 +1,2372 @@
+{
+  "metadata": {
+    "title": "GORILA Sign Variant Tableau",
+    "source": "Godart & Olivier, GORILA Vol. 5 (1985), Études Crétoises 21, pp. XXV-LII",
+    "description": "Tableau des Variantes des Signes - systematic catalogue of all known variant forms for each Linear A sign, with attestation references to specific inscription positions",
+    "extraction_date": "2026-04-04",
+    "source_pages": "Vol 5, file pages 25-52 (printed pages XXV-LII)",
+    "statistics": {
+      "total_signs": 181,
+      "ab_series_signs": 83,
+      "a_series_signs": 98,
+      "vas_ideograms": 19,
+      "total_attestation_references": 694,
+      "attested_sites": [
+        "AP Za",
+        "ARKH",
+        "HT",
+        "HT M",
+        "HT Wa",
+        "HT Wc",
+        "IO Za",
+        "KH",
+        "KH Wa",
+        "KH Wc",
+        "KN",
+        "KN Za",
+        "KN Zb",
+        "KN Zf",
+        "KO Za",
+        "KO Zf",
+        "LA",
+        "MA",
+        "PA",
+        "PH",
+        "PH Wc",
+        "PK Za",
+        "PYR",
+        "PYR a",
+        "SK",
+        "SY Za",
+        "SY Zy",
+        "TY",
+        "ZA"
+      ]
+    },
+    "schema": {
+      "sign_id": "GORILA sign number (e.g., 'AB 28' for shared Linear A/B signs, 'A 301' for Linear A only, 'A 400' for vessel ideograms)",
+      "series": "'AB' = shared with Linear B, 'A' = unique to Linear A",
+      "category": "Optional category, e.g., 'VAS' for vessel ideograms",
+      "variant_count": "Number of distinct variant forms shown in the tableau",
+      "attestations": "List of inscription references where each variant appears (format: SITE INSCRIPTION.POSITION). Parenthesized entries indicate uncertain attribution.",
+      "source_page": "Vol 5 file page number(s) where this sign's variants are shown",
+      "notes": "Optional observations about the sign"
+    },
+    "conventions": {
+      "parenthesized_refs": "References in parentheses (e.g., '(KH 5.2)') indicate uncertain or doubtful attributions",
+      "sub_variants": "Some signs have sub-variants indicated by letter suffixes: 'f' = female/feminine form, 'm' = male/masculine form, 'a/b/c/d' = distinct sub-types",
+      "site_abbreviations": {
+        "HT": "Hagia Triada",
+        "KH": "Khania (Chania)",
+        "ZA": "Zakros",
+        "PH": "Phaistos",
+        "IO": "Iouktас (Mount Juktas)",
+        "ARKH": "Arkhanes",
+        "KN": "Knossos",
+        "KO": "Kophinas",
+        "PK": "Palaikastro",
+        "MA": "Malia",
+        "TY": "Tylissos",
+        "PYR": "Pyrgos",
+        "AP": "Apodoulou",
+        "SK": "Skalavochori",
+        "LA": "Larani",
+        "PA": "Petras (or Palaikastro)",
+        "SY": "Symi",
+        "CR": "Crete (unspecified)"
+      },
+      "inscription_types": {
+        "Wa": "Sealing (nodule) with seal impression",
+        "Wc": "Sealing (roundel/cretula)",
+        "Za": "Stone libation vessel",
+        "Zb": "Metal vessel or object",
+        "Zf": "Miscellaneous object"
+      }
+    }
+  },
+  "signs": [
+    {
+      "sign_id": "AB 01",
+      "series": "AB",
+      "variant_count": 3,
+      "attestations": [
+        "HT 117a.5",
+        "KH 10.1",
+        "HT 6a.5"
+      ],
+      "source_page": 28,
+      "notes": "DA sign. 3 variant forms shown."
+    },
+    {
+      "sign_id": "AB 02",
+      "series": "AB",
+      "variant_count": 2,
+      "attestations": [
+        "HT 117a.1",
+        "HT 93a.6"
+      ],
+      "source_page": 28,
+      "notes": "RO sign. 2 variant forms."
+    },
+    {
+      "sign_id": "AB 03",
+      "series": "AB",
+      "variant_count": 5,
+      "attestations": [
+        "HT 6a.3",
+        "HT 95a.4",
+        "HT 88.2",
+        "HT 9b.4",
+        "HT 86a.2"
+      ],
+      "source_page": 28,
+      "notes": "PA sign. 5 variant forms."
+    },
+    {
+      "sign_id": "AB 04",
+      "series": "AB",
+      "variant_count": 9,
+      "attestations": [
+        "HT 117a.3",
+        "KH 6.1",
+        "HT 8a.5",
+        "HT 85a.4",
+        "HT 122a.3",
+        "ZA 10a.2",
+        "PH Wc 42",
+        "HT Wc 3004",
+        "HT 10a.1"
+      ],
+      "source_page": 28,
+      "notes": "TE sign. 9 variant forms."
+    },
+    {
+      "sign_id": "AB 05",
+      "series": "AB",
+      "variant_count": 2,
+      "attestations": [
+        "HT 117a.6",
+        "HT 10a.5"
+      ],
+      "source_page": 28,
+      "notes": "TO sign. 2 variant forms."
+    },
+    {
+      "sign_id": "AB 06",
+      "series": "AB",
+      "variant_count": 9,
+      "attestations": [
+        "HT 117a.2",
+        "HT 6a.2",
+        "HT 88.5",
+        "KH 7a.1",
+        "HT 96a.2",
+        "ZA 10a.4",
+        "HT 86a.4",
+        "IO Za 2.5",
+        "KH 90.3"
+      ],
+      "source_page": 29,
+      "notes": "NA sign. 9 variant forms."
+    },
+    {
+      "sign_id": "AB 07",
+      "series": "AB",
+      "variant_count": 9,
+      "attestations": [
+        "HT 117a.4",
+        "HT 88.4",
+        "HT 99a.2",
+        "HT 86a.3",
+        "HT 28a.3",
+        "HT 10b.2",
+        "ZA 10b.3",
+        "ARKH 2.1",
+        "PH 31a.1"
+      ],
+      "source_page": 29,
+      "notes": "DI sign. 9 variant forms."
+    },
+    {
+      "sign_id": "AB 08",
+      "series": "AB",
+      "variant_count": 8,
+      "attestations": [
+        "HT 117b.1",
+        "HT 6b.3",
+        "HT 86a.5",
+        "PH 3.2",
+        "HT 28a.5",
+        "HT 116a.3",
+        "ZA 4a.3",
+        "KH 5.4"
+      ],
+      "source_page": 29,
+      "notes": "A sign. 8 variant forms."
+    },
+    {
+      "sign_id": "AB 09",
+      "series": "AB",
+      "variant_count": 9,
+      "attestations": [
+        "HT 93a.3",
+        "HT 8b.2",
+        "HT 88.3",
+        "HT 122b.2",
+        "HT 28b.2",
+        "HT 117b.4",
+        "ZA 10b.4",
+        "PH 31b.4",
+        "ARKH 2.4"
+      ],
+      "source_page": 29,
+      "notes": "SE sign. 9 variant forms."
+    },
+    {
+      "sign_id": "AB 10",
+      "series": "AB",
+      "variant_count": 6,
+      "attestations": [
+        "HT 117b.3",
+        "HT 86b.2",
+        "HT 9a.3",
+        "HT 11a.2",
+        "ZA 10b.5",
+        "HT Wc 3010"
+      ],
+      "source_page": 30,
+      "notes": "U sign. 6 variant forms."
+    },
+    {
+      "sign_id": "AB 11",
+      "series": "AB",
+      "variant_count": 11,
+      "attestations": [
+        "HT 6b.1",
+        "PH 3.4",
+        "HT 8b.3",
+        "HT 28a.1",
+        "HT 116a.1",
+        "HT 95a.1",
+        "HT 87.3",
+        "HT 122a.1",
+        "ZA 10a.1",
+        "PH 7b.2",
+        "KH 11.1"
+      ],
+      "source_page": 30,
+      "notes": "PO sign. 11 variant forms."
+    },
+    {
+      "sign_id": "AB 13",
+      "series": "AB",
+      "variant_count": 12,
+      "attestations": [
+        "HT 6b.2",
+        "HT 95a.3",
+        "HT 117b.5",
+        "HT 86b.4",
+        "HT 9a.1",
+        "HT 40.2",
+        "ZA 10b.2",
+        "PH 31b.1",
+        "IO Za 2.1",
+        "KH 6.5",
+        "KH Wc 2063",
+        "ARKH 1b.4"
+      ],
+      "source_page": 30,
+      "notes": "ME sign. 12 variant forms."
+    },
+    {
+      "sign_id": "AB 16",
+      "series": "AB",
+      "variant_count": 9,
+      "attestations": [
+        "HT 117b.2",
+        "HT 86b.1",
+        "HT 97a.3",
+        "HT 13.3",
+        "HT 32.2",
+        "ZA 15a.5",
+        "HT 116b.4",
+        "KH 5.1",
+        "PH 3.3"
+      ],
+      "source_page": 30,
+      "notes": "QA2 sign. 9 variant forms."
+    },
+    {
+      "sign_id": "AB 17",
+      "series": "AB",
+      "variant_count": 7,
+      "attestations": [
+        "HT 13.2",
+        "PH 3.1",
+        "HT 9a.4",
+        "ZA 4a.1",
+        "HT 95a.2",
+        "KH 7a.3",
+        "HT 116b.5"
+      ],
+      "source_page": 30,
+      "notes": "ZA sign. 7 variant forms."
+    },
+    {
+      "sign_id": "AB 20",
+      "series": "AB",
+      "variant_count": 1,
+      "attestations": [
+        "HT 24a.3"
+      ],
+      "source_page": 31,
+      "notes": "ZO sign. 1 variant form."
+    },
+    {
+      "sign_id": "AB 21",
+      "series": "AB",
+      "variant_count": 4,
+      "attestations": [
+        "HT 117b.6",
+        "HT 21.1",
+        "HT 28b.5",
+        "HT Wc 3017"
+      ],
+      "source_page": 31,
+      "notes": "QI sign. 4 variant forms."
+    },
+    {
+      "sign_id": "AB 21f",
+      "series": "AB",
+      "variant_count": 13,
+      "attestations": [
+        "HT 93a.2",
+        "HT 8b.1",
+        "HT 6b.5",
+        "HT 88.1",
+        "HT 122b.3",
+        "HT 86b.3",
+        "HT 28b.1",
+        "ZA 10a.3",
+        "PH 31b.2",
+        "HT 10a.2",
+        "ARKH 2.5",
+        "KH 6.3",
+        "KH 90.1"
+      ],
+      "source_page": 31,
+      "notes": "QI-f variant. 13 variant forms."
+    },
+    {
+      "sign_id": "AB 21m",
+      "series": "AB",
+      "variant_count": 2,
+      "attestations": [
+        "HT 9b.5",
+        "PH 12b"
+      ],
+      "source_page": 31,
+      "notes": "QI-m variant. 2 variant forms."
+    },
+    {
+      "sign_id": "AB 22",
+      "series": "AB",
+      "variant_count": 1,
+      "attestations": [
+        "HT 39.2"
+      ],
+      "source_page": 31,
+      "notes": "MI sign (basic form). 1 variant form."
+    },
+    {
+      "sign_id": "AB 22f",
+      "series": "AB",
+      "variant_count": 1,
+      "attestations": [
+        "HT 6a.4"
+      ],
+      "source_page": 32,
+      "notes": "MI-f variant. 1 variant form."
+    },
+    {
+      "sign_id": "AB 22m",
+      "series": "AB",
+      "variant_count": 2,
+      "attestations": [
+        "HT 28a.2",
+        "HT 86b.5"
+      ],
+      "source_page": 32,
+      "notes": "MI-m variant. 2 variant forms."
+    },
+    {
+      "sign_id": "AB 23",
+      "series": "AB",
+      "variant_count": 7,
+      "attestations": [
+        "HT 93b.1",
+        "HT 8a.2",
+        "HT 95b.1",
+        "HT 122a.2",
+        "HT 37.1",
+        "PH 7a.2",
+        "IO Za 2.3"
+      ],
+      "source_page": 32,
+      "notes": "MU sign. 7 variant forms."
+    },
+    {
+      "sign_id": "AB 23m",
+      "series": "AB",
+      "variant_count": 2,
+      "attestations": [
+        "HT 87.1",
+        "HT 116a.4"
+      ],
+      "source_page": 32,
+      "notes": "MU-m variant. 2 variant forms."
+    },
+    {
+      "sign_id": "AB 24",
+      "series": "AB",
+      "variant_count": 8,
+      "attestations": [
+        "HT 93a.4",
+        "HT 86a.1",
+        "HT 10b.1",
+        "HT 28b.3",
+        "HT 116b.1",
+        "ZA 4a.2",
+        "KH 5.3",
+        "PH 31b.3"
+      ],
+      "source_page": 32,
+      "notes": "NE sign. 8 variant forms."
+    },
+    {
+      "sign_id": "AB 26",
+      "series": "AB",
+      "variant_count": 6,
+      "attestations": [
+        "HT 93b.2",
+        "HT 8a.3",
+        "HT 28a.4",
+        "HT 117b.7",
+        "HT 87.2",
+        "ZA 4a.4"
+      ],
+      "source_page": 33,
+      "notes": "RU sign. 6 variant forms."
+    },
+    {
+      "sign_id": "AB 27",
+      "series": "AB",
+      "variant_count": 4,
+      "attestations": [
+        "HT 6b.4",
+        "HT 88.6",
+        "HT 95b.3",
+        "KH 5.5"
+      ],
+      "source_page": 33,
+      "notes": "RE sign. 4 variant forms."
+    },
+    {
+      "sign_id": "AB 28",
+      "series": "AB",
+      "variant_count": 16,
+      "attestations": [
+        "HT 93a.1",
+        "HT 117a.7",
+        "HT 8a.1",
+        "HT 99a.1",
+        "HT 88.7",
+        "HT 86a.6",
+        "HT 122a.4",
+        "HT 40.3",
+        "HT 10b.3",
+        "ZA 6b.3",
+        "ZA 15b.2",
+        "IO Za 2.2",
+        "IO Za 6.3",
+        "ARKH 2.3",
+        "KH 6.2",
+        "PH 31a.4"
+      ],
+      "source_page": 33,
+      "notes": "I sign. 16 variant forms - the most attested sign."
+    },
+    {
+      "sign_id": "A 28b",
+      "series": "A",
+      "variant_count": 4,
+      "attestations": [
+        "HT 7a.5",
+        "HT 126b.3",
+        "HT 44a.4",
+        "KH 83.1"
+      ],
+      "source_page": 33,
+      "notes": "I-b variant (Linear A only). 4 variant forms."
+    },
+    {
+      "sign_id": "AB 29",
+      "series": "AB",
+      "variant_count": 3,
+      "attestations": [
+        "HT 6a.6",
+        "HT 40.4",
+        "PH 7a.1"
+      ],
+      "source_page": 33,
+      "notes": "PU2 sign. 3 variant forms."
+    },
+    {
+      "sign_id": "AB 30",
+      "series": "AB",
+      "variant_count": 7,
+      "attestations": [
+        "HT 93b.3",
+        "HT 95b.2",
+        "HT 8a.4",
+        "HT 122b.1",
+        "HT 40.5",
+        "ZA 6a.2",
+        "HT 87.5"
+      ],
+      "source_page": 34,
+      "notes": "NI sign. 7 variant forms."
+    },
+    {
+      "sign_id": "AB 31",
+      "series": "AB",
+      "variant_count": 6,
+      "attestations": [
+        "HT 93a.5",
+        "HT 8b.4",
+        "HT 87.4",
+        "HT 28b.4",
+        "ZA 15a.1",
+        "PH 7a.4"
+      ],
+      "source_page": 34,
+      "notes": "SA sign. 6 variant forms."
+    },
+    {
+      "sign_id": "AB 34",
+      "series": "AB",
+      "variant_count": 4,
+      "attestations": [
+        "HT 6a.1",
+        "HT 95a.5",
+        "KH 7a.2",
+        "IO Za 6.1"
+      ],
+      "source_page": 34,
+      "notes": "4 variant forms."
+    },
+    {
+      "sign_id": "AB 37",
+      "series": "AB",
+      "variant_count": 8,
+      "attestations": [
+        "HT 13.1",
+        "HT 117b.8",
+        "HT 88.8",
+        "HT 28a.6",
+        "HT 10a.4",
+        "ZA 4a.5",
+        "KH 6.4",
+        "PH 7b.1"
+      ],
+      "source_page": 34,
+      "notes": "TI sign. 8 variant forms."
+    },
+    {
+      "sign_id": "AB 38",
+      "series": "AB",
+      "variant_count": 7,
+      "attestations": [
+        "HT 96a.3",
+        "HT 32.1",
+        "ZA 4a.6",
+        "HT 44a.1",
+        "HT 85b.3",
+        "HT 116a.2",
+        "KH 90.2"
+      ],
+      "source_page": 34,
+      "notes": "E sign. 7 variant forms."
+    },
+    {
+      "sign_id": "AB 39",
+      "series": "AB",
+      "variant_count": 7,
+      "attestations": [
+        "HT 96a.1",
+        "HT 30.2",
+        "HT 9b.1",
+        "HT 37.2",
+        "HT 97a.2",
+        "PH 7b.3",
+        "IO Za 2.4"
+      ],
+      "source_page": 34,
+      "notes": "PI sign. 7 variant forms."
+    },
+    {
+      "sign_id": "AB 40",
+      "series": "AB",
+      "variant_count": 5,
+      "attestations": [
+        "HT 96b.2",
+        "HT 9b.3",
+        "HT 37.3",
+        "ZA 15a.4",
+        "HT 133.1"
+      ],
+      "source_page": 35,
+      "notes": "WI sign. 5 variant forms."
+    },
+    {
+      "sign_id": "AB 41",
+      "series": "AB",
+      "variant_count": 11,
+      "attestations": [
+        "HT 93b.4",
+        "HT 96a.5",
+        "HT 13.4",
+        "HT 37.5",
+        "HT 30.1",
+        "HT 32.3",
+        "HT 116b.3",
+        "ZA 4a.8",
+        "PH 31a.5",
+        "KH 10.3",
+        "HT 94a.4"
+      ],
+      "source_page": 35,
+      "notes": "SI sign. 11 variant forms."
+    },
+    {
+      "sign_id": "AB 44",
+      "series": "AB",
+      "variant_count": 6,
+      "attestations": [
+        "HT 96b.3",
+        "HT 30.3",
+        "HT 97b.1",
+        "HT 116a.5",
+        "ZA 6a.4",
+        "KH 90.4"
+      ],
+      "source_page": 35,
+      "notes": "KE sign. 6 variant forms."
+    },
+    {
+      "sign_id": "AB 45",
+      "series": "AB",
+      "variant_count": 8,
+      "attestations": [
+        "PH 31a.6",
+        "HT 96b.5",
+        "HT 94b.1",
+        "HT 13.6",
+        "HT 34.1",
+        "HT 116a.6",
+        "ZA 15a.6",
+        "KH 10.2"
+      ],
+      "source_page": 35,
+      "notes": "DE sign. 8 variant forms."
+    },
+    {
+      "sign_id": "AB 46",
+      "series": "AB",
+      "variant_count": 2,
+      "attestations": [
+        "HT 13.7",
+        "IO Za 6.5"
+      ],
+      "source_page": 35,
+      "notes": "JE sign. 2 variant forms."
+    },
+    {
+      "sign_id": "AB 47",
+      "series": "AB",
+      "variant_count": 4,
+      "attestations": [
+        "HT 28b.6",
+        "HT 9b.6",
+        "HT 37.6",
+        "HT 133.2"
+      ],
+      "source_page": 36,
+      "notes": "4 variant forms."
+    },
+    {
+      "sign_id": "AB 49",
+      "series": "AB",
+      "variant_count": 2,
+      "attestations": [
+        "HT 6b.6",
+        "HT 86a.7"
+      ],
+      "source_page": 36,
+      "notes": "2 variant forms."
+    },
+    {
+      "sign_id": "AB 50",
+      "series": "AB",
+      "variant_count": 6,
+      "attestations": [
+        "HT 96b.4",
+        "HT 34.2",
+        "HT 99a.3",
+        "HT 11a.1",
+        "HT 37.4",
+        "KH 10.5"
+      ],
+      "source_page": 36,
+      "notes": "PU sign. 6 variant forms."
+    },
+    {
+      "sign_id": "AB 51",
+      "series": "AB",
+      "variant_count": 10,
+      "attestations": [
+        "HT 85a.2",
+        "HT 30.4",
+        "HT 32.4",
+        "HT 97a.4",
+        "HT 133.3",
+        "HT 116a.7",
+        "HT 94b.2",
+        "ZA 15a.2",
+        "PH 31b.5",
+        "IO Za 6.2"
+      ],
+      "source_page": 36,
+      "notes": "DU sign. 10 variant forms."
+    },
+    {
+      "sign_id": "AB 53",
+      "series": "AB",
+      "variant_count": 12,
+      "attestations": [
+        "HT 85a.1",
+        "HT 30.5",
+        "HT 32.5",
+        "HT 97b.2",
+        "HT 94a.1",
+        "HT 34.3",
+        "HT 120.1",
+        "HT 116b.2",
+        "ZA 4a.9",
+        "ZA 15a.3",
+        "PH 31b.6",
+        "KH 11.2"
+      ],
+      "source_page": 36,
+      "notes": "RI sign. 12 variant forms."
+    },
+    {
+      "sign_id": "AB 54",
+      "series": "AB",
+      "variant_count": 6,
+      "attestations": [
+        "HT 85b.1",
+        "HT 94a.2",
+        "HT 133.4",
+        "HT 34.4",
+        "ZA 15b.1",
+        "PH 31a.7"
+      ],
+      "source_page": 37,
+      "notes": "WA sign. 6 variant forms."
+    },
+    {
+      "sign_id": "AB 55",
+      "series": "AB",
+      "variant_count": 4,
+      "attestations": [
+        "HT 85a.3",
+        "HT 97b.3",
+        "HT 94a.3",
+        "HT 119a.1"
+      ],
+      "source_page": 37,
+      "notes": "NU sign. 4 variant forms."
+    },
+    {
+      "sign_id": "AB 56",
+      "series": "AB",
+      "variant_count": 3,
+      "attestations": [
+        "HT 85a.4",
+        "HT 94a.5",
+        "HT 120.2"
+      ],
+      "source_page": 37,
+      "notes": "PA3 sign. 3 variant forms."
+    },
+    {
+      "sign_id": "AB 57",
+      "series": "AB",
+      "variant_count": 4,
+      "attestations": [
+        "HT 85b.2",
+        "HT 99a.4",
+        "HT 120.3",
+        "HT 116b.6"
+      ],
+      "source_page": 37,
+      "notes": "JA sign. 4 variant forms."
+    },
+    {
+      "sign_id": "AB 58",
+      "series": "AB",
+      "variant_count": 8,
+      "attestations": [
+        "HT 85a.5",
+        "HT 99b.1",
+        "HT 34.5",
+        "HT 119a.2",
+        "HT 120.4",
+        "HT Wc 3001",
+        "ZA 6a.3",
+        "IO Za 2.6"
+      ],
+      "source_page": 37,
+      "notes": "SU sign. 8 variant forms."
+    },
+    {
+      "sign_id": "AB 59",
+      "series": "AB",
+      "variant_count": 4,
+      "attestations": [
+        "HT 94b.3",
+        "HT 34.6",
+        "HT 119a.3",
+        "PH 7b.4"
+      ],
+      "source_page": 37,
+      "notes": "TA sign. 4 variant forms."
+    },
+    {
+      "sign_id": "AB 60",
+      "series": "AB",
+      "variant_count": 10,
+      "attestations": [
+        "HT 85b.3",
+        "HT 94b.4",
+        "HT 119b.1",
+        "HT 34.7",
+        "HT 99b.2",
+        "HT 133.5",
+        "HT 120.5",
+        "HT 116b.7",
+        "ZA 6b.1",
+        "IO Za 2.7"
+      ],
+      "source_page": 38,
+      "notes": "RA sign. 10 variant forms."
+    },
+    {
+      "sign_id": "AB 61",
+      "series": "AB",
+      "variant_count": 9,
+      "attestations": [
+        "HT 85b.4",
+        "HT 94b.5",
+        "HT 99b.3",
+        "HT 34.8",
+        "HT 119b.2",
+        "HT 116b.8",
+        "ZA 6a.5",
+        "KH 83.2",
+        "ARKH 1b.1"
+      ],
+      "source_page": 38,
+      "notes": "O sign. 9 variant forms."
+    },
+    {
+      "sign_id": "AB 65",
+      "series": "AB",
+      "variant_count": 9,
+      "attestations": [
+        "HT 94b.6",
+        "HT 99b.4",
+        "HT 119b.3",
+        "HT 120.6",
+        "HT 133.6",
+        "HT 34.9",
+        "ZA 6a.6",
+        "IO Za 6.4",
+        "KH 83.3"
+      ],
+      "source_page": 38,
+      "notes": "JU sign. 9 variant forms."
+    },
+    {
+      "sign_id": "AB 66",
+      "series": "AB",
+      "variant_count": 5,
+      "attestations": [
+        "HT 85b.5",
+        "HT 94b.7",
+        "HT 119b.4",
+        "HT 120.7",
+        "ZA 6b.4"
+      ],
+      "source_page": 38,
+      "notes": "TA2 sign. 5 variant forms."
+    },
+    {
+      "sign_id": "AB 67",
+      "series": "AB",
+      "variant_count": 9,
+      "attestations": [
+        "HT 99b.5",
+        "HT 119b.5",
+        "HT 120.8",
+        "HT 133.7",
+        "HT 116b.9",
+        "HT Wc 3005",
+        "ZA 6b.5",
+        "KH 83.4",
+        "ARKH 1b.2"
+      ],
+      "source_page": 39,
+      "notes": "KI sign. 9 variant forms."
+    },
+    {
+      "sign_id": "AB 69",
+      "series": "AB",
+      "variant_count": 10,
+      "attestations": [
+        "HT 119b.6",
+        "HT 99b.6",
+        "HT 120.9",
+        "HT 133.8",
+        "HT 34.10",
+        "HT Wc 3008",
+        "ZA 6b.6",
+        "IO Za 6.6",
+        "ARKH 1b.3",
+        "KH 83.5"
+      ],
+      "source_page": 39,
+      "notes": "TU sign. 10 variant forms."
+    },
+    {
+      "sign_id": "AB 70",
+      "series": "AB",
+      "variant_count": 4,
+      "attestations": [
+        "HT 85b.6",
+        "HT 94b.8",
+        "HT 34.11",
+        "HT 119b.7"
+      ],
+      "source_page": 39,
+      "notes": "KO sign. 4 variant forms."
+    },
+    {
+      "sign_id": "AB 73",
+      "series": "AB",
+      "variant_count": 13,
+      "attestations": [
+        "HT 99b.7",
+        "HT 85b.7",
+        "HT 119b.8",
+        "HT 120.10",
+        "HT 133.9",
+        "HT 94b.9",
+        "HT 34.12",
+        "HT Wc 3002",
+        "ZA 5b.1",
+        "IO Za 6.7",
+        "KH 83.6",
+        "ARKH 1b.5",
+        "PH 7b.5"
+      ],
+      "source_page": 39,
+      "notes": "MI2 sign. 13 variant forms."
+    },
+    {
+      "sign_id": "AB 74",
+      "series": "AB",
+      "variant_count": 9,
+      "attestations": [
+        "HT 94b.10",
+        "HT 119b.9",
+        "HT 120.11",
+        "HT 133.10",
+        "HT 34.13",
+        "ZA 5b.2",
+        "IO Za 6.8",
+        "ARKH 1b.6",
+        "KH 11.4"
+      ],
+      "source_page": 40,
+      "notes": "ZE sign. 9 variant forms."
+    },
+    {
+      "sign_id": "AB 76",
+      "series": "AB",
+      "variant_count": 2,
+      "attestations": [
+        "HT 34.14",
+        "HT 85b.8"
+      ],
+      "source_page": 40,
+      "notes": "2 variant forms."
+    },
+    {
+      "sign_id": "AB 77",
+      "series": "AB",
+      "variant_count": 7,
+      "attestations": [
+        "HT 120.12",
+        "HT 133.11",
+        "HT 34.15",
+        "HT 119b.10",
+        "ZA 5b.3",
+        "ARKH 1b.7",
+        "KH 83.7"
+      ],
+      "source_page": 40,
+      "notes": "KA sign. 7 variant forms."
+    },
+    {
+      "sign_id": "AB 78",
+      "series": "AB",
+      "variant_count": 7,
+      "attestations": [
+        "HT 34.16",
+        "HT 120.13",
+        "HT 133.12",
+        "HT 119b.11",
+        "ZA 5b.4",
+        "IO Za 6.9",
+        "KH 11.5"
+      ],
+      "source_page": 40,
+      "notes": "QE sign. 7 variant forms."
+    },
+    {
+      "sign_id": "AB 79",
+      "series": "AB",
+      "variant_count": 7,
+      "attestations": [
+        "HT 120.14",
+        "HT 133.13",
+        "HT 34.17",
+        "HT 119b.12",
+        "HT Wc 3003",
+        "ARKH 2.6",
+        "KH 7a.5"
+      ],
+      "source_page": 40,
+      "notes": "ZU sign. 7 variant forms."
+    },
+    {
+      "sign_id": "AB 80",
+      "series": "AB",
+      "variant_count": 23,
+      "attestations": [
+        "PH 6.2",
+        "HT 66.1",
+        "HT 9b.3",
+        "TY 3b.2",
+        "IO Za 6",
+        "PH 13c",
+        "KH 66.2",
+        "HT 35.3",
+        "ZA 8+",
+        "HT 88.5",
+        "HT 69.8.2",
+        "HT 85b.2",
+        "ZA 5b.5",
+        "HT 31a.1",
+        "ZA 15a.8",
+        "PH 31a.2",
+        "HT 100a.1",
+        "PYR a.1",
+        "IO Za 1d.4",
+        "KO Za 1d",
+        "PH 7a.3",
+        "MA 1b",
+        "SK 2b.1"
+      ],
+      "source_page": 41,
+      "notes": "23 variant forms. Highly variable sign with attestations across many sites."
+    },
+    {
+      "sign_id": "AB 81",
+      "series": "AB",
+      "variant_count": 15,
+      "attestations": [
+        "HT 6a.1",
+        "HT 14.1",
+        "HT Wa 1086",
+        "HT 85b.4",
+        "HT 85b.2",
+        "TY 3b.7",
+        "MA 3a.2",
+        "HT 4.5",
+        "HT Wc 16+n",
+        "HT 17a.7",
+        "ZA 15a",
+        "ZA 2b.1.2",
+        "HT Wa 1600",
+        "ARKH 3a.6",
+        "LA 2b.1"
+      ],
+      "source_page": 41,
+      "notes": "KU sign. ~15 variant forms."
+    },
+    {
+      "sign_id": "AB 82",
+      "series": "AB",
+      "variant_count": 2,
+      "attestations": [
+        "ZA 4a.7",
+        "KH Wa 1003"
+      ],
+      "source_page": 42,
+      "notes": "2 variant forms."
+    },
+    {
+      "sign_id": "AB 85",
+      "series": "AB",
+      "variant_count": 6,
+      "attestations": [
+        "IO Za 3",
+        "HT 118.1",
+        "HT 38.2",
+        "PH 31a.3",
+        "KO Zf 2",
+        "KH 6.7"
+      ],
+      "source_page": 42,
+      "notes": "6 variant forms."
+    },
+    {
+      "sign_id": "AB 86",
+      "series": "AB",
+      "variant_count": 6,
+      "attestations": [
+        "KH Wa 1014",
+        "HT 45a.2",
+        "HT 27a.2",
+        "HT 94 b.5",
+        "(HT 8 b.5)",
+        "(KH Wc 2062)"
+      ],
+      "source_page": 42,
+      "notes": "6 variant forms. Parenthesized refs indicate uncertain attribution."
+    },
+    {
+      "sign_id": "AB 87",
+      "series": "AB",
+      "variant_count": 1,
+      "attestations": [
+        "HT 126 b.2"
+      ],
+      "source_page": 42,
+      "notes": "1 variant form only."
+    },
+    {
+      "sign_id": "A 100/102",
+      "series": "A",
+      "variant_count": 17,
+      "attestations": [
+        "TY 2.3",
+        "HT 7a.1",
+        "HT 68.1",
+        "HT 27a.1",
+        "HT 27a.6",
+        "HT 85a.1",
+        "(KH 19.1)",
+        "HT 102.3",
+        "KH Wc 2004",
+        "(KH 7a.4)",
+        "(HT 127b.5)",
+        "HT 11a.4",
+        "(HT 89.3)",
+        "(HT 100.2)",
+        "(HT 94.2)",
+        "PH 8a.2",
+        "PH 12a"
+      ],
+      "source_page": [
+        42,
+        43
+      ],
+      "notes": "Combined sign A 100/102. 17 variant forms spanning pages 42-43. Many uncertain attributions in parentheses."
+    },
+    {
+      "sign_id": "AB 118",
+      "series": "AB",
+      "variant_count": 7,
+      "attestations": [
+        "HT 13.5",
+        "HT 96b.1",
+        "HT 24b.2",
+        "KN 2.2",
+        "KN Za 19.2",
+        "PA 1",
+        "SY Zy 1"
+      ],
+      "source_page": 43,
+      "notes": "7 variant forms."
+    },
+    {
+      "sign_id": "AB 120",
+      "series": "AB",
+      "variant_count": 4,
+      "attestations": [
+        "ARKH 3a.4",
+        "HT 14.3",
+        "KH 10.4",
+        "(ZA 11a.1)"
+      ],
+      "source_page": 43,
+      "notes": "4 variant forms."
+    },
+    {
+      "sign_id": "A 120b",
+      "series": "A",
+      "variant_count": 1,
+      "attestations": [
+        "ARKH 3a.1"
+      ],
+      "source_page": 43,
+      "notes": "Linear A only variant of 120. 1 variant form."
+    },
+    {
+      "sign_id": "AB 122",
+      "series": "AB",
+      "variant_count": 7,
+      "attestations": [
+        "HT 123a.1",
+        "HT 44a.3",
+        "HT 21.4",
+        "ARKH 3a.2",
+        "HT 14.2",
+        "ZA 11a.6",
+        "TY 3a.4"
+      ],
+      "source_page": 43,
+      "notes": "7 variant forms."
+    },
+    {
+      "sign_id": "AB 123",
+      "series": "AB",
+      "variant_count": 4,
+      "attestations": [
+        "HT 39.1",
+        "KH 53.1",
+        "ZA 20.3",
+        "HT 9a.5"
+      ],
+      "source_page": 43,
+      "notes": "4 variant forms."
+    },
+    {
+      "sign_id": "AB 131a",
+      "series": "AB",
+      "variant_count": 8,
+      "attestations": [
+        "ARKH 3b.5",
+        "HT 17.1",
+        "HT 35.4",
+        "HT 123a.3",
+        "KN Zb 27",
+        "PH 25.1",
+        "PH Wc 43",
+        "PH 9b"
+      ],
+      "source_page": 44,
+      "notes": "8 variant forms."
+    },
+    {
+      "sign_id": "AB 131b",
+      "series": "AB",
+      "variant_count": 2,
+      "attestations": [
+        "ARKH 2.2",
+        "(KH 5.2)"
+      ],
+      "source_page": 44,
+      "notes": "2 variant forms."
+    },
+    {
+      "sign_id": "A 131c",
+      "series": "A",
+      "variant_count": 1,
+      "attestations": [
+        "KH 18.4"
+      ],
+      "source_page": 44,
+      "notes": "Linear A only variant. 1 variant form."
+    },
+    {
+      "sign_id": "AB 164a",
+      "series": "AB",
+      "variant_count": 2,
+      "attestations": [
+        "HT 17.1",
+        "HT 19.1"
+      ],
+      "source_page": 44,
+      "notes": "2 variant forms."
+    },
+    {
+      "sign_id": "AB 164b",
+      "series": "AB",
+      "variant_count": 1,
+      "attestations": [
+        "KH Wc 2040"
+      ],
+      "source_page": 44,
+      "notes": "1 variant form."
+    },
+    {
+      "sign_id": "AB 164c",
+      "series": "AB",
+      "variant_count": 1,
+      "attestations": [
+        "KH Wc 2041"
+      ],
+      "source_page": 44,
+      "notes": "1 variant form."
+    },
+    {
+      "sign_id": "AB 164d",
+      "series": "AB",
+      "variant_count": 1,
+      "attestations": [
+        "KH Wc 2042"
+      ],
+      "source_page": 45,
+      "notes": "1 variant form."
+    },
+    {
+      "sign_id": "AB 171",
+      "series": "AB",
+      "variant_count": 1,
+      "attestations": [
+        "HT 117a.8"
+      ],
+      "source_page": 45,
+      "notes": "1 variant form."
+    },
+    {
+      "sign_id": "AB 180",
+      "series": "AB",
+      "variant_count": 6,
+      "attestations": [
+        "HT Wa 1669",
+        "HT Wa 1638",
+        "HT 98a.3",
+        "HT Wa 1755",
+        "HT Wa 1834",
+        "AP Za 1"
+      ],
+      "source_page": 45,
+      "notes": "6 variant forms. Important sign for sealing studies."
+    },
+    {
+      "sign_id": "AB 188",
+      "series": "AB",
+      "variant_count": 2,
+      "attestations": [
+        "HT 117a.9",
+        "HT 13.8"
+      ],
+      "source_page": 45,
+      "notes": "2 variant forms."
+    },
+    {
+      "sign_id": "AB 191",
+      "series": "AB",
+      "variant_count": 1,
+      "attestations": [
+        "HT Wa 1019"
+      ],
+      "source_page": 45,
+      "notes": "1 variant form."
+    },
+    {
+      "sign_id": "A 301",
+      "series": "A",
+      "variant_count": 11,
+      "attestations": [
+        "HT Wa 1669",
+        "HT Wa 1638",
+        "HT 98a.3",
+        "HT Wa 1755",
+        "HT Wa 1834",
+        "AP Za 1",
+        "IO Za.6",
+        "PK Za 1a",
+        "(KH Wc 2048)",
+        "(KH Wc 2065)",
+        "ARKH 2.3"
+      ],
+      "source_page": [
+        45,
+        46
+      ],
+      "notes": "*301 sign - key Linear A unique sign. 11 variant forms spanning pages 45-46. Attestations at HT, AP, IO, PK, KH, ARKH."
+    },
+    {
+      "sign_id": "A 302",
+      "series": "A",
+      "variant_count": 6,
+      "attestations": [
+        "ARKH 3b.4",
+        "HT 144a.2",
+        "HT M6b.2",
+        "KN Zb 35",
+        "SY Za 2b",
+        "(TY 3a.2)"
+      ],
+      "source_page": 46,
+      "notes": "6 variant forms."
+    },
+    {
+      "sign_id": "A 303",
+      "series": "A",
+      "variant_count": 7,
+      "attestations": [
+        "HT 30.1",
+        "HT 94a.3",
+        "KH 22.2",
+        "KH 4.2",
+        "(KH 38.2)",
+        "HT 106.1",
+        "HT Wc 3015b"
+      ],
+      "source_page": 46,
+      "notes": "7 variant forms."
+    },
+    {
+      "sign_id": "A 304",
+      "series": "A",
+      "variant_count": 6,
+      "attestations": [
+        "PH 8a.2",
+        "HT 131a.4",
+        "KH 9.6",
+        "HT 116b.1",
+        "PYR 2",
+        "PH 14a"
+      ],
+      "source_page": 46,
+      "notes": "6 variant forms."
+    },
+    {
+      "sign_id": "A 305",
+      "series": "A",
+      "variant_count": 6,
+      "attestations": [
+        "HT 100.2",
+        "HT 10a.3",
+        "HT 33.4",
+        "HT 9b.2",
+        "ZA 6a.1",
+        "KH 7a.4"
+      ],
+      "source_page": 46,
+      "notes": "6 variant forms."
+    },
+    {
+      "sign_id": "A 306",
+      "series": "A",
+      "variant_count": 5,
+      "attestations": [
+        "HT 9a.2",
+        "HT 115b.3",
+        "KH 11.3",
+        "KH 4.2",
+        "(KH 2.2)"
+      ],
+      "source_page": 46,
+      "notes": "5 variant forms."
+    },
+    {
+      "sign_id": "A 307",
+      "series": "A",
+      "variant_count": 3,
+      "attestations": [
+        "HT 89.1",
+        "(HT 85a.1)",
+        "(KH 19)"
+      ],
+      "source_page": 47,
+      "notes": "3 variant forms."
+    },
+    {
+      "sign_id": "A 308",
+      "series": "A",
+      "variant_count": 5,
+      "attestations": [
+        "ARKH 7.3",
+        "HT 123a.2",
+        "HT 23a.1",
+        "KH 12.1",
+        "KH 85.1"
+      ],
+      "source_page": 47,
+      "notes": "5 variant forms."
+    },
+    {
+      "sign_id": "A 309a",
+      "series": "A",
+      "variant_count": 1,
+      "attestations": [
+        "TY 2.3α"
+      ],
+      "source_page": 47,
+      "notes": "Sub-variant a. 1 variant form. Tylissos."
+    },
+    {
+      "sign_id": "A 309b",
+      "series": "A",
+      "variant_count": 1,
+      "attestations": [
+        "TY 2.1α"
+      ],
+      "source_page": 47,
+      "notes": "Sub-variant b. 1 variant form. Tylissos."
+    },
+    {
+      "sign_id": "A 309c",
+      "series": "A",
+      "variant_count": 1,
+      "attestations": [
+        "TY 2.5α"
+      ],
+      "source_page": 47,
+      "notes": "Sub-variant c. 1 variant form. Tylissos."
+    },
+    {
+      "sign_id": "A 310",
+      "series": "A",
+      "variant_count": 4,
+      "attestations": [
+        "HT 85b.5",
+        "HT 27a.5",
+        "HT 37.4",
+        "KN Zf 31"
+      ],
+      "source_page": 47,
+      "notes": "4 variant forms."
+    },
+    {
+      "sign_id": "A 311",
+      "series": "A",
+      "variant_count": 4,
+      "attestations": [
+        "(KH Wc 2048)",
+        "(KH Wc 2047)",
+        "(KH Wc 2049)",
+        "(KH Wc 2052)"
+      ],
+      "source_page": 47,
+      "notes": "4 variant forms. All from KH Wc sealings, all uncertain attributions."
+    },
+    {
+      "sign_id": "A 312",
+      "series": "A",
+      "variant_count": 3,
+      "attestations": [
+        "ZA 6b.2",
+        "HT 78",
+        "KH 8.4"
+      ],
+      "source_page": 47,
+      "notes": "3 variant forms."
+    },
+    {
+      "sign_id": "A 313a",
+      "series": "A",
+      "variant_count": 1,
+      "attestations": [
+        "(HT 100.2)"
+      ],
+      "source_page": 48,
+      "notes": "Sub-variant a. 1 variant form."
+    },
+    {
+      "sign_id": "A 313b",
+      "series": "A",
+      "variant_count": 1,
+      "attestations": [
+        "(HT 94a.2)"
+      ],
+      "source_page": 48,
+      "notes": "Sub-variant b. 1 variant form."
+    },
+    {
+      "sign_id": "A 313c",
+      "series": "A",
+      "variant_count": 1,
+      "attestations": [
+        "(HT 127b.5)"
+      ],
+      "source_page": 48,
+      "notes": "Sub-variant c. 1 variant form."
+    },
+    {
+      "sign_id": "A 314",
+      "series": "A",
+      "variant_count": 5,
+      "attestations": [
+        "ARKH 8b.2",
+        "HT Wc 3006b",
+        "KO Za 1b",
+        "PH 26",
+        "PH Wc 38"
+      ],
+      "source_page": 48,
+      "notes": "5 variant forms."
+    },
+    {
+      "sign_id": "A 315",
+      "series": "A",
+      "variant_count": 4,
+      "attestations": [
+        "HT 9a.1",
+        "HT 17.2",
+        "HT 19.2",
+        "KH 82.3"
+      ],
+      "source_page": 48,
+      "notes": "4 variant forms."
+    },
+    {
+      "sign_id": "A 316",
+      "series": "A",
+      "variant_count": 2,
+      "attestations": [
+        "KH 91.2",
+        "(PYR 1.2)"
+      ],
+      "source_page": 48,
+      "notes": "2 variant forms."
+    },
+    {
+      "sign_id": "A 317",
+      "series": "A",
+      "variant_count": 2,
+      "attestations": [
+        "PH 9a",
+        "(KH Wa 1001)"
+      ],
+      "source_page": 48,
+      "notes": "2 variant forms."
+    },
+    {
+      "sign_id": "A 318",
+      "series": "A",
+      "variant_count": 2,
+      "attestations": [
+        "HT 45a.3",
+        "(PH 8b.1)"
+      ],
+      "source_page": 48,
+      "notes": "2 variant forms."
+    },
+    {
+      "sign_id": "A 319",
+      "series": "A",
+      "variant_count": 1,
+      "attestations": [
+        "HT 132.1"
+      ],
+      "source_page": 48,
+      "notes": "1 variant form."
+    },
+    {
+      "sign_id": "A 320",
+      "series": "A",
+      "variant_count": 1,
+      "attestations": [
+        "PH Wc 37b"
+      ],
+      "source_page": 48,
+      "notes": "1 variant form."
+    },
+    {
+      "sign_id": "A 321",
+      "series": "A",
+      "variant_count": 3,
+      "attestations": [
+        "TY 3a.1",
+        "HT 6a.3",
+        "IO Za 7"
+      ],
+      "source_page": 48,
+      "notes": "3 variant forms."
+    },
+    {
+      "sign_id": "A 322",
+      "series": "A",
+      "variant_count": 2,
+      "attestations": [
+        "KH Wc 2038",
+        "HT 11a.3"
+      ],
+      "source_page": 48,
+      "notes": "2 variant forms."
+    },
+    {
+      "sign_id": "A 323",
+      "series": "A",
+      "variant_count": 2,
+      "attestations": [
+        "HT 96a.4",
+        "HT 29a.4"
+      ],
+      "source_page": 49
+    },
+    {
+      "sign_id": "A 324",
+      "series": "A",
+      "variant_count": 1,
+      "attestations": [
+        "HT 9a.4"
+      ],
+      "source_page": 49
+    },
+    {
+      "sign_id": "A 325",
+      "series": "A",
+      "variant_count": 1,
+      "attestations": [
+        "HT 85a.3"
+      ],
+      "source_page": 49
+    },
+    {
+      "sign_id": "A 326",
+      "series": "A",
+      "variant_count": 1,
+      "attestations": [
+        "HT 91.1"
+      ],
+      "source_page": 49
+    },
+    {
+      "sign_id": "A 327",
+      "series": "A",
+      "variant_count": 2,
+      "attestations": [
+        "HT 97a.1",
+        "HT 119a.4"
+      ],
+      "source_page": 49
+    },
+    {
+      "sign_id": "A 328",
+      "series": "A",
+      "variant_count": 2,
+      "attestations": [
+        "PH Wc 46",
+        "PH 13a"
+      ],
+      "source_page": 49
+    },
+    {
+      "sign_id": "A 329",
+      "series": "A",
+      "variant_count": 2,
+      "attestations": [
+        "HT 7b.2",
+        "HT 128b.1"
+      ],
+      "source_page": 49
+    },
+    {
+      "sign_id": "A 330",
+      "series": "A",
+      "variant_count": 2,
+      "attestations": [
+        "(HT 22.2)",
+        "(HT 65.2)"
+      ],
+      "source_page": 49,
+      "notes": "Both attributions uncertain."
+    },
+    {
+      "sign_id": "A 331",
+      "series": "A",
+      "variant_count": 2,
+      "attestations": [
+        "HT 40.1",
+        "KH 32.1"
+      ],
+      "source_page": 49
+    },
+    {
+      "sign_id": "A 332",
+      "series": "A",
+      "variant_count": 1,
+      "attestations": [
+        "HT 97b"
+      ],
+      "source_page": 49
+    },
+    {
+      "sign_id": "A 333",
+      "series": "A",
+      "variant_count": 1,
+      "attestations": [
+        "HT Wc 3009a"
+      ],
+      "source_page": 49
+    },
+    {
+      "sign_id": "A 334",
+      "series": "A",
+      "variant_count": 1,
+      "attestations": [
+        "KH 6.6"
+      ],
+      "source_page": 49
+    },
+    {
+      "sign_id": "A 335",
+      "series": "A",
+      "variant_count": 2,
+      "attestations": [
+        "KH 12.2",
+        "KH 44.2"
+      ],
+      "source_page": 49
+    },
+    {
+      "sign_id": "A 336",
+      "series": "A",
+      "variant_count": 1,
+      "attestations": [
+        "KH 14.2"
+      ],
+      "source_page": 49
+    },
+    {
+      "sign_id": "A 337",
+      "series": "A",
+      "variant_count": 1,
+      "attestations": [
+        "(KH Wc 2057)"
+      ],
+      "source_page": 49,
+      "notes": "Uncertain attribution."
+    },
+    {
+      "sign_id": "A 338",
+      "series": "A",
+      "variant_count": 1,
+      "attestations": [
+        "KH Wc 2068"
+      ],
+      "source_page": 49
+    },
+    {
+      "sign_id": "A 339",
+      "series": "A",
+      "variant_count": 1,
+      "attestations": [
+        "PH 12a"
+      ],
+      "source_page": 49
+    },
+    {
+      "sign_id": "A 340",
+      "series": "A",
+      "variant_count": 1,
+      "attestations": [
+        "HT 29.4"
+      ],
+      "source_page": 49
+    },
+    {
+      "sign_id": "A 341",
+      "series": "A",
+      "variant_count": 1,
+      "attestations": [
+        "HT 31.1"
+      ],
+      "source_page": 50
+    },
+    {
+      "sign_id": "A 342",
+      "series": "A",
+      "variant_count": 1,
+      "attestations": [
+        "HT 31.2"
+      ],
+      "source_page": 50
+    },
+    {
+      "sign_id": "A 343",
+      "series": "A",
+      "variant_count": 1,
+      "attestations": [
+        "HT 31.3"
+      ],
+      "source_page": 50
+    },
+    {
+      "sign_id": "A 344",
+      "series": "A",
+      "variant_count": 1,
+      "attestations": [
+        "HT 33.1"
+      ],
+      "source_page": 50
+    },
+    {
+      "sign_id": "A 345",
+      "series": "A",
+      "variant_count": 1,
+      "attestations": [
+        "HT 33.2"
+      ],
+      "source_page": 50
+    },
+    {
+      "sign_id": "A 346",
+      "series": "A",
+      "variant_count": 1,
+      "attestations": [
+        "HT 33.3"
+      ],
+      "source_page": 50
+    },
+    {
+      "sign_id": "A 347",
+      "series": "A",
+      "variant_count": 1,
+      "attestations": [
+        "HT 38.1"
+      ],
+      "source_page": 50
+    },
+    {
+      "sign_id": "A 348",
+      "series": "A",
+      "variant_count": 1,
+      "attestations": [
+        "HT 39.3"
+      ],
+      "source_page": 50
+    },
+    {
+      "sign_id": "A 349",
+      "series": "A",
+      "variant_count": 1,
+      "attestations": [
+        "HT 39.4"
+      ],
+      "source_page": 50
+    },
+    {
+      "sign_id": "A 350",
+      "series": "A",
+      "variant_count": 1,
+      "attestations": [
+        "HT 85.2"
+      ],
+      "source_page": 50
+    },
+    {
+      "sign_id": "A 351",
+      "series": "A",
+      "variant_count": 1,
+      "attestations": [
+        "HT 93a.8"
+      ],
+      "source_page": 50
+    },
+    {
+      "sign_id": "A 352",
+      "series": "A",
+      "variant_count": 1,
+      "attestations": [
+        "HT 95b.4"
+      ],
+      "source_page": 50
+    },
+    {
+      "sign_id": "A 353",
+      "series": "A",
+      "variant_count": 1,
+      "attestations": [
+        "HT 100.1"
+      ],
+      "source_page": 50
+    },
+    {
+      "sign_id": "A 354",
+      "series": "A",
+      "variant_count": 1,
+      "attestations": [
+        "HT 115a.1"
+      ],
+      "source_page": 50
+    },
+    {
+      "sign_id": "A 355",
+      "series": "A",
+      "variant_count": 1,
+      "attestations": [
+        "HT 122a.5"
+      ],
+      "source_page": 50
+    },
+    {
+      "sign_id": "A 356",
+      "series": "A",
+      "variant_count": 1,
+      "attestations": [
+        "IO Za 2.8"
+      ],
+      "source_page": 50
+    },
+    {
+      "sign_id": "A 357",
+      "series": "A",
+      "variant_count": 1,
+      "attestations": [
+        "KH 7a.6"
+      ],
+      "source_page": 50
+    },
+    {
+      "sign_id": "A 358",
+      "series": "A",
+      "variant_count": 1,
+      "attestations": [
+        "PH 7b.6"
+      ],
+      "source_page": 50
+    },
+    {
+      "sign_id": "A 359",
+      "series": "A",
+      "variant_count": 1,
+      "attestations": [
+        "PH 17a"
+      ],
+      "source_page": 51
+    },
+    {
+      "sign_id": "A 360",
+      "series": "A",
+      "variant_count": 1,
+      "attestations": [
+        "PH 17b"
+      ],
+      "source_page": 51
+    },
+    {
+      "sign_id": "A 361",
+      "series": "A",
+      "variant_count": 1,
+      "attestations": [
+        "TY 3a.7"
+      ],
+      "source_page": 51
+    },
+    {
+      "sign_id": "A 362",
+      "series": "A",
+      "variant_count": 1,
+      "attestations": [
+        "ZA 10b.1"
+      ],
+      "source_page": 51
+    },
+    {
+      "sign_id": "A 363",
+      "series": "A",
+      "variant_count": 1,
+      "attestations": [
+        "ZA 14.2"
+      ],
+      "source_page": 51
+    },
+    {
+      "sign_id": "A 364",
+      "series": "A",
+      "variant_count": 1,
+      "attestations": [
+        "ZA 15a.7"
+      ],
+      "source_page": 51
+    },
+    {
+      "sign_id": "A 365",
+      "series": "A",
+      "variant_count": 1,
+      "attestations": [
+        "HT Wa 1849"
+      ],
+      "source_page": 51
+    },
+    {
+      "sign_id": "A 366",
+      "series": "A",
+      "variant_count": 1,
+      "attestations": [
+        "HT Wa 1850"
+      ],
+      "source_page": 51
+    },
+    {
+      "sign_id": "A 367",
+      "series": "A",
+      "variant_count": 1,
+      "attestations": [
+        "HT Wa 1851"
+      ],
+      "source_page": 51
+    },
+    {
+      "sign_id": "A 368",
+      "series": "A",
+      "variant_count": 1,
+      "attestations": [
+        "HT Wa 1852"
+      ],
+      "source_page": 51
+    },
+    {
+      "sign_id": "A 369",
+      "series": "A",
+      "variant_count": 1,
+      "attestations": [
+        "HT Wa 1853"
+      ],
+      "source_page": 51
+    },
+    {
+      "sign_id": "A 370",
+      "series": "A",
+      "variant_count": 1,
+      "attestations": [
+        "HT Wa 1854"
+      ],
+      "source_page": 51
+    },
+    {
+      "sign_id": "A 371",
+      "series": "A",
+      "variant_count": 1,
+      "attestations": [
+        "KH Wa 1018"
+      ],
+      "source_page": 51
+    },
+    {
+      "sign_id": "A 400",
+      "series": "A",
+      "variant_count": 1,
+      "attestations": [
+        "HT 110b.1"
+      ],
+      "source_page": 51,
+      "category": "VAS",
+      "notes": "Vessel ideogram. VAS series begins here."
+    },
+    {
+      "sign_id": "A 401",
+      "series": "A",
+      "variant_count": 2,
+      "attestations": [
+        "KH 85.2",
+        "HT 33.1"
+      ],
+      "source_page": 51,
+      "category": "VAS"
+    },
+    {
+      "sign_id": "A 402",
+      "series": "A",
+      "variant_count": 1,
+      "attestations": [
+        "HT 31.2"
+      ],
+      "source_page": 51,
+      "category": "VAS"
+    },
+    {
+      "sign_id": "A 403",
+      "series": "A",
+      "variant_count": 1,
+      "attestations": [
+        "HT 38.2"
+      ],
+      "source_page": 51,
+      "category": "VAS"
+    },
+    {
+      "sign_id": "A 404",
+      "series": "A",
+      "variant_count": 1,
+      "attestations": [
+        "MA 10b.2"
+      ],
+      "source_page": 52,
+      "category": "VAS"
+    },
+    {
+      "sign_id": "A 405",
+      "series": "A",
+      "variant_count": 1,
+      "attestations": [
+        "MA 10b.1"
+      ],
+      "source_page": 52,
+      "category": "VAS"
+    },
+    {
+      "sign_id": "A 406",
+      "series": "A",
+      "variant_count": 1,
+      "attestations": [
+        "HT 93a.7"
+      ],
+      "source_page": 52,
+      "category": "VAS"
+    },
+    {
+      "sign_id": "A 407",
+      "series": "A",
+      "variant_count": 1,
+      "attestations": [
+        "HT 39.5"
+      ],
+      "source_page": 52,
+      "category": "VAS"
+    },
+    {
+      "sign_id": "A 408",
+      "series": "A",
+      "variant_count": 1,
+      "attestations": [
+        "KH Wc 2103"
+      ],
+      "source_page": 52,
+      "category": "VAS"
+    },
+    {
+      "sign_id": "A 409",
+      "series": "A",
+      "variant_count": 1,
+      "attestations": [
+        "KH Wc 2020"
+      ],
+      "source_page": 52,
+      "category": "VAS"
+    },
+    {
+      "sign_id": "A 410",
+      "series": "A",
+      "variant_count": 1,
+      "attestations": [
+        "HT 31.1"
+      ],
+      "source_page": 52,
+      "category": "VAS"
+    },
+    {
+      "sign_id": "A 411",
+      "series": "A",
+      "variant_count": 1,
+      "attestations": [
+        "KH Wc 2009"
+      ],
+      "source_page": 52,
+      "category": "VAS"
+    },
+    {
+      "sign_id": "A 412",
+      "series": "A",
+      "variant_count": 1,
+      "attestations": [
+        "MA 10b.2"
+      ],
+      "source_page": 52,
+      "category": "VAS"
+    },
+    {
+      "sign_id": "A 413",
+      "series": "A",
+      "variant_count": 1,
+      "attestations": [
+        "MA 10a"
+      ],
+      "source_page": 52,
+      "category": "VAS"
+    },
+    {
+      "sign_id": "A 414",
+      "series": "A",
+      "variant_count": 1,
+      "attestations": [
+        "MA 10d"
+      ],
+      "source_page": 52,
+      "category": "VAS"
+    },
+    {
+      "sign_id": "A 415",
+      "series": "A",
+      "variant_count": 1,
+      "attestations": [
+        "HT 31.2"
+      ],
+      "source_page": 52,
+      "category": "VAS"
+    },
+    {
+      "sign_id": "A 416",
+      "series": "A",
+      "variant_count": 1,
+      "attestations": [
+        "HT 31.3"
+      ],
+      "source_page": 52,
+      "category": "VAS"
+    },
+    {
+      "sign_id": "A 417",
+      "series": "A",
+      "variant_count": 2,
+      "attestations": [
+        "KH Wc 2006",
+        "PH 8a.1"
+      ],
+      "source_page": 52,
+      "category": "VAS"
+    },
+    {
+      "sign_id": "A 418",
+      "series": "A",
+      "variant_count": 1,
+      "attestations": [
+        "PH 8a.3"
+      ],
+      "source_page": 52,
+      "category": "VAS"
+    }
+  ]
+}

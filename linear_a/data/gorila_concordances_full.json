@@ -1,0 +1,3764 @@
+{
+  "metadata": {
+    "project": "GORILA Concordance Générale — Full Extraction",
+    "source": "Godart & Olivier, GORILA Vol. 5 (1985), pp. 82-113",
+    "extraction_date": "2026-04-04",
+    "total_entries": 468,
+    "extraction_coverage": "All non-HT-Wa entries fully extracted. HT tablets (HT 1-154G) fully extracted. HT Wa sealings (861 entries) require batch OCR — structure documented but individual rows pending. KH Wc roundels partially extracted.",
+    "columns": {
+      "id": "GORILA edition number (inscription identifier)",
+      "inventory_number": "Museum inventory number (HM = Heraklion Museum, AM = Ashmolean Museum, A. Nik. M. = Agios Nikolaos Museum, NM = National Museum Athens, MSMA = Musée Stratigraphique de Mallia, etc.)",
+      "dating": "Archaeological dating (MM = Middle Minoan, MR = Late Minoan [Minoen Récent], I/II/III = period, A/B = subperiod)",
+      "scribe": "Scribe identification by L. Godart (number + site code, e.g. '9 HT' = scribe 9 at Hagia Triada)",
+      "gorila_ref": "Volume and page in GORILA publication",
+      "notes": "Additional notes"
+    },
+    "ht_wa_sealings_note": "The HT Wa entries (Hagia Triada sealings, ~861 entries from HT Wa 1001 to HT Wa 3025+) are the largest single block in the concordance, spanning ~15 pages. Each entry maps a sealing number to an HM inventory number. These require systematic batch extraction from pages 139-155 of Vol 5. The inventory numbers follow patterns like HM 401.1, HM 401.2, etc."
+  },
+  "entries": [
+    {
+      "id": "AP Za 1",
+      "inventory_number": "HM 2478",
+      "dating": "MM III",
+      "scribe": "",
+      "gorila_ref": "4, p. 2",
+      "notes": ""
+    },
+    {
+      "id": "AP Za 2",
+      "inventory_number": "HM 2479 [+] 2480",
+      "dating": "MM III",
+      "scribe": "",
+      "gorila_ref": "4, p. 4",
+      "notes": ""
+    },
+    {
+      "id": "AP Za <3>",
+      "inventory_number": "Khania M. 1048 (?)",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "4, p. 6",
+      "notes": ""
+    },
+    {
+      "id": "AR Zf 1",
+      "inventory_number": "Boston M. 58.1009",
+      "dating": "",
+      "scribe": "1 AR Zf",
+      "gorila_ref": "4, p. 142",
+      "notes": ""
+    },
+    {
+      "id": "AR Zf 2",
+      "inventory_number": "HM 626",
+      "dating": "",
+      "scribe": "2 AR Zf",
+      "gorila_ref": "4, p. 143",
+      "notes": ""
+    },
+    {
+      "id": "ARKH 1",
+      "inventory_number": "HM 1668 [+] 1669 [+]",
+      "dating": "MR I B",
+      "scribe": "1 ARKH",
+      "gorila_ref": "3, p. 2",
+      "notes": ""
+    },
+    {
+      "id": "ARKH 2",
+      "inventory_number": "HM 1673",
+      "dating": "MR I B",
+      "scribe": "1 ARKH",
+      "gorila_ref": "3, p. 6",
+      "notes": ""
+    },
+    {
+      "id": "ARKH 3",
+      "inventory_number": "HM 1675",
+      "dating": "MR I B",
+      "scribe": "1 ARKH (?)",
+      "gorila_ref": "3, p. 8",
+      "notes": ""
+    },
+    {
+      "id": "ARKH 4",
+      "inventory_number": "HM 1670",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 12",
+      "notes": ""
+    },
+    {
+      "id": "ARKH 5",
+      "inventory_number": "HM 1674",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 16",
+      "notes": ""
+    },
+    {
+      "id": "ARKH 6",
+      "inventory_number": "HM 1671",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 18",
+      "notes": ""
+    },
+    {
+      "id": "ARKH 7",
+      "inventory_number": "HM 1672",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 18",
+      "notes": ""
+    },
+    {
+      "id": "CR (?) Zf 1",
+      "inventory_number": "A. Nik. M. 9675",
+      "dating": "MR I A",
+      "scribe": "",
+      "gorila_ref": "4, p. 146",
+      "notes": ""
+    },
+    {
+      "id": "GO Wc 1",
+      "inventory_number": "HM 83",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "2, p. 2",
+      "notes": ""
+    },
+    {
+      "id": "HT 1",
+      "inventory_number": "HM 3",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 2",
+      "notes": ""
+    },
+    {
+      "id": "HT 2",
+      "inventory_number": "HM 4",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 4",
+      "notes": ""
+    },
+    {
+      "id": "HT 3",
+      "inventory_number": "HM 5",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 6",
+      "notes": ""
+    },
+    {
+      "id": "HT 4",
+      "inventory_number": "HM 6",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 8",
+      "notes": ""
+    },
+    {
+      "id": "HT 5",
+      "inventory_number": "HM 50",
+      "dating": "MR I B",
+      "scribe": "1 HT (?)",
+      "gorila_ref": "1, p. 10",
+      "notes": ""
+    },
+    {
+      "id": "HT 6",
+      "inventory_number": "HM 8",
+      "dating": "MR I B",
+      "scribe": "17 HT (a,b,1-3); 18 HT (b,4-6)",
+      "gorila_ref": "1, p. 12",
+      "notes": ""
+    },
+    {
+      "id": "HT 7",
+      "inventory_number": "HM 10",
+      "dating": "MR I B",
+      "scribe": "11 HT",
+      "gorila_ref": "1, p. 14",
+      "notes": ""
+    },
+    {
+      "id": "HT 8",
+      "inventory_number": "HM 11",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 16",
+      "notes": ""
+    },
+    {
+      "id": "HT 9",
+      "inventory_number": "HM 13",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 18",
+      "notes": ""
+    },
+    {
+      "id": "HT 10",
+      "inventory_number": "HM 17",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 20",
+      "notes": ""
+    },
+    {
+      "id": "HT 11",
+      "inventory_number": "HM 14",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 22",
+      "notes": ""
+    },
+    {
+      "id": "HT 12",
+      "inventory_number": "HM 9",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 26",
+      "notes": ""
+    },
+    {
+      "id": "HT 13",
+      "inventory_number": "HM 15",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 28",
+      "notes": ""
+    },
+    {
+      "id": "HT 14",
+      "inventory_number": "HM 16",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 30",
+      "notes": ""
+    },
+    {
+      "id": "HT 15",
+      "inventory_number": "HM 18",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 32",
+      "notes": ""
+    },
+    {
+      "id": "HT 16",
+      "inventory_number": "HM 19",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 34",
+      "notes": ""
+    },
+    {
+      "id": "HT 17",
+      "inventory_number": "HM 20",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 36",
+      "notes": ""
+    },
+    {
+      "id": "HT 18",
+      "inventory_number": "HM 21",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 38",
+      "notes": ""
+    },
+    {
+      "id": "HT 19",
+      "inventory_number": "HM 22",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 40",
+      "notes": ""
+    },
+    {
+      "id": "HT 20",
+      "inventory_number": "HM 23",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 42",
+      "notes": ""
+    },
+    {
+      "id": "HT 21",
+      "inventory_number": "HM 24",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 44",
+      "notes": ""
+    },
+    {
+      "id": "HT 22",
+      "inventory_number": "HM 25",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 46",
+      "notes": ""
+    },
+    {
+      "id": "HT 23",
+      "inventory_number": "HM 26",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 48",
+      "notes": ""
+    },
+    {
+      "id": "HT 24",
+      "inventory_number": "HM 27",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 50",
+      "notes": ""
+    },
+    {
+      "id": "HT 25",
+      "inventory_number": "HM 28",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 52",
+      "notes": ""
+    },
+    {
+      "id": "HT 26",
+      "inventory_number": "HM 29",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 54",
+      "notes": ""
+    },
+    {
+      "id": "HT 27",
+      "inventory_number": "HM 30",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 56",
+      "notes": ""
+    },
+    {
+      "id": "HT 28",
+      "inventory_number": "HM 31",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 58",
+      "notes": ""
+    },
+    {
+      "id": "HT 29",
+      "inventory_number": "HM 32",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 60",
+      "notes": ""
+    },
+    {
+      "id": "HT 30",
+      "inventory_number": "HM 33",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 62",
+      "notes": ""
+    },
+    {
+      "id": "HT 31",
+      "inventory_number": "HM 34",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 64",
+      "notes": ""
+    },
+    {
+      "id": "HT 32",
+      "inventory_number": "HM 35",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 66",
+      "notes": ""
+    },
+    {
+      "id": "HT 33",
+      "inventory_number": "HM 36",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 68",
+      "notes": ""
+    },
+    {
+      "id": "HT 34",
+      "inventory_number": "HM 37",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 70",
+      "notes": ""
+    },
+    {
+      "id": "HT 35",
+      "inventory_number": "HM 38",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 72",
+      "notes": ""
+    },
+    {
+      "id": "HT 36",
+      "inventory_number": "HM 39",
+      "dating": "MR I B",
+      "scribe": "2 HT",
+      "gorila_ref": "1, p. 74",
+      "notes": ""
+    },
+    {
+      "id": "HT 37",
+      "inventory_number": "HM 40",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 76",
+      "notes": ""
+    },
+    {
+      "id": "HT 38",
+      "inventory_number": "HM 41",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 78",
+      "notes": ""
+    },
+    {
+      "id": "HT 39",
+      "inventory_number": "HM 42",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 80",
+      "notes": ""
+    },
+    {
+      "id": "HT 40",
+      "inventory_number": "HM 43",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 82",
+      "notes": ""
+    },
+    {
+      "id": "HT 41",
+      "inventory_number": "HM 44",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 84",
+      "notes": ""
+    },
+    {
+      "id": "HT 42",
+      "inventory_number": "HM 45",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 86",
+      "notes": ""
+    },
+    {
+      "id": "HT 43",
+      "inventory_number": "HM 46",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 88",
+      "notes": ""
+    },
+    {
+      "id": "HT 44",
+      "inventory_number": "HM 47",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 90",
+      "notes": ""
+    },
+    {
+      "id": "HT 45",
+      "inventory_number": "HM 48",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 92",
+      "notes": ""
+    },
+    {
+      "id": "HT 46",
+      "inventory_number": "HM 49",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 94",
+      "notes": ""
+    },
+    {
+      "id": "HT 47",
+      "inventory_number": "HM 51",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 96",
+      "notes": ""
+    },
+    {
+      "id": "HT 48",
+      "inventory_number": "HM 52",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 98",
+      "notes": ""
+    },
+    {
+      "id": "HT 49",
+      "inventory_number": "HM 53",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 100",
+      "notes": ""
+    },
+    {
+      "id": "HT 50",
+      "inventory_number": "HM 54",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 102",
+      "notes": ""
+    },
+    {
+      "id": "HT 51",
+      "inventory_number": "HM 55",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 104",
+      "notes": ""
+    },
+    {
+      "id": "HT 52",
+      "inventory_number": "HM 56",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 106",
+      "notes": ""
+    },
+    {
+      "id": "HT 53",
+      "inventory_number": "HM 57",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 108",
+      "notes": ""
+    },
+    {
+      "id": "HT 54",
+      "inventory_number": "HM 58",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 110",
+      "notes": ""
+    },
+    {
+      "id": "HT 55",
+      "inventory_number": "HM 59",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 112",
+      "notes": ""
+    },
+    {
+      "id": "HT 56",
+      "inventory_number": "HM 60",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 114",
+      "notes": ""
+    },
+    {
+      "id": "HT 57",
+      "inventory_number": "HM 61",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 116",
+      "notes": ""
+    },
+    {
+      "id": "HT 58",
+      "inventory_number": "HM 62",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 118",
+      "notes": ""
+    },
+    {
+      "id": "HT 59",
+      "inventory_number": "HM 63",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 120",
+      "notes": ""
+    },
+    {
+      "id": "HT 60",
+      "inventory_number": "HM 64",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 122",
+      "notes": ""
+    },
+    {
+      "id": "HT 61",
+      "inventory_number": "HM —",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 124",
+      "notes": ""
+    },
+    {
+      "id": "HT 62",
+      "inventory_number": "HM 66 [+] 78",
+      "dating": "MR I B",
+      "scribe": "14 HT",
+      "gorila_ref": "1, p. 126",
+      "notes": ""
+    },
+    {
+      "id": "HT 63",
+      "inventory_number": "HM —",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 128",
+      "notes": ""
+    },
+    {
+      "id": "HT 64",
+      "inventory_number": "HM 67",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 128",
+      "notes": ""
+    },
+    {
+      "id": "HT 65",
+      "inventory_number": "HM —",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 130",
+      "notes": ""
+    },
+    {
+      "id": "HT 66",
+      "inventory_number": "HM —",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 130",
+      "notes": ""
+    },
+    {
+      "id": "HT 67",
+      "inventory_number": "HM 68",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 130",
+      "notes": ""
+    },
+    {
+      "id": "HT 68",
+      "inventory_number": "HM —",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 132",
+      "notes": ""
+    },
+    {
+      "id": "HT 69",
+      "inventory_number": "HM —",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 132",
+      "notes": ""
+    },
+    {
+      "id": "HT 70",
+      "inventory_number": "HM —",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 132",
+      "notes": ""
+    },
+    {
+      "id": "HT 71",
+      "inventory_number": "HM —",
+      "dating": "MR 1 D",
+      "scribe": "",
+      "gorila_ref": "1, p. 134",
+      "notes": ""
+    },
+    {
+      "id": "HT 72",
+      "inventory_number": "HM —",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "1, p. 136",
+      "notes": ""
+    },
+    {
+      "id": "HT 73",
+      "inventory_number": "HM —",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "1, p. 136",
+      "notes": ""
+    },
+    {
+      "id": "HT 74",
+      "inventory_number": "HM —",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "1, p. 136",
+      "notes": ""
+    },
+    {
+      "id": "HT 75",
+      "inventory_number": "HM —",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "1, p. 138",
+      "notes": ""
+    },
+    {
+      "id": "HT 76",
+      "inventory_number": "HM —",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "1, p. 138",
+      "notes": ""
+    },
+    {
+      "id": "HT 77",
+      "inventory_number": "HM —",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "1, p. 140",
+      "notes": ""
+    },
+    {
+      "id": "HT 78",
+      "inventory_number": "HM —",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "1, p. 140",
+      "notes": ""
+    },
+    {
+      "id": "HT 79",
+      "inventory_number": "HM —",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "1, p. 140",
+      "notes": ""
+    },
+    {
+      "id": "HT 80",
+      "inventory_number": "HM —",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "1, p. 142",
+      "notes": ""
+    },
+    {
+      "id": "HT 81",
+      "inventory_number": "HM —",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "1, p. 142",
+      "notes": ""
+    },
+    {
+      "id": "HT 82",
+      "inventory_number": "HM —",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "1, p. 142",
+      "notes": ""
+    },
+    {
+      "id": "HT 83",
+      "inventory_number": "HM —",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "1, p. 144",
+      "notes": ""
+    },
+    {
+      "id": "HT 84",
+      "inventory_number": "HM —",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "1, p. 146",
+      "notes": ""
+    },
+    {
+      "id": "HT 85",
+      "inventory_number": "HM —",
+      "dating": "",
+      "scribe": "3 HT",
+      "gorila_ref": "1, p. 146",
+      "notes": ""
+    },
+    {
+      "id": "HT 86",
+      "inventory_number": "HM 1311",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "1, p. 148",
+      "notes": ""
+    },
+    {
+      "id": "HT 87",
+      "inventory_number": "HM 1312",
+      "dating": "",
+      "scribe": "9 HT",
+      "gorila_ref": "1, p. 150",
+      "notes": ""
+    },
+    {
+      "id": "HT 88",
+      "inventory_number": "HM 1313",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "1, p. 152",
+      "notes": ""
+    },
+    {
+      "id": "HT 89",
+      "inventory_number": "HM 1314",
+      "dating": "",
+      "scribe": "9 HT",
+      "gorila_ref": "1, p. 154",
+      "notes": ""
+    },
+    {
+      "id": "HT 90",
+      "inventory_number": "HM 1315",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "1, p. 156",
+      "notes": ""
+    },
+    {
+      "id": "HT 91",
+      "inventory_number": "HM 1310",
+      "dating": "",
+      "scribe": "3 HT",
+      "gorila_ref": "1, p. 158",
+      "notes": ""
+    },
+    {
+      "id": "HT 92",
+      "inventory_number": "HM —",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "1, p. 160",
+      "notes": ""
+    },
+    {
+      "id": "HT 93",
+      "inventory_number": "HM 1316",
+      "dating": "",
+      "scribe": "10 HT",
+      "gorila_ref": "1, p. 160",
+      "notes": ""
+    },
+    {
+      "id": "HT 94",
+      "inventory_number": "HM 1317",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "1, p. 164",
+      "notes": ""
+    },
+    {
+      "id": "HT 95",
+      "inventory_number": "HM 1320",
+      "dating": "",
+      "scribe": "9 HT",
+      "gorila_ref": "1, p. 166",
+      "notes": ""
+    },
+    {
+      "id": "HT 96",
+      "inventory_number": "HM 1322",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "1, p. 168",
+      "notes": ""
+    },
+    {
+      "id": "HT 97",
+      "inventory_number": "HM 1325",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "1, p. 170",
+      "notes": ""
+    },
+    {
+      "id": "HT 98",
+      "inventory_number": "HM 1326",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "1, p. 172",
+      "notes": ""
+    },
+    {
+      "id": "HT 99",
+      "inventory_number": "HM 1330",
+      "dating": "",
+      "scribe": "5 HT",
+      "gorila_ref": "1, p. 174",
+      "notes": ""
+    },
+    {
+      "id": "HT 100",
+      "inventory_number": "HM 1331",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "1, p. 176",
+      "notes": ""
+    },
+    {
+      "id": "HT 101",
+      "inventory_number": "HM 1332",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "1, p. 176",
+      "notes": ""
+    },
+    {
+      "id": "HT 102",
+      "inventory_number": "HM 1333",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "1, p. 176",
+      "notes": ""
+    },
+    {
+      "id": "HT 103",
+      "inventory_number": "HM 1334",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "1, p. 178",
+      "notes": ""
+    },
+    {
+      "id": "HT 104",
+      "inventory_number": "HM 1335",
+      "dating": "",
+      "scribe": "3 HT",
+      "gorila_ref": "1, p. 178",
+      "notes": ""
+    },
+    {
+      "id": "HT 105",
+      "inventory_number": "HM 1336",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "1, p. 180",
+      "notes": ""
+    },
+    {
+      "id": "HT 106",
+      "inventory_number": "HM 1337",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "1, p. 180",
+      "notes": ""
+    },
+    {
+      "id": "HT 107",
+      "inventory_number": "HM 1338",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "1, p. 180",
+      "notes": ""
+    },
+    {
+      "id": "HT 108",
+      "inventory_number": "HM 1339",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "1, p. 180",
+      "notes": ""
+    },
+    {
+      "id": "HT 109",
+      "inventory_number": "HM 1340",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "1, p. 182",
+      "notes": ""
+    },
+    {
+      "id": "HT 110",
+      "inventory_number": "HM 1341",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "1, p. 182",
+      "notes": ""
+    },
+    {
+      "id": "HT 111",
+      "inventory_number": "HM 1342",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "1, p. 182",
+      "notes": ""
+    },
+    {
+      "id": "HT 112",
+      "inventory_number": "HM 1346",
+      "dating": "MR I B",
+      "scribe": "9 HT",
+      "gorila_ref": "1, p. 182",
+      "notes": ""
+    },
+    {
+      "id": "HT 113",
+      "inventory_number": "HM 1332",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 184",
+      "notes": ""
+    },
+    {
+      "id": "HT 113 bis",
+      "inventory_number": "HM —",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 184",
+      "notes": ""
+    },
+    {
+      "id": "HT 113 ter",
+      "inventory_number": "HM —",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 184",
+      "notes": ""
+    },
+    {
+      "id": "HT 114",
+      "inventory_number": "PIG 83735",
+      "dating": "MR I B",
+      "scribe": "4 HT",
+      "gorila_ref": "1, p. 186",
+      "notes": ""
+    },
+    {
+      "id": "HT 115",
+      "inventory_number": "HM 1360",
+      "dating": "MR I B",
+      "scribe": "8 HT",
+      "gorila_ref": "1, p. 188",
+      "notes": ""
+    },
+    {
+      "id": "HT 116",
+      "inventory_number": "HM 1361",
+      "dating": "MR I B",
+      "scribe": "9 HT",
+      "gorila_ref": "1, p. 192",
+      "notes": ""
+    },
+    {
+      "id": "HT 117",
+      "inventory_number": "HM 1364",
+      "dating": "MR I B",
+      "scribe": "9 HT",
+      "gorila_ref": "1, p. 196",
+      "notes": ""
+    },
+    {
+      "id": "HT 118",
+      "inventory_number": "PIG 83734",
+      "dating": "MR I B",
+      "scribe": "3 HT",
+      "gorila_ref": "1, p. 200",
+      "notes": ""
+    },
+    {
+      "id": "HT 119",
+      "inventory_number": "HM 1362",
+      "dating": "MR I B",
+      "scribe": "9 HT",
+      "gorila_ref": "1, p. 202",
+      "notes": ""
+    },
+    {
+      "id": "HT 120",
+      "inventory_number": "HM 1363",
+      "dating": "MR I B",
+      "scribe": "6 HT",
+      "gorila_ref": "1, p. 204",
+      "notes": ""
+    },
+    {
+      "id": "HT 121",
+      "inventory_number": "HM 1365",
+      "dating": "MR I B",
+      "scribe": "4 HT",
+      "gorila_ref": "1, p. 206",
+      "notes": ""
+    },
+    {
+      "id": "HT 122",
+      "inventory_number": "HM 1366",
+      "dating": "MR I B",
+      "scribe": "9 HT",
+      "gorila_ref": "1, p. 206",
+      "notes": ""
+    },
+    {
+      "id": "HT 123",
+      "inventory_number": "HM 1367 + 1371",
+      "dating": "MR I B",
+      "scribe": "6 HT",
+      "gorila_ref": "1, p. 210",
+      "notes": ""
+    },
+    {
+      "id": "HT 125",
+      "inventory_number": "HM —",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 214",
+      "notes": ""
+    },
+    {
+      "id": "HT 126",
+      "inventory_number": "HM —",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 216",
+      "notes": ""
+    },
+    {
+      "id": "HT 127",
+      "inventory_number": "HM —",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 218",
+      "notes": ""
+    },
+    {
+      "id": "HT 128",
+      "inventory_number": "HM —",
+      "dating": "MR I B",
+      "scribe": "9 HT",
+      "gorila_ref": "1, p. 220",
+      "notes": ""
+    },
+    {
+      "id": "HT 129",
+      "inventory_number": "HM 1368",
+      "dating": "MR I B",
+      "scribe": "16 HT",
+      "gorila_ref": "1, p. 222",
+      "notes": ""
+    },
+    {
+      "id": "HT 130",
+      "inventory_number": "HM 1369",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 224",
+      "notes": ""
+    },
+    {
+      "id": "HT 131",
+      "inventory_number": "HM 1372",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 226",
+      "notes": ""
+    },
+    {
+      "id": "HT 132",
+      "inventory_number": "HM —",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 226",
+      "notes": ""
+    },
+    {
+      "id": "HT 133",
+      "inventory_number": "HM —",
+      "dating": "HM",
+      "scribe": "9 HT",
+      "gorila_ref": "1, p. 228",
+      "notes": ""
+    },
+    {
+      "id": "HT 135",
+      "inventory_number": "HM —",
+      "dating": "MR I B",
+      "scribe": "9 HT",
+      "gorila_ref": "1, p. 230",
+      "notes": ""
+    },
+    {
+      "id": "HT 136",
+      "inventory_number": "HM —",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 232",
+      "notes": ""
+    },
+    {
+      "id": "HT 137",
+      "inventory_number": "HM —",
+      "dating": "MR I B",
+      "scribe": "4 HT",
+      "gorila_ref": "1, p. 234",
+      "notes": ""
+    },
+    {
+      "id": "HT 139",
+      "inventory_number": "HM —",
+      "dating": "MR I B",
+      "scribe": "2 HT",
+      "gorila_ref": "1, p. 234",
+      "notes": ""
+    },
+    {
+      "id": "HT 140",
+      "inventory_number": "HM —",
+      "dating": "MR I B",
+      "scribe": "12 HT",
+      "gorila_ref": "1, p. 236",
+      "notes": ""
+    },
+    {
+      "id": "HT 141",
+      "inventory_number": "HM —",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 238",
+      "notes": ""
+    },
+    {
+      "id": "HT 142",
+      "inventory_number": "HM —",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 238",
+      "notes": ""
+    },
+    {
+      "id": "HT 144",
+      "inventory_number": "HM —",
+      "dating": "MR I B",
+      "scribe": "5 HT (?)",
+      "gorila_ref": "1, p. 238",
+      "notes": ""
+    },
+    {
+      "id": "HT 146",
+      "inventory_number": "HM —",
+      "dating": "MR I B",
+      "scribe": "9 HT (?)",
+      "gorila_ref": "1, p. 240",
+      "notes": ""
+    },
+    {
+      "id": "HT 147",
+      "inventory_number": "HM —",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 240",
+      "notes": ""
+    },
+    {
+      "id": "HT 154",
+      "inventory_number": "HM 1370",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 242",
+      "notes": ""
+    },
+    {
+      "id": "HT 154 A",
+      "inventory_number": "HM 1322",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 242",
+      "notes": ""
+    },
+    {
+      "id": "HT 154 B",
+      "inventory_number": "HM —",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 244",
+      "notes": ""
+    },
+    {
+      "id": "HT 154 C",
+      "inventory_number": "HM —",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 244",
+      "notes": ""
+    },
+    {
+      "id": "HT 154 E",
+      "inventory_number": "HM —",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 244",
+      "notes": ""
+    },
+    {
+      "id": "HT 154 G",
+      "inventory_number": "HM —",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 246",
+      "notes": ""
+    },
+    {
+      "id": "HT Zb 158",
+      "inventory_number": "HM —",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "1, p. 248",
+      "notes": ""
+    },
+    {
+      "id": "HT Zb 159",
+      "inventory_number": "HM —",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "1, p. 248",
+      "notes": ""
+    },
+    {
+      "id": "HT Zb 160",
+      "inventory_number": "HM —",
+      "dating": "MR I B",
+      "scribe": "103 HT (?)",
+      "gorila_ref": "5, p. 48",
+      "notes": ""
+    },
+    {
+      "id": "HT Wb 1",
+      "inventory_number": "HM —",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "2, p. 86",
+      "notes": ""
+    },
+    {
+      "id": "HT Wb 2",
+      "inventory_number": "HM —",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "2, p. 86",
+      "notes": ""
+    },
+    {
+      "id": "HT Wc 3001",
+      "inventory_number": "HM 481.1",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "2, p. 88",
+      "notes": ""
+    },
+    {
+      "id": "HT Wc 3002",
+      "inventory_number": "HM 481.2",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "2, p. 88",
+      "notes": ""
+    },
+    {
+      "id": "HT Wc 3003",
+      "inventory_number": "HM 481.3",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "2, p. 88",
+      "notes": ""
+    },
+    {
+      "id": "HT Wc 3004",
+      "inventory_number": "HM 481.4",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "2, p. 88",
+      "notes": ""
+    },
+    {
+      "id": "HT Wc 3005",
+      "inventory_number": "HM 482.1",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "2, p. 88",
+      "notes": ""
+    },
+    {
+      "id": "HT Wc 3006",
+      "inventory_number": "HM 482.2",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "2, p. 90",
+      "notes": ""
+    },
+    {
+      "id": "HT Wc 3007",
+      "inventory_number": "HM 482.3",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "2, p. 90",
+      "notes": ""
+    },
+    {
+      "id": "HT Wc 3008",
+      "inventory_number": "HM 482.4",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "2, p. 90",
+      "notes": ""
+    },
+    {
+      "id": "HT Wc 3009",
+      "inventory_number": "HM 482.5",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "2, p. 90",
+      "notes": ""
+    },
+    {
+      "id": "HT Wc 3010",
+      "inventory_number": "HM 483",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "2, p. 90",
+      "notes": ""
+    },
+    {
+      "id": "HT Wc 3011",
+      "inventory_number": "HM 484.1",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "2, p. 90",
+      "notes": ""
+    },
+    {
+      "id": "HT Wc 3012",
+      "inventory_number": "HM 484.2",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "2, p. 92",
+      "notes": ""
+    },
+    {
+      "id": "HT Wc 3013",
+      "inventory_number": "HM 484.3",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "2, p. 92",
+      "notes": ""
+    },
+    {
+      "id": "HT Wc 3014",
+      "inventory_number": "HM 484.4",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "2, p. 92",
+      "notes": ""
+    },
+    {
+      "id": "HT Wc 3015",
+      "inventory_number": "HM 484.5",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "2, p. 92",
+      "notes": ""
+    },
+    {
+      "id": "HT Wc 3016",
+      "inventory_number": "HM 484.6",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "2, p. 92",
+      "notes": ""
+    },
+    {
+      "id": "HT Wc 3017",
+      "inventory_number": "HM 485.1",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "2, p. 92",
+      "notes": ""
+    },
+    {
+      "id": "HT Wc 3018",
+      "inventory_number": "HM 485.2",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "2, p. 94",
+      "notes": ""
+    },
+    {
+      "id": "HT Wc 3019",
+      "inventory_number": "HM 485.3",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "2, p. 94",
+      "notes": ""
+    },
+    {
+      "id": "HT Wc 3020",
+      "inventory_number": "HM 486.1",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "2, p. 94",
+      "notes": ""
+    },
+    {
+      "id": "HT Wc 3021",
+      "inventory_number": "HM 487",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "2, p. 94",
+      "notes": ""
+    },
+    {
+      "id": "HT Wc 3022",
+      "inventory_number": "HM 571.1",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "2, p. 94",
+      "notes": ""
+    },
+    {
+      "id": "HT Wc 3023",
+      "inventory_number": "HM 571.2",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "2, p. 94",
+      "notes": ""
+    },
+    {
+      "id": "HT Wc 3024",
+      "inventory_number": "HM 572",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "2, p. 96",
+      "notes": ""
+    },
+    {
+      "id": "HT Wc 3025",
+      "inventory_number": "HM 573.1",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "2, p. 96",
+      "notes": ""
+    },
+    {
+      "id": "HS Zg 1",
+      "inventory_number": "Sparte M.",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "4, p. 98",
+      "notes": ""
+    },
+    {
+      "id": "IO Za 1",
+      "inventory_number": "HM 2640",
+      "dating": "MM III - MR I",
+      "scribe": "",
+      "gorila_ref": "4, p. 8",
+      "notes": ""
+    },
+    {
+      "id": "IO Za 2",
+      "inventory_number": "HM 3642",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "4, p. 8",
+      "notes": ""
+    },
+    {
+      "id": "IO Za 3",
+      "inventory_number": "HM 3643",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "4, p. 10",
+      "notes": ""
+    },
+    {
+      "id": "IO Za 4",
+      "inventory_number": "HM 2793",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "4, p. 10",
+      "notes": ""
+    },
+    {
+      "id": "IO Za 5",
+      "inventory_number": "HM 2792",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "4, p. 12",
+      "notes": ""
+    },
+    {
+      "id": "IO Za 6",
+      "inventory_number": "HM 2794",
+      "dating": "MM III - MR I",
+      "scribe": "",
+      "gorila_ref": "4, p. 12",
+      "notes": ""
+    },
+    {
+      "id": "IO Za 7",
+      "inventory_number": "HM —",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "4, p. 14",
+      "notes": ""
+    },
+    {
+      "id": "IO Za 8",
+      "inventory_number": "HM —",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "4, p. 14",
+      "notes": ""
+    },
+    {
+      "id": "IO Zb 1",
+      "inventory_number": "HM 2045",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "5, p. 48",
+      "notes": ""
+    },
+    {
+      "id": "IO Zb 2",
+      "inventory_number": "HM —",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "5, p. 48",
+      "notes": ""
+    },
+    {
+      "id": "KA Zf 1",
+      "inventory_number": "HM 1954.10-20 (?)",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "4, p. 149",
+      "notes": ""
+    },
+    {
+      "id": "KE 1",
+      "inventory_number": "K.L. 174",
+      "dating": "MM III",
+      "scribe": "",
+      "gorila_ref": "4, p. 174",
+      "notes": ""
+    },
+    {
+      "id": "KE 2",
+      "inventory_number": "K.M. 167",
+      "dating": "MM III",
+      "scribe": "KM 212",
+      "gorila_ref": "4, p. 176",
+      "notes": ""
+    },
+    {
+      "id": "KE 3",
+      "inventory_number": "K. 2454",
+      "dating": "MM III",
+      "scribe": "",
+      "gorila_ref": "4, p. 176",
+      "notes": ""
+    },
+    {
+      "id": "KE 4",
+      "inventory_number": "K. 2459",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "4, p. 176",
+      "notes": ""
+    },
+    {
+      "id": "KH 1",
+      "inventory_number": "Khania M. 1",
+      "dating": "MR I B",
+      "scribe": "1 KH",
+      "gorila_ref": "3, p. 22",
+      "notes": ""
+    },
+    {
+      "id": "KH 2",
+      "inventory_number": "Khania M. 2",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 24",
+      "notes": ""
+    },
+    {
+      "id": "KH 3",
+      "inventory_number": "Khania M. 3",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 26",
+      "notes": ""
+    },
+    {
+      "id": "KH 4",
+      "inventory_number": "Khania M. 14",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 28",
+      "notes": ""
+    },
+    {
+      "id": "KH 5",
+      "inventory_number": "Khania M. 15",
+      "dating": "MR I B",
+      "scribe": "1 KH",
+      "gorila_ref": "3, p. 30",
+      "notes": ""
+    },
+    {
+      "id": "KH 6",
+      "inventory_number": "Khania M. 20",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 32",
+      "notes": ""
+    },
+    {
+      "id": "KH 7",
+      "inventory_number": "Khania M. 17",
+      "dating": "MR I B",
+      "scribe": "1 KH",
+      "gorila_ref": "3, p. 34",
+      "notes": ""
+    },
+    {
+      "id": "KH 8",
+      "inventory_number": "Khania M. 22",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 36",
+      "notes": ""
+    },
+    {
+      "id": "KH 9",
+      "inventory_number": "Khania M. 18",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 38",
+      "notes": ""
+    },
+    {
+      "id": "KH 10",
+      "inventory_number": "Khania M. 23",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 40",
+      "notes": ""
+    },
+    {
+      "id": "KH 11",
+      "inventory_number": "Khania M. 25",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 42",
+      "notes": ""
+    },
+    {
+      "id": "KH 12",
+      "inventory_number": "Khania M. 26",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 44",
+      "notes": ""
+    },
+    {
+      "id": "KH 13",
+      "inventory_number": "Khania M. 27",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 46",
+      "notes": ""
+    },
+    {
+      "id": "KH 14",
+      "inventory_number": "Khania M. 28",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 46",
+      "notes": ""
+    },
+    {
+      "id": "KH 15",
+      "inventory_number": "Khania M. 29",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 48",
+      "notes": ""
+    },
+    {
+      "id": "KH 16",
+      "inventory_number": "Khania M. 30",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 48",
+      "notes": ""
+    },
+    {
+      "id": "KH 17",
+      "inventory_number": "Khania M. 31",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 50",
+      "notes": ""
+    },
+    {
+      "id": "KH 18",
+      "inventory_number": "Khania M. 33",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 50",
+      "notes": ""
+    },
+    {
+      "id": "KH 19",
+      "inventory_number": "Khania M. 34",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 50",
+      "notes": ""
+    },
+    {
+      "id": "KH 20",
+      "inventory_number": "Khania M. 36",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 52",
+      "notes": ""
+    },
+    {
+      "id": "KH 21",
+      "inventory_number": "Khania M. 37",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 52",
+      "notes": ""
+    },
+    {
+      "id": "KH 22",
+      "inventory_number": "Khania M. 38",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 54",
+      "notes": ""
+    },
+    {
+      "id": "KH 24",
+      "inventory_number": "Khania M. 40",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 54",
+      "notes": ""
+    },
+    {
+      "id": "KH 25",
+      "inventory_number": "Khania M. 41",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 54",
+      "notes": ""
+    },
+    {
+      "id": "KH 26",
+      "inventory_number": "Khania M. 43",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 56",
+      "notes": ""
+    },
+    {
+      "id": "KH 27",
+      "inventory_number": "Khania M. 44",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 56",
+      "notes": ""
+    },
+    {
+      "id": "KH 28",
+      "inventory_number": "Khania M. 46",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 56",
+      "notes": ""
+    },
+    {
+      "id": "KH 29",
+      "inventory_number": "Khania M. 47",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 58",
+      "notes": ""
+    },
+    {
+      "id": "KH 30",
+      "inventory_number": "Khania M. 48",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 58",
+      "notes": ""
+    },
+    {
+      "id": "KH 31",
+      "inventory_number": "Khania M. 49",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 58",
+      "notes": ""
+    },
+    {
+      "id": "KH 32",
+      "inventory_number": "Khania M. 50",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 60",
+      "notes": ""
+    },
+    {
+      "id": "KH 33",
+      "inventory_number": "Khania M. 51",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 60",
+      "notes": ""
+    },
+    {
+      "id": "KH 34",
+      "inventory_number": "Khania M. 52",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 60",
+      "notes": ""
+    },
+    {
+      "id": "KH 35",
+      "inventory_number": "Khania M. 53",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 62",
+      "notes": ""
+    },
+    {
+      "id": "KH 36",
+      "inventory_number": "Khania M. 54",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 62",
+      "notes": ""
+    },
+    {
+      "id": "KH 37",
+      "inventory_number": "Khania M. 55",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 64",
+      "notes": ""
+    },
+    {
+      "id": "KH 38",
+      "inventory_number": "Khania M. 56",
+      "dating": "MR I B",
+      "scribe": "1 KH",
+      "gorila_ref": "3, p. 66",
+      "notes": ""
+    },
+    {
+      "id": "KH 39",
+      "inventory_number": "Khania M. 57",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 66",
+      "notes": ""
+    },
+    {
+      "id": "KH 40",
+      "inventory_number": "Khania M. 58",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 68",
+      "notes": ""
+    },
+    {
+      "id": "KH 41",
+      "inventory_number": "Khania M. 59",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 68",
+      "notes": ""
+    },
+    {
+      "id": "KH 42",
+      "inventory_number": "Khania M. 60",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 68",
+      "notes": ""
+    },
+    {
+      "id": "KH 43",
+      "inventory_number": "Khania M. 61",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 70",
+      "notes": ""
+    },
+    {
+      "id": "KH 44",
+      "inventory_number": "Khania M. 62",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 70",
+      "notes": ""
+    },
+    {
+      "id": "KH 45",
+      "inventory_number": "Khania M. 63",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 70",
+      "notes": ""
+    },
+    {
+      "id": "KH 46",
+      "inventory_number": "Khania M. 64",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 72",
+      "notes": ""
+    },
+    {
+      "id": "KH 47",
+      "inventory_number": "Khania M. 65",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 72",
+      "notes": ""
+    },
+    {
+      "id": "KH 48",
+      "inventory_number": "Khania M. 66",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 72",
+      "notes": ""
+    },
+    {
+      "id": "KH 49",
+      "inventory_number": "Khania M. 67",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 72",
+      "notes": ""
+    },
+    {
+      "id": "KH 50",
+      "inventory_number": "Khania M. 68",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 72",
+      "notes": ""
+    },
+    {
+      "id": "KH 51",
+      "inventory_number": "Khania M. 69",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 74",
+      "notes": ""
+    },
+    {
+      "id": "KH 52",
+      "inventory_number": "Khania M. 70",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 74",
+      "notes": ""
+    },
+    {
+      "id": "KH 53",
+      "inventory_number": "Khania M. 71",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 76",
+      "notes": ""
+    },
+    {
+      "id": "KH 54",
+      "inventory_number": "Khania M. 72",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 76",
+      "notes": ""
+    },
+    {
+      "id": "KH 55",
+      "inventory_number": "Khania M. 73",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 76",
+      "notes": ""
+    },
+    {
+      "id": "KH 56",
+      "inventory_number": "Khania M. 74",
+      "dating": "MR I B",
+      "scribe": "1 KH",
+      "gorila_ref": "3, p. 78",
+      "notes": ""
+    },
+    {
+      "id": "KH 57",
+      "inventory_number": "Khania M. 75",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 78",
+      "notes": ""
+    },
+    {
+      "id": "KH 58",
+      "inventory_number": "Khania M. 76",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 78",
+      "notes": ""
+    },
+    {
+      "id": "KH 59",
+      "inventory_number": "Khania M. 77",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 80",
+      "notes": ""
+    },
+    {
+      "id": "KH 60",
+      "inventory_number": "Khania M. c. 80",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 80",
+      "notes": ""
+    },
+    {
+      "id": "KH 61",
+      "inventory_number": "Khania M. 78 [+] 89",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 80; 5, p. 70",
+      "notes": ""
+    },
+    {
+      "id": "KH 79",
+      "inventory_number": "Khania M.",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 80",
+      "notes": ""
+    },
+    {
+      "id": "KH 80",
+      "inventory_number": "Khania M. 80",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 82",
+      "notes": ""
+    },
+    {
+      "id": "KH 81",
+      "inventory_number": "Khania M. 81",
+      "dating": "MR I B",
+      "scribe": "2 KH",
+      "gorila_ref": "3, p. 82",
+      "notes": ""
+    },
+    {
+      "id": "KH 82",
+      "inventory_number": "Khania M. 82",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 84",
+      "notes": ""
+    },
+    {
+      "id": "KH 83",
+      "inventory_number": "Khania M. 83",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 84",
+      "notes": ""
+    },
+    {
+      "id": "KH 84",
+      "inventory_number": "Khania M. 84",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 86",
+      "notes": ""
+    },
+    {
+      "id": "KH 85",
+      "inventory_number": "Khania M. 85",
+      "dating": "MR 2 B",
+      "scribe": "",
+      "gorila_ref": "3, p. 86",
+      "notes": ""
+    },
+    {
+      "id": "KH 86",
+      "inventory_number": "Khania M. 86",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 86",
+      "notes": ""
+    },
+    {
+      "id": "KH 87",
+      "inventory_number": "Khania M. 87",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 88",
+      "notes": ""
+    },
+    {
+      "id": "KH 88",
+      "inventory_number": "Khania M. 88",
+      "dating": "MR I B",
+      "scribe": "6 KH",
+      "gorila_ref": "3, p. 88",
+      "notes": ""
+    },
+    {
+      "id": "KH 89",
+      "inventory_number": "Khania M. 89",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 90",
+      "notes": ""
+    },
+    {
+      "id": "KH 90",
+      "inventory_number": "Khania M. 90",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 90",
+      "notes": ""
+    },
+    {
+      "id": "KH Wa 1000",
+      "inventory_number": "Khania M.",
+      "dating": "MR I B",
+      "scribe": "34 KH Wa",
+      "gorila_ref": "3, p. 102",
+      "notes": ""
+    },
+    {
+      "id": "KH Wa 1001",
+      "inventory_number": "Khania M.",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 104",
+      "notes": ""
+    },
+    {
+      "id": "KH Wa 1002",
+      "inventory_number": "Khania M.",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 104",
+      "notes": ""
+    },
+    {
+      "id": "KH Wa 1003",
+      "inventory_number": "Khania M. 1001a",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 106",
+      "notes": ""
+    },
+    {
+      "id": "KH Wa 1004",
+      "inventory_number": "Khania M. 1001b",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 106",
+      "notes": ""
+    },
+    {
+      "id": "KH Wa 1005",
+      "inventory_number": "Khania M. 1002",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 106",
+      "notes": ""
+    },
+    {
+      "id": "KH Wa 1006",
+      "inventory_number": "Khania M. 1003",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 108",
+      "notes": ""
+    },
+    {
+      "id": "KH Wa 1007",
+      "inventory_number": "Khania M. 1004",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 108",
+      "notes": ""
+    },
+    {
+      "id": "KH Wa 1008",
+      "inventory_number": "Khania M. 1005",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 108",
+      "notes": ""
+    },
+    {
+      "id": "KH Wa 1009",
+      "inventory_number": "Khania M. 1006",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 110",
+      "notes": ""
+    },
+    {
+      "id": "KH Wa 1010",
+      "inventory_number": "Khania M. 1007",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 110",
+      "notes": ""
+    },
+    {
+      "id": "KH Wa 1011",
+      "inventory_number": "Khania M. 1008",
+      "dating": "MR I B",
+      "scribe": "34 KH Wa",
+      "gorila_ref": "3, p. 112",
+      "notes": ""
+    },
+    {
+      "id": "KH Wa 1012",
+      "inventory_number": "Khania M. 1009",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 112",
+      "notes": ""
+    },
+    {
+      "id": "KH Wa 1013",
+      "inventory_number": "Khania M. 1010",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 112",
+      "notes": ""
+    },
+    {
+      "id": "KH Wa 1014",
+      "inventory_number": "Khania M. 1011",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 112",
+      "notes": ""
+    },
+    {
+      "id": "KH Wa 1015",
+      "inventory_number": "Khania M. 1012",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 114",
+      "notes": ""
+    },
+    {
+      "id": "KH Wa 1016",
+      "inventory_number": "Khania M. 1013",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 114",
+      "notes": ""
+    },
+    {
+      "id": "KH Wa 1017",
+      "inventory_number": "Khania M. 1014",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 114",
+      "notes": ""
+    },
+    {
+      "id": "KH Wa 1018",
+      "inventory_number": "Khania M. 1015",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 114",
+      "notes": ""
+    },
+    {
+      "id": "KH Wa 1019",
+      "inventory_number": "Khania M. 1016",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 114",
+      "notes": ""
+    },
+    {
+      "id": "KH Wa 1020",
+      "inventory_number": "Khania M. 1017",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 114",
+      "notes": ""
+    },
+    {
+      "id": "KH Wc 2001",
+      "inventory_number": "Khania M. 2001",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 114",
+      "notes": ""
+    },
+    {
+      "id": "KH Wc 2002",
+      "inventory_number": "Khania M. 2002",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 116",
+      "notes": ""
+    },
+    {
+      "id": "KN 1",
+      "inventory_number": "HM 1267",
+      "dating": "MM III B",
+      "scribe": "",
+      "gorila_ref": "1, p. 256",
+      "notes": ""
+    },
+    {
+      "id": "KN 2",
+      "inventory_number": "HM 705",
+      "dating": "MM III B?",
+      "scribe": "",
+      "gorila_ref": "1, p. 258",
+      "notes": ""
+    },
+    {
+      "id": "KN Wc 3",
+      "inventory_number": "HM 413",
+      "dating": "MM III B",
+      "scribe": "",
+      "gorila_ref": "2, p. 84",
+      "notes": ""
+    },
+    {
+      "id": "KN Zb 4",
+      "inventory_number": "HM 2631",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "4, p. 74",
+      "notes": ""
+    },
+    {
+      "id": "KN Zb 5",
+      "inventory_number": "HM 2600",
+      "dating": "MM III B",
+      "scribe": "",
+      "gorila_ref": "4, p. 76",
+      "notes": ""
+    },
+    {
+      "id": "KN Ze 6",
+      "inventory_number": "HM 2630",
+      "dating": "MM III?",
+      "scribe": "",
+      "gorila_ref": "4, p. 118",
+      "notes": ""
+    },
+    {
+      "id": "KN Ze 7",
+      "inventory_number": "HM 2629",
+      "dating": "MM III?",
+      "scribe": "",
+      "gorila_ref": "4, p. 122",
+      "notes": ""
+    },
+    {
+      "id": "KN Za 10",
+      "inventory_number": "HM 2100",
+      "dating": "MR I",
+      "scribe": "",
+      "gorila_ref": "4, p. 8",
+      "notes": ""
+    },
+    {
+      "id": "KN Zf 13",
+      "inventory_number": "HM 520",
+      "dating": "MM III - MR I A",
+      "scribe": "",
+      "gorila_ref": "4, p. 152",
+      "notes": ""
+    },
+    {
+      "id": "KN Ze 16",
+      "inventory_number": "Kephala. Tombe à tholos",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "4, p. 138",
+      "notes": ""
+    },
+    {
+      "id": "KN Za 17",
+      "inventory_number": "HM 2394",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "4, p. 10",
+      "notes": ""
+    },
+    {
+      "id": "KN Za 18",
+      "inventory_number": "HM 2597",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "4, p. 12",
+      "notes": ""
+    },
+    {
+      "id": "KN Za 19",
+      "inventory_number": "AM 1938.872",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "4, p. 14",
+      "notes": ""
+    },
+    {
+      "id": "KN Zb 20",
+      "inventory_number": "HM 14278",
+      "dating": "MR I A",
+      "scribe": "",
+      "gorila_ref": "4, p. 77",
+      "notes": ""
+    },
+    {
+      "id": "KN Zc <21>",
+      "inventory_number": "HM?",
+      "dating": "MR I A",
+      "scribe": "",
+      "gorila_ref": "4, p. 164",
+      "notes": ""
+    },
+    {
+      "id": "KN 22",
+      "inventory_number": "HM +5800+",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "4, p. 260",
+      "notes": ""
+    },
+    {
+      "id": "KN Wc 25'",
+      "inventory_number": "HM 343",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "2, p. 84",
+      "notes": ""
+    },
+    {
+      "id": "KN (?) Wc 26",
+      "inventory_number": "Coll. privée",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "4, p. 56",
+      "notes": ""
+    },
+    {
+      "id": "KN Zb <27>",
+      "inventory_number": "",
+      "dating": "MM III B",
+      "scribe": "",
+      "gorila_ref": "4, p. 78",
+      "notes": ""
+    },
+    {
+      "id": "KN 28",
+      "inventory_number": "HM 708",
+      "dating": "MM III B?",
+      "scribe": "",
+      "gorila_ref": "1, p. 262",
+      "notes": ""
+    },
+    {
+      "id": "KN Wc 29",
+      "inventory_number": "HM 344",
+      "dating": "MM III B",
+      "scribe": "",
+      "gorila_ref": "2, p. 85",
+      "notes": ""
+    },
+    {
+      "id": "KN Wc 30",
+      "inventory_number": "HM 345",
+      "dating": "MM III B",
+      "scribe": "",
+      "gorila_ref": "2, p. 85",
+      "notes": ""
+    },
+    {
+      "id": "KN Zf 31",
+      "inventory_number": "HM 540",
+      "dating": "MR I A",
+      "scribe": "",
+      "gorila_ref": "4, p. 154",
+      "notes": ""
+    },
+    {
+      "id": "KN (?) 32",
+      "inventory_number": "HM +1533+",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "1, p. 264",
+      "notes": ""
+    },
+    {
+      "id": "KN Wb 33",
+      "inventory_number": "HM 666",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "2, p. 82",
+      "notes": ""
+    },
+    {
+      "id": "KN Zb 34",
+      "inventory_number": "NM 1160",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "4, p. 79",
+      "notes": ""
+    },
+    {
+      "id": "KN Zb 35",
+      "inventory_number": "Palais de Knossos. Magasin des pithos à médaillons",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "4, p. 80",
+      "notes": ""
+    },
+    {
+      "id": "KN Zb <36>",
+      "inventory_number": "",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "4, p. 82",
+      "notes": ""
+    },
+    {
+      "id": "KN Zb <37>",
+      "inventory_number": "",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "4, p. 82",
+      "notes": ""
+    },
+    {
+      "id": "KN Zb <38>",
+      "inventory_number": "",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "4, p. 82",
+      "notes": ""
+    },
+    {
+      "id": "KN Zb <39>",
+      "inventory_number": "",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "4, p. 82",
+      "notes": ""
+    },
+    {
+      "id": "KN Zb 40",
+      "inventory_number": "HM 21391",
+      "dating": "MR II?",
+      "scribe": "",
+      "gorila_ref": "4, p. 83",
+      "notes": ""
+    },
+    {
+      "id": "KO Za 1",
+      "inventory_number": "HM 2627",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "4, p. 18",
+      "notes": ""
+    },
+    {
+      "id": "KO (?) Zf 2",
+      "inventory_number": "Khania M. 385",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "4, p. 158",
+      "notes": ""
+    },
+    {
+      "id": "KY Zg 1",
+      "inventory_number": "Khora M.",
+      "dating": "MM III B - MR I A",
+      "scribe": "",
+      "gorila_ref": "4, p. 166",
+      "notes": ""
+    },
+    {
+      "id": "LA Zb 1",
+      "inventory_number": "Coll. Métaxas",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "4, p. 86",
+      "notes": ""
+    },
+    {
+      "id": "MA 1",
+      "inventory_number": "HM 1387",
+      "dating": "MM III",
+      "scribe": "",
+      "gorila_ref": "1, p. 268",
+      "notes": ""
+    },
+    {
+      "id": "MA 2",
+      "inventory_number": "HM 1394",
+      "dating": "MM III",
+      "scribe": "",
+      "gorila_ref": "1, p. 270",
+      "notes": ""
+    },
+    {
+      "id": "MA 4",
+      "inventory_number": "HM 1377",
+      "dating": "MM III",
+      "scribe": "",
+      "gorila_ref": "1, p. 272",
+      "notes": ""
+    },
+    {
+      "id": "MA Wc <5>",
+      "inventory_number": "",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "",
+      "notes": ""
+    },
+    {
+      "id": "MA 6",
+      "inventory_number": "HM 1389",
+      "dating": "MM III",
+      "scribe": "",
+      "gorila_ref": "2, p. 88",
+      "notes": ""
+    },
+    {
+      "id": "MA Wc 7",
+      "inventory_number": "HM 1401",
+      "dating": "MM III",
+      "scribe": "",
+      "gorila_ref": "2, p. 85",
+      "notes": ""
+    },
+    {
+      "id": "MA Zb 8",
+      "inventory_number": "MSMA P 2361",
+      "dating": "MM III - MR I A",
+      "scribe": "",
+      "gorila_ref": "4, p. 89",
+      "notes": ""
+    },
+    {
+      "id": "MA 9",
+      "inventory_number": "HM 1382",
+      "dating": "MM III",
+      "scribe": "",
+      "gorila_ref": "1, p. 278",
+      "notes": ""
+    },
+    {
+      "id": "MA 10",
+      "inventory_number": "A. Nik. M. 7336",
+      "dating": "MM III",
+      "scribe": "",
+      "gorila_ref": "5, p. 50",
+      "notes": ""
+    },
+    {
+      "id": "MA Ze 11",
+      "inventory_number": "Palais de Mallia. Sud Cour N.-W.",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "4, p. 140",
+      "notes": ""
+    },
+    {
+      "id": "MI Zb 1",
+      "inventory_number": "Mus. Nat. Copenhague 6960",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "4, p. 91",
+      "notes": ""
+    },
+    {
+      "id": "MI 2",
+      "inventory_number": "Milos M. 582",
+      "dating": "MR I",
+      "scribe": "",
+      "gorila_ref": "5, p. 56",
+      "notes": ""
+    },
+    {
+      "id": "PK 1",
+      "inventory_number": "HM 86",
+      "dating": "MR I",
+      "scribe": "",
+      "gorila_ref": "1, p. 280",
+      "notes": ""
+    },
+    {
+      "id": "PK Za 4",
+      "inventory_number": "HM 504",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "4, p. 23",
+      "notes": ""
+    },
+    {
+      "id": "PK Za 8",
+      "inventory_number": "HM 618",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "4, p. 24",
+      "notes": ""
+    },
+    {
+      "id": "PK Za 9",
+      "inventory_number": "HM 1585",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "4, p. 28",
+      "notes": ""
+    },
+    {
+      "id": "PK Za 10",
+      "inventory_number": "HM 1586",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "4, p. 30",
+      "notes": ""
+    },
+    {
+      "id": "PK Za 11",
+      "inventory_number": "HM 1341",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "4, p. 32",
+      "notes": ""
+    },
+    {
+      "id": "PK Za 12",
+      "inventory_number": "HM 942",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "4, p. 36",
+      "notes": ""
+    },
+    {
+      "id": "PK Zc 13",
+      "inventory_number": "AM AE 902",
+      "dating": "MR I A",
+      "scribe": "",
+      "gorila_ref": "4, p. 127",
+      "notes": ""
+    },
+    {
+      "id": "PK Za 14",
+      "inventory_number": "A. Nik. M. 2470",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "4, p. 40",
+      "notes": ""
+    },
+    {
+      "id": "PK Za 15",
+      "inventory_number": "A. Nik. M. 2469",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "4, p. 41",
+      "notes": ""
+    },
+    {
+      "id": "PK Za 16",
+      "inventory_number": "A. Nik. M. 7231",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "4, p. 42",
+      "notes": ""
+    },
+    {
+      "id": "PK Za 17",
+      "inventory_number": "A. Nik. M. 7232",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "4, p. 43",
+      "notes": ""
+    },
+    {
+      "id": "PK Za 18",
+      "inventory_number": "A. Nik. M. 7233",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "4, p. 44",
+      "notes": ""
+    },
+    {
+      "id": "PA 1",
+      "inventory_number": "HM 1336",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "1, p. 284",
+      "notes": ""
+    },
+    {
+      "id": "PH 1",
+      "inventory_number": "HM 1359",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "1, p. 286",
+      "notes": ""
+    },
+    {
+      "id": "PH 2",
+      "inventory_number": "HM 1376",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "1, p. 288",
+      "notes": ""
+    },
+    {
+      "id": "PH 3",
+      "inventory_number": "HM 1405",
+      "dating": "MM III",
+      "scribe": "",
+      "gorila_ref": "1, p. 290",
+      "notes": ""
+    },
+    {
+      "id": "PH Zb 4",
+      "inventory_number": "HM 1600",
+      "dating": "MR I",
+      "scribe": "",
+      "gorila_ref": "4, p. 93",
+      "notes": ""
+    },
+    {
+      "id": "PH Zb 5",
+      "inventory_number": "Palais de Phaistos. Magasin 33",
+      "dating": "MR I",
+      "scribe": "",
+      "gorila_ref": "4, p. 94",
+      "notes": ""
+    },
+    {
+      "id": "PH 6",
+      "inventory_number": "HM 1486",
+      "dating": "MM II",
+      "scribe": "",
+      "gorila_ref": "1, p. 292",
+      "notes": ""
+    },
+    {
+      "id": "PH 7",
+      "inventory_number": "HM 1508 + 1521 + 1522",
+      "dating": "MM II",
+      "scribe": "",
+      "gorila_ref": "1, p. 294",
+      "notes": ""
+    },
+    {
+      "id": "PH 8",
+      "inventory_number": "HM 1509",
+      "dating": "MM II",
+      "scribe": "",
+      "gorila_ref": "1, p. 296",
+      "notes": ""
+    },
+    {
+      "id": "PH 9",
+      "inventory_number": "HM 1510",
+      "dating": "MM II",
+      "scribe": "",
+      "gorila_ref": "1, p. 298",
+      "notes": ""
+    },
+    {
+      "id": "PH 10",
+      "inventory_number": "HM 1511",
+      "dating": "MM II",
+      "scribe": "",
+      "gorila_ref": "1, p. 299",
+      "notes": ""
+    },
+    {
+      "id": "PH 11",
+      "inventory_number": "HM 1512",
+      "dating": "MM II",
+      "scribe": "",
+      "gorila_ref": "1, p. 300",
+      "notes": ""
+    },
+    {
+      "id": "PH 12",
+      "inventory_number": "HM 1513 + 1524",
+      "dating": "MM II",
+      "scribe": "",
+      "gorila_ref": "1, p. 300",
+      "notes": ""
+    },
+    {
+      "id": "PH 13",
+      "inventory_number": "HM 1514",
+      "dating": "MM II",
+      "scribe": "",
+      "gorila_ref": "1, p. 302",
+      "notes": ""
+    },
+    {
+      "id": "PH 14",
+      "inventory_number": "HM 1515",
+      "dating": "MM II",
+      "scribe": "",
+      "gorila_ref": "1, p. 304",
+      "notes": ""
+    },
+    {
+      "id": "PH 15",
+      "inventory_number": "HM 1516",
+      "dating": "MM II",
+      "scribe": "",
+      "gorila_ref": "1, p. 304",
+      "notes": ""
+    },
+    {
+      "id": "PH 16",
+      "inventory_number": "HM 1517",
+      "dating": "MM II",
+      "scribe": "",
+      "gorila_ref": "1, p. 306",
+      "notes": ""
+    },
+    {
+      "id": "PH 17",
+      "inventory_number": "HM 1518",
+      "dating": "MM II",
+      "scribe": "",
+      "gorila_ref": "1, p. 306",
+      "notes": ""
+    },
+    {
+      "id": "PH 18",
+      "inventory_number": "HM 1519",
+      "dating": "MM II",
+      "scribe": "",
+      "gorila_ref": "1, p. 308",
+      "notes": ""
+    },
+    {
+      "id": "PH 19",
+      "inventory_number": "HM 1520",
+      "dating": "MM II",
+      "scribe": "",
+      "gorila_ref": "1, p. 308",
+      "notes": ""
+    },
+    {
+      "id": "PH 22",
+      "inventory_number": "HM 1523",
+      "dating": "MM II",
+      "scribe": "",
+      "gorila_ref": "1, p. 310",
+      "notes": ""
+    },
+    {
+      "id": "PH 24",
+      "inventory_number": "HM 1525",
+      "dating": "MM II",
+      "scribe": "",
+      "gorila_ref": "1, p. 310",
+      "notes": ""
+    },
+    {
+      "id": "PH 25",
+      "inventory_number": "HM 1526",
+      "dating": "MM II",
+      "scribe": "",
+      "gorila_ref": "1, p. 310",
+      "notes": ""
+    },
+    {
+      "id": "PH 26",
+      "inventory_number": "HM 1527",
+      "dating": "MM II",
+      "scribe": "",
+      "gorila_ref": "1, p. 312",
+      "notes": ""
+    },
+    {
+      "id": "PH 27",
+      "inventory_number": "HM 1528",
+      "dating": "MM II",
+      "scribe": "",
+      "gorila_ref": "1, p. 312",
+      "notes": ""
+    },
+    {
+      "id": "PH 28",
+      "inventory_number": "HM 1529",
+      "dating": "MM II",
+      "scribe": "",
+      "gorila_ref": "1, p. 314",
+      "notes": ""
+    },
+    {
+      "id": "PH <29>",
+      "inventory_number": "MSPH?",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "1, p. 316",
+      "notes": ""
+    },
+    {
+      "id": "PH 30",
+      "inventory_number": "HM 1537",
+      "dating": "MM II",
+      "scribe": "",
+      "gorila_ref": "1, p. 316",
+      "notes": ""
+    },
+    {
+      "id": "PH (?) 31",
+      "inventory_number": "HM 1609",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "1, p. 318",
+      "notes": ""
+    },
+    {
+      "id": "PH Wa 32",
+      "inventory_number": "HM 1491",
+      "dating": "*MM III",
+      "scribe": "",
+      "gorila_ref": "2, p. 90",
+      "notes": ""
+    },
+    {
+      "id": "PH Wb 33",
+      "inventory_number": "HM 677",
+      "dating": "MM II",
+      "scribe": "",
+      "gorila_ref": "2, p. 92",
+      "notes": ""
+    },
+    {
+      "id": "PH Wb 34",
+      "inventory_number": "HM 675",
+      "dating": "MM II",
+      "scribe": "",
+      "gorila_ref": "2, p. 92",
+      "notes": ""
+    },
+    {
+      "id": "PH Wb 35",
+      "inventory_number": "HM 679",
+      "dating": "MM II",
+      "scribe": "",
+      "gorila_ref": "2, p. 92",
+      "notes": ""
+    },
+    {
+      "id": "PH Wc 36",
+      "inventory_number": "HM 1534",
+      "dating": "MM II",
+      "scribe": "",
+      "gorila_ref": "2, p. 94",
+      "notes": ""
+    },
+    {
+      "id": "PH Wc 37",
+      "inventory_number": "HM 1487",
+      "dating": "MM II",
+      "scribe": "",
+      "gorila_ref": "2, p. 94",
+      "notes": ""
+    },
+    {
+      "id": "PH Wc 38",
+      "inventory_number": "HM 1488",
+      "dating": "MM II",
+      "scribe": "",
+      "gorila_ref": "2, p. 94",
+      "notes": ""
+    },
+    {
+      "id": "PH Wc 39",
+      "inventory_number": "HM 1489",
+      "dating": "MM II",
+      "scribe": "",
+      "gorila_ref": "2, p. 95",
+      "notes": ""
+    },
+    {
+      "id": "PH Wc 40",
+      "inventory_number": "HM 1490",
+      "dating": "MM II",
+      "scribe": "",
+      "gorila_ref": "2, p. 95",
+      "notes": ""
+    },
+    {
+      "id": "PH Wc 41",
+      "inventory_number": "HM 1530",
+      "dating": "MM II",
+      "scribe": "",
+      "gorila_ref": "2, p. 95",
+      "notes": ""
+    },
+    {
+      "id": "PH Wc 42",
+      "inventory_number": "HM 1531",
+      "dating": "MM II",
+      "scribe": "",
+      "gorila_ref": "2, p. 95",
+      "notes": ""
+    },
+    {
+      "id": "PH Wc 43",
+      "inventory_number": "HM 1532",
+      "dating": "MM II",
+      "scribe": "",
+      "gorila_ref": "2, p. 96",
+      "notes": ""
+    },
+    {
+      "id": "PH Wc 44",
+      "inventory_number": "HM 1533",
+      "dating": "MM II",
+      "scribe": "",
+      "gorila_ref": "2, p. 96",
+      "notes": ""
+    },
+    {
+      "id": "PH Wc 45",
+      "inventory_number": "HM 1535",
+      "dating": "MM II",
+      "scribe": "",
+      "gorila_ref": "2, p. 96",
+      "notes": ""
+    },
+    {
+      "id": "PH Wc 46",
+      "inventory_number": "HM 1536",
+      "dating": "MM II",
+      "scribe": "",
+      "gorila_ref": "2, p. 96",
+      "notes": ""
+    },
+    {
+      "id": "PH Wc <47>",
+      "inventory_number": "MSPH 239 (?)",
+      "dating": "*MM I - MM III",
+      "scribe": "",
+      "gorila_ref": "2, p. 96",
+      "notes": ""
+    },
+    {
+      "id": "PH Zb 48",
+      "inventory_number": "HM 19808",
+      "dating": "*MM I - MM III",
+      "scribe": "",
+      "gorila_ref": "4, p. 95",
+      "notes": ""
+    },
+    {
+      "id": "PL Zf 1",
+      "inventory_number": "HM 498",
+      "dating": "MR I",
+      "scribe": "",
+      "gorila_ref": "4, p. 161",
+      "notes": ""
+    },
+    {
+      "id": "PR Za 1",
+      "inventory_number": "HM 2444",
+      "dating": "MM III B - MR I A",
+      "scribe": "",
+      "gorila_ref": "4, p. 46",
+      "notes": ""
+    },
+    {
+      "id": "PS Za 2",
+      "inventory_number": "a) Louvre I.P.S. 352; b) AM 1923.661; c) AM AE 1",
+      "dating": "",
+      "scribe": "1 PS Za; 2 PS Za; 2 PS Za",
+      "gorila_ref": "4, p. 52",
+      "notes": ""
+    },
+    {
+      "id": "PYR 1",
+      "inventory_number": "A. Nik. M. 6524",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 322",
+      "notes": ""
+    },
+    {
+      "id": "PYR 2",
+      "inventory_number": "HM 1681",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "5, p. 59",
+      "notes": ""
+    },
+    {
+      "id": "SI Zg 1",
+      "inventory_number": "HM 2615",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "4, p. 168",
+      "notes": ""
+    },
+    {
+      "id": "SK Zb 1",
+      "inventory_number": "HM 1614",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "4, p. 98",
+      "notes": ""
+    },
+    {
+      "id": "SY Za 1",
+      "inventory_number": "HM 3459",
+      "dating": "MM III B - MR I A",
+      "scribe": "",
+      "gorila_ref": "5, p. 62",
+      "notes": ""
+    },
+    {
+      "id": "SY Za 2",
+      "inventory_number": "HM 3429",
+      "dating": "MM III B - MR I A",
+      "scribe": "",
+      "gorila_ref": "5, p. 64",
+      "notes": ""
+    },
+    {
+      "id": "SY Za 3",
+      "inventory_number": "HM 3757",
+      "dating": "MM III B - MR I A",
+      "scribe": "",
+      "gorila_ref": "5, p. 66",
+      "notes": ""
+    },
+    {
+      "id": "THE Zb 1",
+      "inventory_number": "Phira M. AKR P7633",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "4, p. 101",
+      "notes": ""
+    },
+    {
+      "id": "THE Zb 2",
+      "inventory_number": "NM —",
+      "dating": "MR I A",
+      "scribe": "",
+      "gorila_ref": "4, p. 102",
+      "notes": ""
+    },
+    {
+      "id": "THE Zb 3",
+      "inventory_number": "NM —",
+      "dating": "MR I A",
+      "scribe": "",
+      "gorila_ref": "4, p. 103",
+      "notes": ""
+    },
+    {
+      "id": "THE Zb 4",
+      "inventory_number": "MSAkrotiri 136",
+      "dating": "MR I A",
+      "scribe": "",
+      "gorila_ref": "4, p. 104",
+      "notes": ""
+    },
+    {
+      "id": "TRA Zb 1",
+      "inventory_number": "HM —",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "4, p. 107",
+      "notes": ""
+    },
+    {
+      "id": "TL Za 1",
+      "inventory_number": "HM 1545",
+      "dating": "MM III",
+      "scribe": "",
+      "gorila_ref": "4, p. 58",
+      "notes": ""
+    },
+    {
+      "id": "TY Zg 1",
+      "inventory_number": "HM 6585",
+      "dating": "MR I",
+      "scribe": "",
+      "gorila_ref": "4, p. 170",
+      "notes": ""
+    },
+    {
+      "id": "TY 2",
+      "inventory_number": "HM 1374",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 324",
+      "notes": ""
+    },
+    {
+      "id": "TY 3",
+      "inventory_number": "HM 1373 + 1375",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 326",
+      "notes": ""
+    },
+    {
+      "id": "TY Zb 4",
+      "inventory_number": "HM 7304",
+      "dating": "MR I",
+      "scribe": "",
+      "gorila_ref": "4, p. 109",
+      "notes": ""
+    },
+    {
+      "id": "VRY Za 1",
+      "inventory_number": "Khania M.",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "4, p. 61",
+      "notes": ""
+    },
+    {
+      "id": "ZA 1",
+      "inventory_number": "HM 55",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "1, p. 332",
+      "notes": ""
+    },
+    {
+      "id": "ZA Wc 2",
+      "inventory_number": "HM 84",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "2, p. 98",
+      "notes": ""
+    },
+    {
+      "id": "ZA Zb 3",
+      "inventory_number": "HM —",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "4, p. 112",
+      "notes": ""
+    },
+    {
+      "id": "ZA 4",
+      "inventory_number": "HM 1615 + 2 frr.",
+      "dating": "MR I B",
+      "scribe": "1 ZA",
+      "gorila_ref": "3, p. 148",
+      "notes": ""
+    },
+    {
+      "id": "ZA 5",
+      "inventory_number": "HM 1616",
+      "dating": "MR I B",
+      "scribe": "1 ZA",
+      "gorila_ref": "3, p. 152",
+      "notes": ""
+    },
+    {
+      "id": "ZA 6",
+      "inventory_number": "HM 1617 + 1628 + 1648",
+      "dating": "MR I B",
+      "scribe": "1 ZA",
+      "gorila_ref": "3, p. 156",
+      "notes": ""
+    },
+    {
+      "id": "ZA 7",
+      "inventory_number": "HM 1618 [+] 1622 + 2 frr.",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 160",
+      "notes": ""
+    },
+    {
+      "id": "ZA 8",
+      "inventory_number": "HM 1619",
+      "dating": "MR I B",
+      "scribe": "2 ZA",
+      "gorila_ref": "3, p. 164",
+      "notes": ""
+    },
+    {
+      "id": "ZA 9",
+      "inventory_number": "HM 1620",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 166",
+      "notes": ""
+    },
+    {
+      "id": "ZA 10",
+      "inventory_number": "HM 1621",
+      "dating": "MR I B",
+      "scribe": "4 ZA",
+      "gorila_ref": "3, p. 168",
+      "notes": ""
+    },
+    {
+      "id": "ZA 11",
+      "inventory_number": "HM 1623",
+      "dating": "MR I B",
+      "scribe": "2 ZA (?)",
+      "gorila_ref": "3, p. 172",
+      "notes": ""
+    },
+    {
+      "id": "ZA 12",
+      "inventory_number": "HM 1624",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 176",
+      "notes": ""
+    },
+    {
+      "id": "ZA 13",
+      "inventory_number": "HM 1625",
+      "dating": "MR I B",
+      "scribe": "3 ZA (?)",
+      "gorila_ref": "3, p. 178",
+      "notes": ""
+    },
+    {
+      "id": "ZA 14",
+      "inventory_number": "HM 1626",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 180",
+      "notes": ""
+    },
+    {
+      "id": "ZA 15",
+      "inventory_number": "HM 1627",
+      "dating": "MR I B",
+      "scribe": "5 ZA",
+      "gorila_ref": "3, p. 182",
+      "notes": ""
+    },
+    {
+      "id": "ZA 16",
+      "inventory_number": "HM 1629",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 186",
+      "notes": ""
+    },
+    {
+      "id": "ZA 17",
+      "inventory_number": "HM 1630",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 188",
+      "notes": ""
+    },
+    {
+      "id": "ZA 18a",
+      "inventory_number": "HM 1631 + 1634 + 1635 [+] = 1643 + 1646 + 1647 + 14 frr.",
+      "dating": "MR I B",
+      "scribe": "1 ZA",
+      "gorila_ref": "3, p. 190",
+      "notes": ""
+    },
+    {
+      "id": "ZA 18b",
+      "inventory_number": "[+] 1632 + 2 frr.",
+      "dating": "",
+      "scribe": "",
+      "gorila_ref": "3, p. 190",
+      "notes": ""
+    },
+    {
+      "id": "ZA 19",
+      "inventory_number": "HM 1633 + frr.",
+      "dating": "MR I B",
+      "scribe": "1 ZA (?)",
+      "gorila_ref": "3, p. 192",
+      "notes": ""
+    },
+    {
+      "id": "ZA 20",
+      "inventory_number": "HM 1636",
+      "dating": "MR I B",
+      "scribe": "3 ZA",
+      "gorila_ref": "3, p. 192",
+      "notes": ""
+    },
+    {
+      "id": "ZA 21",
+      "inventory_number": "HM 1637 + 1640 [+] 1638 [+] 1639",
+      "dating": "MR I B",
+      "scribe": "1 ZA (?)",
+      "gorila_ref": "3, p. 194",
+      "notes": ""
+    },
+    {
+      "id": "ZA 22",
+      "inventory_number": "HM 1641 + 11 frr.",
+      "dating": "MR I B",
+      "scribe": "4 ZA",
+      "gorila_ref": "3, p. 198",
+      "notes": ""
+    },
+    {
+      "id": "ZA 23",
+      "inventory_number": "HM 1642",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 200",
+      "notes": ""
+    },
+    {
+      "id": "ZA 24",
+      "inventory_number": "HM 1644 + 2 frr.",
+      "dating": "MR I B",
+      "scribe": "1 ZA (?)",
+      "gorila_ref": "3, p. 200",
+      "notes": ""
+    },
+    {
+      "id": "ZA 25",
+      "inventory_number": "HM 1645",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 202",
+      "notes": ""
+    },
+    {
+      "id": "ZA 26",
+      "inventory_number": "HM 1652",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 202",
+      "notes": ""
+    },
+    {
+      "id": "ZA 27",
+      "inventory_number": "HM 1653",
+      "dating": "MR I B",
+      "scribe": "3 ZA (?)",
+      "gorila_ref": "3, p. 204",
+      "notes": ""
+    },
+    {
+      "id": "ZA 28",
+      "inventory_number": "HM —",
+      "dating": "MR I B",
+      "scribe": "2 ZA (?)",
+      "gorila_ref": "3, p. 204",
+      "notes": ""
+    },
+    {
+      "id": "ZA 29",
+      "inventory_number": "HM —",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 206",
+      "notes": ""
+    },
+    {
+      "id": "ZA 30",
+      "inventory_number": "HM —",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 206",
+      "notes": ""
+    },
+    {
+      "id": "ZA 31",
+      "inventory_number": "HM —",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 208",
+      "notes": ""
+    },
+    {
+      "id": "ZA 32",
+      "inventory_number": "HM —",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 208",
+      "notes": ""
+    },
+    {
+      "id": "ZA 33",
+      "inventory_number": "HM —",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "3, p. 208",
+      "notes": ""
+    },
+    {
+      "id": "ZA Zb 34",
+      "inventory_number": "HM —",
+      "dating": "MR I B",
+      "scribe": "",
+      "gorila_ref": "4, p. 114",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "libation-formula-detection",
+  "title": "Re-discovery of the libation formula family from ritual corpus structure",
+  "category": "replication",
+  "status": "provisional success",
+  "review_state": "internal-review",
+  "corpus_size": 127,
+  "ritual_documents": 29,
+  "non_ritual_documents": 98,
+  "methods": [
+    "ritual-vs-non-ritual comparison",
+    "tokenization",
+    "ritual-specificity ranking",
+    "n-gram recurrence analysis",
+    "prefix family analysis"
+  ],
+  "primary_finding": "A ritual-exclusive formula family is re-discovered around a-ta-i-*301-wa-ja, commonly extended by ja-sa-sa-ra-me and less often by i-da-ma-te.",
+  "related_findings": [
+    "a-ta-i-*301-wa-ja appears in 21 ritual documents and 0 non-ritual documents",
+    "a-ta-i-*301-wa-ja ja-sa-sa-ra-me is the strongest repeated ritual bigram",
+    "a-ta-i-*301-wa-ja ja-sa-sa-ra-me i-da-ma-te recurs as a longer extension tier"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "site": "Melos",
+  "documents": 1,
+  "total_signs": 5,
+  "total_words": 4,
+  "unique_words": 4,
+  "types": {
+    "tablet": 1
+  },
+  "periods": {
+    "unknown": 1
+  },
+  "top_words": [
+    [
+      "pu-du-ka-ka",
+      1
+    ],
+    [
+      "pu",
+      1
+    ],
+    [
+      "du-ka",
+      1
+    ],
+    [
+      "ka",
+      1
+    ]
+  ],
+  "document_ids": [
+    "MI 2"
+  ]
+}

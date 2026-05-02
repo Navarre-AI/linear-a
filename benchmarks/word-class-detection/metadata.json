@@ -1,0 +1,13 @@
+{
+  "benchmark": "word-class-detection",
+  "level": "novel-discovery",
+  "status": "provisional_success",
+  "date": "2026-04-01",
+  "corpus_size": 772,
+  "words_analyzed": 951,
+  "key_findings": {
+    "administrative_terms": 24,
+    "probable_names": 63,
+    "method": "distributional co-occurrence with ideograms and numerals"
+  }
+}

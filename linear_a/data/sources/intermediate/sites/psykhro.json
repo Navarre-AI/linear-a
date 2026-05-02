@@ -1,0 +1,38 @@
+{
+  "site": "Psykhro",
+  "documents": 1,
+  "total_signs": 16,
+  "total_words": 5,
+  "unique_words": 5,
+  "types": {
+    "libation_table": 1
+  },
+  "periods": {
+    "unknown": 1
+  },
+  "top_words": [
+    [
+      "ta-na-i-A301-ti-ja-ti-ja-sa-sa-ra-me-re-i-ke",
+      1
+    ],
+    [
+      "ta-na-i-A301-ti",
+      1
+    ],
+    [
+      "ja-ti",
+      1
+    ],
+    [
+      "ja-sa-sa-ra-me",
+      1
+    ],
+    [
+      "re-i-ke",
+      1
+    ]
+  ],
+  "document_ids": [
+    "PS Za 2"
+  ]
+}

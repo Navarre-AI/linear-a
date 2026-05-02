@@ -1,0 +1,20 @@
+{
+  "id": "po-to-ku-ro-grand-total",
+  "title": "Re-discovery of po-to-ku-ro as an extended summation expression",
+  "category": "replication",
+  "status": "provisional success",
+  "review_state": "internal-review",
+  "corpus_size": 127,
+  "quantity_lines": 289,
+  "methods": [
+    "follow-on replication",
+    "quantity-line heuristic",
+    "line-position comparison",
+    "structural alignment with ku-ro"
+  ],
+  "primary_finding": "po-to-ku-ro appears in the same line-initial quantity-bearing pattern as ku-ro",
+  "related_findings": [
+    "ku-ro is the dominant summation marker in the current corpus",
+    "ki-ro appears as a lower-frequency related administrative marker"
+  ]
+}

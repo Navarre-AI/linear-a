@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# These folders live in the private companion repo (minoan-linear-a-references):
+private/
+docs/
+references/
+working/
+ingest/
+
+# Local agent config and credentials — must NEVER be committed
+.claude/
+.mcp.json
+*.skill
+
+# Session transcripts and local convenience scripts
+session-transcript*
+*-transcript-*.md
+cleanup.sh

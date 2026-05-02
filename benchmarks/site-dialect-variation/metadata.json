@@ -1,0 +1,14 @@
+{
+  "benchmark": "site-dialect-variation",
+  "level": "novel-discovery",
+  "status": "provisional_success",
+  "date": "2026-04-01",
+  "corpus_size": 772,
+  "sites_compared": 5,
+  "key_findings": {
+    "max_jaccard": 0.016,
+    "site_exclusive_vocabulary": "88-100%",
+    "most_variable_sign": "a (1.6% at HT vs 8.9% at KN)",
+    "ku-ro_absent_at": ["Khania", "Knossos"]
+  }
+}

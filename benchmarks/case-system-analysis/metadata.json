@@ -1,0 +1,11 @@
+{
+  "benchmark": "case-system-analysis",
+  "level": "novel-discovery",
+  "status": "provisional_success",
+  "date": "2026-04-01",
+  "unique_words": 1025,
+  "cases_identified": 8,
+  "core_cases": ["-ro (result)", "-te (dative/locative)", "-ja (adjectival)"],
+  "probable_cases": ["-ra (agentive)", "-na (genitive)", "-se (instrumental?)"],
+  "uncertain": ["-ne (dative plural?)", "-me (possessive)"]
+}

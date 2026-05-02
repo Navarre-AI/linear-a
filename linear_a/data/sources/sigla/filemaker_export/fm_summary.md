@@ -1,0 +1,28 @@
+# Linear A Corpus Summary by Site
+
+Data exported from FileMaker database.
+
+| Site Code | Documents | Total Signs |
+|-----------|-----------|-------------|
+| ARKH | 10 | 128 |
+| GO | 2 | 9 |
+| HS | 1 | 3 |
+| HT | 373 | 3405 |
+| KE | 3 | 10 |
+| KH | 213 | 894 |
+| KN | 31 | 195 |
+| KY | 1 | 2 |
+| MA | 20 | 93 |
+| MI | 1 | 6 |
+| MY | 1 | 2 |
+| PA | 1 | 6 |
+| PH | 63 | 315 |
+| PS | 1 | 17 |
+| PYR | 2 | 11 |
+| SY | 1 | 14 |
+| TY | 3 | 102 |
+| ZA | 44 | 497 |
+| `KE | 2 | 5 |
+| **TOTAL** | **773** | **5714** |
+
+19 sites represented.

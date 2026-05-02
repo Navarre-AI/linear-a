@@ -1,0 +1,22 @@
+{
+  "site": "Haghios Stephanos",
+  "documents": 1,
+  "total_signs": 2,
+  "total_words": 2,
+  "unique_words": 1,
+  "types": {
+    "plaque": 1
+  },
+  "periods": {
+    "unknown": 1
+  },
+  "top_words": [
+    [
+      "a-ma",
+      2
+    ]
+  ],
+  "document_ids": [
+    "HS Zg 1"
+  ]
+}

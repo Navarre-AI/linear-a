@@ -1,0 +1,12 @@
+{
+  "benchmark": "compound-words",
+  "level": "novel-discovery",
+  "status": "provisional_success",
+  "date": "2026-04-01",
+  "unique_words": 1025,
+  "key_findings": {
+    "ku-ro_compounds": 21,
+    "a_prefix_families": "8 of top 10 families",
+    "major_suffixes": ["-ku-ro (21)", "-ki-ro (6)", "-ta-na (6)", "-sa-ra (6)", "-mi-na (6)"]
+  }
+}

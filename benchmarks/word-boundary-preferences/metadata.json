@@ -1,0 +1,14 @@
+{
+  "benchmark": "word-boundary-preferences",
+  "level": "replication-plus-discovery",
+  "status": "provisional_success",
+  "date": "2026-04-01",
+  "corpus_size": 772,
+  "words_analyzed": 951,
+  "key_findings": {
+    "strong_initial_signs": ["qa (96%)", "a (91%)", "ku (87%)", "sa (83%)", "da (77%)"],
+    "strong_final_signs": ["ro (95%)", "ne (91%)", "se (90%)", "za (88%)", "na (86%)", "ra (79%)", "re (79%)"],
+    "pattern": "Vowels and stops dominate initial position; liquids and nasals dominate final position"
+  },
+  "data_source": "Full imported SigLA website corpus (772 documents)"
+}

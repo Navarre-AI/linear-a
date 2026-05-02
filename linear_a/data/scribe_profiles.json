@@ -1,0 +1,1504 @@
+{
+  "1 AR Zf": {
+    "doc_count": 1,
+    "docs": [
+      "AR Zf 1"
+    ],
+    "total_sign_tokens": 0,
+    "unique_sign_types": 0,
+    "sign_freq": {},
+    "word_freq": {
+      "i-da-ma-te": 1
+    },
+    "site_distribution": {
+      "Arkalochori": 1
+    },
+    "role_distribution": {}
+  },
+  "2 AR Zf": {
+    "doc_count": 1,
+    "docs": [
+      "AR Zf 2"
+    ],
+    "total_sign_tokens": 0,
+    "unique_sign_types": 0,
+    "sign_freq": {},
+    "word_freq": {
+      "i-da-ma-te": 1
+    },
+    "site_distribution": {
+      "Arkalochori": 1
+    },
+    "role_distribution": {}
+  },
+  "1 ARKH": {
+    "doc_count": 3,
+    "docs": [
+      "ARKH 1a",
+      "ARKH 1b",
+      "ARKH 2"
+    ],
+    "total_sign_tokens": 46,
+    "unique_sign_types": 32,
+    "sign_freq": {
+      "AB08": 6,
+      "AB73": 3,
+      "AB67": 2,
+      "AB60": 2,
+      "AB58": 2,
+      "AB118": 2,
+      "AB24": 2,
+      "AB41": 2,
+      "AB01": 2,
+      "AB59": 1,
+      "AB39": 1,
+      "AB16": 1,
+      "AB03": 1,
+      "null": 1,
+      "AB31": 1,
+      "AB57": 1,
+      "AB27": 1,
+      "AB56": 1,
+      "AB06": 1,
+      "AB04": 1,
+      "AB81": 1,
+      "AB131b": 1,
+      "AB05": 1,
+      "AB28": 1,
+      "AB79": 1,
+      "A301": 1,
+      "AB09": 1,
+      "AB45": 1,
+      "AB21f": 1,
+      "AB50": 1,
+      "AB54": 1,
+      "AB26": 1
+    },
+    "word_freq": {
+      "ta-pi-ki-a-ra-a-su-mi-*118-a-pa-mi-ki-sa-ne": 1,
+      "ta-pi": 1,
+      "ki": 1,
+      "a-ra": 1,
+      "a-su-mi-*118": 1,
+      "a-pa": 1,
+      "mi-ki-sa-ne": 1,
+      "a-ja-re-*56-na": 1,
+      "a": 1,
+      "ja-re": 1,
+      "*56": 1,
+      "na": 1,
+      "si-da-te-ku-ra-*131-a-si-da-to-i-*79-A301-se-de-qi-*118-a-su-pu-wa-ru-mi": 1,
+      "si-da-te": 1,
+      "ku-ra-*131": 1,
+      "a-si-da-to-i": 1,
+      "*79-A301-se-de-qi-*118": 1,
+      "a-su-pu-wa": 1,
+      "ru-mi": 1
+    },
+    "site_distribution": {
+      "Arkhanes": 3
+    },
+    "role_distribution": {
+      "syllabogram": 44,
+      "logogram": 2
+    }
+  },
+  "3 HT": {
+    "doc_count": 5,
+    "docs": [
+      "HT 104",
+      "HT 118",
+      "HT 85a",
+      "HT 85b",
+      "HT 91"
+    ],
+    "total_sign_tokens": 119,
+    "unique_sign_types": 57,
+    "sign_freq": {
+      "A701": 8,
+      "AB67": 7,
+      "AB01": 6,
+      "AB81": 5,
+      "AB07": 5,
+      "AB53": 4,
+      "AB30": 4,
+      "AB03": 3,
+      "AB09": 3,
+      "AB37": 3,
+      "AB28": 3,
+      "AB51": 3,
+      "AB02": 3,
+      "AB80": 3,
+      "AB16": 3,
+      "AB04": 3,
+      "AB27": 3,
+      "AB77": 3,
+      "A707": 2,
+      "AB58": 2,
+      "AB26": 2,
+      "AB08": 2,
+      "AB17": 2,
+      "AB54": 2,
+      "A622": 2,
+      "AB38": 2,
+      "AB59": 1,
+      "A505": 1,
+      "AB24": 1,
+      "AB85": 1,
+      "A516": 1,
+      "A638": 1,
+      "AB100": 1,
+      "AB56": 1,
+      "AB10": 1,
+      "A325": 1,
+      "AB41": 1,
+      "AB118": 1,
+      "AB79": 1,
+      "AB44": 1,
+      "AB60": 1,
+      "AB57": 1,
+      "AB66": 1,
+      "AB78": 1,
+      "AB69": 1,
+      "null": 1,
+      "AB13": 1,
+      "AB73": 1,
+      "A310": 1,
+      "A326": 1,
+      "AB120": 1,
+      "A711": 1,
+      "A304": 1,
+      "A618": 1,
+      "A610": 1,
+      "AB122": 1,
+      "AB131a": 1
+    },
+    "word_freq": {
+      "ku-ro": 3,
+      "ma-di": 2,
+      "ta-pa-da-ku-se-ne-ti-i-du-ti-pa-da-su-ti-ku-ro": 1,
+      "ta-pa": 1,
+      "da-ku-se-ne-ti": 1,
+      "i-du-ti": 1,
+      "pa-da-su-ti": 1,
+      "ma-di-qa-qa-ru-a-ri-su-ri-ru-ma-ku-ro": 1,
+      "qa-qa-ru": 1,
+      "a-ri-su": 1,
+      "ri-ru-ma": 1,
+      "a-du-da-ri-da-*56-ni-u-A325-za-da-si-*118-ku-*79-ni-te-ke-da-re-ku-ro": 1,
+      "a-du": 1,
+      "da-ri-da": 1,
+      "*56-ni": 1,
+      "u-A325-za": 1,
+      "da-si-*118": 1,
+      "ku-*79-ni": 1,
+      "te-ke": 1,
+      "da-re": 1,
+      "ki-ki-ra-ja-ki-re-ta-qe-ka-te-tu-me-za-re-di-se-wa-du-ni-mi-ma-di-qa-A310-i": 1,
+      "ki-ki-ra-ja": 1,
+      "ki-re-ta": 1,
+      "qe-ka": 1,
+      "te-tu": 1,
+      "me-za": 1,
+      "re-di-se": 1,
+      "wa-du-ni-mi": 1,
+      "qa-A310-i": 1,
+      "i-ka-te-ri": 1,
+      "i-ka": 1,
+      "te-ri": 1
+    },
+    "site_distribution": {
+      "Haghia Triada": 5
+    },
+    "role_distribution": {
+      "syllabogram": 81,
+      "logogram": 20,
+      "fraction": 11,
+      "transaction": 4,
+      "erasure": 3
+    }
+  },
+  "9 HT": {
+    "doc_count": 18,
+    "docs": [
+      "HT 112a",
+      "HT 112b",
+      "HT 116a",
+      "HT 116b",
+      "HT 117a",
+      "HT 117b",
+      "HT 119",
+      "HT 122a",
+      "HT 122b",
+      "HT 128a",
+      "HT 128b",
+      "HT 133",
+      "HT 135a",
+      "HT 135b",
+      "HT 87",
+      "HT 89",
+      "HT 95a",
+      "HT 95b"
+    ],
+    "total_sign_tokens": 349,
+    "unique_sign_types": 81,
+    "sign_freq": {
+      "AB81": 22,
+      "AB73": 16,
+      "AB01": 15,
+      "null": 13,
+      "AB69": 12,
+      "AB02": 10,
+      "AB26": 10,
+      "AB07": 10,
+      "AB04": 9,
+      "AB120": 9,
+      "AB80": 9,
+      "AB60": 9,
+      "AB27": 9,
+      "AB10": 8,
+      "AB59": 8,
+      "AB24": 8,
+      "AB67": 7,
+      "AB55": 7,
+      "AB53": 7,
+      "AB03": 6,
+      "AB41": 6,
+      "AB56": 6,
+      "AB08": 6,
+      "A579": 6,
+      "AB57": 5,
+      "AB06": 5,
+      "AB31": 5,
+      "AB45": 5,
+      "AB21f": 4,
+      "AB76": 4,
+      "AB16": 4,
+      "AB65": 4,
+      "AB51": 4,
+      "A304": 3,
+      "AB77": 3,
+      "AB58": 3,
+      "AB28": 3,
+      "AB37": 3,
+      "AB09": 3,
+      "AB100": 3,
+      "A306": 3,
+      "AB17": 3,
+      "AB78": 3,
+      "AB30": 3,
+      "A303": 2,
+      "AB50": 2,
+      "A618": 2,
+      "A622": 2,
+      "AB39": 2,
+      "AB34": 2,
+      "AB70": 2,
+      "A327": 2,
+      "AB13": 2,
+      "A707": 2,
+      "A704": 2,
+      "A608": 1,
+      "A529": 1,
+      "AB122": 1,
+      "A587": 1,
+      "AB302": 1,
+      "AB23": 1,
+      "A345": 1,
+      "AB118": 1,
+      "A310": 1,
+      "A324": 1,
+      "AB46": 1,
+      "A346": 1,
+      "AB66": 1,
+      "AB11": 1,
+      "AB05": 1,
+      "A326": 1,
+      "AB54": 1,
+      "A574": 1,
+      "A329": 1,
+      "A573": 1,
+      "AB44": 1,
+      "A307": 1,
+      "A305": 1,
+      "A542": 1,
+      "A570": 1,
+      "AB131a": 1
+    },
+    "word_freq": {
+      "ku-ro": 7,
+      "ku-*56-nu": 3,
+      "a-du": 3,
+      "tu-pa": 2,
+      "ma-ka-ri-te": 2,
+      "mi-tu": 2,
+      "qi-tu-ne": 2,
+      "di-ki-se": 2,
+      "A306-tu": 2,
+      "di": 2,
+      "*34-ta-ne": 2,
+      "mi-nu-te": 2,
+      "sa-ru": 2,
+      "u-ta-ro-ku-pa-ja-pu-ra-pi-*34-te-si-ki-ne-qa-nu-ma": 1,
+      "u-ta-ro": 1,
+      "ku-pa-ja": 1,
+      "pu-ra": 1,
+      "pi-*34-te": 1,
+      "si-ki-ne": 1,
+      "qa-nu-ma": 1,
+      "ma-ka-ri-te-ki-ro-u-mi-na-si-u-su-mi-tu-ku-ra-mu-ma-ru-ku-*56-nu-tu-ju-ma-u-di-mi-mi-ru-ta-ra-re-te-*56-re-na-da-re-ku-ro-sa-ta-ku-ku-da-ra-ko-sa-i-ti-da-mi-nu-da-ne-ku-ti-ki-da-ro": 1,
+      "ki-ro": 1,
+      "u-mi-na-si": 1,
+      "u-su": 1,
+      "ku-ra-mu": 1,
+      "ma-ru": 1,
+      "tu-ju-ma": 1,
+      "u-di-mi": 1,
+      "mi-ru-ta-ra-re": 1,
+      "te-*56-re": 1,
+      "na-da-re": 1,
+      "sa-ta": 1,
+      "ku-ku-da-ra": 1,
+      "ko-sa-i-ti": 1,
+      "da-mi-nu": 1,
+      "da-ne-ku-ti": 1,
+      "ki-da-ro": 1,
+      "qi-tu-ne-ku-re-ju-di-ki-se": 1,
+      "ku-re-ju": 1,
+      "ri-mi-si-ko-ja-ku-*56-na-tu-ja-A345-A306-tu-A327-ju-ku-ro": 1,
+      "ri-mi-si": 1,
+      "ko-ja": 1,
+      "ku-*56-na-tu": 1,
+      "ja-A345": 1,
+      "A327-ju": 1,
+      "ra-ri-u-de-za-da-si-*118-pa-di-te-ki-qa-A310-i-ja-mi-da-re-si-da-re-A324-di-ra-pa-de-ku-*56-nu-pa-ri-ne-A306-tu-du-ku-*56-nu-da-ri-da-ku-ro-ku-da": 1,
+      "ra-ri": 1,
+      "u-de-za": 1,
+      "da-si-*118": 1,
+      "pa": 1,
+      "te-ki": 1,
+      "qa-A310-i": 1,
+      "ja-mi-da-re": 1,
+      "si-da-re": 1,
+      "A324-di-ra": 1,
+      "pa-de": 1,
+      "pa-ri-ne": 1,
+      "du": 1,
+      "da-ri-da": 1,
+      "ku-da": 1,
+      "je-di-A306-ki-ta-a-ra-ju-u-de-za-qa-qa-ru-da-re-ku-ro-po-to-ku-ro": 1,
+      "je-di": 1,
+      "A306-ki-ta": 1,
+      "a-ra-ju-u-de-za": 1,
+      "qa-qa-ru": 1,
+      "da-re": 1,
+      "po-to-ku-ro": 1,
+      "pa-ra-tu-ru-*56-se-me-wa-tu-ma-re-mi-ta-di-A579-ma-ri": 1,
+      "pa-ra": 1,
+      "tu-ru-*56-se-me": 1,
+      "wa-tu-ma-re": 1,
+      "mi-ta": 1,
+      "A579": 1,
+      "ma-ri": 1,
+      "*100-A329-ru": 1,
+      "*100-A329": 1,
+      "ru": 1,
+      "ne-mi-na-mi-tu-mi-ka-na-qi-ne-mi": 1,
+      "ne-mi-na": 1,
+      "mi-ka": 1,
+      "na-qi-ne": 1,
+      "mi": 1,
+      "qi-tu-ne-ma-ka-ri-te-pi-ta-ke-si-ja-re-mi-di-ki-se-qe-su-pu-ku-ru-ku-a-ra-a-tu": 1,
+      "pi-ta-ke-si": 1,
+      "ja-re-mi": 1,
+      "qe-su-pu": 1,
+      "ku-ru-ku": 1,
+      "a-ra-a-tu": 1,
+      "a-sa-ra-ma-i-mi-ta-ra-ku-ro-*131": 1,
+      "a-sa-ra": 1,
+      "ma-i-mi": 1,
+      "ta-ra": 1,
+      "*131": 1,
+      "da-du-ma-ta-da-me-mi-nu-te-sa-ru-ku-ni-di-de-ru-qe-ra-u": 1,
+      "da-du-ma-ta": 1,
+      "da-me": 1,
+      "ku-ni": 1,
+      "di-de-ru-qe-ra-u": 1,
+      "a-du-sa-ru-da-za-mi-nu-te-ku-ni-su-di-de-ru-qe-ra-u": 1,
+      "da-za": 1,
+      "ku-ni-su": 1,
+      "di-de-ru": 1,
+      "qe-ra-u": 1
+    },
+    "site_distribution": {
+      "Haghia Triada": 18
+    },
+    "role_distribution": {
+      "logogram": 41,
+      "syllabogram": 294,
+      "transaction": 5,
+      "fraction": 4,
+      "erasure": 5
+    }
+  },
+  "4 HT": {
+    "doc_count": 4,
+    "docs": [
+      "HT 114a",
+      "HT 114b",
+      "HT 121",
+      "HT 137"
+    ],
+    "total_sign_tokens": 28,
+    "unique_sign_types": 14,
+    "sign_freq": {
+      "AB66": 3,
+      "AB120": 3,
+      "AB302": 3,
+      "AB67": 2,
+      "AB53": 2,
+      "AB31": 2,
+      "AB76": 2,
+      "AB30": 2,
+      "AB131a": 2,
+      "AB23m": 2,
+      "null": 2,
+      "A522": 1,
+      "A623": 1,
+      "A622": 1
+    },
+    "word_freq": {
+      "ki-ri-ta-sa-ra": 2,
+      "ki-ri-ta": 2,
+      "sa-ra": 2,
+      "ta": 2,
+      "sa-vin": 1
+    },
+    "site_distribution": {
+      "Haghia Triada": 4
+    },
+    "role_distribution": {
+      "syllabogram": 13,
+      "logogram": 15
+    }
+  },
+  "8 HT": {
+    "doc_count": 2,
+    "docs": [
+      "HT 115a",
+      "HT 115b"
+    ],
+    "total_sign_tokens": 72,
+    "unique_sign_types": 35,
+    "sign_freq": {
+      "null": 6,
+      "AB55": 4,
+      "AB60": 4,
+      "A707": 4,
+      "AB28": 3,
+      "AB80": 3,
+      "AB06": 3,
+      "AB24": 3,
+      "AB81": 3,
+      "AB57": 3,
+      "AB26": 3,
+      "AB56": 2,
+      "AB53": 2,
+      "AB59": 2,
+      "AB40": 2,
+      "AB09": 2,
+      "AB69": 2,
+      "AB03": 2,
+      "AB08": 2,
+      "AB58": 2,
+      "AB47": 1,
+      "A576": 1,
+      "A301": 1,
+      "AB10": 1,
+      "AB21f": 1,
+      "AB73": 1,
+      "A718": 1,
+      "AB77": 1,
+      "AB11": 1,
+      "A703": 1,
+      "AB37": 1,
+      "AB120": 1,
+      "AB51": 1,
+      "A306": 1,
+      "A634": 1
+    },
+    "word_freq": {
+      "pa-ra-ne": 2,
+      "*47-nu-ra-*56-ri-ta-ma-nu-wi-na-qi-ne-mi-na-se-ku-tu-pa-ra-ne-a-se-ja-A718-ka-po-ru": 1,
+      "*47-nu-ra-*56": 1,
+      "ri-ta-ma-nu-wi": 1,
+      "na-qi-ne-mi-na": 1,
+      "se-ku-tu": 1,
+      "a-se-ja-A718": 1,
+      "ka-po-ru": 1,
+      "ru-pa-ra-ne-ti-nu-ja-nu-wi-du-*56-na-ku-ru-ma-A306-tu-ja-a-i-ku-ta": 1,
+      "ru": 1,
+      "ti-nu-ja": 1,
+      "nu-wi": 1,
+      "du-*56-na": 1,
+      "ku-ru-ma": 1,
+      "A306-tu-ja": 1,
+      "a-i": 1,
+      "ku-ta": 1
+    },
+    "site_distribution": {
+      "Haghia Triada": 2
+    },
+    "role_distribution": {
+      "syllabogram": 51,
+      "transaction": 2,
+      "logogram": 3,
+      "erasure": 12,
+      "fraction": 4
+    }
+  },
+  "6 HT": {
+    "doc_count": 3,
+    "docs": [
+      "HT 120",
+      "HT 123a",
+      "HT 123b"
+    ],
+    "total_sign_tokens": 109,
+    "unique_sign_types": 45,
+    "sign_freq": {
+      "AB67": 10,
+      "AB02": 10,
+      "A707": 7,
+      "A704": 7,
+      "AB01": 6,
+      "A308": 6,
+      "AB122": 5,
+      "null": 4,
+      "A701": 3,
+      "AB59": 3,
+      "AB06": 3,
+      "AB28": 3,
+      "AB81": 3,
+      "AB188": 3,
+      "AB51": 3,
+      "A574": 2,
+      "A711": 2,
+      "AB31": 2,
+      "AB78": 1,
+      "AB60": 1,
+      "AB13": 1,
+      "A584": 1,
+      "AB10": 1,
+      "AB49": 1,
+      "A517": 1,
+      "AB27": 1,
+      "A580": 1,
+      "AB03": 1,
+      "AB05": 1,
+      "A703": 1,
+      "AB57": 1,
+      "AB50": 1,
+      "AB131a": 1,
+      "AB26": 1,
+      "A706": 1,
+      "A312": 1,
+      "AB37": 1,
+      "AB39": 1,
+      "AB69": 1,
+      "AB07": 1,
+      "A7092": 1,
+      "AB77": 1,
+      "AB41": 1,
+      "AB80": 1,
+      "A705": 1
+    },
+    "word_freq": {
+      "ki-ro": 6,
+      "ku-ro": 3,
+      "da-qe-ra-da-me-da-u-*49-ki-re-ta-na-pa-i-to": 1,
+      "da-qe-ra": 1,
+      "da-me": 1,
+      "da-u-*49": 1,
+      "ki-re-ta-na": 1,
+      "pa-i-to": 1,
+      "ki-ta-i-A308-ki-ro-pu-*131-ki-ro-sa-ru-ki-ro-da-ki-ki-ro-ku-ro-ku-ro-ki-ro": 1,
+      "ki-ta-i": 1,
+      "A308": 1,
+      "pu-*131": 1,
+      "sa-ru": 1,
+      "da-ki": 1,
+      "ti-da-ta-pi-sa-*188-du-tu-ro-di-da-ka-na-si-du-du-ma-i-na-ku-ro-ki-ro": 1,
+      "ti-da-ta": 1,
+      "pi-sa": 1,
+      "*188": 1,
+      "du": 1,
+      "tu-ro-di-da": 1,
+      "ka-na": 1,
+      "si-du": 1,
+      "du-ma-i-na": 1
+    },
+    "site_distribution": {
+      "Haghia Triada": 3
+    },
+    "role_distribution": {
+      "syllabogram": 62,
+      "logogram": 18,
+      "fraction": 23,
+      "erasure": 6
+    }
+  },
+  "16 HT": {
+    "doc_count": 1,
+    "docs": [
+      "HT 129"
+    ],
+    "total_sign_tokens": 15,
+    "unique_sign_types": 13,
+    "sign_freq": {
+      "AB69": 2,
+      "AB120": 2,
+      "AB26": 1,
+      "AB66": 1,
+      "A702": 1,
+      "A304": 1,
+      "AB30": 1,
+      "AB21f": 1,
+      "AB53": 1,
+      "AB06": 1,
+      "A707": 1,
+      "A608": 1,
+      "A618": 1
+    },
+    "word_freq": {
+      "tu-ru-ta-qi-ri-na-AB120/GRA": 1,
+      "tu-ru-ta": 1,
+      "qi-ri-na-AB120/GRA": 1
+    },
+    "site_distribution": {
+      "Haghia Triada": 1
+    },
+    "role_distribution": {
+      "syllabogram": 7,
+      "logogram": 6,
+      "fraction": 2
+    }
+  },
+  "2 HT": {
+    "doc_count": 2,
+    "docs": [
+      "HT 139",
+      "HT 36"
+    ],
+    "total_sign_tokens": 22,
+    "unique_sign_types": 16,
+    "sign_freq": {
+      "null": 4,
+      "A707": 3,
+      "AB120": 2,
+      "AB50": 1,
+      "AB80": 1,
+      "AB81": 1,
+      "AB302": 1,
+      "AB77": 1,
+      "AB76": 1,
+      "AB46": 1,
+      "AB07": 1,
+      "A638": 1,
+      "A578": 1,
+      "AB51": 1,
+      "AB79": 1,
+      "AB54": 1
+    },
+    "word_freq": {
+      "pu-ma-ku-ka-ra": 1,
+      "pu-ma-ku": 1,
+      "ka-ra": 1,
+      "je-di-du-*79-wa": 1,
+      "je-di": 1,
+      "du-*79-wa": 1
+    },
+    "site_distribution": {
+      "Haghia Triada": 2
+    },
+    "role_distribution": {
+      "syllabogram": 11,
+      "logogram": 4,
+      "fraction": 3,
+      "erasure": 4
+    }
+  },
+  "12 HT": {
+    "doc_count": 1,
+    "docs": [
+      "HT 140"
+    ],
+    "total_sign_tokens": 32,
+    "unique_sign_types": 15,
+    "sign_freq": {
+      "AB77": 7,
+      "A610": 4,
+      "AB41": 3,
+      "null": 3,
+      "A707": 3,
+      "AB10": 2,
+      "AB34": 2,
+      "AB86": 1,
+      "AB30": 1,
+      "AB46": 1,
+      "AB07": 1,
+      "A618": 1,
+      "AB118": 1,
+      "AB80": 1,
+      "AB03": 1
+    },
+    "word_freq": {
+      "u-*34-si": 2,
+      "u-*34-si-*86-si-ni-je-di-u-*34-si-*118-ka-ka-ma-ka-pa": 1,
+      "*86-si-ni": 1,
+      "je-di": 1,
+      "*118-ka": 1,
+      "ka-ma": 1,
+      "ka-pa": 1
+    },
+    "site_distribution": {
+      "Haghia Triada": 1
+    },
+    "role_distribution": {
+      "syllabogram": 18,
+      "erasure": 2,
+      "logogram": 9,
+      "fraction": 3
+    }
+  },
+  "11 HT": {
+    "doc_count": 2,
+    "docs": [
+      "HT 7a",
+      "HT 7b"
+    ],
+    "total_sign_tokens": 21,
+    "unique_sign_types": 16,
+    "sign_freq": {
+      "AB37": 2,
+      "AB26": 2,
+      "AB57": 2,
+      "AB01": 2,
+      "AB69": 2,
+      "AB78": 1,
+      "AB100": 1,
+      "AB28": 1,
+      "AB51": 1,
+      "AB59": 1,
+      "AB06": 1,
+      "AB27": 1,
+      "AB04": 1,
+      "AB21f": 1,
+      "AB24": 1,
+      "A329": 1
+    },
+    "word_freq": {
+      "qe-ti-i-ru-ja-du-ja-ta-na-ti-da-re-te-tu": 1,
+      "qe-ti": 1,
+      "i-ru-ja": 1,
+      "du-ja": 1,
+      "ta-na-ti": 1,
+      "da-re": 1,
+      "te-tu": 1,
+      "qi-tu-ne-da-ru-A329": 1,
+      "qi-tu-ne": 1,
+      "da-ru-A329": 1
+    },
+    "site_distribution": {
+      "Haghia Triada": 2
+    },
+    "role_distribution": {
+      "syllabogram": 20,
+      "logogram": 1
+    }
+  },
+  "10 HT": {
+    "doc_count": 2,
+    "docs": [
+      "HT 93a",
+      "HT 93b"
+    ],
+    "total_sign_tokens": 53,
+    "unique_sign_types": 35,
+    "sign_freq": {
+      "A707": 4,
+      "AB30": 3,
+      "AB06": 3,
+      "AB56": 2,
+      "AB07": 2,
+      "AB53": 2,
+      "AB67": 2,
+      "A706": 2,
+      "AB09": 2,
+      "A517": 2,
+      "AB16": 2,
+      "AB100": 2,
+      "null": 2,
+      "AB01": 2,
+      "A577": 1,
+      "A515": 1,
+      "A502": 1,
+      "AB08": 1,
+      "A704": 1,
+      "AB31": 1,
+      "AB76": 1,
+      "AB26": 1,
+      "AB28": 1,
+      "AB45": 1,
+      "AB65": 1,
+      "AB81": 1,
+      "AB61": 1,
+      "AB37": 1,
+      "A406": 1,
+      "A343": 1,
+      "AB03": 1,
+      "AB57": 1,
+      "A705": 1,
+      "AB77": 1,
+      "AB02": 1
+    },
+    "word_freq": {
+      "*56-ni-na": 2,
+      "ki-ro": 2,
+      "*56-ni-na-di-ri-na-ki-di-ni-a-se-sa-ra-qa-qa-ru-*100-i-de-ju-ku-o-ti-da-ri-da-*56-ni-na-pa-se-ja-ka": 1,
+      "di-ri-na": 1,
+      "ki-di-ni": 1,
+      "a-se": 1,
+      "sa-ra": 1,
+      "qa-qa-ru": 1,
+      "*100-i": 1,
+      "de-ju-ku": 1,
+      "o-ti": 1,
+      "da-ri-da": 1,
+      "pa-se-ja": 1,
+      "ka": 1
+    },
+    "site_distribution": {
+      "Haghia Triada": 2
+    },
+    "role_distribution": {
+      "syllabogram": 37,
+      "logogram": 8,
+      "fraction": 8
+    }
+  },
+  "5 HT": {
+    "doc_count": 2,
+    "docs": [
+      "HT 99a",
+      "HT 99b"
+    ],
+    "total_sign_tokens": 19,
+    "unique_sign_types": 17,
+    "sign_freq": {
+      "AB51": 2,
+      "AB30": 2,
+      "AB08": 1,
+      "AB31": 1,
+      "AB76": 1,
+      "A303": 1,
+      "AB131a": 1,
+      "A706": 1,
+      "A578": 1,
+      "A529": 1,
+      "AB01": 1,
+      "AB41": 1,
+      "AB118": 1,
+      "AB79": 1,
+      "AB26": 1,
+      "AB80": 1,
+      "AB59": 1
+    },
+    "word_freq": {
+      "a-du-sa-ra": 1,
+      "a-du": 1,
+      "sa-ra": 1,
+      "da-si-*118-*79-du-ru-ma-ta": 1,
+      "da-si-*118": 1,
+      "*79-du": 1,
+      "ru-ma-ta": 1
+    },
+    "site_distribution": {
+      "Haghia Triada": 2
+    },
+    "role_distribution": {
+      "syllabogram": 12,
+      "logogram": 6,
+      "fraction": 1
+    }
+  },
+  "1 KH": {
+    "doc_count": 5,
+    "docs": [
+      "KH 1",
+      "KH 38",
+      "KH 5",
+      "KH 7a",
+      "KH 7b"
+    ],
+    "total_sign_tokens": 70,
+    "unique_sign_types": 39,
+    "sign_freq": {
+      "A624": 7,
+      "AB06": 4,
+      "AB41": 3,
+      "AB03": 3,
+      "AB28": 3,
+      "A571": 3,
+      "AB59": 3,
+      "AB30": 2,
+      "AB08": 2,
+      "AB01": 2,
+      "AB67": 2,
+      "AB10": 2,
+      "AB40": 2,
+      "AB31": 2,
+      "A626": 2,
+      "AB81": 2,
+      "null": 2,
+      "AB38": 2,
+      "AB09": 2,
+      "AB46": 1,
+      "A582": 1,
+      "AB77": 1,
+      "AB60": 1,
+      "AB24": 1,
+      "A598": 1,
+      "AB51": 1,
+      "A301": 1,
+      "AB79": 1,
+      "A303": 1,
+      "A641": 1,
+      "AB57": 1,
+      "AB13": 1,
+      "AB16": 1,
+      "AB37": 1,
+      "A305": 1,
+      "AB70": 1,
+      "AB69": 1,
+      "A629": 1,
+      "A627": 1
+    },
+    "word_freq": {
+      "je": 2,
+      "a-da-ki-si-ka-a-ra-u-da-wi-sa-sa-ne-wi-na-du-A301-na-ku-pa-*79": 1,
+      "a-da-ki-si-ka": 1,
+      "a-ra-u-da": 1,
+      "wi-sa-sa-ne": 1,
+      "wi-na-du": 1,
+      "A301-na": 1,
+      "ku-pa-*79": 1,
+      "i-e-na-si-i-ja-pa-me-ta-ta-qa-ti-ki-se-A305-ku-ko-e": 1,
+      "i": 1,
+      "e-na-si": 1,
+      "i-ja-pa-me": 1,
+      "ta-ta": 1,
+      "qa-ti-ki": 1,
+      "se-A305": 1,
+      "ku-ko-e": 1,
+      "u-ta-i-se-pa-na-tu": 1,
+      "u-ta-i-se": 1,
+      "pa-na-tu": 1
+    },
+    "site_distribution": {
+      "Khania": 5
+    },
+    "role_distribution": {
+      "syllabogram": 49,
+      "logogram": 21
+    }
+  },
+  "2 KH": {
+    "doc_count": 1,
+    "docs": [
+      "KH 81"
+    ],
+    "total_sign_tokens": 3,
+    "unique_sign_types": 2,
+    "sign_freq": {
+      "null": 2,
+      "A551": 1
+    },
+    "word_freq": {},
+    "site_distribution": {
+      "Khania": 1
+    },
+    "role_distribution": {
+      "syllabogram": 2,
+      "logogram": 1
+    }
+  },
+  "6 KH": {
+    "doc_count": 1,
+    "docs": [
+      "KH 88"
+    ],
+    "total_sign_tokens": 8,
+    "unique_sign_types": 8,
+    "sign_freq": {
+      "AB16": 1,
+      "AB55": 1,
+      "AB80": 1,
+      "AB21f": 1,
+      "AB118": 1,
+      "AB30": 1,
+      "AB50": 1,
+      "AB45": 1
+    },
+    "word_freq": {
+      "qa-nu-ma-qi-*118-pu-de": 1,
+      "qa-nu-ma": 1,
+      "qi-*118": 1,
+      "pu-de": 1
+    },
+    "site_distribution": {
+      "Khania": 1
+    },
+    "role_distribution": {
+      "syllabogram": 7,
+      "logogram": 1
+    }
+  },
+  "34 KH Wa": {
+    "doc_count": 1,
+    "docs": [
+      "KH Wa 1011"
+    ],
+    "total_sign_tokens": 1,
+    "unique_sign_types": 1,
+    "sign_freq": {
+      "A301": 1
+    },
+    "word_freq": {},
+    "site_distribution": {
+      "Khania": 1
+    },
+    "role_distribution": {
+      "logogram": 1
+    }
+  },
+  "4 ZA": {
+    "doc_count": 3,
+    "docs": [
+      "ZA 10a",
+      "ZA 10b",
+      "ZA 22"
+    ],
+    "total_sign_tokens": 70,
+    "unique_sign_types": 32,
+    "sign_freq": {
+      "AB08": 6,
+      "AB59": 5,
+      "AB51": 5,
+      "AB06": 4,
+      "AB04": 4,
+      "AB73": 4,
+      "AB27": 4,
+      "AB81": 3,
+      "AB17": 3,
+      "AB80": 3,
+      "AB21f": 3,
+      "AB03": 2,
+      "AB01": 2,
+      "AB10": 2,
+      "AB09": 2,
+      "AB45": 2,
+      "AB28": 1,
+      "AB39": 1,
+      "AB54": 1,
+      "A362": 1,
+      "AB131b": 1,
+      "AB49": 1,
+      "AB67": 1,
+      "AB31": 1,
+      "AB76": 1,
+      "AB02": 1,
+      "AB57": 1,
+      "AB77": 1,
+      "AB24": 1,
+      "AB21m": 1,
+      "AB60": 1,
+      "AB65": 1
+    },
+    "word_freq": {
+      "du-re-za-se": 2,
+      "ta-na-te-a-ku-mi-na-a-ta-na-te-a-mi-da-u-a-du-ku-mi-na-da-i-pi-ta-du-re-za-se": 1,
+      "ta-na-te": 1,
+      "a-ku-mi-na": 1,
+      "a-ta-na-te": 1,
+      "a-mi-da-u": 1,
+      "a-du-ku-mi-na": 1,
+      "da-i-pi-ta": 1,
+      "wa-A362-du-re-za-se-u-*49-ma-za-ma-ki-de-te-sa-ma-a-de-a-mi-ta-ra-ro-re-pa-ja-re-ka-ku-ne-te": 1,
+      "wa-A362": 1,
+      "u-*49": 1,
+      "ma-za": 1,
+      "ma-ki-de-te": 1,
+      "sa-ma": 1,
+      "a-de": 1,
+      "a-mi-ta": 1,
+      "ra-ro-re": 1,
+      "pa-ja-re": 1,
+      "ka-ku-ne-te": 1,
+      "ra-du-ju": 1,
+      "ra": 1,
+      "du-ju": 1
+    },
+    "site_distribution": {
+      "Zakros": 3
+    },
+    "role_distribution": {
+      "syllabogram": 62,
+      "logogram": 8
+    }
+  },
+  "5 ZA": {
+    "doc_count": 2,
+    "docs": [
+      "ZA 15a",
+      "ZA 15b"
+    ],
+    "total_sign_tokens": 41,
+    "unique_sign_types": 31,
+    "sign_freq": {
+      "AB31": 3,
+      "AB131a": 3,
+      "AB81": 2,
+      "AB41": 2,
+      "AB38": 2,
+      "AB73": 2,
+      "AB09": 2,
+      "AB80": 2,
+      "AB47": 1,
+      "AB06": 1,
+      "AB78": 1,
+      "AB79": 1,
+      "AB28": 1,
+      "AB37": 1,
+      "AB30": 1,
+      "A507": 1,
+      "AB17": 1,
+      "AB28b": 1,
+      "AB55": 1,
+      "AB27": 1,
+      "null": 1,
+      "AB67": 1,
+      "AB57": 1,
+      "AB23": 1,
+      "AB01": 1,
+      "A364": 1,
+      "AB44": 1,
+      "AB77": 1,
+      "AB07": 1,
+      "AB02": 1,
+      "A594": 1
+    },
+    "word_freq": {
+      "*47-ku-na-qe-si-*79-e-i-ti-ni-sa-mi-za-se-i-nu-ma-re-si-ki-ja-sa-mu-mi-da-e-A364-ke-ma-se": 1,
+      "*47-ku-na": 1,
+      "qe-si-*79-e": 1,
+      "i-ti-ni-sa": 1,
+      "mi-za-se": 1,
+      "i-nu-ma-re": 1,
+      "si-ki": 1,
+      "ja-sa-mu": 1,
+      "mi-da-e": 1,
+      "A364-ke-ma-se": 1,
+      "ka-di-ku-ro": 1,
+      "ka-di": 1,
+      "ku-ro": 1
+    },
+    "site_distribution": {
+      "Zakros": 2
+    },
+    "role_distribution": {
+      "syllabogram": 35,
+      "logogram": 6
+    }
+  },
+  "1 ZA": {
+    "doc_count": 7,
+    "docs": [
+      "ZA 18a",
+      "ZA 4a",
+      "ZA 4b",
+      "ZA 5a",
+      "ZA 5b",
+      "ZA 6a",
+      "ZA 6b"
+    ],
+    "total_sign_tokens": 101,
+    "unique_sign_types": 54,
+    "sign_freq": {
+      "AB28": 6,
+      "A574": 5,
+      "AB09": 5,
+      "AB80": 5,
+      "AB122": 4,
+      "AB38": 4,
+      "AB27": 3,
+      "AB81": 3,
+      "AB39": 3,
+      "AB57": 3,
+      "AB41": 3,
+      "AB28b": 3,
+      "AB67": 3,
+      "AB01": 2,
+      "AB37": 2,
+      "AB03": 2,
+      "AB55": 2,
+      "AB77": 2,
+      "AB30": 2,
+      "AB59": 2,
+      "AB17": 2,
+      "AB73": 2,
+      "AB65": 2,
+      "A321": 1,
+      "A618": 1,
+      "null": 1,
+      "AB05": 1,
+      "AB08": 1,
+      "AB26": 1,
+      "AB69": 1,
+      "AB13": 1,
+      "AB78": 1,
+      "AB79": 1,
+      "AB82": 1,
+      "AB07": 1,
+      "AB131": 1,
+      "AB21f": 1,
+      "AB118": 1,
+      "A593": 1,
+      "AB61": 1,
+      "AB31": 1,
+      "A305": 1,
+      "AB54": 1,
+      "AB06": 1,
+      "AB171": 1,
+      "AB34": 1,
+      "AB04": 1,
+      "AB29": 1,
+      "AB76": 1,
+      "A304": 1,
+      "A594": 1,
+      "A596": 1,
+      "A312": 1,
+      "AB66": 1
+    },
+    "word_freq": {
+      "i-nu-ma-re": 2,
+      "si-pi-ki": 2,
+      "i-se": 2,
+      "da-re-ku-ku-A321": 1,
+      "da-re-ku": 1,
+      "ku-A321": 1,
+      "pi-se-ja-to-ja-a-ti-ru-ja-pa-tu-me-se-qe-si-*79-e-i-nu-ma-re-si-pi-ki-e-*82-ka-di": 1,
+      "pi-se": 1,
+      "ja-to-ja": 1,
+      "a-ti-ru": 1,
+      "ja-pa": 1,
+      "tu-me-se": 1,
+      "qe-si-*79-e": 1,
+      "e-*82": 1,
+      "ka-di": 1,
+      "qi-*118-ki-ni-ma-o-ta-ni-za-se-sa-mi-da-e": 1,
+      "qi-*118": 1,
+      "ki-ni-ma": 1,
+      "o-ta-ni-za-se": 1,
+      "sa-mi-da-e": 1,
+      "i-nu-ma-re-si-pi-ki-ma-ka-i-ta": 1,
+      "ma-ka-i-ta": 1,
+      "A305-wa-na-*34-ju-te-mi-i-se-i-pu-ra-i-se": 1,
+      "A305-wa-na": 1,
+      "*34-ju-te-mi": 1,
+      "i": 1,
+      "pu-ra": 1,
+      "i-ku-ju-ti-i-A312-ta-pa-za-i-ma": 1,
+      "i-ku-ju-ti-i": 1,
+      "A312-ta": 1,
+      "pa-za": 1,
+      "i-ma": 1
+    },
+    "site_distribution": {
+      "Zakros": 7
+    },
+    "role_distribution": {
+      "syllabogram": 84,
+      "logogram": 17
+    }
+  },
+  "3 ZA": {
+    "doc_count": 1,
+    "docs": [
+      "ZA 20"
+    ],
+    "total_sign_tokens": 21,
+    "unique_sign_types": 15,
+    "sign_freq": {
+      "null": 3,
+      "AB09": 2,
+      "AB41": 2,
+      "AB04": 2,
+      "AB69": 2,
+      "AB51": 1,
+      "AB27": 1,
+      "AB17": 1,
+      "AB73": 1,
+      "AB123": 1,
+      "AB26": 1,
+      "AB80": 1,
+      "AB59": 1,
+      "AB81": 1,
+      "AB60": 1
+    },
+    "word_freq": {
+      "du-re-za-se-mi-si-te-tu-si-tu-te-*123-ru-ma-ta-se-ku-ra": 1,
+      "du-re-za-se": 1,
+      "mi": 1,
+      "si-te-tu": 1,
+      "si-tu": 1,
+      "te-*123": 1,
+      "ru-ma-ta-se": 1,
+      "ku-ra": 1
+    },
+    "site_distribution": {
+      "Zakros": 1
+    },
+    "role_distribution": {
+      "syllabogram": 21
+    }
+  },
+  "2 ZA": {
+    "doc_count": 1,
+    "docs": [
+      "ZA 8"
+    ],
+    "total_sign_tokens": 30,
+    "unique_sign_types": 19,
+    "sign_freq": {
+      "AB59": 4,
+      "AB28": 4,
+      "AB08": 2,
+      "AB27": 2,
+      "AB30": 2,
+      "AB80": 2,
+      "AB77": 2,
+      "AB67": 1,
+      "AB60": 1,
+      "AB81": 1,
+      "AB69": 1,
+      "AB70": 1,
+      "AB53": 1,
+      "AB55": 1,
+      "AB03": 1,
+      "AB09": 1,
+      "AB01": 1,
+      "AB39": 1,
+      "AB02": 1
+    },
+    "word_freq": {
+      "ki-ra-a-ta-re-ku-tu-ko-re-a-ri-ni-ta-ta-i-nu-ma-pa-ma-ka-i-se-da-i-pi-ta-ka-i-ro": 1,
+      "ki-ra": 1,
+      "a-ta-re": 1,
+      "ku-tu-ko-re": 1,
+      "a-ri-ni-ta": 1,
+      "ta-i-nu-ma-pa": 1,
+      "ma-ka-i-se": 1,
+      "da-i-pi-ta": 1,
+      "ka-i-ro": 1
+    },
+    "site_distribution": {
+      "Zakros": 1
+    },
+    "role_distribution": {
+      "syllabogram": 29,
+      "logogram": 1
+    }
+  },
+  "_compound": {
+    "1 ARKH (?)": {
+      "doc_count": 2,
+      "docs": [
+        "ARKH 3a",
+        "ARKH 3b"
+      ],
+      "total_sign_tokens": 21
+    },
+    "5 HT (?)": {
+      "doc_count": 1,
+      "docs": [
+        "HT 144"
+      ],
+      "total_sign_tokens": 3
+    },
+    "9 HT (?)": {
+      "doc_count": 1,
+      "docs": [
+        "HT 146"
+      ],
+      "total_sign_tokens": 7
+    },
+    "1 HT (?)": {
+      "doc_count": 1,
+      "docs": [
+        "HT 5"
+      ],
+      "total_sign_tokens": 7
+    },
+    "17 HT (a,b,1-3); 18 HT (b,4-6)": {
+      "doc_count": 2,
+      "docs": [
+        "HT 6a",
+        "HT 6b"
+      ],
+      "total_sign_tokens": 57
+    },
+    "103 HT (?)": {
+      "doc_count": 1,
+      "docs": [
+        "HT Zb 160"
+      ],
+      "total_sign_tokens": 6
+    },
+    "1 PS Za; 2 PS Za; 2 PS Za": {
+      "doc_count": 1,
+      "docs": [
+        "PS Za 2"
+      ],
+      "total_sign_tokens": 16
+    },
+    "2 ZA (?)": {
+      "doc_count": 3,
+      "docs": [
+        "ZA 11a",
+        "ZA 11b",
+        "ZA 28"
+      ],
+      "total_sign_tokens": 40
+    },
+    "3 ZA (?)": {
+      "doc_count": 2,
+      "docs": [
+        "ZA 13",
+        "ZA 27"
+      ],
+      "total_sign_tokens": 7
+    },
+    "1 ZA (?)": {
+      "doc_count": 5,
+      "docs": [
+        "ZA 19",
+        "ZA 21a",
+        "ZA 21b",
+        "ZA 24a",
+        "ZA 24b"
+      ],
+      "total_sign_tokens": 30
+    }
+  }
+}

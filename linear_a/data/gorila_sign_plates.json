@@ -1,0 +1,382 @@
+{
+  "metadata": {
+    "project": "GORILA Sign Plate Data Extraction",
+    "source": "Godart & Olivier, GORILA Vol. 5 (1985), Études Crétoises 21",
+    "extraction_date": "2026-04-04",
+    "extraction_status": "structural_metadata_complete_data_partial",
+    "notes": "Vol 5 contains three sign-related data sections: (1) Tableau des signes standardisés (standardized sign table), (2) Tableau des variantes des signes (sign variant atlas), and (3) Index des signes (sign index/concordance). The actual 'Planches des signes' fold-out plates were printed on microfiches (1)-(3), not in the bound volume. Sign variant data and sign index data extracted from available page images."
+  },
+  "sections": {
+    "tableau_signes_standardises": {
+      "title": "Tableau des signes standardisés",
+      "description": "Master reference grid showing the standardized (canonical) form of each Linear A sign, organized by GORILA numbering system. Simple signs (AB series) come first, followed by complex/ligature signs (A series), then fractions.",
+      "vol5_file_pages": {"start": 23, "end": 24},
+      "printed_pages": "XXIII-XXIV (Roman numerals, prelim section)",
+      "organization": {
+        "section_1": "Signes simples (Simple signs) - AB 01 through AB 188+",
+        "section_2": "Signes complexes (Complex/ligature signs) - A 301 through A 700+",
+        "section_3": "Fractions",
+        "section_4": "Signes de ponctuation (Punctuation marks)"
+      },
+      "grid_format": "Each cell contains: sign drawing (canonical form), GORILA number below. Some cells note Linear B equivalents in parentheses.",
+      "sample_signs_from_page_23": [
+        {"number": "301", "type": "simple_A"},
+        {"number": "302", "type": "simple_A"},
+        {"number": "303", "type": "simple_A", "note": "Linéaire B ref"},
+        {"number": "304", "type": "simple_A"},
+        {"number": "305", "type": "simple_A"},
+        {"number": "306", "type": "simple_A", "note": "Linéaire B ref"},
+        {"number": "307", "type": "simple_A"},
+        {"number": "308", "type": "simple_A"},
+        {"number": "309", "type": "simple_A"},
+        {"number": "310", "type": "simple_A"},
+        {"number": "311", "type": "simple_A"},
+        {"number": "312", "type": "simple_A"},
+        {"number": "313", "type": "simple_A"},
+        {"number": "314", "type": "simple_A"},
+        {"number": "315", "type": "simple_A"},
+        {"number": "316", "type": "simple_A"},
+        {"number": "317", "type": "simple_A"},
+        {"number": "318", "type": "simple_A"},
+        {"number": "319", "type": "simple_A"},
+        {"number": "320", "type": "simple_A"},
+        {"number": "321", "type": "simple_A"},
+        {"number": "322", "type": "simple_A"},
+        {"number": "323", "type": "simple_A"},
+        {"number": "324", "type": "simple_A"},
+        {"number": "325", "type": "simple_A"},
+        {"number": "326", "type": "simple_A"},
+        {"number": "327", "type": "simple_A"},
+        {"number": "328", "type": "simple_A"},
+        {"number": "329", "type": "simple_A"},
+        {"number": "330", "type": "simple_A", "note": "(class fracf)"},
+        {"number": "336", "type": "simple_A"},
+        {"number": "337", "type": "simple_A"}
+      ],
+      "extraction_notes": "Full sign grid requires vision extraction. Each page contains ~80-100 sign cells in a dense grid format."
+    },
+    "tableau_variantes_des_signes": {
+      "title": "Tableau des variantes des signes",
+      "description": "Paleographic atlas showing all attested variant forms of each sign across all inscriptions. Each sign entry shows multiple hand-drawn variant forms with the inscription reference below each variant. This is the GORILA equivalent of what SigLA covers digitally.",
+      "vol5_file_pages": {"start": 25, "end": 52},
+      "printed_pages": "XXV-LII",
+      "total_pages": 28,
+      "format": "Each sign gets a bordered section with: sign number (AB XX or A XXX) centered at top, multiple hand-drawn variant forms arranged in rows, inscription reference below each variant (e.g., HT 5.3, KH 37.1). Signs in parentheses indicate uncertain readings.",
+      "sign_variants_extracted": [
+        {
+          "sign_id": "AB 10",
+          "attestations": [
+            "HT 122a.4", "ZA 4a.3",
+            "KN Zb 40.2", "PK Za 18c", "HT 46.2", "MA 2+.1"
+          ],
+          "inscription_sites": ["HT", "ZA", "KN", "PK", "MA"],
+          "source_file_page": 30
+        },
+        {
+          "sign_id": "AB 11",
+          "attestations": [
+            "SY Za.21", "AP Za.2", "PH 7a.2", "HT 40a.3a", "HT 94a.5", "HT 40b.1", "HT 28b.1",
+            "HT 115a.5", "HT 46.4", "KH 9.1", "KN 22.6"
+          ],
+          "source_file_page": 30
+        },
+        {
+          "sign_id": "AB 13",
+          "attestations": [
+            "TL Za.6b", "IO Zk 10", "KH 7r.3", "HT 120.1", "PK Za 11", "ZA 4a.1",
+            "HT 54b.1", "HT 95b.1", "PS Za 2.1", "IO Za.6", "PK Za 11", "KH 35.1"
+          ],
+          "source_file_page": 30
+        },
+        {
+          "sign_id": "AB 16",
+          "attestations": [
+            "HT 33a.4", "HT We 1019b", "HT 11c.2", "HT 8b.3", "AP Za 4.2", "TL Za.3",
+            "KN Wb 33a", "KO Zf 1", "KN Zf 26"
+          ],
+          "source_file_page": 30
+        },
+        {
+          "sign_id": "AB 17",
+          "attestations": [
+            "HT 10a.a", "KN Zf 31", "KH 14.1", "HT 43.1", "PK 4.2", "ZA 6.6.4", "ZA 4a.3"
+          ],
+          "source_file_page": 30
+        },
+        {
+          "sign_id": "AB 40",
+          "attestations": ["HT 5.3", "HT 25a.4", "ZA 14.4", "MA 1a", "KH 37.1"],
+          "source_file_page": 35
+        },
+        {
+          "sign_id": "AB 41",
+          "attestations": [
+            "HT Wa 1199", "HT 4.3", "HT 5.2", "KH 9.1", "HT 28b.1", "ARKH 2.1", "ZA 2Ga.1",
+            "KN Zb 4", "THE Zb 5", "KN Za 25",
+            "(KN Zg 9.1)"
+          ],
+          "note": "Parentheses indicate uncertain reading for KN Zg 9.1",
+          "source_file_page": 35
+        },
+        {
+          "sign_id": "AB 44",
+          "attestations": [
+            "HT 1.3", "HT 85a.5", "HT 87.2", "PS Za 2.1", "KN Za 19.1", "ZA 15a.7"
+          ],
+          "source_file_page": 35
+        },
+        {
+          "sign_id": "AB 45",
+          "attestations": [
+            "CR C(?) Zf 1", "ZA 10b.3", "HT 9a.2", "HT 13.1", "KN Zf 31", "HT 86a.3", "ARKH 4a.3",
+            "MA 1a"
+          ],
+          "source_file_page": 35
+        },
+        {
+          "sign_id": "AB 46",
+          "attestations": ["HT 8a.1", "KN 22a.2"],
+          "source_file_page": 35
+        },
+        {
+          "sign_id": "AB 74",
+          "attestations": [
+            "HT Wa 1286", "HT Wa 1302", "HT Wa 1283", "HT Wa 1311", "HT Wa 1291", "(KH 43.1)",
+            "HT Wa 1296", "HT Wa 1295", "HT 76.4"
+          ],
+          "source_file_page": 40
+        },
+        {
+          "sign_id": "AB 76",
+          "attestations": ["HT 1.1", "HT 90.1"],
+          "source_file_page": 40
+        },
+        {
+          "sign_id": "AB 77",
+          "attestations": [
+            "HT Wc 3005a", "MA Wc(5)a.2", "KE 1.1", "IO Za.6", "HT 10b.3", "HT Wa 1328",
+            "HT Wa 1451"
+          ],
+          "source_file_page": 40
+        },
+        {
+          "sign_id": "AB 78",
+          "attestations": ["HT 9a.3", "HT 1.1", "ZA 4.5", "ZA 14.4", "MA 1a", "HT 111a.2", "ZA 15a.2"],
+          "source_file_page": 40
+        },
+        {
+          "sign_id": "AB 79",
+          "attestations": ["KH 5.3", "HT 2Gb.3", "KN Zc 6.3", "HT 1.2", "ARKH 2.3", "ZA 4a.5", "HT 97a.5"],
+          "source_file_page": 40
+        },
+        {
+          "sign_id": "AB 164d",
+          "attestations": ["KH Wc 2039"],
+          "source_file_page": 45
+        },
+        {
+          "sign_id": "AB 171",
+          "attestations": ["ZA 6a.1"],
+          "source_file_page": 45
+        },
+        {
+          "sign_id": "AB 180",
+          "attestations": ["PH 13a", "MA 4", "PH 15b", "(MA 6a)", "(MA 4a)", "MA Wc 7"],
+          "note": "Parentheses indicate uncertain readings",
+          "source_file_page": 45
+        },
+        {
+          "sign_id": "AB 188",
+          "attestations": ["HT 56a.1", "(KH Wc 2059)"],
+          "source_file_page": 45
+        },
+        {
+          "sign_id": "AB 191",
+          "attestations": ["KH Wc 2028"],
+          "source_file_page": 45
+        },
+        {
+          "sign_id": "A 301",
+          "attestations": ["HT Wa 1669", "HT Wa 1638", "HT 98a.3", "HT Wa 1755", "HT Wa 1834", "AP Za.1"],
+          "source_file_page": 45,
+          "note": "First A-series sign (transition from AB to A series)"
+        },
+        {
+          "sign_id": "A 341",
+          "grid_reference": "(HT 33.4)",
+          "source_file_page": 50
+        },
+        {
+          "sign_id": "A 342",
+          "grid_reference": "HT 43.2",
+          "source_file_page": 50
+        },
+        {
+          "sign_id": "A 343",
+          "grid_reference": "HT 93a.7",
+          "source_file_page": 50
+        },
+        {
+          "sign_id": "A 344",
+          "grid_reference": "HT 96a.4",
+          "source_file_page": 50
+        },
+        {
+          "sign_id": "A 345",
+          "grid_reference": "HT 119.4",
+          "source_file_page": 50
+        },
+        {
+          "sign_id": "A 346",
+          "grid_reference": "HT 122b.1",
+          "source_file_page": 50
+        },
+        {
+          "sign_id": "A 347",
+          "grid_reference": "KH 6.3",
+          "source_file_page": 50
+        },
+        {
+          "sign_id": "A 348",
+          "grid_reference": "(KH 11.3)",
+          "source_file_page": 50
+        },
+        {
+          "sign_id": "A 349",
+          "grid_reference": "KH 11.4",
+          "source_file_page": 50
+        },
+        {
+          "sign_id": "A 350",
+          "grid_reference": "KH 11.5",
+          "source_file_page": 50
+        },
+        {
+          "sign_id": "A 351",
+          "grid_reference": "(KH Wc 2065)",
+          "source_file_page": 50
+        },
+        {
+          "sign_id": "A 352",
+          "grid_reference": "KH Wc 2100",
+          "source_file_page": 50
+        },
+        {
+          "sign_id": "A 353",
+          "grid_reference": "PH 9a",
+          "source_file_page": 50
+        },
+        {
+          "sign_id": "A 354",
+          "grid_reference": "PH 10",
+          "source_file_page": 50
+        },
+        {
+          "sign_id": "A 355",
+          "grid_reference": "PH 10",
+          "source_file_page": 50
+        },
+        {
+          "sign_id": "A 356",
+          "grid_reference": "PH 13b",
+          "source_file_page": 50
+        },
+        {
+          "sign_id": "A 357",
+          "grid_reference": "PH 15b",
+          "source_file_page": 50
+        },
+        {
+          "sign_id": "A 358",
+          "grid_reference": "PH 16a",
+          "source_file_page": 50
+        }
+      ],
+      "extraction_notes": "28 pages of sign variant data. Each page contains 3-8 sign entries with 2-15+ variants each. Full extraction requires systematic vision processing of all variant pages. Sample data above covers ~20 signs from pages 30, 35, 40, 45, 50."
+    },
+    "index_des_signes": {
+      "title": "Index des signes",
+      "description": "Comprehensive index of all sign sequences (sign groups/words) in which each sign appears, with numeric transliteration codes and inscription references. This is the core analytical tool for studying sign distribution and co-occurrence patterns.",
+      "vol5_file_pages": {"start": 187, "end": 378},
+      "printed_pages": "135-326",
+      "total_pages": 192,
+      "format": {
+        "description": "Each sign gets a section headed by its drawn form and GORILA number. Below are all sign sequences containing that sign, shown as: (1) drawn sign group on left, (2) numeric transliteration in center using GORILA numbers separated by hyphens, (3) inscription reference on right.",
+        "example_entry": "For sign 03: drawn sequence of signs | 01-08-03 | ZA 16.4² 21a.6³",
+        "columns": [
+          {"id": "sign_sequence_drawn", "description": "Hand-drawn sign sequence containing the target sign"},
+          {"id": "function_class", "description": "Function classification letter (F, G, H, etc.) when applicable"},
+          {"id": "numeric_transliteration", "description": "Numeric code sequence using GORILA numbers (e.g., 01-08-03)"},
+          {"id": "inscription_references", "description": "Inscription IDs with volume superscripts (e.g., HT 38.2¹, ZA 4a.3⁴)"}
+        ]
+      },
+      "sample_entries_sign_03": [
+        {
+          "sign_id": "03",
+          "sign_sequences": [
+            {"numeric": "J 03", "inscriptions": ["ZA 16.4³", "21a.6³"]},
+            {"numeric": "01-08-03", "function": "G", "inscriptions": ["HT 38.2¹"]},
+            {"numeric": "J 69-12-03", "inscriptions": ["*HT 154A.1¹"]},
+            {"numeric": "67-03", "inscriptions": ["ZA 4a.3⁴"]},
+            {"numeric": "77-03", "inscriptions": ["HT 104.1¹"]},
+            {"numeric": "77-03 L", "inscriptions": ["HT 6a.1¹", "8b.4¹", "944.2¹", "102.1¹", "140.5¹"]},
+            {"numeric": "77-03 L", "inscriptions": ["HT 105.1¹"]},
+            {"numeric": "59-88-55-80-03", "inscriptions": ["ZA 8.3⁴"]},
+            {"numeric": "81-03", "inscriptions": ["HT 110a.2¹"]},
+            {"numeric": "81-03 J", "inscriptions": ["KH 29.2³"]},
+            {"numeric": "J 10-07-63-03 L", "inscriptions": ["PH 7a.2¹"]},
+            {"numeric": "67-03", "inscriptions": ["ZA 26a.2³"]}
+          ]
+        }
+      ],
+      "sample_entries_sign_67": [
+        {
+          "sign_id": "67",
+          "note": "Page 248 (printed page 67) shows extensive entries for this sign",
+          "partial_sequences": [
+            {"numeric": "08-41-67 -80", "inscriptions": ["KH 20.2³"]},
+            {"numeric": "08-201-67 -89-08", "inscriptions": ["TY Zb 4⁴"]},
+            {"numeric": "08-07+01-67 -37-03-81", "inscriptions": ["KN Zc 6.2⁴"]},
+            {"numeric": "01-67", "function": "G", "inscriptions": ["HT 6b.5¹"]},
+            {"numeric": "04-67", "inscriptions": ["HT 13.3¹", "122a.5¹"]},
+            {"numeric": "J 07-67", "inscriptions": ["ZA 27.2³"]},
+            {"numeric": "J 10-67 L", "inscriptions": ["HT 58.4¹"]},
+            {"numeric": "08-88-67 L", "inscriptions": ["HT 49b.2¹"]}
+          ]
+        }
+      ],
+      "extraction_notes": "192 pages of dense sign index data. This is the single largest data section in all of GORILA. Each page contains entries for 1-3 signs with 10-50+ sign sequences each. Full extraction would yield thousands of sign sequence entries with inscription cross-references. This data is critical for computational analysis of Linear A sign distribution and would complement the lineara.xyz corpus data. Requires systematic OCR/vision processing."
+    },
+    "planches_des_signes_microfiches": {
+      "title": "Planches des signes (Microfiches)",
+      "description": "The actual sign plates were published as 3 microfiches, NOT as pages in the bound volume. Pages 379-380 in the book contain only introductory text explaining the microfiche organization.",
+      "vol5_file_pages": {"start": 379, "end": 380},
+      "printed_pages": "327-328",
+      "microfiche_contents": {
+        "microfiche_1": {"plates": "1-132", "signs": "AB 01 - AB 56"},
+        "microfiche_2": {"plates": "133-224", "signs": "AB 57 - A 304"},
+        "microfiche_3": {"plates": "225-281", "signs": "A 305 - Signes de ponctuation"}
+      },
+      "organization_notes": "Signs are recorded in the order and numbering from the Tableau des signes standardisés (pages XXII-XXVII). For documents at 1:1 scale, sign plates were produced from the facsimiles. For other documents, scale indication is noted. Signs are ordered: by sign number first, then alphabetically by site for tablets (Wa-Wc, Za-Zg). Attestations listed below each sign variant show inscription provenance.",
+      "availability": "Microfiches are separate physical media and are NOT included in the CEFAEL digital scans. Access to original microfiches would be required for full extraction."
+    }
+  },
+  "sign_numbering_system": {
+    "description": "GORILA uses a dual numbering system for Linear A signs",
+    "AB_series": {
+      "range": "AB 01 - AB 191+",
+      "description": "Signs shared with Linear B (AB = A and B). These are the syllabographic signs with known or suspected phonetic values from Linear B decipherment.",
+      "examples": ["AB 01 (da)", "AB 04 (te)", "AB 05 (to)", "AB 06 (na)", "AB 07 (di)", "AB 08 (a)", "AB 10 (u)"]
+    },
+    "A_series": {
+      "range": "A 301 - A 900+",
+      "description": "Signs unique to Linear A (not found in Linear B). These include logograms, complex signs, ligatures, and signs of unknown function.",
+      "examples": ["A 301", "A 304", "A 305", "A 306", "A 307"]
+    },
+    "B_series": {
+      "range": "B 140+",
+      "description": "Signs found only in Linear B but referenced in GORILA for comparison purposes.",
+      "note": "Used sparingly in cross-reference notes"
+    }
+  }
+}

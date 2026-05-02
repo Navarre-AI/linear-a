@@ -1,0 +1,1167 @@
+{
+  "metadata": {
+    "title": "GORILA Index des Signes (Sign Index) — Schema, Map, and Batch Plan",
+    "source": "Godart & Olivier, GORILA Vol. 5 (1985), Études Crétoises 21, pp. 135-326",
+    "source_pages_file": "Vol 5 file pages 187-378",
+    "source_pages_printed": "Vol 5 printed pages 135-326",
+    "description": "The Index des Signes is the most valuable structured data in GORILA: every attestation of every Linear A sign across the entire corpus, cross-referenced by neighbor context and inscription location. Each page is devoted to one sign (or several rare variants). Rows show the sign in context with its neighbors (as numeric sign references with the target sign underlined), the functional category classifier (rubrique A-J from the intro methodology), and the specific inscription reference (site + inscription number + position).",
+    "extraction_date": "2026-04-04",
+    "extraction_strategy": "Vision sampling was used to (1) confirm the schema, (2) build the sign-to-file-page map, and (3) extract golden-data examples for AB 01 to serve as ground truth. Full row-by-row extraction of all ~192 pages (estimated 4,000-6,000 rows, many containing handwritten Linear A glyphs in the leftmost column) is delegated to Claude Code's batch OCR pipeline. This file provides the schema and metadata the batch pipeline needs to validate its output.",
+    "estimated_total_rows": "4000-6000",
+    "confirmed_pages_sampled": [
+      194,
+      195,
+      196,
+      198,
+      200,
+      205,
+      210,
+      215,
+      220,
+      230,
+      240,
+      250,
+      260,
+      270,
+      290,
+      300,
+      310,
+      320,
+      330,
+      350,
+      370,
+      378
+    ],
+    "sign_ranges": {
+      "confirmed": 20,
+      "inferred": 77,
+      "total_entries": 98
+    },
+    "schema": {
+      "row_columns": {
+        "1_context_glyphs": "Leftmost column: the target sign shown in context with its Linear A neighbors, drawn as handwritten glyphs. Brackets indicate damaged/reconstructed signs.",
+        "2_catalog_number": "Optional: 'A 5xx/6xx/7xx' catalog number for rare sign combinations (appears only for entries at bottom of page).",
+        "3_classifier": "Optional single letter (A-J) indicating functional category rubrique from the methodology introduction. 'PHAISTOS' label appears for certain signs tied to specific find contexts.",
+        "4_numeric_sequence": "Numeric context sequence showing neighbors as sign numbers (e.g., '08-01-67'). The target sign number is UNDERLINED in the original. Format markers: [ ] = bracket/damaged, ( ) = parenthesized/uncertain, ... = ellipsis/gap, * = starred/noteworthy, ' ' = quoted/alternate reading.",
+        "5_inscription_reference": "Rightmost column: specific inscription citation in format 'SITE INSCRIPTION.POSITION' with superscript for line number. Examples: 'HT 6a.6¹', 'PK Za 9.2⁴', 'KH Wa 1001γ³'."
+      },
+      "classifier_rubriques": {
+        "A": "Signes isolés (isolated signs) — base category, with sub-rubriques B-J",
+        "B": "Sub-rubrique of A",
+        "C": "Sub-rubrique of A",
+        "D": "Sub-rubrique of A",
+        "E": "Sub-rubrique of A (word-initial?)",
+        "F": "Sub-rubrique of A",
+        "G": "Sub-rubrique of A (word-medial?)",
+        "H": "Sub-rubrique of A (catalog/rare combinations)",
+        "J": "Sub-rubrique of A",
+        "notes": "Exact semantics of each rubrique are described in the methodology introduction (Vol 5 pages 187-193). Rubriques A-J appear to encode sign position within word/inscription, sign isolation status, and attestation certainty."
+      },
+      "page_header": "Top of each page shows: the target sign as a Linear A glyph (top-left) and the sign's catalog number in large type (top-right). This header is how the sign-to-page map was built.",
+      "page_footer": "Printed page number appears at bottom-left (even pages) or bottom-right (odd pages). Printed pages run 135-326, which corresponds to file pages 187-378 (offset of ~52)."
+    },
+    "site_abbreviations_reference": "Same as gorila_concordances.json and gorila_sign_variants.json. Key sites: HT=Hagia Triada, KH=Khania, ZA=Zakros, PH=Phaistos, KN=Knossos, ARKH=Arkhanes, IO=Iouktas, PK=Palaikastro, MA=Malia, TY=Tylissos, AP=Apodoulou, SY=Symi, KE=Kea, SI=Sitia, etc."
+  },
+  "sign_to_page_map": [
+    {
+      "sign_id": "AB 01",
+      "start_file_page": 194,
+      "end_file_page": 195,
+      "confidence": "confirmed",
+      "notes": "~2 pages, dense"
+    },
+    {
+      "sign_id": "AB 02",
+      "start_file_page": 196,
+      "end_file_page": 197,
+      "confidence": "confirmed",
+      "notes": "1-2 pages"
+    },
+    {
+      "sign_id": "AB 03",
+      "start_file_page": 198,
+      "end_file_page": 200,
+      "confidence": "confirmed",
+      "notes": "spans pages 198-200"
+    },
+    {
+      "sign_id": "AB 04",
+      "start_file_page": 201,
+      "end_file_page": 202,
+      "confidence": "inferred",
+      "notes": ""
+    },
+    {
+      "sign_id": "AB 05",
+      "start_file_page": 203,
+      "end_file_page": 204,
+      "confidence": "inferred",
+      "notes": ""
+    },
+    {
+      "sign_id": "AB 06",
+      "start_file_page": 205,
+      "end_file_page": 206,
+      "confidence": "confirmed",
+      "notes": ""
+    },
+    {
+      "sign_id": "AB 07",
+      "start_file_page": 207,
+      "end_file_page": 210,
+      "confidence": "confirmed",
+      "notes": "multi-page, dense"
+    },
+    {
+      "sign_id": "AB 08",
+      "start_file_page": 211,
+      "end_file_page": 215,
+      "confidence": "confirmed",
+      "notes": "multi-page, dense"
+    },
+    {
+      "sign_id": "AB 09",
+      "start_file_page": 216,
+      "end_file_page": 218,
+      "confidence": "inferred",
+      "notes": ""
+    },
+    {
+      "sign_id": "AB 10",
+      "start_file_page": 219,
+      "end_file_page": 220,
+      "confidence": "confirmed",
+      "notes": ""
+    },
+    {
+      "sign_id": "AB 11",
+      "start_file_page": 221,
+      "end_file_page": 222,
+      "confidence": "inferred",
+      "notes": ""
+    },
+    {
+      "sign_id": "AB 13",
+      "start_file_page": 223,
+      "end_file_page": 225,
+      "confidence": "inferred",
+      "notes": ""
+    },
+    {
+      "sign_id": "AB 16",
+      "start_file_page": 226,
+      "end_file_page": 227,
+      "confidence": "inferred",
+      "notes": ""
+    },
+    {
+      "sign_id": "AB 17",
+      "start_file_page": 228,
+      "end_file_page": 229,
+      "confidence": "inferred",
+      "notes": ""
+    },
+    {
+      "sign_id": "AB 20",
+      "start_file_page": 230,
+      "end_file_page": 230,
+      "confidence": "partial",
+      "notes": "with 22f, 22m sparse on same page"
+    },
+    {
+      "sign_id": "AB 21",
+      "start_file_page": 230,
+      "end_file_page": 231,
+      "confidence": "inferred",
+      "notes": ""
+    },
+    {
+      "sign_id": "AB 22 / 22f / 22m",
+      "start_file_page": 230,
+      "end_file_page": 230,
+      "confidence": "confirmed",
+      "notes": "All three rare variants on single sparse page"
+    },
+    {
+      "sign_id": "AB 23",
+      "start_file_page": 231,
+      "end_file_page": 232,
+      "confidence": "inferred",
+      "notes": ""
+    },
+    {
+      "sign_id": "AB 24",
+      "start_file_page": 233,
+      "end_file_page": 234,
+      "confidence": "inferred",
+      "notes": ""
+    },
+    {
+      "sign_id": "AB 26",
+      "start_file_page": 235,
+      "end_file_page": 236,
+      "confidence": "inferred",
+      "notes": ""
+    },
+    {
+      "sign_id": "AB 27",
+      "start_file_page": 237,
+      "end_file_page": 238,
+      "confidence": "inferred",
+      "notes": ""
+    },
+    {
+      "sign_id": "AB 28",
+      "start_file_page": 239,
+      "end_file_page": 243,
+      "confidence": "confirmed",
+      "notes": "'I' sign — one of the most common, multi-page dense block"
+    },
+    {
+      "sign_id": "AB 29",
+      "start_file_page": 244,
+      "end_file_page": 244,
+      "confidence": "inferred",
+      "notes": ""
+    },
+    {
+      "sign_id": "AB 30",
+      "start_file_page": 245,
+      "end_file_page": 246,
+      "confidence": "inferred",
+      "notes": ""
+    },
+    {
+      "sign_id": "AB 31",
+      "start_file_page": 247,
+      "end_file_page": 250,
+      "confidence": "confirmed",
+      "notes": ""
+    },
+    {
+      "sign_id": "AB 34",
+      "start_file_page": 251,
+      "end_file_page": 251,
+      "confidence": "inferred",
+      "notes": ""
+    },
+    {
+      "sign_id": "AB 37",
+      "start_file_page": 252,
+      "end_file_page": 253,
+      "confidence": "inferred",
+      "notes": ""
+    },
+    {
+      "sign_id": "AB 38",
+      "start_file_page": 254,
+      "end_file_page": 255,
+      "confidence": "inferred",
+      "notes": ""
+    },
+    {
+      "sign_id": "AB 39",
+      "start_file_page": 256,
+      "end_file_page": 257,
+      "confidence": "inferred",
+      "notes": ""
+    },
+    {
+      "sign_id": "AB 40",
+      "start_file_page": 258,
+      "end_file_page": 258,
+      "confidence": "inferred",
+      "notes": ""
+    },
+    {
+      "sign_id": "AB 41",
+      "start_file_page": 259,
+      "end_file_page": 260,
+      "confidence": "confirmed",
+      "notes": ""
+    },
+    {
+      "sign_id": "AB 44",
+      "start_file_page": 261,
+      "end_file_page": 262,
+      "confidence": "inferred",
+      "notes": ""
+    },
+    {
+      "sign_id": "AB 45",
+      "start_file_page": 263,
+      "end_file_page": 264,
+      "confidence": "inferred",
+      "notes": ""
+    },
+    {
+      "sign_id": "AB 46",
+      "start_file_page": 265,
+      "end_file_page": 265,
+      "confidence": "inferred",
+      "notes": ""
+    },
+    {
+      "sign_id": "AB 47",
+      "start_file_page": 266,
+      "end_file_page": 266,
+      "confidence": "inferred",
+      "notes": ""
+    },
+    {
+      "sign_id": "AB 49",
+      "start_file_page": 267,
+      "end_file_page": 267,
+      "confidence": "inferred",
+      "notes": ""
+    },
+    {
+      "sign_id": "AB 50",
+      "start_file_page": 268,
+      "end_file_page": 269,
+      "confidence": "inferred",
+      "notes": ""
+    },
+    {
+      "sign_id": "AB 51",
+      "start_file_page": 270,
+      "end_file_page": 270,
+      "confidence": "confirmed",
+      "notes": ""
+    },
+    {
+      "sign_id": "AB 53",
+      "start_file_page": 271,
+      "end_file_page": 273,
+      "confidence": "inferred",
+      "notes": ""
+    },
+    {
+      "sign_id": "AB 54",
+      "start_file_page": 274,
+      "end_file_page": 275,
+      "confidence": "inferred",
+      "notes": ""
+    },
+    {
+      "sign_id": "AB 55",
+      "start_file_page": 276,
+      "end_file_page": 276,
+      "confidence": "inferred",
+      "notes": ""
+    },
+    {
+      "sign_id": "AB 56",
+      "start_file_page": 277,
+      "end_file_page": 277,
+      "confidence": "inferred",
+      "notes": ""
+    },
+    {
+      "sign_id": "AB 57",
+      "start_file_page": 278,
+      "end_file_page": 278,
+      "confidence": "inferred",
+      "notes": ""
+    },
+    {
+      "sign_id": "AB 58",
+      "start_file_page": 279,
+      "end_file_page": 280,
+      "confidence": "inferred",
+      "notes": ""
+    },
+    {
+      "sign_id": "AB 59",
+      "start_file_page": 281,
+      "end_file_page": 290,
+      "confidence": "confirmed",
+      "notes": "ends at 290"
+    },
+    {
+      "sign_id": "AB 60",
+      "start_file_page": 291,
+      "end_file_page": 293,
+      "confidence": "inferred",
+      "notes": ""
+    },
+    {
+      "sign_id": "AB 61",
+      "start_file_page": 294,
+      "end_file_page": 296,
+      "confidence": "inferred",
+      "notes": ""
+    },
+    {
+      "sign_id": "AB 65",
+      "start_file_page": 297,
+      "end_file_page": 298,
+      "confidence": "inferred",
+      "notes": ""
+    },
+    {
+      "sign_id": "AB 66",
+      "start_file_page": 299,
+      "end_file_page": 299,
+      "confidence": "inferred",
+      "notes": ""
+    },
+    {
+      "sign_id": "AB 67",
+      "start_file_page": 300,
+      "end_file_page": 300,
+      "confidence": "confirmed",
+      "notes": ""
+    },
+    {
+      "sign_id": "AB 69",
+      "start_file_page": 301,
+      "end_file_page": 302,
+      "confidence": "inferred",
+      "notes": ""
+    },
+    {
+      "sign_id": "AB 70",
+      "start_file_page": 303,
+      "end_file_page": 304,
+      "confidence": "inferred",
+      "notes": ""
+    },
+    {
+      "sign_id": "AB 73",
+      "start_file_page": 305,
+      "end_file_page": 306,
+      "confidence": "inferred",
+      "notes": ""
+    },
+    {
+      "sign_id": "AB 74",
+      "start_file_page": 307,
+      "end_file_page": 307,
+      "confidence": "inferred",
+      "notes": ""
+    },
+    {
+      "sign_id": "AB 76",
+      "start_file_page": 308,
+      "end_file_page": 308,
+      "confidence": "inferred",
+      "notes": ""
+    },
+    {
+      "sign_id": "AB 77",
+      "start_file_page": 309,
+      "end_file_page": 310,
+      "confidence": "confirmed",
+      "notes": ""
+    },
+    {
+      "sign_id": "AB 78",
+      "start_file_page": 311,
+      "end_file_page": 312,
+      "confidence": "inferred",
+      "notes": ""
+    },
+    {
+      "sign_id": "AB 79",
+      "start_file_page": 313,
+      "end_file_page": 314,
+      "confidence": "inferred",
+      "notes": ""
+    },
+    {
+      "sign_id": "AB 80",
+      "start_file_page": 315,
+      "end_file_page": 317,
+      "confidence": "inferred",
+      "notes": "likely multi-page, AB 80 was most variant-rich"
+    },
+    {
+      "sign_id": "AB 81",
+      "start_file_page": 318,
+      "end_file_page": 320,
+      "confidence": "confirmed",
+      "notes": ""
+    },
+    {
+      "sign_id": "AB 82",
+      "start_file_page": 321,
+      "end_file_page": 321,
+      "confidence": "inferred",
+      "notes": ""
+    },
+    {
+      "sign_id": "AB 85",
+      "start_file_page": 322,
+      "end_file_page": 322,
+      "confidence": "inferred",
+      "notes": ""
+    },
+    {
+      "sign_id": "AB 86",
+      "start_file_page": 323,
+      "end_file_page": 323,
+      "confidence": "inferred",
+      "notes": ""
+    },
+    {
+      "sign_id": "AB 87",
+      "start_file_page": 324,
+      "end_file_page": 324,
+      "confidence": "inferred",
+      "notes": ""
+    },
+    {
+      "sign_id": "A 100/102",
+      "start_file_page": 325,
+      "end_file_page": 326,
+      "confidence": "inferred",
+      "notes": ""
+    },
+    {
+      "sign_id": "AB 118",
+      "start_file_page": 327,
+      "end_file_page": 327,
+      "confidence": "inferred",
+      "notes": ""
+    },
+    {
+      "sign_id": "AB 120 / A 120b",
+      "start_file_page": 328,
+      "end_file_page": 328,
+      "confidence": "inferred",
+      "notes": ""
+    },
+    {
+      "sign_id": "AB 122",
+      "start_file_page": 329,
+      "end_file_page": 329,
+      "confidence": "inferred",
+      "notes": ""
+    },
+    {
+      "sign_id": "AB 123",
+      "start_file_page": 329,
+      "end_file_page": 329,
+      "confidence": "inferred",
+      "notes": "may share page"
+    },
+    {
+      "sign_id": "AB 131a",
+      "start_file_page": 330,
+      "end_file_page": 330,
+      "confidence": "inferred",
+      "notes": ""
+    },
+    {
+      "sign_id": "AB 131b / A 131c",
+      "start_file_page": 330,
+      "end_file_page": 330,
+      "confidence": "confirmed",
+      "notes": "both on page 330, very sparse"
+    },
+    {
+      "sign_id": "AB 164a/b/c/d",
+      "start_file_page": 331,
+      "end_file_page": 332,
+      "confidence": "inferred",
+      "notes": ""
+    },
+    {
+      "sign_id": "AB 171",
+      "start_file_page": 333,
+      "end_file_page": 333,
+      "confidence": "inferred",
+      "notes": ""
+    },
+    {
+      "sign_id": "AB 180",
+      "start_file_page": 334,
+      "end_file_page": 334,
+      "confidence": "inferred",
+      "notes": ""
+    },
+    {
+      "sign_id": "AB 188",
+      "start_file_page": 335,
+      "end_file_page": 335,
+      "confidence": "inferred",
+      "notes": ""
+    },
+    {
+      "sign_id": "AB 191",
+      "start_file_page": 336,
+      "end_file_page": 336,
+      "confidence": "inferred",
+      "notes": ""
+    },
+    {
+      "sign_id": "A 301",
+      "start_file_page": 337,
+      "end_file_page": 338,
+      "confidence": "inferred",
+      "notes": "key Linear A sign"
+    },
+    {
+      "sign_id": "A 302",
+      "start_file_page": 339,
+      "end_file_page": 339,
+      "confidence": "inferred",
+      "notes": ""
+    },
+    {
+      "sign_id": "A 303",
+      "start_file_page": 340,
+      "end_file_page": 340,
+      "confidence": "inferred",
+      "notes": ""
+    },
+    {
+      "sign_id": "A 304",
+      "start_file_page": 341,
+      "end_file_page": 341,
+      "confidence": "inferred",
+      "notes": ""
+    },
+    {
+      "sign_id": "A 305",
+      "start_file_page": 342,
+      "end_file_page": 342,
+      "confidence": "inferred",
+      "notes": ""
+    },
+    {
+      "sign_id": "A 306",
+      "start_file_page": 343,
+      "end_file_page": 343,
+      "confidence": "inferred",
+      "notes": ""
+    },
+    {
+      "sign_id": "A 307",
+      "start_file_page": 344,
+      "end_file_page": 344,
+      "confidence": "inferred",
+      "notes": ""
+    },
+    {
+      "sign_id": "A 308",
+      "start_file_page": 345,
+      "end_file_page": 345,
+      "confidence": "inferred",
+      "notes": ""
+    },
+    {
+      "sign_id": "A 309 series",
+      "start_file_page": 346,
+      "end_file_page": 346,
+      "confidence": "inferred",
+      "notes": ""
+    },
+    {
+      "sign_id": "A 310",
+      "start_file_page": 347,
+      "end_file_page": 347,
+      "confidence": "inferred",
+      "notes": ""
+    },
+    {
+      "sign_id": "A 311",
+      "start_file_page": 348,
+      "end_file_page": 348,
+      "confidence": "inferred",
+      "notes": ""
+    },
+    {
+      "sign_id": "A 312",
+      "start_file_page": 349,
+      "end_file_page": 349,
+      "confidence": "inferred",
+      "notes": ""
+    },
+    {
+      "sign_id": "A 313 series",
+      "start_file_page": 350,
+      "end_file_page": 350,
+      "confidence": "inferred",
+      "notes": ""
+    },
+    {
+      "sign_id": "A 314-322",
+      "start_file_page": 350,
+      "end_file_page": 350,
+      "confidence": "confirmed",
+      "notes": "A 321, A 322, A 323 on page 350"
+    },
+    {
+      "sign_id": "A 323-340",
+      "start_file_page": 351,
+      "end_file_page": 355,
+      "confidence": "inferred",
+      "notes": "each with few attestations"
+    },
+    {
+      "sign_id": "A 341-358",
+      "start_file_page": 356,
+      "end_file_page": 358,
+      "confidence": "inferred",
+      "notes": ""
+    },
+    {
+      "sign_id": "A 359-371",
+      "start_file_page": 359,
+      "end_file_page": 362,
+      "confidence": "inferred",
+      "notes": ""
+    },
+    {
+      "sign_id": "A 400-418 VAS",
+      "start_file_page": 363,
+      "end_file_page": 366,
+      "confidence": "inferred",
+      "notes": "vessel ideograms"
+    },
+    {
+      "sign_id": "A 500+ catalog entries",
+      "start_file_page": 367,
+      "end_file_page": 369,
+      "confidence": "inferred",
+      "notes": "rare sign combinations"
+    },
+    {
+      "sign_id": "Sign 704 / Linear B E-value cross-ref",
+      "start_file_page": 370,
+      "end_file_page": 370,
+      "confidence": "confirmed",
+      "notes": "includes A 719-A 734, A 581, A 626, A 636, A 648, A 658"
+    },
+    {
+      "sign_id": "Remaining logograms / ideograms",
+      "start_file_page": 371,
+      "end_file_page": 376,
+      "confidence": "inferred",
+      "notes": ""
+    },
+    {
+      "sign_id": "End of index (blank)",
+      "start_file_page": 377,
+      "end_file_page": 378,
+      "confidence": "confirmed",
+      "notes": ""
+    }
+  ],
+  "observed_page_headers": [
+    {
+      "file_page": 194,
+      "printed_page": 142,
+      "header_sign": "01",
+      "notes": "AB 01 — dense, mid-block"
+    },
+    {
+      "file_page": 195,
+      "printed_page": 143,
+      "header_sign": "01",
+      "notes": "AB 01 — continues, with A 501-A 643 entries at bottom"
+    },
+    {
+      "file_page": 196,
+      "printed_page": 144,
+      "header_sign": "02",
+      "notes": "AB 02 — begins"
+    },
+    {
+      "file_page": 198,
+      "printed_page": 146,
+      "header_sign": "03",
+      "notes": "AB 03 — begins"
+    },
+    {
+      "file_page": 200,
+      "printed_page": 148,
+      "header_sign": "03",
+      "notes": "AB 03 — continues with A 517-A 631 entries"
+    },
+    {
+      "file_page": 205,
+      "printed_page": 153,
+      "header_sign": "06",
+      "notes": "AB 06 — begins, with PHAISTOS category marker"
+    },
+    {
+      "file_page": 210,
+      "printed_page": 158,
+      "header_sign": "07",
+      "notes": "AB 07 — continues"
+    },
+    {
+      "file_page": 215,
+      "printed_page": 163,
+      "header_sign": "08",
+      "notes": "AB 08 — dense mid-block"
+    },
+    {
+      "file_page": 220,
+      "printed_page": 168,
+      "header_sign": "10",
+      "notes": "AB 10 — ends with A 610-A 619 entries"
+    },
+    {
+      "file_page": 230,
+      "printed_page": 178,
+      "header_sign": "22/22f/22m",
+      "notes": "Three rare variants of sign 22 on one page (sparse)"
+    },
+    {
+      "file_page": 240,
+      "printed_page": 188,
+      "header_sign": "28",
+      "notes": "AB 28 'I' sign — begins, one of the most common signs"
+    },
+    {
+      "file_page": 250,
+      "printed_page": 198,
+      "header_sign": "31",
+      "notes": "AB 31 — ends with A 521-A 644 entries"
+    },
+    {
+      "file_page": 260,
+      "printed_page": 208,
+      "header_sign": "41",
+      "notes": "AB 41 — mid-block"
+    },
+    {
+      "file_page": 270,
+      "printed_page": 218,
+      "header_sign": "51",
+      "notes": "AB 51 — ending, with A 534 entry"
+    },
+    {
+      "file_page": 290,
+      "printed_page": 238,
+      "header_sign": "59",
+      "notes": "AB 59 — ending, with A 615 entry"
+    },
+    {
+      "file_page": 300,
+      "printed_page": 248,
+      "header_sign": "67",
+      "notes": "AB 67 — ends with A 514-A 641 entries"
+    },
+    {
+      "file_page": 310,
+      "printed_page": 258,
+      "header_sign": "77",
+      "notes": "AB 77 — mid-block"
+    },
+    {
+      "file_page": 320,
+      "printed_page": 268,
+      "header_sign": "81",
+      "notes": "AB 81 — mid-block"
+    },
+    {
+      "file_page": 330,
+      "printed_page": 278,
+      "header_sign": "131b/131c",
+      "notes": "Rare variants 131b and 131c (very sparse)"
+    },
+    {
+      "file_page": 350,
+      "printed_page": 298,
+      "header_sign": "321/322/323",
+      "notes": "Three A-series signs on one page"
+    },
+    {
+      "file_page": 370,
+      "printed_page": 318,
+      "header_sign": "704+E",
+      "notes": "Late: sign 704 cross-referenced with Linear B E-value, includes A 719-A 734, A 581, A 626, A 636, A 648, A 658"
+    },
+    {
+      "file_page": 378,
+      "printed_page": 326,
+      "header_sign": null,
+      "notes": "Blank — end of index section"
+    }
+  ],
+  "golden_pages": {
+    "AB_01_page_194": {
+      "file_page": 194,
+      "printed_page": 142,
+      "sign_id": "AB 01",
+      "sign_name_LB": "DA (Linear B syllabic value)",
+      "extraction_confidence": "high",
+      "rows": [
+        {
+          "context": "*01*-78-60",
+          "ref": "HT 6a.6",
+          "notes": "HT 120.1¹"
+        },
+        {
+          "context": "*01*-78-60[",
+          "ref": "HT 57a.1",
+          "notes": ""
+        },
+        {
+          "context": "*01*-81-08",
+          "ref": "HT 103.4¹",
+          "notes": ""
+        },
+        {
+          "context": "-*01*-81-09-24",
+          "ref": "HT 103.4-5¹ 104.1-2¹",
+          "notes": ""
+        },
+        {
+          "context": "-*01*-81-09-28",
+          "ref": "HT 103.2¹",
+          "notes": ""
+        },
+        {
+          "context": "-*01*-81-09-24-37",
+          "ref": "HT 104.1-2¹",
+          "notes": ""
+        },
+        {
+          "context": "*01*-81-73-24",
+          "ref": "KN Zf 31⁴",
+          "notes": ""
+        },
+        {
+          "context": "[..]-*01*-[..]-80-[..]-65-67",
+          "ref": "TY 2.2¹",
+          "notes": "classifier E"
+        },
+        {
+          "context": "[..]-*01*-[..]-86-65-67",
+          "ref": "TY 2.3¹",
+          "notes": ""
+        },
+        {
+          "context": "02-*01*-58",
+          "ref": "HT 104.3-4¹",
+          "notes": ""
+        },
+        {
+          "context": "02-*01*-67",
+          "ref": "HT 104.3-4¹",
+          "notes": ""
+        },
+        {
+          "context": "08-*01*-02",
+          "ref": "HT 117a.5¹",
+          "notes": ""
+        },
+        {
+          "context": "08-*01*-37",
+          "ref": "ARKH 5.2¹",
+          "notes": ""
+        },
+        {
+          "context": "08-*01*-60",
+          "ref": "KN Zf 31⁴",
+          "notes": ""
+        },
+        {
+          "context": "08-*01*-67-41-77",
+          "ref": "KH 5.1²",
+          "notes": ""
+        },
+        {
+          "context": "28-*01*-[..",
+          "ref": "IO Za 2b-c.2⁵",
+          "notes": ""
+        },
+        {
+          "context": "28-*01*-08",
+          "ref": "KO Za 1b-c⁴",
+          "notes": ""
+        },
+        {
+          "context": "28-*01*-68-28-81-68",
+          "ref": "PH 6.4¹",
+          "notes": ""
+        },
+        {
+          "context": "28-*01*-73",
+          "ref": "SY Za 1⁵",
+          "notes": ""
+        },
+        {
+          "context": "28-*01*-80-04",
+          "ref": "AR Zf 1⁴",
+          "notes": ""
+        },
+        {
+          "context": "28-*01*-80-04[",
+          "ref": "AR Zf 1⁴",
+          "notes": ""
+        },
+        {
+          "context": "37-*01*-69",
+          "ref": "HT 123b.2¹",
+          "notes": ""
+        },
+        {
+          "context": "41-*01*-04",
+          "ref": "ARKH 2.1³",
+          "notes": ""
+        },
+        {
+          "context": "44-*01*-[",
+          "ref": "HT 17.3¹ 122a.5¹",
+          "notes": ""
+        },
+        {
+          "context": "51-*01*-80",
+          "ref": "HT 6b.4¹",
+          "notes": ""
+        },
+        {
+          "context": "52-*01*-[..]-88",
+          "ref": "TY 2.4¹",
+          "notes": ""
+        },
+        {
+          "context": "52-*01*-84-88",
+          "ref": "TY 2.5¹",
+          "notes": ""
+        },
+        {
+          "context": "56-*01*-81-09-24[",
+          "ref": "HT 103.2¹",
+          "notes": ""
+        },
+        {
+          "context": "-*01*-68[",
+          "ref": "KH 74.1⁵",
+          "notes": ""
+        },
+        {
+          "context": "67-*01*-[",
+          "ref": "HT 27a.1⁵",
+          "notes": ""
+        },
+        {
+          "context": "67-*01*-02",
+          "ref": "HT 117a.9¹",
+          "notes": ""
+        },
+        {
+          "context": "67-*01*-02[",
+          "ref": "HT 47a.1⁵",
+          "notes": ""
+        },
+        {
+          "context": "67-*01*-04[",
+          "ref": "*HT 27a.4¹",
+          "notes": ""
+        },
+        {
+          "context": "67-*01*-59",
+          "ref": "HT 40.2¹",
+          "notes": ""
+        },
+        {
+          "context": "72-*01*-80",
+          "ref": "HT 41a.4¹",
+          "notes": ""
+        },
+        {
+          "context": "78-*01*-37",
+          "ref": "*PK 127a.3¹",
+          "notes": ""
+        },
+        {
+          "context": "[304+03]-*01*-[47-81]",
+          "ref": "HT 127a.3¹",
+          "notes": ""
+        },
+        {
+          "context": "08-[..]-*01*-[..]-118",
+          "ref": "SI 2g 1⁴",
+          "notes": ""
+        },
+        {
+          "context": "[..]-*01*-67-37-03-02-81",
+          "ref": "KH 79-89.3⁵",
+          "notes": ""
+        },
+        {
+          "context": "08-07-*01*-67-37-03-02-81",
+          "ref": "KN 2c 6.2⁴",
+          "notes": ""
+        },
+        {
+          "context": "08-86-*01*-60",
+          "ref": "HT 28a.5¹",
+          "notes": ""
+        }
+      ],
+      "row_count": 41
+    },
+    "AB_01_page_195_bottom": {
+      "file_page": 195,
+      "printed_page": 143,
+      "sign_id": "AB 01",
+      "extraction_confidence": "medium",
+      "note": "Bottom of page has A 5xx/6xx catalog numbers for rare sign combinations involving sign 01",
+      "rare_combinations": [
+        {
+          "catalog_id": "A 501",
+          "context": "*01* '02'",
+          "ref": "KH Wa 1001γ³ 1002γ³"
+        },
+        {
+          "catalog_id": "A 502",
+          "context": "*01*+37+09",
+          "ref": "HT 93a.2¹"
+        },
+        {
+          "catalog_id": "A 503",
+          "context": "[01]''301'",
+          "ref": "KH 18.4¹"
+        },
+        {
+          "catalog_id": "A 573",
+          "context": "120+ *01*",
+          "ref": "HT 133.1¹"
+        },
+        {
+          "catalog_id": "A 643",
+          "context": "330+ *01*",
+          "ref": "HT 22.2¹"
+        }
+      ]
+    }
+  },
+  "batch_extraction_plan": {
+    "target": "Claude Code batch OCR pipeline",
+    "scope": "All file pages 194-377 of Vol 5",
+    "output_format": {
+      "file": "gorila_sign_index_rows.json",
+      "row_schema": {
+        "sign_id": "e.g. 'AB 01', 'A 301'",
+        "file_page": "int, Vol 5 file page number",
+        "printed_page": "int, GORILA Vol 5 printed page number",
+        "row_index": "int, row number on the page",
+        "context_numeric": "e.g. '08-01-67'",
+        "target_sign_position": "int, index in context_numeric of underlined sign",
+        "classifier": "letter A-J or null",
+        "inscription_ref": "e.g. 'HT 6a.6'",
+        "line_number_superscript": "int or null",
+        "catalog_number": "e.g. 'A 501' or null",
+        "notes": "e.g. brackets, asterisks, quotes, uncertainty markers"
+      }
+    },
+    "validation": "Cross-validate batch output against golden_pages.AB_01_page_194 (41 rows confirmed via vision read). Also cross-validate against gorila_sign_variants.json: every attestation in sign_variants should appear somewhere in the full sign_index (since variants are a subset of all attestations).",
+    "estimated_entries": "4000-6000 total rows plus ~200-400 A-series catalog entries",
+    "priority_signs": [
+      "AB 28 (I) — most common sign, ~5 pages",
+      "AB 01 (DA), AB 08 (A), AB 38 (E), AB 04 (TE), AB 39 (PI) — common syllables",
+      "AB 80, AB 81 — most variant-rich signs",
+      "A 301 — key Linear A-unique sign",
+      "A 400-418 VAS — vessel ideograms"
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "generated": "2026-04-05",
+  "target_sign": "A 301 / *301",
+  "corpus_docs_containing_301": 72,
+  "gorila_index_rows_for_A_301": 35,
+  "corpus_site_type_breakdown": {
+    "Haghia Triada — nodule": 33,
+    "Haghia Triada — tablet": 7,
+    "Iouktas — stone_vessel": 6,
+    "Khania — tablet": 4,
+    "Syme — stone_vessel": 4,
+    "Khania — nodule": 3,
+    "Palaikastro — stone_vessel": 2,
+    "Apodoulou — stone_vessel": 1,
+    "Arkhanes — tablet": 1,
+    " — stone_object": 1,
+    "Knossos — jewellery": 1,
+    "Kophinas — stone_vessel": 1,
+    "Psykhro — libation_table": 1,
+    "Skoteino Cave — inked_inscription": 1,
+    "Syme — libation_table": 1,
+    "Tiryns — clay_vessel": 1,
+    "Troullos — stone_vessel": 1,
+    "Tylissos — clay_vessel": 1,
+    "Zakros — tablet": 1,
+    "Zakros — stone_vessel": 1
+  },
+  "gorila_ref_tokens_extracted": 35,
+  "gorila_refs_not_in_corpus": {
+    "count": 0,
+    "resolved_to_corpus_ids": {
+      "IO Za 1a": "IO Za 1 (suffix variant)",
+      "NO Za 1a": "NO Za 1 (partial ingestion 2026-04-05 — entry created with A 301 at position 1 confirmed; full text still owed from primary publication)",
+      "PK Za 11a": "PK Za 11 (suffix variant)",
+      "PK Za 12a": "PK Za 12 (suffix variant)",
+      "TL Za 1a": "TL Za 1 (suffix variant)",
+      "TY 2b": "TY 2 (suffix variant)",
+      "ZA Za 3": "ZA Zb 3 (catalog letter difference: Za vs Zb)"
+    },
+    "note": "7 of 7 apparent mismatches now resolved. The Nerokourou NO Za 1 entry was added 2026-04-05 as a partial ingestion: row exists, A 301 position confirmed, full sign sequence and word tokenization still owed from primary-source consultation (GORILA Vol 5 p. 146 / Hallager-Godart-Tzedakis publication)."
+  },
+  "corpus_docs_absent_from_gorila_A_301_index": {
+    "count": 52,
+    "breakdown": {
+      "HT Wa (Haghia Triada sealings/nodules)": 45,
+      "other": 7
+    },
+    "explanation": "The 45 HT Wa entries are roundel and nodule sealings from Haghia Triada that GORILA catalogues in its sealings corpus (Volume 2), not in the Volume 5 sign index proper. Their absence from the sign index is expected: the sign index is a syllabogram-in-word concordance, and the HT Wa materials use A 301 as a standalone logogram (one sign per sealing). The GORILA sealings volume gives their attestation list."
+  },
+  "distinct_words_containing_301": 31,
+  "canonical_libation_formula_attestations": 10,
+  "notes": "The 72 ↔ 35 count difference is not an inconsistency. GORILA indexes different document types in different volumes. Sign-index rows are the concordance for syllabogram use; sealings/nodules are concorded separately. This cross-check confirms that where both indices overlap (running-text occurrences), coverage is complete after sub-face normalization, with the single exception of NO Za 1a (Nerokourou) which should be added to corpus.json."
+}

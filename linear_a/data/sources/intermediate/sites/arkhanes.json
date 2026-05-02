@@ -1,0 +1,107 @@
+{
+  "site": "Arkhanes",
+  "documents": 10,
+  "total_signs": 118,
+  "total_words": 47,
+  "unique_words": 45,
+  "types": {
+    "tablet": 10
+  },
+  "periods": {
+    "unknown": 10
+  },
+  "top_words": [
+    [
+      "a",
+      2
+    ],
+    [
+      "ku",
+      2
+    ],
+    [
+      "ta-pi-ki-a-ra-a-su-mi-*118-a-pa-mi-ki-sa-ne",
+      1
+    ],
+    [
+      "ta-pi",
+      1
+    ],
+    [
+      "ki",
+      1
+    ],
+    [
+      "a-ra",
+      1
+    ],
+    [
+      "a-su-mi-*118",
+      1
+    ],
+    [
+      "a-pa",
+      1
+    ],
+    [
+      "mi-ki-sa-ne",
+      1
+    ],
+    [
+      "a-ja-re-*56-na",
+      1
+    ],
+    [
+      "ja-re",
+      1
+    ],
+    [
+      "*56",
+      1
+    ],
+    [
+      "na",
+      1
+    ],
+    [
+      "si-da-te-ku-ra-*131-a-si-da-to-i-*79-A301-se-de-qi-*118-a-su-pu-wa-ru-mi",
+      1
+    ],
+    [
+      "si-da-te",
+      1
+    ],
+    [
+      "ku-ra-*131",
+      1
+    ],
+    [
+      "a-si-da-to-i",
+      1
+    ],
+    [
+      "*79-A301-se-de-qi-*118",
+      1
+    ],
+    [
+      "a-su-pu-wa",
+      1
+    ],
+    [
+      "ru-mi",
+      1
+    ]
+  ],
+  "document_ids": [
+    "ARKH 1a",
+    "ARKH 1b",
+    "ARKH 2",
+    "ARKH 3a",
+    "ARKH 3b",
+    "ARKH 4a",
+    "ARKH 4b",
+    "ARKH 5",
+    "ARKH 6",
+    "ARKH 7"
+  ]
+}

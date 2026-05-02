@@ -1,0 +1,23 @@
+{
+  "site": "Gournia",
+  "documents": 2,
+  "total_signs": 7,
+  "total_words": 2,
+  "unique_words": 1,
+  "types": {
+    "roundel": 2
+  },
+  "periods": {
+    "LM IB": 2
+  },
+  "top_words": [
+    [
+      "a-sa-su-ma-i-se",
+      2
+    ]
+  ],
+  "document_ids": [
+    "GO Wc 1a",
+    "GO Wc 1b"
+  ]
+}
