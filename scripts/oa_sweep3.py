@@ -117,7 +117,9 @@ MISSING = [
     # Other missing
     ("Palaima", 1988, "Scribes of the Room of the Chariot Tablets", None, ""),
     ("Driessen", 2000, "Scribes Room Chariot Tablets", None, "ULB thesis/book"),
-    ("Petrakis", 2017, "Cretan Hieroglyphic seals", None, ""),
+    # Petrakis 2017a and 2017b (held — see BIBLIOGRAPHY.md): both held in references/core/.
+    # Kept here historically as the OA-sweep target before acquisition.
+    ("Petrakis", 2017, "Reconstructing matrix Mycenaean literate administrations OR Figures of speech Linear B", None, "Steele ed. URBS Vol I; Nosch Enegren eds. Aegean Scripts vol 1 Incunabula Graeca 105:1"),
     ("Weingarten", 1994, "Minoan Hieroglyphic deposits Mallia Knossos", None, ""),
     ("Zurbach", 2011, "Linear A documents update", None, "Del Freo Zurbach"),
     ("Sbonias", 2010, "Cretan seals and sealings", None, ""),
