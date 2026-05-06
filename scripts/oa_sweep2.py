@@ -117,7 +117,9 @@ MISSING = [
     ("Duhoux", 1989, "Le linéaire A problèmes de déchiffrement", None, ""),
     ("Duhoux", 1982, "Aspects du linéaire A", None, ""),
     ("Olivier", 1976, "GORILA Linear A inscriptions", None, "GORILA vols"),
-    ("Petrakis", 2017, "Cretan Hieroglyphic seals", None, ""),
+    # Petrakis 2017a held: references/core/Petrakis_2017a_Reconstructing_Matrix_Mycenaean_Literate_Administrations.pdf
+    # Petrakis 2017b held: references/core/Petrakis_2017b_Figures_of_Speech_Linear_B_Non_phonographic.pdf
+    ("Petrakis", 2017, "Reconstructing matrix Mycenaean literate administrations", None, "Steele 2017 URBS Vol I"),
     ("Driessen", 2000, "Scribes of the Room of the Chariot Tablets", None, ""),
     ("Jasink", 2009, "Cretan Hieroglyphic seals and documents", None, ""),
     ("Weingarten", 1994, "Minoan Hieroglyphic deposits Mallia Knossos", None, ""),
@@ -593,7 +595,7 @@ def main():
         "Zurbach Linear A tablets",
         "Sbonias Minoan seals",
         "Jasink hieroglyphic",
-        "Petrakis hieroglyphic",
+        "Petrakis Mycenaean administration Linear A B",
         "Palmer Aegaeum Minoan Linear",
         "Godart Olivier inscriptions lineaire",
         "Duhoux lineaire aspects",
@@ -653,7 +655,7 @@ def main():
         ("Zurbach", 2011, "Linear A documents"),
         ("Olivier", 1985, "Linear AB sign list"),
         ("Ferrara", 2015, "writing Bronze Age Aegean"),
-        ("Petrakis", 2017, "Cretan Hieroglyphic"),
+        ("Petrakis", 2017, "Reconstructing matrix Mycenaean administration"),
         ("Sbonias", 2010, "Cretan seals"),
         ("Jasink", 2009, "Cretan Hieroglyphic"),
         ("Cutler", 2021, "scribes languages Aegean"),

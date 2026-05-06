@@ -76,7 +76,8 @@ TARGETS = [
     ("Duhoux", 1989, "Le linéaire A problèmes de déchiffrement", None, "Duhoux lineaire A problemes dechiffrement 1989"),
     ("Duhoux", 1982, "Aspects du linéaire A", None, "Duhoux aspects lineaire A 1982"),
     ("Olivier", 1976, "GORILA Linear A inscriptions", None, "Godart Olivier GORILA recueil inscriptions lineaire A 1976"),
-    ("Petrakis", 2017, "Cretan Hieroglyphic seals", None, "Petrakis Cretan Hieroglyphic 2017"),
+    # Petrakis 2017a/b are now both held in references/core/ — see BIBLIOGRAPHY.md
+    ("Petrakis", 2017, "Reconstructing matrix Mycenaean literate administrations OR Figures of speech Linear B", None, "Petrakis 2017 Mycenaean administration Linear B ideograms"),
     ("Driessen", 2000, "The Scribes of the Room of the Chariot Tablets", None, "Driessen 2000 Knossos scribes Linear B"),
     ("Jasink", 2009, "Cretan Hieroglyphic seals and documents", None, "Jasink Cretan Hieroglyphic seals documents 2009"),
     ("Weingarten", 1994, "Minoan Hieroglyphic deposits Mallia Knossos", None, "Weingarten 1994 Minoan Hieroglyphic deposits"),

@@ -491,9 +491,11 @@ SPECIFIC_TARGETS = [
         "https://hal.science/search/?qa%5BallFields%5D%5B%5D=bile+dialecte+cretois&format=json",
     ]),
 
-    # Petrakis 2017
-    ("Petrakis_2017_Cretan_Hieroglyphic_seals", None, [
-        "https://www.academia.edu/search?q=petrakis+cretan+hieroglyphic+2017",
+    # Petrakis 2017a (Reconstructing the matrix...) + 2017b (Figures of speech...) — both held now.
+    # Kept in this list for historical traceability of the acquisition lane.
+    ("Petrakis_2017_Mycenaean_administration_Linear_B_ideograms", None, [
+        "https://www.academia.edu/60941095/Reconstructing_the_matrix_of_the_Mycenaean_literate_administrations",
+        "https://www.academia.edu/60941788/Figures_of_speech_Observations_on_the_Non_phonographic_Component_in_the_Linear_B_Writing_System",
     ]),
 
     # Schoep 2002 — check open access via KU Leuven
