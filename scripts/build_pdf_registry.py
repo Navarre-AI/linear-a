@@ -124,7 +124,7 @@ def build():
     print(f"Found {len(pdfs)} PDFs", file=sys.stderr)
 
     for i, pdf in enumerate(pdfs, 1):
-        rel = pdf.relative_to(REPO_ROOT)
+        rel = pdf.relative_to(REFS_ROOT)
         print(f"[{i}/{len(pdfs)}] {rel}", file=sys.stderr)
 
         sha = sha256_of(pdf)

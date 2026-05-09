@@ -27,7 +27,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent))
 from _paths import CODE_ROOT, REFS_ROOT  # noqa: E402
 
-EXTRACTED = REFS_ROOT / "working" / "_extracted"
+EXTRACTED = REFS_ROOT / "private" / "_extracted"
 BIBLIO = CODE_ROOT / "BIBLIOGRAPHY.md"
 OUT_DIR = REFS_ROOT / "research" / "analysis"
 
@@ -130,29 +130,65 @@ AUTHOR_YEAR_RE = re.compile(
 def parse_bibliography_holdings() -> set[tuple[str, str]]:
     """Extract (surname, year) pairs of works we already hold.
 
-    Only counts a row as HELD when it contains a path to an actual PDF/doc
-    (`references/...pdf`, `.doc`, `.html`, etc.) AND is not flagged with
-    **MISSING** or **GATED**. BIBLIOGRAPHY.md uses table rows; rows with
-    **MISSING** in the path column are gaps, not holdings.
+    Two sources are merged:
+
+    1. **BIBLIOGRAPHY.md** rows — only counts a row as HELD when it has a
+       `references/...pdf` path AND is not flagged **MISSING** / **GATED** /
+       **PARTIAL** / **AMBIGUOUS**. This is the curated authoritative source
+       but only covers ~33 entries.
+    2. **`_index.json` filenames** — the project's filename convention is
+       `<Surname>_<Year>_<short-title>.pdf`, so every indexed PDF gives one
+       (surname, year) pair. Multi-author files like
+       `Nikolakopoulou_Karnava_2022_X.pdf` contribute BOTH surnames at the
+       same year. This is the broad-coverage source so the matcher doesn't
+       falsely flag papers we have on disk but not in BIBLIOGRAPHY.md.
     """
     held: set[tuple[str, str]] = set()
-    if not BIBLIO.exists():
-        return held
-    pat = re.compile(
-        r"\b([A-Z][a-zà-ÿäöüáéíóúçñ]{2,}(?:[-' ][A-Z][a-zà-ÿäöüáéíóúçñ]+)?)"
-        r"\s*,\s*[A-Z]\.[^.]*?\((\d{4})"
-    )
-    has_path_re = re.compile(
-        r"`references/[^`]+\.(?:pdf|doc|docx|html|md|txt|json)`"
-    )
-    is_missing_re = re.compile(r"\*\*(MISSING|GATED|PARTIAL|AMBIGUOUS)\*\*")
-    for line in BIBLIO.read_text().splitlines():
-        if not has_path_re.search(line):
-            continue
-        if is_missing_re.search(line):
-            continue
-        for m in pat.finditer(line):
-            held.add((m.group(1), m.group(2)))
+
+    # Source 1: curated bibliography
+    if BIBLIO.exists():
+        pat = re.compile(
+            r"\b([A-Z][a-zà-ÿäöüáéíóúçñ]{2,}(?:[-' ][A-Z][a-zà-ÿäöüáéíóúçñ]+)?)"
+            r"\s*,\s*[A-Z]\.[^.]*?\((\d{4})"
+        )
+        has_path_re = re.compile(
+            r"`references/[^`]+\.(?:pdf|doc|docx|html|md|txt|json)`"
+        )
+        is_missing_re = re.compile(r"\*\*(MISSING|GATED|PARTIAL|AMBIGUOUS)\*\*")
+        for line in BIBLIO.read_text().splitlines():
+            if not has_path_re.search(line):
+                continue
+            if is_missing_re.search(line):
+                continue
+            for m in pat.finditer(line):
+                held.add((m.group(1), m.group(2)))
+
+    # Source 2: indexed-PDF filenames following Surname_Year_short_title.pdf
+    import json as _json
+    index_path = REFS_ROOT / "references" / "_meta" / "_index.json"
+    if index_path.exists():
+        # Pattern: starts with one or more Capitalized surnames separated by `_`,
+        # then a 4-digit year, optionally with a-z suffix (e.g. 2017a).
+        # We accept up to 4 leading surnames so multi-author papers all contribute.
+        fname_re = re.compile(
+            r"^((?:[A-Z][A-Za-zà-ÿäöüáéíóúçñ-]+_){1,4})(\d{4})[a-z]?_"
+        )
+        for path in _json.loads(index_path.read_text()).values():
+            if not isinstance(path, str):
+                continue
+            stem = path.rsplit("/", 1)[-1].rsplit(".", 1)[0]
+            m = fname_re.match(stem)
+            if not m:
+                continue
+            year = m.group(2)
+            for surname in m.group(1).rstrip("_").split("_"):
+                if len(surname) < 3:
+                    continue
+                # Skip role markers like "eds", "ed", "and"
+                if surname.lower() in {"eds", "ed", "and"}:
+                    continue
+                held.add((surname, year))
+
     return held
 
 
