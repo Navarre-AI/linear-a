@@ -1,10 +1,12 @@
-# Linear A — Computational Research Project
+# Linear A — Research Project
 
-A public, open research repository working on **Linear A**, the undeciphered writing system of Minoan Crete (c. 1800–1450 BCE), using modern AI and corpus-analysis methods.
+A working catalog of the scholarly literature about **Linear A**, the undeciphered writing system of Minoan Crete (c. 1800–1450 BCE), plus a set of tools for searching and cross-referencing it.
 
-The website that surfaces results in human-readable form lives at **[lineara.eu](https://lineara.eu)**.
+The aim is to be a useful, free resource — a maintained collection of what's been written about Linear A, by whom, when, and on what basis — kept current as new work appears. This is a catalog and a query layer, not a new decipherment attempt; the project's value is in making the existing scholarship navigable and the disagreements within it visible.
 
-This repository contains the **canonical research data, the analysis code, and the benchmarks**. The PDF reference library (literature, GORILA scans, etc.), the website source, and internal working files live in a private companion repository — see [Companion repository](#companion-repository) below.
+Public outputs live at **[lineara.eu](https://lineara.eu)**. There's also an AI-assisted research chat tool at **[lineara-ask.fly.dev](https://lineara-ask.fly.dev)** (invite-only) for asking the corpus questions in natural language.
+
+This repository contains the canonical structured corpus data and analysis code. The source PDFs of the scholarly literature (most of which is third-party copyrighted), the website source, and internal working files live in a separate private companion repository — see [Companion repository](#companion-repository) below.
 
 ---
 
@@ -68,7 +70,7 @@ BIBLIOGRAPHY.md          Citation registry (HELD vs MISSING)
 
 ## Companion repository
 
-PDFs of source literature, the lineara.eu website source, and internal working files live in a separate **private** repository called `minoan-linear-a-references`. That companion repo is large — tens of thousands of files, currently around 50 GB on disk — because it holds:
+PDFs of source literature, the lineara.eu website source, and internal working files live in a separate **private** repository called `minoan-linear-a-references`. That companion repo is large — tens of thousands of files, several GB on disk — because it holds:
 
 - The full PDF library (~1.6 GB) — all the published Linear A scholarship the project draws on, organised under `references/` (core, comparative, fringe, bibliographic).
 - All five volumes of GORILA (Godart & Olivier's *Recueil des inscriptions en linéaire A*) as page scans.
