@@ -6,7 +6,7 @@ Categories used:
 
 - **CORE** — mainstream Linear A scholarship that the project relies on for facts and consensus positions.
 - **HETERODOX** — work by serious researchers advancing positions outside mainstream consensus, but engaging substantively with the corpus. Currently dominated by Duccio Chiapello's "Minoan = Greek dialect" series.
-- **FRINGE** — decipherment claims not accepted by the field; retained to document the landscape and to engage with specific arguments where useful.
+- **ANCILLARY** — decipherment claims not accepted by the field; retained to document the landscape and to engage with specific arguments where useful.
 - **COMPARATIVE** — work on adjacent scripts, languages, or material cultures (Hurrian, Cuneiform, alphabetic, Cypro-Minoan, Cypriot syllabic, etc.).
 - **BIBLIOGRAPHIC** — reviews, supplements, indices, edited-volume tables of contents.
 - **FUTURE WORK** — Linear B / C / D / Cypriot syllabic material reserved for a later phase.
@@ -122,44 +122,44 @@ A connected sequence of ~22 papers arguing Linear A encodes a Greek dialect. Het
 
 | Paper | Local path | Topic / inscription |
 |---|---|---|
-| *MA1: Minoan = Greek* | `references/fringe/Chiapello_MA1_Minoan_Greek.pdf` | Foundational statement of the hypothesis. |
-| *Minoan graffiti and beyond* | `references/fringe/Chiapello-Minoan-Graffiti-Beyond.pdf` and `references/fringe/chiapello/Chiapello_Minoan-Graffiti-And-Beyond_HT-Zd-155-157.pdf` | HT Zd 155 / 157 graffiti; (J)A-SA-SA-RA-ME reinterpretation. |
-| *A libation table as an Orphic hymn* | `references/fringe/chiapello/Chiapello_Libation-Table-As-Orphic-Hymn_SY-Za-2.pdf` | SY Za 2 read as Orphic hymn. |
-| *A libation table of the Minoan Nymph(a)* | `references/fringe/chiapello/Chiapello_Libation-Table-Of-Minoan-Nympha_PK-Za.pdf` | PK Za libation series. |
-| *The Minoan Nymph and more speculations* | `references/fringe/chiapello/Chiapello_The-Minoan-Nymph-And-More-Speculations.pdf` | Sequel to above. |
-| *Another vessel, another clue: HT 38* | `references/fringe/chiapello/Chiapello_Another-Vessel-Another-Clue_HT-38.pdf` | HT 38. |
-| *Diktynna in the times of Minos* | `references/fringe/chiapello/Chiapello_Diktynna-In-The-Times-Of-Minos.pdf` | Theonym argument. |
-| *Giving, receiving, and giving back in Linear A* | `references/fringe/chiapello/Chiapello_Giving-Receiving-And-Giving-Back-In-Linear-A.pdf` | Verbal-morphology argument. |
-| *Honey on the trail of the Great Absentee* | `references/fringe/chiapello/Chiapello_Honey-On-The-Trail-Of-The-Great-Absentee.pdf` | Honey-ideogram *550 (mi+ja+ru). |
-| *Nothing arcane in Arkalochori* | `references/fringe/chiapello/Chiapello_Nothing-Arcane-In-Arkalochori_AR-Zf-1-2.pdf` | AR Zf 1 / AR Zf 2 votive axes. |
-| *The pithos of Zakros: paying a tithe* | `references/fringe/chiapello/Chiapello_The-Pithos-Of-Zakros-Paying-A-Tithe_ZA-8.pdf` | ZA 8 / ZA Zb 3. |
-| *Cybele in the land of Minos* | `references/fringe/chiapello/Chiapello_Cybele-In-The-Land-Of-Minos_HT-24.pdf` | ku-pa3-ri-ja on HT 24 as *Κυβάλια*. |
-| *From oinos to poinos?* | `references/fringe/chiapello/Chiapello_From-Oinos-To-Poinos_HT-14.pdf` | HT 14; *131a (VINa) as phonogram *wo-no*. |
-| *How many clues to make a prove [sic]* | `references/fringe/chiapello/Chiapello_How-Many-Clues-To-Make-A-Prove_HT-31.pdf` | HT 31 vase-tablet. |
-| *It varies like Greek, why can't it be Greek?* | `references/fringe/chiapello/Chiapello_It-Varies-Like-Greek_Ma-Ka-I-Ta.pdf` | ma-ka-i-ta / ma-ka-ta / ma-ka-ri-te regional variation. |
-| *Minoan KI-RO, Mycenaean o-pe-ro* | `references/fringe/chiapello/Chiapello_Minoan-KI-RO-Mycenaean-O-PE-RO.pdf` | ki-ro ↔ o-pe-ro via *χείρων*. |
-| *The Linear A inscribed idol of Roccacasale* | `references/fringe/chiapello/Chiapello_Linear-A-Inscribed-Idol-Of-Roccacasale.pdf` | Roccacasale idol. |
-| *The power of the tamer: Linear A I-DA-MA* | `references/fringe/chiapello/Chiapello_Power-Of-The-Tamer_I-DA-MA-TE-Demeter.pdf` | I-DA-MA-TE / Demeter *δματήρ*. |
-| *The tablets of Minoan ἐλαιοχρίσται* | `references/fringe/chiapello/Chiapello_Tablets-Of-Minoan-Elaiochristai_HT-121-114.pdf` | HT 121 / HT 114; ki-ri-ta2 as χρίσται, sa-ra2 as commodity. |
-| *A weight is a weight, and other coincidences* | `references/fringe/chiapello/Chiapello_A-Weight-Is-A-Weight_MO-Zf-1.pdf` | MO Zf 1 weight; Laconian θ→σ. |
-| *Deductions on an unknown find surrounded by mystery* | `references/fringe/chiapello/Chiapello_Deductions-On-Unknown-Find_Anetaki-Ring-Preempt.pdf` | Feb 2024 preemptive essay on the Anetaki ivory ring. |
-| *Greek hidden in plain sight: the Kophinas* | `references/fringe/chiapello/Chiapello_Greek-Hidden-In-Plain-Sight_Kophinas-KO-Zf-2.pdf` | KO(?) Zf 2 mesomphalos bowl. |
-| *Sicut in Lineari A et in Lineari B* | `references/fringe/chiapello/Chiapello_Sicut-In-Lineari-A-Et-Lineari-B_HT-88.pdf` | HT 88; a-du / a-pu-do-si and ki-ro / o-pe-ro equations. |
+| *MA1: Minoan = Greek* | `references/ancillary/Chiapello_MA1_Minoan_Greek.pdf` | Foundational statement of the hypothesis. |
+| *Minoan graffiti and beyond* | `references/ancillary/Chiapello-Minoan-Graffiti-Beyond.pdf` and `references/ancillary/chiapello/Chiapello_Minoan-Graffiti-And-Beyond_HT-Zd-155-157.pdf` | HT Zd 155 / 157 graffiti; (J)A-SA-SA-RA-ME reinterpretation. |
+| *A libation table as an Orphic hymn* | `references/ancillary/chiapello/Chiapello_Libation-Table-As-Orphic-Hymn_SY-Za-2.pdf` | SY Za 2 read as Orphic hymn. |
+| *A libation table of the Minoan Nymph(a)* | `references/ancillary/chiapello/Chiapello_Libation-Table-Of-Minoan-Nympha_PK-Za.pdf` | PK Za libation series. |
+| *The Minoan Nymph and more speculations* | `references/ancillary/chiapello/Chiapello_The-Minoan-Nymph-And-More-Speculations.pdf` | Sequel to above. |
+| *Another vessel, another clue: HT 38* | `references/ancillary/chiapello/Chiapello_Another-Vessel-Another-Clue_HT-38.pdf` | HT 38. |
+| *Diktynna in the times of Minos* | `references/ancillary/chiapello/Chiapello_Diktynna-In-The-Times-Of-Minos.pdf` | Theonym argument. |
+| *Giving, receiving, and giving back in Linear A* | `references/ancillary/chiapello/Chiapello_Giving-Receiving-And-Giving-Back-In-Linear-A.pdf` | Verbal-morphology argument. |
+| *Honey on the trail of the Great Absentee* | `references/ancillary/chiapello/Chiapello_Honey-On-The-Trail-Of-The-Great-Absentee.pdf` | Honey-ideogram *550 (mi+ja+ru). |
+| *Nothing arcane in Arkalochori* | `references/ancillary/chiapello/Chiapello_Nothing-Arcane-In-Arkalochori_AR-Zf-1-2.pdf` | AR Zf 1 / AR Zf 2 votive axes. |
+| *The pithos of Zakros: paying a tithe* | `references/ancillary/chiapello/Chiapello_The-Pithos-Of-Zakros-Paying-A-Tithe_ZA-8.pdf` | ZA 8 / ZA Zb 3. |
+| *Cybele in the land of Minos* | `references/ancillary/chiapello/Chiapello_Cybele-In-The-Land-Of-Minos_HT-24.pdf` | ku-pa3-ri-ja on HT 24 as *Κυβάλια*. |
+| *From oinos to poinos?* | `references/ancillary/chiapello/Chiapello_From-Oinos-To-Poinos_HT-14.pdf` | HT 14; *131a (VINa) as phonogram *wo-no*. |
+| *How many clues to make a prove [sic]* | `references/ancillary/chiapello/Chiapello_How-Many-Clues-To-Make-A-Prove_HT-31.pdf` | HT 31 vase-tablet. |
+| *It varies like Greek, why can't it be Greek?* | `references/ancillary/chiapello/Chiapello_It-Varies-Like-Greek_Ma-Ka-I-Ta.pdf` | ma-ka-i-ta / ma-ka-ta / ma-ka-ri-te regional variation. |
+| *Minoan KI-RO, Mycenaean o-pe-ro* | `references/ancillary/chiapello/Chiapello_Minoan-KI-RO-Mycenaean-O-PE-RO.pdf` | ki-ro ↔ o-pe-ro via *χείρων*. |
+| *The Linear A inscribed idol of Roccacasale* | `references/ancillary/chiapello/Chiapello_Linear-A-Inscribed-Idol-Of-Roccacasale.pdf` | Roccacasale idol. |
+| *The power of the tamer: Linear A I-DA-MA* | `references/ancillary/chiapello/Chiapello_Power-Of-The-Tamer_I-DA-MA-TE-Demeter.pdf` | I-DA-MA-TE / Demeter *δματήρ*. |
+| *The tablets of Minoan ἐλαιοχρίσται* | `references/ancillary/chiapello/Chiapello_Tablets-Of-Minoan-Elaiochristai_HT-121-114.pdf` | HT 121 / HT 114; ki-ri-ta2 as χρίσται, sa-ra2 as commodity. |
+| *A weight is a weight, and other coincidences* | `references/ancillary/chiapello/Chiapello_A-Weight-Is-A-Weight_MO-Zf-1.pdf` | MO Zf 1 weight; Laconian θ→σ. |
+| *Deductions on an unknown find surrounded by mystery* | `references/ancillary/chiapello/Chiapello_Deductions-On-Unknown-Find_Anetaki-Ring-Preempt.pdf` | Feb 2024 preemptive essay on the Anetaki ivory ring. |
+| *Greek hidden in plain sight: the Kophinas* | `references/ancillary/chiapello/Chiapello_Greek-Hidden-In-Plain-Sight_Kophinas-KO-Zf-2.pdf` | KO(?) Zf 2 mesomphalos bowl. |
+| *Sicut in Lineari A et in Lineari B* | `references/ancillary/chiapello/Chiapello_Sicut-In-Lineari-A-Et-Lineari-B_HT-88.pdf` | HT 88; a-du / a-pu-do-si and ki-ro / o-pe-ro equations. |
 
 (All Chiapello papers are author-posted on academia.edu; use the page <https://independent.academia.edu/DuccioChiapello> to locate the originals.)
 
-## FRINGE — non-Chiapello decipherment claims
+## ANCILLARY — non-Chiapello decipherment claims
 
 | Paper | Local path | Notes |
 |---|---|---|
-| Rjabchikov, S. V. (2024). *The decipherment of two records of Linear A* (ivory mirror). | `references/fringe/ТЕНДЕНЦИИ-И-ПРОБЛЕМЫ-РАЗВИТИЯ_Decipherment-Of-Two-Records-Of-Linear-A_Russian.pdf` | Russian-language bull-cult liturgical reading. Not accepted. |
-| *A novel approach to decipher Linear A.* | `references/fringe/A_NOVEL_APPROACH_TO_DECIPHER_LINEAR_A_DE.pdf` | (verify author.) |
-| Fuls, A. (2019). *The Phaistos Disk and Cretan Hieroglyphic.* | `references/fringe/Fuls-2019-Phaistos-Disk-CH.pdf` | Phaistos Disk approach. |
-| Lozano-Mendoza (2023). *Decoding Minoan.* | `references/fringe/Lozano-Mendoza-2023-Decoding-Minoan.pdf` | |
-| Philippou. *Mycenaean Greek: the biggest misunderstanding.* | `references/fringe/Philippou-Mycenean-Greek-Biggest-Misunderstanding.pdf` | |
-| Sampson, A., & Tsikritsis, M. (2023). *Melos symbols.* | `references/fringe/Sampson_Tsikritsis_2023_Melos_Symbols.pdf` | |
-| Dolkos, K. *Linear A: an attempt to interpret two engraved [pin/ring]…* | `references/fringe/Dolkos_Linear-A-Attempt-To-Interpret-Two-Engraved-Objects.pdf` | Dactylic hexameter reading of Troulos gold pin 9675 and Mavros Spilios gold ring (KN Zf 13). |
-| Kenanidis, I., & Papakitsos, E. (2016/17/18 + Malia stone, +2015 palaeographic). *Cretan Hieroglyphic / Linear A as Sumerian-derived "Protolinear" syllabary.* | `references/fringe/protolinear_sumerian/{4 papers}` | Coherent Sumerian-Protolinear hypothesis series. |
+| Rjabchikov, S. V. (2024). *The decipherment of two records of Linear A* (ivory mirror). | `references/ancillary/ТЕНДЕНЦИИ-И-ПРОБЛЕМЫ-РАЗВИТИЯ_Decipherment-Of-Two-Records-Of-Linear-A_Russian.pdf` | Russian-language bull-cult liturgical reading. Not accepted. |
+| *A novel approach to decipher Linear A.* | `references/ancillary/A_NOVEL_APPROACH_TO_DECIPHER_LINEAR_A_DE.pdf` | (verify author.) |
+| Fuls, A. (2019). *The Phaistos Disk and Cretan Hieroglyphic.* | `references/ancillary/Fuls-2019-Phaistos-Disk-CH.pdf` | Phaistos Disk approach. |
+| Lozano-Mendoza (2023). *Decoding Minoan.* | `references/ancillary/Lozano-Mendoza-2023-Decoding-Minoan.pdf` | |
+| Philippou. *Mycenaean Greek: the biggest misunderstanding.* | `references/ancillary/Philippou-Mycenean-Greek-Biggest-Misunderstanding.pdf` | |
+| Sampson, A., & Tsikritsis, M. (2023). *Melos symbols.* | `references/ancillary/Sampson_Tsikritsis_2023_Melos_Symbols.pdf` | |
+| Dolkos, K. *Linear A: an attempt to interpret two engraved [pin/ring]…* | `references/ancillary/Dolkos_Linear-A-Attempt-To-Interpret-Two-Engraved-Objects.pdf` | Dactylic hexameter reading of Troulos gold pin 9675 and Mavros Spilios gold ring (KN Zf 13). |
+| Kenanidis, I., & Papakitsos, E. (2016/17/18 + Malia stone, +2015 palaeographic). *Cretan Hieroglyphic / Linear A as Sumerian-derived "Protolinear" syllabary.* | `references/ancillary/protolinear_sumerian/{4 papers}` | Coherent Sumerian-Protolinear hypothesis series. |
 
 ## COMPARATIVE — adjacent scripts, languages, and material cultures
 
