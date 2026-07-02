@@ -125,3 +125,7 @@ The PDFs and extracted text in the private companion repo are NOT covered by thi
 Matt Navarre — based in Crete. Database developer, AI-integration specialist, and trainer. Not a Linear A specialist by training; this project is a serious-amateur attack on the puzzle, with AI assistance, where every claim aims to be auditable from the data in this repo.
 
 Contact via [lineara.eu](https://lineara.eu) or via this repo's issue tracker.
+
+---
+
+<sub>Last reviewed: 2026-07-02. This catalog is maintained; the corpus and bibliography are updated as new work appears.</sub>
