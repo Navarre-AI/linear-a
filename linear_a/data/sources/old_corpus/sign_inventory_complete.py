@@ -364,3 +364,4 @@ if __name__ == "__main__":
     print(f"Fractions: {len(CORPUS_FRACTIONS)}")
     print(f"Ligatures: {len(CORPUS_LIGATURES)}")
     print(f"Total: {complete_sign_count()}")
+

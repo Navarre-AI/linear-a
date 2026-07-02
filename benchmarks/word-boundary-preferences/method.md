@@ -23,3 +23,4 @@ hyphens to isolate initial and final syllabograms.
 - Only signs with 10+ total occurrences considered (avoids small-sample noise)
 - Threshold set at 75% preference (3:1 ratio) for "strong" preference
 - Analysis covers the full attested corpus, not a hand-selected subset
+

@@ -79,3 +79,4 @@ No evidence of grammatical number marking (singular vs. plural) on nouns.
 ## Confidence
 **Provisional success.**
 The AGENT-COMMODITY-QUANTITY pattern is robustly attested. The absence of verb morphology is a negative finding that depends on the administrative genre dominating the corpus.
+

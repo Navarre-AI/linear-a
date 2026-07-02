@@ -359,3 +359,4 @@ if __name__ == "__main__":
             sign = grid[c].get(v, '-')
             print(f"{sign:>8}", end='')
         print()
+

@@ -226,3 +226,4 @@ say "Final status"
 git status --short --branch 2>&1 | sed 's/^/  /'
 
 say "Done."
+

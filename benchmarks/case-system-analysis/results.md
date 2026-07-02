@@ -76,3 +76,4 @@ This is consistent with an agglutinative language with transparent case morpholo
 ## Confidence
 **Provisional success.**
 The distributional patterns are clear. The functional labels are interpretations that need validation against more text types and cross-linguistic parallels.
+

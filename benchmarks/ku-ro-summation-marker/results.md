@@ -44,3 +44,4 @@ The corpus strongly supports `ku-ro` as the most likely summation marker in the 
 ## Confidence
 **Provisional success.**
 The result is strong enough to count as an early replication benchmark, but still depends on heuristic quantity-line detection and a corpus that remains incomplete.
+

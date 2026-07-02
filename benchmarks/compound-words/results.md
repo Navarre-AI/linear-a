@@ -68,3 +68,4 @@ This is consistent with an **agglutinative or moderately synthetic language** â€
 ## Confidence
 **Provisional success.**
 Based on 1,025 unique words from the full corpus. The a- prefix dominance and ku-ro compounding are robust findings. Some "families" may be coincidental string matches rather than true morphological relationships, especially for short roots.
+

@@ -66,3 +66,4 @@ The sign A303 at Khania (5.3% vs 0-0.5% elsewhere) and the OVIS ideogram concent
 ## Confidence
 **Provisional success.**
 The vocabulary divergence is real and measurable. Whether it represents true dialect variation vs. administrative specialization vs. temporal change cannot be determined from this data alone. A controlled comparison holding document type and period constant would strengthen the finding.
+

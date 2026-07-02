@@ -30,3 +30,4 @@ if not REFS_ROOT.exists():
         "Set MINOAN_REFS_ROOT env var to the correct path.",
         stacklevel=2,
     )
+

@@ -15,3 +15,4 @@ Using a semi-blind structural method, `ku-ro` emerged as the dominant first toke
 ## Related findings
 - `po-to-ku-ro` appears as a rarer but structurally parallel extended summation expression.
 - `ki-ro` appears as a lower-frequency related administrative marker.
+

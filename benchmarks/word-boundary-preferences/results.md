@@ -83,3 +83,4 @@ The pattern matches typological expectations for an agglutinative or suffixing l
 ## Confidence
 **Provisional success.**
 The signal is strong and based on the full attested corpus (951 words, 772 documents). The positional preferences are not artifacts of a few high-frequency words — they persist across the vocabulary. This analysis has not been published at this granularity from the complete corpus.
+

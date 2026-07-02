@@ -272,3 +272,4 @@ if __name__ == '__main__':
             sign = patterns[c].get(v, '-')
             print(f"{sign:>6}", end='')
         print()
+

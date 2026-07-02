@@ -291,3 +291,4 @@ if __name__ == '__main__':
     print(f"Haghia Triada Corpus (Part 1)")
     print(f"{'='*50}")
     print(f"Total tablets: {len(HT_CORPUS)}")
+

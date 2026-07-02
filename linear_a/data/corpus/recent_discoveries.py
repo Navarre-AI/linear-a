@@ -202,3 +202,4 @@ KEY_PAPERS_2023_2026 = {
         'significance': 'Recent independent Anatolian language family proposal',
     },
 }
+

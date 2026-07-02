@@ -16,3 +16,4 @@ A semi-blind structural analysis of ritual texts re-discovers a strongly ritual-
 - `a-ta-i-*301-wa-ja` appears in 21 ritual documents and 0 non-ritual documents.
 - `a-ta-i-*301-wa-ja . ja-sa-sa-ra-me` is the strongest repeated ritual bigram.
 - `a-ta-i-*301-wa-ja . ja-sa-sa-ra-me . i-da-ma-te` recurs as a longer extension tier.
+

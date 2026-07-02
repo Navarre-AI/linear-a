@@ -123,3 +123,4 @@ Current target: **Complete Level 1 + meaningful progress on Levels 2-4** in this
 4. **Fresh eyes beat old biases.** We have no reputation to protect. Test everything.
 5. **One solid word is worth more than a speculative paragraph.** Depth over breadth.
 6. **Show your work.** Every proposed reading must trace back to evidence.
+

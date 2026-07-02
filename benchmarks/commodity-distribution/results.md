@@ -44,3 +44,4 @@ The commodity distribution reveals a palatial economy centered on agricultural p
 ## Confidence
 **Provisional success.**
 Commodity identification relies on established logogram readings. The FIC dominance finding should be verified against GORILA attestation counts.
+

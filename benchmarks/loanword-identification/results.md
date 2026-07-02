@@ -51,3 +51,4 @@ This trilateral contact pattern is exactly what an isolate language in a Bronze 
 ## Confidence
 **Provisional success.**
 Place name identifications are secure. Trade term comparisons are plausible but rely on phonetic similarity that could be coincidental. Religious term comparisons are the weakest link.
+

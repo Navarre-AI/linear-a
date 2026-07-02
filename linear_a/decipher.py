@@ -459,3 +459,4 @@ def print_findings(findings):
 
 if __name__ == '__main__':
     results = run_pipeline(verbose=True)
+

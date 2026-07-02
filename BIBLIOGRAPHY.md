@@ -269,3 +269,4 @@ These are works cited by the literature already in the corpus but not yet clearl
 - When a "(verify)" entry is confirmed against the title page, edit the citation here.
 - Project analysis notes live in `docs/analysis/`; file-path references in those notes use the paths above.
 - The repository is currently private. If it is made public again, we will revisit whether PDFs should be gitignored (and replaced with download URLs in this bibliography) or retained.
+

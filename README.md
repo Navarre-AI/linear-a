@@ -129,3 +129,4 @@ Contact via [lineara.eu](https://lineara.eu) or via this repo's issue tracker.
 ---
 
 <sub>Last reviewed: 2026-07-02. This catalog is maintained; the corpus and bibliography are updated as new work appears.</sub>
+

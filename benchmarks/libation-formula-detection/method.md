@@ -55,3 +55,4 @@ A successful replication would recover a repeated ritual sequence family with:
 - The current corpus is still incomplete.
 - The benchmark establishes structural recurrence, not semantic proof.
 - The formula family may contain multiple subtypes or local variants that are not yet separated here.
+

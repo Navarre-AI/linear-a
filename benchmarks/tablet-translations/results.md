@@ -210,3 +210,4 @@ Administrative terms (ku-ro, ki-ro, po-to-ku-ro, da-me) are HIGH confidence.
 Place names (pa-ja-re, ku-do-ni, su-ki-ri-ta, se-to-i-ja) are HIGH-MEDIUM.
 Personal names and speculative terms require further validation.
 The arithmetic verification across all tablets provides strong independent confirmation.
+

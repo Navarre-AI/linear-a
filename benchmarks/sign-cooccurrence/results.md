@@ -62,3 +62,4 @@ The 16% forbidden rate among the most common signs is significant — in a truly
 ## Confidence
 **Provisional success.**
 Based on 4,408 bigram tokens across the full corpus. Small corpus effects may inflate the forbidden count for less common signs, but the patterns among the top 15 signs (all with 100+ attestations) are robust.
+

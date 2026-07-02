@@ -86,3 +86,4 @@ Issues, pull requests, and "I built something with this" reports are welcome:
 - GitHub: https://github.com/Navarre-AI/linear-a/issues
 - Email: matt@navarre.training
 - The lineara.eu contact form
+

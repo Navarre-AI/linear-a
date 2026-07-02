@@ -69,3 +69,4 @@ This is consistent with the known administrative structure but extends it with s
 ## Confidence
 **Provisional success.**
 The distributional test is straightforward and the results are consistent with known tablet structure. However, the boundary between names and transaction terms is not always sharp, and ritual vocabulary detection was limited by document-type encoding in the imported data.
+

@@ -262,3 +262,4 @@ if __name__ == '__main__':
     print(f"\nFormula patterns:")
     for pattern, count in get_formula_patterns().most_common():
         print(f"  [{count}x] {pattern}")
+

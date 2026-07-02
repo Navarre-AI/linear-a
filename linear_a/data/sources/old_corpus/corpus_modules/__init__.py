@@ -154,3 +154,4 @@ if __name__ == '__main__':
     print(f"\nTop 20 most frequent words:")
     for word, count in get_unique_words().most_common(20):
         print(f"  {word}: {count}")
+

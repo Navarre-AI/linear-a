@@ -23,3 +23,4 @@ The current corpus is consistent with `po-to-ku-ro` as a rarer extended summatio
 ## Confidence
 **Provisional success.**
 The structural alignment is clear, but the sample size is too small for a stronger claim.
+

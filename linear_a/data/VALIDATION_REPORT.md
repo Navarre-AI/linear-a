@@ -62,3 +62,4 @@ should be retained for backward compatibility but marked as deprecated.
 The libation formula entries (29) should be migrated to the new format and added
 to the structured corpus, since they represent important ritual texts that SigLA
 may undercount.
+

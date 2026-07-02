@@ -658,3 +658,4 @@ if __name__ == "__main__":
         entries = get_by_class(wc)
         if entries:
             print(f"  {wc}: {len(entries)}")
+

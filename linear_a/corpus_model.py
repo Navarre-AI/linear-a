@@ -312,3 +312,4 @@ class Corpus:
 
 # Global corpus instance
 CORPUS = Corpus()
+
