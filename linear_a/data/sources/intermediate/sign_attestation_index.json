@@ -1,0 +1,11832 @@
+{
+  "AB59": {
+    "total_occurrences": 114,
+    "documents": [
+      "ARKH 1a",
+      "ARKH 4a",
+      "ARKH 5",
+      "HT 104",
+      "HT 108",
+      "HT 109",
+      "HT 10b",
+      "HT 115a",
+      "HT 115b",
+      "HT 116a",
+      "HT 117a",
+      "HT 120",
+      "HT 123a",
+      "HT 123b",
+      "HT 128a",
+      "HT 13",
+      "HT 135b",
+      "HT 146",
+      "HT 154A",
+      "HT 2",
+      "HT 21",
+      "HT 25a",
+      "HT 26a",
+      "HT 27a",
+      "HT 28a",
+      "HT 29",
+      "HT 31",
+      "HT 35",
+      "HT 39",
+      "HT 4",
+      "HT 40",
+      "HT 42+59",
+      "HT 49a",
+      "HT 49b",
+      "HT 51b",
+      "HT 66",
+      "HT 6a",
+      "HT 7a",
+      "HT 87",
+      "HT 88",
+      "HT 89",
+      "HT 8a",
+      "HT 94a",
+      "HT 94b",
+      "HT 95a",
+      "HT 96a",
+      "HT 97a",
+      "HT 98a",
+      "HT 99b",
+      "HT 9a",
+      "HT 9b",
+      "HT Wa 1019\u03b1",
+      "HT Wa 1020\u03b3",
+      "HT Wa 1268",
+      "HT Wa 1278",
+      "HT Wc 3005a",
+      "HT Wc 3008b",
+      "HT Zb 160",
+      "HT Zd 156",
+      "KH 11",
+      "KH 16",
+      "KH 39",
+      "KH 41",
+      "KH 50",
+      "KH 52",
+      "KH 6",
+      "KH 60",
+      "KH 64",
+      "KH 79+89",
+      "KH 7a",
+      "KH 7b",
+      "KH 8",
+      "KH 90",
+      "KN 22a",
+      "KN 32a",
+      "KN Zf 13",
+      "MA 4a",
+      "PH 31a",
+      "PH 3a",
+      "PH 6",
+      "PH 7b",
+      "PH Wa 32",
+      "PH Wc 38",
+      "PS Za 2",
+      "SY Za 4",
+      "ZA 10a",
+      "ZA 10b",
+      "ZA 20",
+      "ZA 21a",
+      "ZA 24b",
+      "ZA 5a",
+      "ZA 5b",
+      "ZA 8",
+      "ZA 9"
+    ],
+    "sites": {
+      "Arkhanes": 4,
+      "Haghia Triada": 65,
+      "Khania": 17,
+      "Knossos": 3,
+      "Mallia": 1,
+      "Phaistos": 6,
+      "Psykhro": 1,
+      "Syme": 1,
+      "Zakros": 16
+    },
+    "roles": {
+      "syllabogram": 106,
+      "logogram": 7,
+      "erasure": 1
+    },
+    "doc_types": {
+      "tablet": 101,
+      "nodule": 5,
+      "roundel": 3,
+      "pithos": 1,
+      "graffiti": 1,
+      "jewellery": 1,
+      "libation_table": 2
+    },
+    "periods": {
+      "unknown": 14,
+      "LM IB": 98,
+      "MM III": 1,
+      "MM II": 1
+    },
+    "readings": {
+      "ta": 106,
+      "AB59": 8
+    }
+  },
+  "AB39": {
+    "total_occurrences": 37,
+    "documents": [
+      "ARKH 1a",
+      "ARKH 3b",
+      "ARKH 4a",
+      "HT 116a",
+      "HT 123b",
+      "HT 126a",
+      "HT 21",
+      "HT 4",
+      "HT 47a",
+      "HT 6a",
+      "HT 87",
+      "HT 96a",
+      "HT 9b",
+      "KH 10",
+      "KH 18",
+      "KH 6",
+      "KH 86",
+      "KN Wc 26b",
+      "KN Zc 7",
+      "KN Ze 16",
+      "KN Zf 13",
+      "MA 10b",
+      "PH 19",
+      "PH 2",
+      "TY 2",
+      "TY 3b",
+      "ZA 10a",
+      "ZA 11a",
+      "ZA 14",
+      "ZA 21a",
+      "ZA 4a",
+      "ZA 5b",
+      "ZA 8"
+    ],
+    "sites": {
+      "Arkhanes": 4,
+      "Haghia Triada": 11,
+      "Khania": 4,
+      "Knossos": 4,
+      "Mallia": 1,
+      "Phaistos": 2,
+      "Tylissos": 2,
+      "Zakros": 9
+    },
+    "roles": {
+      "syllabogram": 37
+    },
+    "doc_types": {
+      "tablet": 33,
+      "roundel": 1,
+      "cup": 1,
+      "architecture": 1,
+      "jewellery": 1
+    },
+    "periods": {
+      "unknown": 11,
+      "LM IB": 26
+    },
+    "readings": {
+      "pi": 37
+    }
+  },
+  "AB16": {
+    "total_occurrences": 28,
+    "documents": [
+      "ARKH 1a",
+      "HT 116a",
+      "HT 118",
+      "HT 12",
+      "HT 122a",
+      "HT 122b",
+      "HT 131a",
+      "HT 132",
+      "HT 23a",
+      "HT 31",
+      "HT 44a",
+      "HT 70",
+      "HT 85b",
+      "HT 86a",
+      "HT 8a",
+      "HT 8b",
+      "HT 93a",
+      "HT 96b",
+      "HT Wc 3017a",
+      "KH 10",
+      "KH 47",
+      "KH 7a",
+      "KH 88",
+      "KN Wb 33a",
+      "ZA 14"
+    ],
+    "sites": {
+      "Arkhanes": 1,
+      "Haghia Triada": 21,
+      "Khania": 4,
+      "Knossos": 1,
+      "Zakros": 1
+    },
+    "roles": {
+      "logogram": 1,
+      "syllabogram": 27
+    },
+    "doc_types": {
+      "tablet": 26,
+      "roundel": 1,
+      "sealing": 1
+    },
+    "periods": {
+      "unknown": 2,
+      "LM IB": 26
+    },
+    "readings": {
+      "AB16": 1,
+      "qa": 27
+    }
+  },
+  "AB67": {
+    "total_occurrences": 103,
+    "documents": [
+      "ARKH 1a",
+      "ARKH 3a",
+      "ARKH 4b",
+      "HT 1",
+      "HT 100",
+      "HT 103",
+      "HT 108",
+      "HT 114a",
+      "HT 116a",
+      "HT 117a",
+      "HT 117b",
+      "HT 118",
+      "HT 120",
+      "HT 121",
+      "HT 122a",
+      "HT 122b",
+      "HT 123a",
+      "HT 123b",
+      "HT 13",
+      "HT 15",
+      "HT 154",
+      "HT 2",
+      "HT 25a",
+      "HT 26a",
+      "HT 27a",
+      "HT 29",
+      "HT 30",
+      "HT 31",
+      "HT 34",
+      "HT 37",
+      "HT 40",
+      "HT 47a",
+      "HT 49a",
+      "HT 54a",
+      "HT 54b",
+      "HT 55a",
+      "HT 62+73",
+      "HT 6b",
+      "HT 81",
+      "HT 85b",
+      "HT 87",
+      "HT 88",
+      "HT 8a",
+      "HT 93a",
+      "HT 93b",
+      "HT 94b",
+      "HT 97a",
+      "HT Zb 158a",
+      "HT Zb 158b",
+      "KH 10",
+      "KH 20",
+      "KH 5",
+      "KH 6",
+      "KH 60",
+      "KH 7a",
+      "KH 92",
+      "KN Wb 33a",
+      "KN Zb 40",
+      "KN Zc 6",
+      "PH 2",
+      "PH 28a",
+      "PH 7a",
+      "PH Wa 32",
+      "TY 2",
+      "TY 3a",
+      "TY 3b",
+      "ZA 10b",
+      "ZA 14",
+      "ZA 15a",
+      "ZA 1a",
+      "ZA 21b",
+      "ZA 26a",
+      "ZA 27",
+      "ZA 4a",
+      "ZA 5a",
+      "ZA 5b",
+      "ZA 8"
+    ],
+    "sites": {
+      "Arkhanes": 4,
+      "Haghia Triada": 70,
+      "Khania": 7,
+      "Knossos": 3,
+      "Phaistos": 4,
+      "Tylissos": 4,
+      "Zakros": 11
+    },
+    "roles": {
+      "syllabogram": 92,
+      "logogram": 9,
+      "erasure": 2
+    },
+    "doc_types": {
+      "tablet": 97,
+      "pithos": 2,
+      "sealing": 1,
+      "pithoid_jar": 1,
+      "cup": 1,
+      "nodule": 1
+    },
+    "periods": {
+      "unknown": 11,
+      "LM IB": 91,
+      "MM III": 1
+    },
+    "readings": {
+      "ki": 92,
+      "AB67": 11
+    }
+  },
+  "AB08": {
+    "total_occurrences": 139,
+    "documents": [
+      "ARKH 1a",
+      "ARKH 1b",
+      "ARKH 2",
+      "ARKH 4a",
+      "ARKH 4b",
+      "ARKH 5",
+      "GO Wc 1a",
+      "HS Zg 1",
+      "HT 1",
+      "HT 109",
+      "HT 115a",
+      "HT 115b",
+      "HT 118",
+      "HT 11a",
+      "HT 122b",
+      "HT 126a",
+      "HT 132",
+      "HT 133",
+      "HT 14",
+      "HT 141",
+      "HT 15",
+      "HT 2",
+      "HT 25a",
+      "HT 28a",
+      "HT 28b",
+      "HT 29",
+      "HT 37",
+      "HT 4",
+      "HT 45b",
+      "HT 49a",
+      "HT 57a",
+      "HT 81",
+      "HT 85a",
+      "HT 86a",
+      "HT 86b",
+      "HT 87",
+      "HT 88",
+      "HT 89",
+      "HT 92",
+      "HT 93a",
+      "HT 95b",
+      "HT 96a",
+      "HT 96b",
+      "HT 97a",
+      "HT 99a",
+      "HT 9a",
+      "HT 9b",
+      "HT Wa 1147",
+      "HT Wa 1148",
+      "HT Zb 159",
+      "HT Zd 155",
+      "KH 10",
+      "KH 11",
+      "KH 13",
+      "KH 14",
+      "KH 17",
+      "KH 20",
+      "KH 23",
+      "KH 33",
+      "KH 39",
+      "KH 4",
+      "KH 45",
+      "KH 5",
+      "KH 53",
+      "KH 58",
+      "KH 73",
+      "KH 79+89",
+      "KH 83",
+      "KH 9",
+      "KH 92",
+      "KH 97a",
+      "KH 99",
+      "KN 32a",
+      "KN Zb 20",
+      "KN Zb 40",
+      "KN Zb 5",
+      "KN Zc 6",
+      "KN Zc 7",
+      "KN Ze 16",
+      "KN Zf 13",
+      "MA 1b",
+      "MA 4b",
+      "MA Wc <5a>",
+      "PA 1",
+      "PH 14b",
+      "PH 2",
+      "PH 27",
+      "PH 28a",
+      "PH 31a",
+      "PH 31b",
+      "PH 6",
+      "SY Za 4",
+      "TY 3a",
+      "ZA 10a",
+      "ZA 10b",
+      "ZA 11a",
+      "ZA 21a",
+      "ZA 4a",
+      "ZA 7a",
+      "ZA 7b",
+      "ZA 8",
+      "ZA 9",
+      "ZA Wc 2"
+    ],
+    "sites": {
+      "Arkhanes": 12,
+      "Gournia": 1,
+      "Haghios Stephanos": 1,
+      "Haghia Triada": 49,
+      "Khania": 28,
+      "Knossos": 13,
+      "Mallia": 3,
+      "Papoura": 1,
+      "Phaistos": 9,
+      "Syme": 1,
+      "Tylissos": 4,
+      "Zakros": 17
+    },
+    "roles": {
+      "syllabogram": 136,
+      "erasure": 1,
+      "logogram": 2
+    },
+    "doc_types": {
+      "tablet": 118,
+      "roundel": 4,
+      "plaque": 1,
+      "nodule": 2,
+      "pithos": 1,
+      "graffiti": 1,
+      "sherd": 1,
+      "pithoid_jar": 2,
+      "clay_vase": 1,
+      "cup": 4,
+      "architecture": 1,
+      "jewellery": 2,
+      "libation_table": 1
+    },
+    "periods": {
+      "unknown": 38,
+      "LM IB": 100,
+      "LM IA": 1
+    },
+    "readings": {
+      "a": 136,
+      "AB08": 3
+    }
+  },
+  "AB60": {
+    "total_occurrences": 87,
+    "documents": [
+      "ARKH 1a",
+      "ARKH 2",
+      "HT 1",
+      "HT 103",
+      "HT 109",
+      "HT 113",
+      "HT 115a",
+      "HT 115b",
+      "HT 117a",
+      "HT 11a",
+      "HT 120",
+      "HT 122a",
+      "HT 122b",
+      "HT 128a",
+      "HT 147",
+      "HT 17",
+      "HT 19",
+      "HT 23b",
+      "HT 25a",
+      "HT 27a",
+      "HT 28a",
+      "HT 30",
+      "HT 31",
+      "HT 47b",
+      "HT 49a",
+      "HT 53a",
+      "HT 57a",
+      "HT 58",
+      "HT 62+73",
+      "HT 6a",
+      "HT 6b",
+      "HT 80",
+      "HT 85b",
+      "HT 87",
+      "HT 89",
+      "HT 8a",
+      "HT 94b",
+      "HT 96a",
+      "HT 96b",
+      "HT 9a",
+      "HT 9b",
+      "HT Wc 3006b",
+      "HT Wc 3011",
+      "HT Wc 3012a",
+      "KH 14",
+      "KH 20",
+      "KH 29",
+      "KH 47",
+      "KH 5",
+      "KH 60",
+      "KH 79+89",
+      "KN 1b",
+      "KN Wc 30",
+      "KN Zc 7",
+      "MA 2a",
+      "PH 1a",
+      "PH 2",
+      "PH 3a",
+      "PH 7a",
+      "PH 7b",
+      "PH Wa 32",
+      "PS Za 2",
+      "ZA 11a",
+      "ZA 11b",
+      "ZA 19",
+      "ZA 20",
+      "ZA 22",
+      "ZA 7a",
+      "ZA 8",
+      "ZA 9"
+    ],
+    "sites": {
+      "Arkhanes": 2,
+      "Haghia Triada": 54,
+      "Khania": 7,
+      "Knossos": 5,
+      "Mallia": 1,
+      "Phaistos": 6,
+      "Psykhro": 1,
+      "Zakros": 11
+    },
+    "roles": {
+      "syllabogram": 85,
+      "erasure": 1,
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 77,
+      "roundel": 5,
+      "cup": 3,
+      "nodule": 1,
+      "libation_table": 1
+    },
+    "periods": {
+      "unknown": 13,
+      "LM IB": 72,
+      "LM IA": 1,
+      "MM III": 1
+    },
+    "readings": {
+      "ra": 85,
+      "AB60": 2
+    }
+  },
+  "AB58": {
+    "total_occurrences": 46,
+    "documents": [
+      "ARKH 1a",
+      "ARKH 2",
+      "ARKH 4a",
+      "GO Wc 1a",
+      "HT 1",
+      "HT 104",
+      "HT 108",
+      "HT 10a",
+      "HT 115a",
+      "HT 117a",
+      "HT 118",
+      "HT 11a",
+      "HT 20",
+      "HT 31",
+      "HT 32",
+      "HT 37",
+      "HT 42+59",
+      "HT 49a",
+      "HT 63",
+      "HT 81",
+      "HT 86a",
+      "HT 86b",
+      "HT 87",
+      "HT 8b",
+      "HT 95b",
+      "HT Wc 3009a",
+      "HT Wc 3010",
+      "HT Zb 158a",
+      "HT Zb 158b",
+      "HT Zd 157",
+      "KH 11",
+      "KH 22",
+      "KH 24",
+      "KH 63",
+      "KH 74",
+      "KH 9",
+      "KN 22a",
+      "KN 22c",
+      "KN 32b",
+      "PH Wa 32",
+      "ZA 13",
+      "ZA 16"
+    ],
+    "sites": {
+      "Arkhanes": 3,
+      "Gournia": 1,
+      "Haghia Triada": 30,
+      "Khania": 6,
+      "Knossos": 3,
+      "Phaistos": 1,
+      "Zakros": 2
+    },
+    "roles": {
+      "syllabogram": 40,
+      "erasure": 2,
+      "logogram": 4
+    },
+    "doc_types": {
+      "tablet": 39,
+      "roundel": 3,
+      "pithos": 2,
+      "graffiti": 1,
+      "nodule": 1
+    },
+    "periods": {
+      "unknown": 5,
+      "LM IB": 39,
+      "LM IA": 1,
+      "MM III": 1
+    },
+    "readings": {
+      "su": 40,
+      "AB58": 6
+    }
+  },
+  "AB73": {
+    "total_occurrences": 69,
+    "documents": [
+      "ARKH 1a",
+      "ARKH 2",
+      "ARKH 4b",
+      "HT 110a",
+      "HT 113 ter",
+      "HT 115a",
+      "HT 117a",
+      "HT 119",
+      "HT 122a",
+      "HT 127a",
+      "HT 128a",
+      "HT 135a",
+      "HT 154C",
+      "HT 26a",
+      "HT 27a",
+      "HT 27b",
+      "HT 28b",
+      "HT 29",
+      "HT 41a",
+      "HT 47a",
+      "HT 54a",
+      "HT 61",
+      "HT 66",
+      "HT 6b",
+      "HT 85b",
+      "HT 86a",
+      "HT 87",
+      "HT 89",
+      "HT 95a",
+      "HT 95b",
+      "HT 96a",
+      "HT Wc 3006a",
+      "HT Wc 3014a",
+      "KH 79+89",
+      "KH 9",
+      "KN 22c",
+      "MA 1a",
+      "MA 1b",
+      "PH 14b",
+      "PH 30",
+      "PH 31b",
+      "TY 3b",
+      "ZA 10a",
+      "ZA 10b",
+      "ZA 14",
+      "ZA 15a",
+      "ZA 1b",
+      "ZA 20",
+      "ZA 21a",
+      "ZA 23",
+      "ZA 27",
+      "ZA 5a",
+      "ZA 6a",
+      "ZA 7a",
+      "ZA 9",
+      "ZA Wc 2"
+    ],
+    "sites": {
+      "Arkhanes": 4,
+      "Haghia Triada": 39,
+      "Khania": 2,
+      "Knossos": 1,
+      "Mallia": 2,
+      "Phaistos": 3,
+      "Tylissos": 1,
+      "Zakros": 17
+    },
+    "roles": {
+      "syllabogram": 68,
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 67,
+      "roundel": 2
+    },
+    "periods": {
+      "unknown": 10,
+      "LM IB": 58,
+      "LM IA": 1
+    },
+    "readings": {
+      "mi": 68,
+      "AB73": 1
+    }
+  },
+  "AB118": {
+    "total_occurrences": 24,
+    "documents": [
+      "ARKH 1a",
+      "ARKH 2",
+      "HT 12",
+      "HT 122a",
+      "HT 13",
+      "HT 131a",
+      "HT 140",
+      "HT 24b",
+      "HT 38",
+      "HT 44a",
+      "HT 70",
+      "HT 85a",
+      "HT 96b",
+      "HT 99b",
+      "KH 10",
+      "KH 88",
+      "KH 99",
+      "KN 2",
+      "PA 1",
+      "ZA 14",
+      "ZA 21a",
+      "ZA 5a"
+    ],
+    "sites": {
+      "Arkhanes": 2,
+      "Haghia Triada": 14,
+      "Khania": 3,
+      "Knossos": 1,
+      "Papoura": 1,
+      "Zakros": 3
+    },
+    "roles": {
+      "syllabogram": 18,
+      "logogram": 6
+    },
+    "doc_types": {
+      "tablet": 24
+    },
+    "periods": {
+      "unknown": 2,
+      "LM IB": 21,
+      "LM IA": 1
+    },
+    "readings": {
+      "*118": 18,
+      "AB118": 6
+    }
+  },
+  "AB24": {
+    "total_occurrences": 46,
+    "documents": [
+      "ARKH 1a",
+      "ARKH 3a",
+      "ARKH 4a",
+      "HT 103",
+      "HT 104",
+      "HT 115a",
+      "HT 115b",
+      "HT 116a",
+      "HT 117a",
+      "HT 117b",
+      "HT 12",
+      "HT 122a",
+      "HT 127a",
+      "HT 127b",
+      "HT 13",
+      "HT 135a",
+      "HT 135b",
+      "HT 29",
+      "HT 52b",
+      "HT 53a",
+      "HT 55a",
+      "HT 6a",
+      "HT 7b",
+      "HT 87",
+      "HT 94b",
+      "HT 96a",
+      "HT 96b",
+      "HT 98b",
+      "HT Wa 1019\u03b1",
+      "HT Zd 156",
+      "KH 47",
+      "KH 5",
+      "KH 53",
+      "KH 6",
+      "KH 83",
+      "KN Zc 7",
+      "KN Zf 13",
+      "PH 31a",
+      "PH 31b",
+      "PH 7a",
+      "ZA 10b"
+    ],
+    "sites": {
+      "Arkhanes": 4,
+      "Haghia Triada": 31,
+      "Khania": 5,
+      "Knossos": 2,
+      "Phaistos": 3,
+      "Zakros": 1
+    },
+    "roles": {
+      "logogram": 4,
+      "syllabogram": 42
+    },
+    "doc_types": {
+      "tablet": 41,
+      "nodule": 1,
+      "graffiti": 2,
+      "cup": 1,
+      "jewellery": 1
+    },
+    "periods": {
+      "unknown": 9,
+      "LM IB": 37
+    },
+    "readings": {
+      "AB24": 4,
+      "ne": 42
+    }
+  },
+  "AB03": {
+    "total_occurrences": 91,
+    "documents": [
+      "ARKH 1a",
+      "HT 102",
+      "HT 104",
+      "HT 10a",
+      "HT 110a",
+      "HT 112a",
+      "HT 115a",
+      "HT 115b",
+      "HT 116a",
+      "HT 120",
+      "HT 122a",
+      "HT 128a",
+      "HT 140",
+      "HT 154A",
+      "HT 16",
+      "HT 18",
+      "HT 20",
+      "HT 24a",
+      "HT 25a",
+      "HT 26b",
+      "HT 27b",
+      "HT 29",
+      "HT 31",
+      "HT 38",
+      "HT 4",
+      "HT 41a",
+      "HT 43",
+      "HT 45a",
+      "HT 62+73",
+      "HT 6a",
+      "HT 79+83",
+      "HT 85b",
+      "HT 88",
+      "HT 8a",
+      "HT 8b",
+      "HT 93a",
+      "HT 94a",
+      "HT 94b",
+      "HT 96a",
+      "HT 96b",
+      "HT 97a",
+      "HT 9a",
+      "HT 9b",
+      "HT Wa 1019\u03b1",
+      "HT Wa 1020\u03b1",
+      "HT Wc 3001",
+      "HT Wc 3002",
+      "HT Wc 3015a",
+      "HT Wc 3016a",
+      "HT Zb 160",
+      "KH 10",
+      "KH 29",
+      "KH 5",
+      "KH 6",
+      "KH 79",
+      "KH 79+89",
+      "KH 7a",
+      "KH 7b",
+      "KH 99",
+      "KN 32a",
+      "KN 32b",
+      "KN Zb 40",
+      "KN Zc 6",
+      "KN Zf 13",
+      "PA 1",
+      "PH 1b",
+      "PH 31a",
+      "PH 3a",
+      "PH 7a",
+      "TY 2",
+      "TY 3b",
+      "ZA 10a",
+      "ZA 10b",
+      "ZA 11a",
+      "ZA 11b",
+      "ZA 12a",
+      "ZA 12b",
+      "ZA 13",
+      "ZA 14",
+      "ZA 16",
+      "ZA 21a",
+      "ZA 4a",
+      "ZA 6b",
+      "ZA 8"
+    ],
+    "sites": {
+      "Arkhanes": 1,
+      "Haghia Triada": 54,
+      "Khania": 10,
+      "Knossos": 6,
+      "Papoura": 1,
+      "Phaistos": 4,
+      "Tylissos": 2,
+      "Zakros": 13
+    },
+    "roles": {
+      "syllabogram": 81,
+      "transaction": 1,
+      "logogram": 9
+    },
+    "doc_types": {
+      "tablet": 82,
+      "nodule": 2,
+      "roundel": 2,
+      "pithos": 1,
+      "pithoid_jar": 1,
+      "cup": 2,
+      "jewellery": 1
+    },
+    "periods": {
+      "unknown": 11,
+      "LM IB": 80
+    },
+    "readings": {
+      "pa": 81,
+      "AB03": 10
+    }
+  },
+  "AB31": {
+    "total_occurrences": 87,
+    "documents": [
+      "ARKH 1a",
+      "GO Wc 1a",
+      "HT 100",
+      "HT 101",
+      "HT 102",
+      "HT 10a",
+      "HT 10b",
+      "HT 113",
+      "HT 114a",
+      "HT 117a",
+      "HT 11b",
+      "HT 121",
+      "HT 123a",
+      "HT 123b",
+      "HT 130",
+      "HT 16",
+      "HT 17",
+      "HT 18",
+      "HT 19",
+      "HT 20",
+      "HT 23a",
+      "HT 24a",
+      "HT 27a",
+      "HT 27b",
+      "HT 28a",
+      "HT 28b",
+      "HT 29",
+      "HT 30",
+      "HT 31",
+      "HT 32",
+      "HT 33",
+      "HT 34",
+      "HT 39",
+      "HT 42+59",
+      "HT 52a",
+      "HT 53a",
+      "HT 56a",
+      "HT 62+73",
+      "HT 6b",
+      "HT 70",
+      "HT 86a",
+      "HT 86b",
+      "HT 88",
+      "HT 89",
+      "HT 90",
+      "HT 93a",
+      "HT 94a",
+      "HT 94b",
+      "HT 95a",
+      "HT 95b",
+      "HT 96a",
+      "HT 96b",
+      "HT 97b",
+      "HT 99a",
+      "HT 9a",
+      "KE 1",
+      "KH 10",
+      "KH 5",
+      "KH 6",
+      "KN 32b",
+      "KN Zc 7",
+      "MA Wc <5a>",
+      "PH 16b",
+      "PH 2",
+      "PH 6",
+      "PS Za 2",
+      "ZA 10b",
+      "ZA 11b",
+      "ZA 15a",
+      "ZA 21b",
+      "ZA 5a"
+    ],
+    "sites": {
+      "Arkhanes": 1,
+      "Gournia": 1,
+      "Haghia Triada": 64,
+      "Kea": 1,
+      "Khania": 5,
+      "Knossos": 2,
+      "Mallia": 1,
+      "Phaistos": 3,
+      "Psykhro": 2,
+      "Zakros": 7
+    },
+    "roles": {
+      "syllabogram": 79,
+      "transaction": 4,
+      "erasure": 1,
+      "logogram": 3
+    },
+    "doc_types": {
+      "tablet": 82,
+      "roundel": 2,
+      "cup": 1,
+      "libation_table": 2
+    },
+    "periods": {
+      "unknown": 10,
+      "LM IB": 77
+    },
+    "readings": {
+      "sa": 79,
+      "AB31": 8
+    }
+  },
+  "AB57": {
+    "total_occurrences": 88,
+    "documents": [
+      "ARKH 1b",
+      "ARKH 3b",
+      "HT 115a",
+      "HT 115b",
+      "HT 116a",
+      "HT 119",
+      "HT 11a",
+      "HT 122a",
+      "HT 123a",
+      "HT 126a",
+      "HT 154A",
+      "HT 24a",
+      "HT 28a",
+      "HT 28b",
+      "HT 29",
+      "HT 3",
+      "HT 31",
+      "HT 41a",
+      "HT 44b",
+      "HT 55b",
+      "HT 6a",
+      "HT 7a",
+      "HT 84",
+      "HT 85b",
+      "HT 87",
+      "HT 88",
+      "HT 8b",
+      "HT 93a",
+      "HT 9b",
+      "HT Wc 3001",
+      "HT Wc 3002",
+      "HT Wc 3008b",
+      "HT Zb 158b",
+      "HT Zb 159",
+      "HT Zd 156",
+      "HT Zd 157",
+      "KE Zb 4",
+      "KH 10",
+      "KH 14",
+      "KH 74",
+      "KH 7a",
+      "KH 90",
+      "KH 97a",
+      "KH Wc 2100",
+      "KN 1a",
+      "KN 1b",
+      "KN 32b",
+      "KN Wc 26a",
+      "KN Wc 30",
+      "KN Zb 35",
+      "KN Zb 4",
+      "KN Zc 6",
+      "KN Zc 7",
+      "KN Zf 13",
+      "MA 2b",
+      "MA 2c",
+      "MA 4b",
+      "PH 14a",
+      "PH 16b",
+      "PH 18a",
+      "PH 1a",
+      "PH 28a",
+      "PH 7a",
+      "PH Wc 39a",
+      "PS Za 2",
+      "SY Za 4",
+      "ZA 10b",
+      "ZA 14",
+      "ZA 15a",
+      "ZA 26a",
+      "ZA 32",
+      "ZA 4a"
+    ],
+    "sites": {
+      "Arkhanes": 2,
+      "Haghia Triada": 42,
+      "Kea": 1,
+      "Khania": 7,
+      "Knossos": 11,
+      "Mallia": 3,
+      "Phaistos": 10,
+      "Psykhro": 2,
+      "Syme": 2,
+      "Zakros": 8
+    },
+    "roles": {
+      "syllabogram": 87,
+      "erasure": 1
+    },
+    "doc_types": {
+      "tablet": 66,
+      "roundel": 7,
+      "pithos": 3,
+      "graffiti": 2,
+      "lamp": 1,
+      "sherd": 1,
+      "cup": 2,
+      "jewellery": 2,
+      "libation_table": 4
+    },
+    "periods": {
+      "unknown": 27,
+      "LM IB": 57,
+      "LM IA": 2,
+      "MM III": 1,
+      "MM II": 1
+    },
+    "readings": {
+      "ja": 87,
+      "AB57": 1
+    }
+  },
+  "AB27": {
+    "total_occurrences": 95,
+    "documents": [
+      "ARKH 1b",
+      "ARKH 4a",
+      "ARKH 4b",
+      "HT 1",
+      "HT 108",
+      "HT 109",
+      "HT 10a",
+      "HT 10b",
+      "HT 117a",
+      "HT 117b",
+      "HT 120",
+      "HT 122a",
+      "HT 122b",
+      "HT 128a",
+      "HT 13",
+      "HT 132",
+      "HT 15",
+      "HT 154Ja",
+      "HT 17",
+      "HT 2",
+      "HT 20",
+      "HT 25a",
+      "HT 27a",
+      "HT 27b",
+      "HT 29",
+      "HT 3",
+      "HT 32",
+      "HT 37",
+      "HT 39",
+      "HT 4",
+      "HT 41a",
+      "HT 42+59",
+      "HT 47b",
+      "HT 51a",
+      "HT 53b",
+      "HT 55a",
+      "HT 66",
+      "HT 7a",
+      "HT 85a",
+      "HT 85b",
+      "HT 87",
+      "HT 88",
+      "HT 8a",
+      "HT 8b",
+      "HT 96b",
+      "HT 98a",
+      "HT Wc 3003",
+      "HT Wc 3012b",
+      "HT Wc 3017a",
+      "HT Zb 160",
+      "KH 13",
+      "KH 20",
+      "KH 4",
+      "KH 41",
+      "KH 6",
+      "KH 8",
+      "KH 86",
+      "KH 97a",
+      "KN Zc 7",
+      "KN Zf 13",
+      "MA 2b",
+      "PH 15a",
+      "PH 30",
+      "PS Za 2",
+      "ZA 10a",
+      "ZA 10b",
+      "ZA 15a",
+      "ZA 18a",
+      "ZA 1a",
+      "ZA 20",
+      "ZA 23",
+      "ZA 4a",
+      "ZA 5b",
+      "ZA 7a",
+      "ZA 8",
+      "ZA 9"
+    ],
+    "sites": {
+      "Arkhanes": 3,
+      "Haghia Triada": 61,
+      "Khania": 10,
+      "Knossos": 2,
+      "Mallia": 1,
+      "Phaistos": 2,
+      "Psykhro": 1,
+      "Zakros": 15
+    },
+    "roles": {
+      "syllabogram": 87,
+      "logogram": 3,
+      "erasure": 1,
+      "transaction": 4
+    },
+    "doc_types": {
+      "tablet": 88,
+      "roundel": 3,
+      "pithos": 1,
+      "cup": 1,
+      "jewellery": 1,
+      "libation_table": 1
+    },
+    "periods": {
+      "unknown": 10,
+      "LM IB": 85
+    },
+    "readings": {
+      "re": 87,
+      "AB27": 8
+    }
+  },
+  "AB56": {
+    "total_occurrences": 41,
+    "documents": [
+      "ARKH 1b",
+      "HT 1",
+      "HT 101",
+      "HT 102",
+      "HT 103",
+      "HT 115a",
+      "HT 115b",
+      "HT 117a",
+      "HT 119",
+      "HT 122a",
+      "HT 128a",
+      "HT 132",
+      "HT 24a",
+      "HT 3",
+      "HT 31",
+      "HT 34",
+      "HT 47a",
+      "HT 49a",
+      "HT 6b",
+      "HT 79+83",
+      "HT 85a",
+      "HT 88",
+      "HT 8a",
+      "HT 8b",
+      "HT 93a",
+      "HT 9b",
+      "KN 22b",
+      "KN Zb 20",
+      "PH 2",
+      "PH 28a",
+      "PH 31a",
+      "PH 6",
+      "SY Za 4"
+    ],
+    "sites": {
+      "Arkhanes": 1,
+      "Haghia Triada": 32,
+      "Knossos": 2,
+      "Phaistos": 5,
+      "Syme": 1
+    },
+    "roles": {
+      "syllabogram": 38,
+      "transaction": 2,
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 39,
+      "sherd": 1,
+      "libation_table": 1
+    },
+    "periods": {
+      "unknown": 8,
+      "LM IB": 32,
+      "LM IA": 1
+    },
+    "readings": {
+      "*56": 38,
+      "AB56": 3
+    }
+  },
+  "AB06": {
+    "total_occurrences": 97,
+    "documents": [
+      "ARKH 1b",
+      "ARKH 5",
+      "ARKH 6",
+      "HT 1",
+      "HT 102",
+      "HT 103",
+      "HT 108",
+      "HT 10b",
+      "HT 115a",
+      "HT 115b",
+      "HT 117a",
+      "HT 119",
+      "HT 11a",
+      "HT 11b",
+      "HT 120",
+      "HT 123b",
+      "HT 126a",
+      "HT 129",
+      "HT 135a",
+      "HT 14",
+      "HT 154C",
+      "HT 16",
+      "HT 2",
+      "HT 23a",
+      "HT 25a",
+      "HT 26a",
+      "HT 28b",
+      "HT 3",
+      "HT 31",
+      "HT 37",
+      "HT 47a",
+      "HT 47b",
+      "HT 49a",
+      "HT 54a",
+      "HT 62+73",
+      "HT 64",
+      "HT 6b",
+      "HT 7a",
+      "HT 88",
+      "HT 8a",
+      "HT 90",
+      "HT 93a",
+      "HT 97a",
+      "HT 98a",
+      "HT 9a",
+      "HT 9b",
+      "HT Wa 1020\u03b3",
+      "HT Wc 3010",
+      "HT Wc 3014a",
+      "HT Wc 3017a",
+      "HT Zb 159",
+      "HT Zd 155",
+      "KH 36",
+      "KH 40",
+      "KH 5",
+      "KH 59",
+      "KH 60",
+      "KH 79+89",
+      "KH 7a",
+      "KH 7b",
+      "KH 92",
+      "KH 97a",
+      "KH Wc 2005",
+      "KN 2",
+      "KN 22c",
+      "KN Zb 20",
+      "KN Zb 40",
+      "KN Zc 6",
+      "KN Zc 7",
+      "MA 2c",
+      "PH 16a",
+      "PH 1a",
+      "PH 1b",
+      "PH 6",
+      "PS Za 2",
+      "ZA 10a",
+      "ZA 15a",
+      "ZA 6a",
+      "ZA 9"
+    ],
+    "sites": {
+      "Arkhanes": 3,
+      "Haghia Triada": 62,
+      "Khania": 12,
+      "Knossos": 6,
+      "Mallia": 2,
+      "Phaistos": 4,
+      "Psykhro": 1,
+      "Zakros": 7
+    },
+    "roles": {
+      "syllabogram": 97
+    },
+    "doc_types": {
+      "tablet": 86,
+      "nodule": 1,
+      "roundel": 3,
+      "pithos": 1,
+      "graffiti": 1,
+      "sherd": 1,
+      "pithoid_jar": 1,
+      "cup": 2,
+      "libation_table": 1
+    },
+    "periods": {
+      "unknown": 13,
+      "LM IB": 81,
+      "LM IA": 3
+    },
+    "readings": {
+      "na": 97
+    }
+  },
+  "AB41": {
+    "total_occurrences": 103,
+    "documents": [
+      "ARKH 2",
+      "ARKH 4b",
+      "HT 110a",
+      "HT 116a",
+      "HT 117a",
+      "HT 119",
+      "HT 122a",
+      "HT 123b",
+      "HT 126a",
+      "HT 13",
+      "HT 130",
+      "HT 140",
+      "HT 15",
+      "HT 154N",
+      "HT 17",
+      "HT 28a",
+      "HT 28b",
+      "HT 29",
+      "HT 3",
+      "HT 30",
+      "HT 34",
+      "HT 4",
+      "HT 43",
+      "HT 49a",
+      "HT 5",
+      "HT 51b",
+      "HT 55a",
+      "HT 72",
+      "HT 85a",
+      "HT 87",
+      "HT 8a",
+      "HT 90",
+      "HT 96a",
+      "HT 99b",
+      "HT 9b",
+      "HT Wa 1014",
+      "HT Wa 1015",
+      "HT Wa 1016",
+      "HT Wa 1017",
+      "HT Wa 1018",
+      "HT Wa 1019\u03b3",
+      "HT Wa 1028\u03b1",
+      "HT Wa 1176",
+      "HT Wa 1199",
+      "HT Wa 1205",
+      "HT Wa 1206",
+      "HT Wa 1236",
+      "HT Wa 1242",
+      "HT Wa 1244",
+      "HT Wa 1252",
+      "HT Wa 1255",
+      "HT Wa 1256",
+      "HT Zb 159",
+      "HT Zb 161",
+      "KE Zb 4",
+      "KH 16",
+      "KH 18",
+      "KH 20",
+      "KH 22",
+      "KH 40",
+      "KH 47",
+      "KH 5",
+      "KH 51",
+      "KH 6",
+      "KH 60",
+      "KH 74",
+      "KH 76",
+      "KH 7a",
+      "KH 7b",
+      "KH 9",
+      "KH 99",
+      "KN Zb 4",
+      "KN Zb 5",
+      "KN Zf 13",
+      "PH 3b",
+      "PH 7a",
+      "PH Wc 37a",
+      "TY 3b",
+      "ZA 11a",
+      "ZA 15a",
+      "ZA 16",
+      "ZA 20",
+      "ZA 26a",
+      "ZA 4a",
+      "ZA 5b",
+      "ZA 9"
+    ],
+    "sites": {
+      "Arkhanes": 3,
+      "Haghia Triada": 60,
+      "Kea": 1,
+      "Khania": 19,
+      "Knossos": 4,
+      "Phaistos": 4,
+      "Tylissos": 1,
+      "Zakros": 11
+    },
+    "roles": {
+      "syllabogram": 86,
+      "logogram": 16,
+      "erasure": 1
+    },
+    "doc_types": {
+      "tablet": 78,
+      "nodule": 17,
+      "pithos": 1,
+      "sherd": 3,
+      "lamp": 1,
+      "clay_vase": 1,
+      "jewellery": 1,
+      "roundel": 1
+    },
+    "periods": {
+      "unknown": 11,
+      "LM IB": 91,
+      "MM II": 1
+    },
+    "readings": {
+      "si": 86,
+      "AB41": 17
+    }
+  },
+  "AB01": {
+    "total_occurrences": 101,
+    "documents": [
+      "ARKH 2",
+      "ARKH 5",
+      "ARKH 6",
+      "HT 103",
+      "HT 104",
+      "HT 10a",
+      "HT 10b",
+      "HT 117a",
+      "HT 12",
+      "HT 120",
+      "HT 122a",
+      "HT 122b",
+      "HT 123a",
+      "HT 123b",
+      "HT 126a",
+      "HT 127a",
+      "HT 13",
+      "HT 17",
+      "HT 27a",
+      "HT 27b",
+      "HT 28a",
+      "HT 29",
+      "HT 3",
+      "HT 34",
+      "HT 38",
+      "HT 40",
+      "HT 41a",
+      "HT 47a",
+      "HT 57a",
+      "HT 6a",
+      "HT 6b",
+      "HT 79+83",
+      "HT 7a",
+      "HT 7b",
+      "HT 85a",
+      "HT 86a",
+      "HT 88",
+      "HT 93a",
+      "HT 95a",
+      "HT 95b",
+      "HT 98b",
+      "HT 99b",
+      "HT Wa 1001",
+      "HT Wa 1002",
+      "HT Wa 1003",
+      "HT Wa 1004",
+      "HT Wa 1005",
+      "HT Wa 1031",
+      "HT Wa 1032",
+      "HT Zb 160",
+      "KH 13",
+      "KH 5",
+      "KH 74",
+      "KH 79",
+      "KH 79+89",
+      "KH 92",
+      "KN Zc 6",
+      "MA Wc <5a>",
+      "PH 31a",
+      "PH 31b",
+      "PH 6",
+      "PH 7a",
+      "PH 7b",
+      "TY 2",
+      "TY 3a",
+      "ZA 10a",
+      "ZA 15a",
+      "ZA 18a",
+      "ZA 21b",
+      "ZA 24a",
+      "ZA 5a",
+      "ZA 8"
+    ],
+    "sites": {
+      "Arkhanes": 4,
+      "Haghia Triada": 71,
+      "Khania": 7,
+      "Knossos": 1,
+      "Mallia": 1,
+      "Phaistos": 5,
+      "Tylissos": 4,
+      "Zakros": 8
+    },
+    "roles": {
+      "syllabogram": 99,
+      "logogram": 2
+    },
+    "doc_types": {
+      "tablet": 91,
+      "nodule": 7,
+      "pithos": 1,
+      "cup": 1,
+      "roundel": 1
+    },
+    "periods": {
+      "unknown": 11,
+      "LM IB": 90
+    },
+    "readings": {
+      "da": 99,
+      "AB01": 2
+    }
+  },
+  "AB04": {
+    "total_occurrences": 79,
+    "documents": [
+      "ARKH 2",
+      "ARKH 4a",
+      "HT 107",
+      "HT 116a",
+      "HT 117a",
+      "HT 12",
+      "HT 122a",
+      "HT 13",
+      "HT 133",
+      "HT 14",
+      "HT 17",
+      "HT 19",
+      "HT 21",
+      "HT 25b",
+      "HT 26a",
+      "HT 34",
+      "HT 4",
+      "HT 40",
+      "HT 42+59",
+      "HT 44b",
+      "HT 51a",
+      "HT 52a",
+      "HT 55b",
+      "HT 62+73",
+      "HT 63",
+      "HT 6a",
+      "HT 70",
+      "HT 7a",
+      "HT 85a",
+      "HT 85b",
+      "HT 86a",
+      "HT 87",
+      "HT 8a",
+      "HT 91",
+      "HT 92",
+      "HT 94b",
+      "HT 95a",
+      "HT 95b",
+      "HT 96a",
+      "HT 98a",
+      "HT 98b",
+      "HT 9a",
+      "HT Wa 1128",
+      "HT Zb 158b",
+      "KH 10",
+      "KH 6",
+      "KH 92",
+      "KN 28b",
+      "KN 32b",
+      "KN Zf 13",
+      "MA 10b",
+      "PH 12c",
+      "PH 13c",
+      "PH 15a",
+      "PH 27",
+      "PH 31b",
+      "PH Wb 36",
+      "PYR 1",
+      "ZA 10a",
+      "ZA 10b",
+      "ZA 19",
+      "ZA 20",
+      "ZA 21a",
+      "ZA 23",
+      "ZA 26a",
+      "ZA 29",
+      "ZA 6a",
+      "ZA 9"
+    ],
+    "sites": {
+      "Arkhanes": 2,
+      "Haghia Triada": 48,
+      "Khania": 4,
+      "Knossos": 3,
+      "Mallia": 1,
+      "Phaistos": 6,
+      "Pyrgos": 1,
+      "Zakros": 14
+    },
+    "roles": {
+      "syllabogram": 56,
+      "logogram": 4,
+      "transaction": 19
+    },
+    "doc_types": {
+      "tablet": 75,
+      "nodule": 1,
+      "pithos": 1,
+      "jewellery": 1,
+      "sealing": 1
+    },
+    "periods": {
+      "unknown": 11,
+      "LM IB": 66,
+      "LM IA": 1,
+      "MM II": 1
+    },
+    "readings": {
+      "te": 56,
+      "AB04": 23
+    }
+  },
+  "AB81": {
+    "total_occurrences": 175,
+    "documents": [
+      "ARKH 2",
+      "ARKH 3a",
+      "ARKH 6",
+      "HT 1",
+      "HT 100",
+      "HT 101",
+      "HT 102",
+      "HT 103",
+      "HT 104",
+      "HT 109",
+      "HT 10a",
+      "HT 110a",
+      "HT 115a",
+      "HT 115b",
+      "HT 116a",
+      "HT 116b",
+      "HT 117a",
+      "HT 117b",
+      "HT 118",
+      "HT 119",
+      "HT 11a",
+      "HT 11b",
+      "HT 122a",
+      "HT 122b",
+      "HT 123a",
+      "HT 123b",
+      "HT 127a",
+      "HT 127b",
+      "HT 13",
+      "HT 131b",
+      "HT 139",
+      "HT 154A",
+      "HT 16",
+      "HT 20",
+      "HT 24a",
+      "HT 25b",
+      "HT 27a",
+      "HT 3",
+      "HT 35",
+      "HT 39",
+      "HT 40",
+      "HT 42+59",
+      "HT 45b",
+      "HT 46a",
+      "HT 47a",
+      "HT 49a",
+      "HT 49b",
+      "HT 51b",
+      "HT 53b",
+      "HT 54a",
+      "HT 62+73",
+      "HT 64",
+      "HT 74",
+      "HT 79+83",
+      "HT 85a",
+      "HT 86a",
+      "HT 86b",
+      "HT 87",
+      "HT 88",
+      "HT 89",
+      "HT 90",
+      "HT 93a",
+      "HT 94a",
+      "HT 94b",
+      "HT 95a",
+      "HT 95b",
+      "HT 96a",
+      "HT 9a",
+      "HT 9b",
+      "HT Wa 1020\u03b1",
+      "HT Wa 1471",
+      "HT Wa 1472",
+      "HT Wa 1473",
+      "HT Wa 1474",
+      "HT Wa 1481",
+      "HT Wa 1490",
+      "HT Wa 1508",
+      "HT Wa 1512",
+      "HT Wa 1518",
+      "HT Wa 1530",
+      "HT Wa 1531",
+      "HT Wa 1533",
+      "HT Wa 1538",
+      "HT Wa 1544",
+      "HT Wa 1547",
+      "HT Wa 1550",
+      "HT Wa 1559",
+      "HT Wa 1561",
+      "HT Wa 1562",
+      "HT Wa 1579",
+      "HT Wa 1584",
+      "HT Wa 1587",
+      "HT Wa 1590",
+      "HT Wa 1592",
+      "HT Wa 1598",
+      "HT Wa 1600",
+      "HT Wa 1603",
+      "HT Wa 1608",
+      "HT Wa 1610",
+      "HT Wa 1612",
+      "HT Wa 1613",
+      "HT Wa 1614",
+      "HT Wc 3014a",
+      "HT Wc 3015a",
+      "HT Wc 3016a",
+      "HT Wc 3017a",
+      "KH 18",
+      "KH 29",
+      "KH 49",
+      "KH 5",
+      "KH 7a",
+      "KH 92",
+      "KH 99",
+      "KN 1a",
+      "KN Zc 6",
+      "KN Zf 13",
+      "MA 2b",
+      "PA 1",
+      "PH 31a",
+      "TY 3a",
+      "TY 3b",
+      "ZA 10a",
+      "ZA 10b",
+      "ZA 11a",
+      "ZA 11b",
+      "ZA 14",
+      "ZA 15a",
+      "ZA 15b",
+      "ZA 18a",
+      "ZA 20",
+      "ZA 6b",
+      "ZA 8"
+    ],
+    "sites": {
+      "Arkhanes": 3,
+      "Haghia Triada": 139,
+      "Khania": 8,
+      "Knossos": 5,
+      "Mallia": 1,
+      "Papoura": 1,
+      "Phaistos": 2,
+      "Tylissos": 2,
+      "Zakros": 14
+    },
+    "roles": {
+      "syllabogram": 138,
+      "logogram": 37
+    },
+    "doc_types": {
+      "tablet": 137,
+      "nodule": 33,
+      "roundel": 1,
+      "cup": 3,
+      "jewellery": 1
+    },
+    "periods": {
+      "unknown": 10,
+      "LM IB": 164,
+      "LM IA": 1
+    },
+    "readings": {
+      "ku": 138,
+      "AB81": 37
+    }
+  },
+  "AB131b": {
+    "total_occurrences": 4,
+    "documents": [
+      "ARKH 2",
+      "ARKH 3a",
+      "ARKH 5",
+      "ZA 10b"
+    ],
+    "sites": {
+      "Arkhanes": 3,
+      "Zakros": 1
+    },
+    "roles": {
+      "syllabogram": 1,
+      "logogram": 3
+    },
+    "doc_types": {
+      "tablet": 4
+    },
+    "periods": {
+      "unknown": 3,
+      "LM IB": 1
+    },
+    "readings": {
+      "*131": 1,
+      "AB131/VIN": 3
+    }
+  },
+  "AB05": {
+    "total_occurrences": 11,
+    "documents": [
+      "ARKH 2",
+      "HT 120",
+      "HT 122b",
+      "HT 131b",
+      "HT 132",
+      "HT 97a",
+      "KH 11",
+      "PH 3b",
+      "ZA 11b",
+      "ZA 4a"
+    ],
+    "sites": {
+      "Arkhanes": 1,
+      "Haghia Triada": 5,
+      "Khania": 2,
+      "Phaistos": 1,
+      "Zakros": 2
+    },
+    "roles": {
+      "syllabogram": 11
+    },
+    "doc_types": {
+      "tablet": 11
+    },
+    "periods": {
+      "unknown": 2,
+      "LM IB": 9
+    },
+    "readings": {
+      "to": 11
+    }
+  },
+  "AB28": {
+    "total_occurrences": 99,
+    "documents": [
+      "ARKH 2",
+      "ARKH 4b",
+      "GO Wc 1a",
+      "HT 102",
+      "HT 104",
+      "HT 115a",
+      "HT 115b",
+      "HT 117a",
+      "HT 11a",
+      "HT 12",
+      "HT 120",
+      "HT 122a",
+      "HT 123a",
+      "HT 123b",
+      "HT 13",
+      "HT 131a",
+      "HT 24a",
+      "HT 25a",
+      "HT 25b",
+      "HT 26b",
+      "HT 27a",
+      "HT 28a",
+      "HT 29",
+      "HT 35",
+      "HT 39",
+      "HT 43",
+      "HT 44a",
+      "HT 49b",
+      "HT 55b",
+      "HT 62+73",
+      "HT 6b",
+      "HT 70",
+      "HT 79+83",
+      "HT 7a",
+      "HT 85b",
+      "HT 89",
+      "HT 8a",
+      "HT 8b",
+      "HT 90",
+      "HT 91",
+      "HT 93a",
+      "HT 96a",
+      "HT 97a",
+      "HT 98a",
+      "HT 9a",
+      "HT 9b",
+      "HT Wa 1006",
+      "HT Wa 1007",
+      "HT Wa 1008",
+      "HT Wa 1009",
+      "HT Wa 1010",
+      "HT Wa 1011",
+      "HT Wa 1012",
+      "HT Wa 1013",
+      "HT Wa 1150",
+      "HT Wa 1170",
+      "HT Zb 158b",
+      "KH 10",
+      "KH 11",
+      "KH 13",
+      "KH 16",
+      "KH 18",
+      "KH 32",
+      "KH 51",
+      "KH 59",
+      "KH 7a",
+      "KH 7b",
+      "KH 9",
+      "KH 97b",
+      "KN Wc 3",
+      "KN Zc 6",
+      "MA 1a",
+      "PH 6",
+      "PS Za 2",
+      "SY Za 4",
+      "ZA 10a",
+      "ZA 11b",
+      "ZA 15a",
+      "ZA 21b",
+      "ZA 24a",
+      "ZA 5b",
+      "ZA 6a",
+      "ZA 6b",
+      "ZA 8"
+    ],
+    "sites": {
+      "Arkhanes": 2,
+      "Gournia": 1,
+      "Haghia Triada": 57,
+      "Khania": 13,
+      "Knossos": 2,
+      "Mallia": 1,
+      "Phaistos": 4,
+      "Psykhro": 2,
+      "Syme": 2,
+      "Zakros": 15
+    },
+    "roles": {
+      "syllabogram": 93,
+      "transaction": 2,
+      "erasure": 1,
+      "logogram": 3
+    },
+    "doc_types": {
+      "tablet": 81,
+      "roundel": 2,
+      "nodule": 10,
+      "pithos": 1,
+      "cup": 1,
+      "libation_table": 4
+    },
+    "periods": {
+      "unknown": 13,
+      "LM IB": 86
+    },
+    "readings": {
+      "i": 93,
+      "AB28": 6
+    }
+  },
+  "AB79": {
+    "total_occurrences": 30,
+    "documents": [
+      "ARKH 2",
+      "ARKH 4b",
+      "HT 1",
+      "HT 101",
+      "HT 102",
+      "HT 11b",
+      "HT 13",
+      "HT 25a",
+      "HT 26b",
+      "HT 36",
+      "HT 51b",
+      "HT 63",
+      "HT 64",
+      "HT 66",
+      "HT 79+83",
+      "HT 85a",
+      "HT 97a",
+      "HT 99b",
+      "HT Wc 3004a",
+      "HT Wc 3011",
+      "HT Wc 3012a",
+      "KH 5",
+      "KH 91",
+      "KN Zc 6",
+      "KN Zc 7",
+      "PH 13c",
+      "PH 6",
+      "TY 3b",
+      "ZA 15a",
+      "ZA 4a"
+    ],
+    "sites": {
+      "Arkhanes": 2,
+      "Haghia Triada": 19,
+      "Khania": 2,
+      "Knossos": 2,
+      "Phaistos": 2,
+      "Tylissos": 1,
+      "Zakros": 2
+    },
+    "roles": {
+      "syllabogram": 28,
+      "transaction": 1,
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 25,
+      "roundel": 3,
+      "cup": 2
+    },
+    "periods": {
+      "unknown": 6,
+      "LM IB": 24
+    },
+    "readings": {
+      "*79": 28,
+      "AB79": 2
+    }
+  },
+  "A301": {
+    "total_occurrences": 48,
+    "documents": [
+      "ARKH 2",
+      "HT 10a",
+      "HT 110b",
+      "HT 115a",
+      "HT 127b",
+      "HT 55a",
+      "HT 8a",
+      "HT 98a",
+      "HT Wa 1025\u03b3",
+      "HT Wa 1029\u03b1",
+      "HT Wa 1029\u03b3",
+      "HT Wa 1623",
+      "HT Wa 1624",
+      "HT Wa 1625",
+      "HT Wa 1631",
+      "HT Wa 1639",
+      "HT Wa 1654",
+      "HT Wa 1658",
+      "HT Wa 1659",
+      "HT Wa 1669",
+      "HT Wa 1710",
+      "HT Wa 1720",
+      "HT Wa 1723",
+      "HT Wa 1725",
+      "HT Wa 1734",
+      "HT Wa 1747",
+      "HT Wa 1751",
+      "HT Wa 1753",
+      "HT Wa 1754",
+      "HT Wa 1758",
+      "HT Wa 1764",
+      "HT Wa 1766",
+      "HT Wa 1793",
+      "HT Wa 1805",
+      "HT Wa 1809",
+      "HT Wa 1813",
+      "HT Wa 1816",
+      "KH 11",
+      "KH 5",
+      "KH 58",
+      "KH 84",
+      "KH Wa 1011",
+      "KH Wa 1012",
+      "KH Wa 1017",
+      "KN Zf 13",
+      "PS Za 2",
+      "SY Za 4",
+      "ZA 11b"
+    ],
+    "sites": {
+      "Arkhanes": 1,
+      "Haghia Triada": 36,
+      "Khania": 7,
+      "Knossos": 1,
+      "Psykhro": 1,
+      "Syme": 1,
+      "Zakros": 1
+    },
+    "roles": {
+      "syllabogram": 11,
+      "logogram": 36,
+      "erasure": 1
+    },
+    "doc_types": {
+      "tablet": 13,
+      "nodule": 32,
+      "jewellery": 1,
+      "libation_table": 2
+    },
+    "periods": {
+      "unknown": 4,
+      "LM IB": 44
+    },
+    "readings": {
+      "A301": 48
+    }
+  },
+  "AB09": {
+    "total_occurrences": 50,
+    "documents": [
+      "ARKH 2",
+      "GO Wc 1a",
+      "HT 103",
+      "HT 104",
+      "HT 115a",
+      "HT 117b",
+      "HT 128a",
+      "HT 132",
+      "HT 18",
+      "HT 21",
+      "HT 26a",
+      "HT 27b",
+      "HT 6b",
+      "HT 81",
+      "HT 85b",
+      "HT 87",
+      "HT 93a",
+      "HT Wc 3001",
+      "HT Wc 3002",
+      "HT Wc 3004b",
+      "HT Wc 3005b",
+      "HT Zb 158a",
+      "HT Zb 159",
+      "KH 13",
+      "KH 28",
+      "KH 7a",
+      "KH 7b",
+      "KH 95",
+      "KH 97b",
+      "KN Wb 33b",
+      "KN Zf 13",
+      "PH 2",
+      "ZA 10a",
+      "ZA 10b",
+      "ZA 14",
+      "ZA 15a",
+      "ZA 20",
+      "ZA 4a",
+      "ZA 5a",
+      "ZA 6a",
+      "ZA 8"
+    ],
+    "sites": {
+      "Arkhanes": 1,
+      "Gournia": 1,
+      "Haghia Triada": 25,
+      "Khania": 6,
+      "Knossos": 2,
+      "Phaistos": 2,
+      "Zakros": 13
+    },
+    "roles": {
+      "syllabogram": 47,
+      "erasure": 1,
+      "logogram": 2
+    },
+    "doc_types": {
+      "tablet": 41,
+      "roundel": 5,
+      "pithos": 2,
+      "sealing": 1,
+      "jewellery": 1
+    },
+    "periods": {
+      "unknown": 5,
+      "LM IB": 45
+    },
+    "readings": {
+      "se": 47,
+      "AB09": 3
+    }
+  },
+  "AB45": {
+    "total_occurrences": 30,
+    "documents": [
+      "ARKH 2",
+      "ARKH 4a",
+      "ARKH 4b",
+      "HT 113",
+      "HT 11b",
+      "HT 122a",
+      "HT 122b",
+      "HT 13",
+      "HT 31",
+      "HT 86a",
+      "HT 86b",
+      "HT 93a",
+      "HT 94b",
+      "HT 95a",
+      "HT 95b",
+      "HT 97a",
+      "HT 98a",
+      "HT 9a",
+      "HT 9b",
+      "KH 100",
+      "KH 88",
+      "KH 99",
+      "MA 1a",
+      "MA 1b",
+      "PH 30",
+      "ZA 10b",
+      "ZA 11b"
+    ],
+    "sites": {
+      "Arkhanes": 3,
+      "Haghia Triada": 18,
+      "Khania": 3,
+      "Mallia": 2,
+      "Phaistos": 1,
+      "Zakros": 3
+    },
+    "roles": {
+      "syllabogram": 30
+    },
+    "doc_types": {
+      "tablet": 30
+    },
+    "periods": {
+      "unknown": 6,
+      "LM IB": 24
+    },
+    "readings": {
+      "de": 30
+    }
+  },
+  "AB21f": {
+    "total_occurrences": 34,
+    "documents": [
+      "ARKH 2",
+      "HT 112a",
+      "HT 115a",
+      "HT 117b",
+      "HT 126b",
+      "HT 129",
+      "HT 132",
+      "HT 135a",
+      "HT 136a",
+      "HT 23a",
+      "HT 26a",
+      "HT 28a",
+      "HT 28b",
+      "HT 7b",
+      "HT 84",
+      "HT 87",
+      "HT 94b",
+      "KH 88",
+      "KH 92",
+      "KN 28a",
+      "PH 2",
+      "PH 31a",
+      "PH 31b",
+      "PH Wc 44",
+      "ZA 14",
+      "ZA 22",
+      "ZA 26a",
+      "ZA 26b",
+      "ZA 5a",
+      "ZA 9"
+    ],
+    "sites": {
+      "Arkhanes": 1,
+      "Haghia Triada": 16,
+      "Khania": 2,
+      "Knossos": 1,
+      "Phaistos": 5,
+      "Zakros": 9
+    },
+    "roles": {
+      "syllabogram": 18,
+      "logogram": 16
+    },
+    "doc_types": {
+      "tablet": 33,
+      "roundel": 1
+    },
+    "periods": {
+      "unknown": 5,
+      "LM IB": 27,
+      "LM IA": 1,
+      "MM II": 1
+    },
+    "readings": {
+      "qi": 18,
+      "AB21/OVIS": 16
+    }
+  },
+  "AB50": {
+    "total_occurrences": 21,
+    "documents": [
+      "ARKH 2",
+      "HT 116a",
+      "HT 123a",
+      "HT 139",
+      "HT 14",
+      "HT 23b",
+      "HT 28b",
+      "HT 31",
+      "HT 34",
+      "HT 87",
+      "HT 9a",
+      "HT 9b",
+      "HT Zb 161",
+      "KH 88",
+      "KN 32b",
+      "MI 2",
+      "TY 2",
+      "ZA 14"
+    ],
+    "sites": {
+      "Arkhanes": 1,
+      "Haghia Triada": 13,
+      "Khania": 1,
+      "Knossos": 1,
+      "Melos": 1,
+      "Tylissos": 3,
+      "Zakros": 1
+    },
+    "roles": {
+      "syllabogram": 20,
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 20,
+      "sherd": 1
+    },
+    "periods": {
+      "unknown": 3,
+      "LM IB": 18
+    },
+    "readings": {
+      "pu": 20,
+      "AB50": 1
+    }
+  },
+  "AB54": {
+    "total_occurrences": 21,
+    "documents": [
+      "ARKH 2",
+      "HT 128a",
+      "HT 16",
+      "HT 20",
+      "HT 36",
+      "HT 6b",
+      "HT 85b",
+      "HT 86a",
+      "HT 9b",
+      "HT Wc 3006a",
+      "HT Wc 3007",
+      "HT Wc 3008a",
+      "HT Wc 3019",
+      "MA 10b",
+      "PH 6",
+      "SY Za 4",
+      "TY 2",
+      "TY 3a",
+      "ZA 10b",
+      "ZA 6a"
+    ],
+    "sites": {
+      "Arkhanes": 1,
+      "Haghia Triada": 13,
+      "Mallia": 1,
+      "Phaistos": 1,
+      "Syme": 1,
+      "Tylissos": 2,
+      "Zakros": 2
+    },
+    "roles": {
+      "syllabogram": 17,
+      "logogram": 3,
+      "erasure": 1
+    },
+    "doc_types": {
+      "tablet": 16,
+      "roundel": 4,
+      "libation_table": 1
+    },
+    "periods": {
+      "unknown": 4,
+      "LM IB": 17
+    },
+    "readings": {
+      "wa": 17,
+      "AB54/TELA": 3,
+      "AB54": 1
+    }
+  },
+  "AB26": {
+    "total_occurrences": 71,
+    "documents": [
+      "ARKH 2",
+      "HT 10a",
+      "HT 10b",
+      "HT 115a",
+      "HT 115b",
+      "HT 117a",
+      "HT 118",
+      "HT 11a",
+      "HT 11b",
+      "HT 122b",
+      "HT 123a",
+      "HT 128a",
+      "HT 128b",
+      "HT 129",
+      "HT 141",
+      "HT 2",
+      "HT 23a",
+      "HT 24a",
+      "HT 25a",
+      "HT 28a",
+      "HT 29",
+      "HT 3",
+      "HT 46a",
+      "HT 49a",
+      "HT 55a",
+      "HT 64",
+      "HT 75",
+      "HT 7a",
+      "HT 7b",
+      "HT 86a",
+      "HT 86b",
+      "HT 87",
+      "HT 90",
+      "HT 93a",
+      "HT 94b",
+      "HT 95a",
+      "HT 95b",
+      "HT 96a",
+      "HT 97a",
+      "HT 98b",
+      "HT 99b",
+      "HT 9a",
+      "HT Wc 3008b",
+      "KH 49",
+      "KN 2",
+      "KN Wc 26a",
+      "MA 10a",
+      "PH 2",
+      "PH 31a",
+      "PH 31b",
+      "PH 7a",
+      "PYR 1",
+      "TY 2",
+      "ZA 11a",
+      "ZA 12a",
+      "ZA 12b",
+      "ZA 20",
+      "ZA 4a"
+    ],
+    "sites": {
+      "Arkhanes": 1,
+      "Haghia Triada": 54,
+      "Khania": 1,
+      "Knossos": 2,
+      "Mallia": 1,
+      "Phaistos": 4,
+      "Pyrgos": 1,
+      "Tylissos": 2,
+      "Zakros": 5
+    },
+    "roles": {
+      "syllabogram": 69,
+      "logogram": 2
+    },
+    "doc_types": {
+      "tablet": 69,
+      "roundel": 2
+    },
+    "periods": {
+      "unknown": 8,
+      "LM IB": 62,
+      "LM IA": 1
+    },
+    "readings": {
+      "ru": 69,
+      "AB26": 2
+    }
+  },
+  "AB77": {
+    "total_occurrences": 107,
+    "documents": [
+      "ARKH 3a",
+      "HT 102",
+      "HT 10b",
+      "HT 115a",
+      "HT 117a",
+      "HT 11a",
+      "HT 11b",
+      "HT 123b",
+      "HT 13",
+      "HT 135a",
+      "HT 139",
+      "HT 140",
+      "HT 146",
+      "HT 16",
+      "HT 2",
+      "HT 21",
+      "HT 23a",
+      "HT 26b",
+      "HT 28a",
+      "HT 28b",
+      "HT 29",
+      "HT 31",
+      "HT 37",
+      "HT 4",
+      "HT 47a",
+      "HT 49b",
+      "HT 52a",
+      "HT 62+73",
+      "HT 63",
+      "HT 6a",
+      "HT 75",
+      "HT 79+83",
+      "HT 85b",
+      "HT 86a",
+      "HT 86b",
+      "HT 87",
+      "HT 88",
+      "HT 8a",
+      "HT 8b",
+      "HT 91",
+      "HT 93a",
+      "HT 94a",
+      "HT 97a",
+      "HT 98a",
+      "HT 9b",
+      "HT Wa 1001",
+      "HT Wa 1002",
+      "HT Wa 1003",
+      "HT Wa 1004",
+      "HT Wa 1005",
+      "HT Wa 1014",
+      "HT Wa 1015",
+      "HT Wa 1016",
+      "HT Wa 1017",
+      "HT Wa 1018",
+      "HT Wa 1028\u03b3",
+      "HT Wa 1323",
+      "HT Wa 1324",
+      "HT Wa 1451",
+      "HT Wc 3003",
+      "HT Wc 3004a",
+      "HT Wc 3005a",
+      "HT Wc 3009a",
+      "HT Wc 3010",
+      "HT Wc 3015a",
+      "HT Wc 3016a",
+      "KE 1",
+      "KH 36",
+      "KH 41",
+      "KH 5",
+      "KH 99",
+      "KH Wc 2005",
+      "KN 22a",
+      "KN 32a",
+      "KN Wc 3",
+      "KN Wc <25>",
+      "KN Zc 7",
+      "MA Wc <5a>",
+      "MI 2",
+      "PH Wc 37a",
+      "TY 2",
+      "ZA 10b",
+      "ZA 14",
+      "ZA 15b",
+      "ZA 4a",
+      "ZA 5b",
+      "ZA 8",
+      "ZA Wc 2"
+    ],
+    "sites": {
+      "Arkhanes": 1,
+      "Haghia Triada": 81,
+      "Kea": 1,
+      "Khania": 5,
+      "Knossos": 6,
+      "Mallia": 1,
+      "Melos": 2,
+      "Phaistos": 1,
+      "Tylissos": 1,
+      "Zakros": 8
+    },
+    "roles": {
+      "syllabogram": 92,
+      "logogram": 15
+    },
+    "doc_types": {
+      "tablet": 80,
+      "nodule": 14,
+      "roundel": 12,
+      "cup": 1
+    },
+    "periods": {
+      "unknown": 11,
+      "LM IB": 95,
+      "MM II": 1
+    },
+    "readings": {
+      "ka": 92,
+      "AB77": 15
+    }
+  },
+  "AB120b": {
+    "total_occurrences": 1,
+    "documents": [
+      "ARKH 3a"
+    ],
+    "sites": {
+      "Arkhanes": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "unknown": 1
+    },
+    "readings": {
+      "AB120/GRA": 1
+    }
+  },
+  "AB122": {
+    "total_occurrences": 23,
+    "documents": [
+      "ARKH 3a",
+      "HT 101",
+      "HT 116a",
+      "HT 123a",
+      "HT 131b",
+      "HT 14",
+      "HT 154A",
+      "HT 21",
+      "HT 44a",
+      "HT 50a",
+      "HT 58",
+      "HT 91",
+      "TY 3a",
+      "ZA 11a",
+      "ZA 18a",
+      "ZA 6a"
+    ],
+    "sites": {
+      "Arkhanes": 1,
+      "Haghia Triada": 16,
+      "Tylissos": 1,
+      "Zakros": 5
+    },
+    "roles": {
+      "logogram": 23
+    },
+    "doc_types": {
+      "tablet": 23
+    },
+    "periods": {
+      "unknown": 1,
+      "LM IB": 22
+    },
+    "readings": {
+      "AB122/OLIV": 23
+    }
+  },
+  "A317": {
+    "total_occurrences": 4,
+    "documents": [
+      "ARKH 3a",
+      "HT 96a",
+      "PH 9a"
+    ],
+    "sites": {
+      "Arkhanes": 2,
+      "Haghia Triada": 1,
+      "Phaistos": 1
+    },
+    "roles": {
+      "logogram": 3,
+      "syllabogram": 1
+    },
+    "doc_types": {
+      "tablet": 4
+    },
+    "periods": {
+      "unknown": 3,
+      "LM IB": 1
+    },
+    "readings": {
+      "A317": 4
+    }
+  },
+  "AB55": {
+    "total_occurrences": 44,
+    "documents": [
+      "ARKH 3a",
+      "HT 1",
+      "HT 115a",
+      "HT 115b",
+      "HT 116a",
+      "HT 117a",
+      "HT 11b",
+      "HT 122a",
+      "HT 154Ja",
+      "HT 25a",
+      "HT 26a",
+      "HT 3",
+      "HT 40",
+      "HT 47a",
+      "HT 49a",
+      "HT 62+73",
+      "HT 84",
+      "HT 86a",
+      "HT 88",
+      "HT 95a",
+      "HT 95b",
+      "HT 97a",
+      "HT Zb 159",
+      "KH 3",
+      "KH 6",
+      "KH 86",
+      "KH 88",
+      "KN Wb 33b",
+      "KN Zc 6",
+      "KN Zc 7",
+      "MA 1a",
+      "MA 1b",
+      "PH 31a",
+      "ZA 14",
+      "ZA 15a",
+      "ZA 4a",
+      "ZA 5b",
+      "ZA 8",
+      "ZA 9"
+    ],
+    "sites": {
+      "Arkhanes": 1,
+      "Haghia Triada": 26,
+      "Khania": 4,
+      "Knossos": 4,
+      "Mallia": 2,
+      "Phaistos": 1,
+      "Zakros": 6
+    },
+    "roles": {
+      "syllabogram": 44
+    },
+    "doc_types": {
+      "tablet": 39,
+      "pithos": 1,
+      "sealing": 1,
+      "cup": 3
+    },
+    "periods": {
+      "unknown": 8,
+      "LM IB": 36
+    },
+    "readings": {
+      "nu": 44
+    }
+  },
+  "AB120": {
+    "total_occurrences": 56,
+    "documents": [
+      "ARKH 3a",
+      "ARKH 3b",
+      "ARKH 5",
+      "HT 101",
+      "HT 102",
+      "HT 110b",
+      "HT 114a",
+      "HT 115b",
+      "HT 116a",
+      "HT 116b",
+      "HT 121",
+      "HT 128a",
+      "HT 129",
+      "HT 131a",
+      "HT 137",
+      "HT 139",
+      "HT 14",
+      "HT 15",
+      "HT 154A",
+      "HT 154B",
+      "HT 18",
+      "HT 21",
+      "HT 28a",
+      "HT 28b",
+      "HT 34",
+      "HT 36",
+      "HT 40",
+      "HT 44a",
+      "HT 50a",
+      "HT 52b",
+      "HT 62+73",
+      "HT 90",
+      "HT 91",
+      "HT 92",
+      "HT 95a",
+      "HT 96a",
+      "HT 96b",
+      "KH 10",
+      "KH 54",
+      "KH 8",
+      "KH 91",
+      "KN 28a",
+      "TY 3b",
+      "ZA 1b"
+    ],
+    "sites": {
+      "Arkhanes": 4,
+      "Haghia Triada": 44,
+      "Khania": 5,
+      "Knossos": 1,
+      "Tylissos": 1,
+      "Zakros": 1
+    },
+    "roles": {
+      "logogram": 54,
+      "erasure": 2
+    },
+    "doc_types": {
+      "tablet": 56
+    },
+    "periods": {
+      "unknown": 5,
+      "LM IB": 50,
+      "LM IA": 1
+    },
+    "readings": {
+      "AB120/GRA": 54,
+      "AB120": 2
+    }
+  },
+  "A312": {
+    "total_occurrences": 8,
+    "documents": [
+      "ARKH 3a",
+      "HT 10b",
+      "HT 123b",
+      "HT 26a",
+      "HT 49a",
+      "HT 78",
+      "KH 8",
+      "ZA 6b"
+    ],
+    "sites": {
+      "Arkhanes": 1,
+      "Haghia Triada": 5,
+      "Khania": 1,
+      "Zakros": 1
+    },
+    "roles": {
+      "logogram": 4,
+      "syllabogram": 4
+    },
+    "doc_types": {
+      "tablet": 8
+    },
+    "periods": {
+      "unknown": 1,
+      "LM IB": 7
+    },
+    "readings": {
+      "A312": 8
+    }
+  },
+  "A314": {
+    "total_occurrences": 5,
+    "documents": [
+      "ARKH 3b",
+      "HT Wc 3006b",
+      "PH 26",
+      "PH Wc 37a",
+      "PH Wc 38"
+    ],
+    "sites": {
+      "Arkhanes": 1,
+      "Haghia Triada": 1,
+      "Phaistos": 3
+    },
+    "roles": {
+      "syllabogram": 5
+    },
+    "doc_types": {
+      "tablet": 2,
+      "roundel": 3
+    },
+    "periods": {
+      "unknown": 2,
+      "LM IB": 1,
+      "MM II": 2
+    },
+    "readings": {
+      "A314": 5
+    }
+  },
+  "AB302": {
+    "total_occurrences": 15,
+    "documents": [
+      "ARKH 3b",
+      "HT 101",
+      "HT 114a",
+      "HT 116b",
+      "HT 121",
+      "HT 131a",
+      "HT 137",
+      "HT 139",
+      "HT 23b",
+      "HT 42+59",
+      "HT 53a",
+      "KH 80",
+      "KH 85",
+      "KN Zb 35",
+      "TY 3a"
+    ],
+    "sites": {
+      "Arkhanes": 1,
+      "Haghia Triada": 10,
+      "Khania": 2,
+      "Knossos": 1,
+      "Tylissos": 1
+    },
+    "roles": {
+      "logogram": 15
+    },
+    "doc_types": {
+      "tablet": 14,
+      "pithos": 1
+    },
+    "periods": {
+      "unknown": 1,
+      "LM IB": 13,
+      "MM III": 1
+    },
+    "readings": {
+      "AB302/OLE": 15
+    }
+  },
+  "AB131a": {
+    "total_occurrences": 44,
+    "documents": [
+      "ARKH 3b",
+      "HT 100",
+      "HT 114a",
+      "HT 121",
+      "HT 123a",
+      "HT 13",
+      "HT 130",
+      "HT 14",
+      "HT 17",
+      "HT 19",
+      "HT 23a",
+      "HT 27a",
+      "HT 28a",
+      "HT 28b",
+      "HT 30",
+      "HT 35",
+      "HT 44a",
+      "HT 60",
+      "HT 62+73",
+      "HT 89",
+      "HT 91",
+      "HT 98b",
+      "HT 99a",
+      "HT 9a",
+      "KH 100",
+      "KH 11",
+      "KH 46",
+      "KH 9",
+      "KH 91",
+      "PH 25",
+      "PH 9b",
+      "PH Wc 41",
+      "PH Wc 42",
+      "PH Wc 43",
+      "PYR 1",
+      "ZA 11a",
+      "ZA 15a",
+      "ZA 15b"
+    ],
+    "sites": {
+      "Arkhanes": 1,
+      "Haghia Triada": 27,
+      "Khania": 6,
+      "Phaistos": 5,
+      "Pyrgos": 1,
+      "Zakros": 4
+    },
+    "roles": {
+      "logogram": 41,
+      "syllabogram": 3
+    },
+    "doc_types": {
+      "tablet": 41,
+      "roundel": 3
+    },
+    "periods": {
+      "unknown": 4,
+      "LM IB": 37,
+      "MM II": 3
+    },
+    "readings": {
+      "AB131/VIN": 41,
+      "*131": 3
+    }
+  },
+  "AB30": {
+    "total_occurrences": 114,
+    "documents": [
+      "ARKH 4a",
+      "ARKH 5",
+      "HT 100",
+      "HT 102",
+      "HT 103",
+      "HT 108",
+      "HT 10a",
+      "HT 110a",
+      "HT 110b",
+      "HT 114a",
+      "HT 12",
+      "HT 121",
+      "HT 129",
+      "HT 13",
+      "HT 131a",
+      "HT 131b",
+      "HT 140",
+      "HT 147",
+      "HT 154E",
+      "HT 18",
+      "HT 23b",
+      "HT 25a",
+      "HT 26b",
+      "HT 27a",
+      "HT 28a",
+      "HT 28b",
+      "HT 30",
+      "HT 41a",
+      "HT 44a",
+      "HT 44b",
+      "HT 49a",
+      "HT 51a",
+      "HT 6a",
+      "HT 6b",
+      "HT 70",
+      "HT 79+83",
+      "HT 85a",
+      "HT 85b",
+      "HT 86a",
+      "HT 86b",
+      "HT 89",
+      "HT 90",
+      "HT 91",
+      "HT 93a",
+      "HT 94a",
+      "HT 95a",
+      "HT 95b",
+      "HT 96a",
+      "HT 99a",
+      "HT 99b",
+      "HT Wc 3004a",
+      "HT Wc 3005a",
+      "HT Wc 3007",
+      "HT Wc 3008a",
+      "KH 1",
+      "KH 11",
+      "KH 14",
+      "KH 15",
+      "KH 17",
+      "KH 20",
+      "KH 21",
+      "KH 26",
+      "KH 27",
+      "KH 30",
+      "KH 34",
+      "KH 5",
+      "KH 55",
+      "KH 58",
+      "KH 65",
+      "KH 73",
+      "KH 75",
+      "KH 79+89",
+      "KH 8",
+      "KH 88",
+      "KH 9",
+      "KH 91",
+      "KH 92",
+      "KH Wc 2005",
+      "KN Wc 26b",
+      "KN Zb 35",
+      "KN Zc 6",
+      "PH 14a",
+      "PH 16a",
+      "PH 1b",
+      "PH 6",
+      "SY Za 4",
+      "ZA 14",
+      "ZA 15a",
+      "ZA 1a",
+      "ZA 5a",
+      "ZA 8"
+    ],
+    "sites": {
+      "Arkhanes": 2,
+      "Haghia Triada": 69,
+      "Khania": 28,
+      "Knossos": 3,
+      "Phaistos": 4,
+      "Syme": 1,
+      "Zakros": 7
+    },
+    "roles": {
+      "syllabogram": 48,
+      "logogram": 65,
+      "erasure": 1
+    },
+    "doc_types": {
+      "tablet": 105,
+      "roundel": 6,
+      "pithos": 1,
+      "cup": 1,
+      "libation_table": 1
+    },
+    "periods": {
+      "unknown": 10,
+      "LM IB": 103,
+      "MM III": 1
+    },
+    "readings": {
+      "ni": 48,
+      "AB30/FIC": 66
+    }
+  },
+  "AB65": {
+    "total_occurrences": 35,
+    "documents": [
+      "ARKH 4a",
+      "HT 108",
+      "HT 109",
+      "HT 117a",
+      "HT 117b",
+      "HT 119",
+      "HT 122b",
+      "HT 20",
+      "HT 25a",
+      "HT 34",
+      "HT 39",
+      "HT 68",
+      "HT 80",
+      "HT 88",
+      "HT 93a",
+      "HT 97a",
+      "HT Zd 155",
+      "KN 22a",
+      "KN Zb 4",
+      "KN Zc 6",
+      "PA 1",
+      "PH 2",
+      "TY 2",
+      "ZA 11a",
+      "ZA 14",
+      "ZA 22",
+      "ZA 6a",
+      "ZA 6b",
+      "ZA 7a",
+      "ZA 9"
+    ],
+    "sites": {
+      "Arkhanes": 1,
+      "Haghia Triada": 17,
+      "Knossos": 3,
+      "Papoura": 1,
+      "Phaistos": 1,
+      "Tylissos": 5,
+      "Zakros": 7
+    },
+    "roles": {
+      "syllabogram": 33,
+      "logogram": 1,
+      "transaction": 1
+    },
+    "doc_types": {
+      "tablet": 32,
+      "graffiti": 1,
+      "sherd": 1,
+      "cup": 1
+    },
+    "periods": {
+      "unknown": 5,
+      "LM IB": 30
+    },
+    "readings": {
+      "ju": 33,
+      "AB65": 2
+    }
+  },
+  "AB47": {
+    "total_occurrences": 7,
+    "documents": [
+      "ARKH 4a",
+      "ARKH 4b",
+      "HT 115a",
+      "HT 127a",
+      "MA 1a",
+      "MA 1b",
+      "ZA 15a"
+    ],
+    "sites": {
+      "Arkhanes": 2,
+      "Haghia Triada": 2,
+      "Mallia": 2,
+      "Zakros": 1
+    },
+    "roles": {
+      "syllabogram": 5,
+      "logogram": 2
+    },
+    "doc_types": {
+      "tablet": 7
+    },
+    "periods": {
+      "unknown": 4,
+      "LM IB": 3
+    },
+    "readings": {
+      "*47": 5,
+      "AB47": 2
+    }
+  },
+  "AB37": {
+    "total_occurrences": 74,
+    "documents": [
+      "ARKH 4a",
+      "HT 104",
+      "HT 108",
+      "HT 10b",
+      "HT 115b",
+      "HT 117a",
+      "HT 119",
+      "HT 12",
+      "HT 123b",
+      "HT 154",
+      "HT 17",
+      "HT 19",
+      "HT 25b",
+      "HT 26a",
+      "HT 27a",
+      "HT 31",
+      "HT 35",
+      "HT 39",
+      "HT 4",
+      "HT 49a",
+      "HT 51a",
+      "HT 58",
+      "HT 61",
+      "HT 62+73",
+      "HT 63",
+      "HT 6b",
+      "HT 7a",
+      "HT 84",
+      "HT 8a",
+      "HT 93a",
+      "HT 96a",
+      "HT 97a",
+      "HT 98a",
+      "HT Zd 155",
+      "HT Zd 157",
+      "KH 7a",
+      "KH Wc 2005",
+      "KN 1a",
+      "KN 1b",
+      "KN Zb 5",
+      "KN Zc 6",
+      "KN Zc 7",
+      "MA 1c",
+      "MA 2b",
+      "MA 2c",
+      "PH 30",
+      "PH 31b",
+      "PS Za 2",
+      "PYR 1",
+      "ZA 12a",
+      "ZA 12b",
+      "ZA 14",
+      "ZA 15a",
+      "ZA 4a",
+      "ZA 6b",
+      "ZA 9",
+      "ZA Wc 2"
+    ],
+    "sites": {
+      "Arkhanes": 1,
+      "Haghia Triada": 46,
+      "Khania": 2,
+      "Knossos": 6,
+      "Mallia": 5,
+      "Phaistos": 2,
+      "Psykhro": 2,
+      "Pyrgos": 1,
+      "Zakros": 9
+    },
+    "roles": {
+      "syllabogram": 71,
+      "logogram": 3
+    },
+    "doc_types": {
+      "tablet": 62,
+      "graffiti": 4,
+      "roundel": 2,
+      "clay_vase": 1,
+      "cup": 3,
+      "libation_table": 2
+    },
+    "periods": {
+      "unknown": 15,
+      "LM IB": 57,
+      "LM IA": 2
+    },
+    "readings": {
+      "ti": 71,
+      "AB37": 3
+    }
+  },
+  "AB10": {
+    "total_occurrences": 47,
+    "documents": [
+      "ARKH 4b",
+      "HT 1",
+      "HT 103",
+      "HT 10a",
+      "HT 10b",
+      "HT 115a",
+      "HT 116a",
+      "HT 117a",
+      "HT 120",
+      "HT 122a",
+      "HT 122b",
+      "HT 126a",
+      "HT 13",
+      "HT 140",
+      "HT 15",
+      "HT 16",
+      "HT 25a",
+      "HT 26a",
+      "HT 26b",
+      "HT 28b",
+      "HT 47a",
+      "HT 56a",
+      "HT 58",
+      "HT 85a",
+      "HT 95a",
+      "HT 95b",
+      "HT 9a",
+      "HT 9b",
+      "KH 16",
+      "KH 5",
+      "KH 52",
+      "KH 7b",
+      "KN Zb 40",
+      "KN Zc 6",
+      "MA 2c",
+      "PH 7a",
+      "ZA 10a",
+      "ZA 10b",
+      "ZA 7a"
+    ],
+    "sites": {
+      "Arkhanes": 1,
+      "Haghia Triada": 34,
+      "Khania": 4,
+      "Knossos": 2,
+      "Mallia": 2,
+      "Phaistos": 1,
+      "Zakros": 3
+    },
+    "roles": {
+      "syllabogram": 46,
+      "erasure": 1
+    },
+    "doc_types": {
+      "tablet": 45,
+      "pithoid_jar": 1,
+      "cup": 1
+    },
+    "periods": {
+      "unknown": 6,
+      "LM IB": 41
+    },
+    "readings": {
+      "u": 46,
+      "AB10": 1
+    }
+  },
+  "AB02": {
+    "total_occurrences": 91,
+    "documents": [
+      "ARKH 4b",
+      "ARKH 5",
+      "HT 1",
+      "HT 100",
+      "HT 102",
+      "HT 104",
+      "HT 108",
+      "HT 109",
+      "HT 110a",
+      "HT 110b",
+      "HT 116a",
+      "HT 116b",
+      "HT 117a",
+      "HT 118",
+      "HT 119",
+      "HT 11a",
+      "HT 11b",
+      "HT 122a",
+      "HT 122b",
+      "HT 123a",
+      "HT 123b",
+      "HT 127b",
+      "HT 13",
+      "HT 130",
+      "HT 131b",
+      "HT 15",
+      "HT 17",
+      "HT 19",
+      "HT 20",
+      "HT 25b",
+      "HT 26b",
+      "HT 27a",
+      "HT 30",
+      "HT 31",
+      "HT 34",
+      "HT 37",
+      "HT 38",
+      "HT 39",
+      "HT 40",
+      "HT 42+59",
+      "HT 45b",
+      "HT 46a",
+      "HT 47a",
+      "HT 55a",
+      "HT 62+73",
+      "HT 74",
+      "HT 85a",
+      "HT 88",
+      "HT 89",
+      "HT 93b",
+      "HT 94a",
+      "HT 94b",
+      "HT 96a",
+      "HT 98a",
+      "HT 9a",
+      "HT 9b",
+      "HT Wc 3003",
+      "HT Wc 3012b",
+      "KH 100",
+      "KH Wa 1013\u03b3",
+      "KH Wa 1014\u03b3",
+      "KH Wa 1015\u03b3",
+      "KH Wa 1016\u03b3",
+      "PH 24",
+      "PH 31a",
+      "PH Wc 39b",
+      "PH Wc 40b",
+      "ZA 10b",
+      "ZA 15b",
+      "ZA 1b",
+      "ZA 8",
+      "ZA 9"
+    ],
+    "sites": {
+      "Arkhanes": 2,
+      "Haghia Triada": 75,
+      "Khania": 5,
+      "Phaistos": 4,
+      "Zakros": 5
+    },
+    "roles": {
+      "syllabogram": 89,
+      "logogram": 2
+    },
+    "doc_types": {
+      "tablet": 82,
+      "roundel": 4,
+      "nodule": 4,
+      "label": 1
+    },
+    "periods": {
+      "unknown": 5,
+      "LM IB": 84,
+      "MM II": 2
+    },
+    "readings": {
+      "ro": 89,
+      "AB02": 2
+    }
+  },
+  "AB17": {
+    "total_occurrences": 31,
+    "documents": [
+      "ARKH 4b",
+      "HT 1",
+      "HT 10a",
+      "HT 122a",
+      "HT 122b",
+      "HT 13",
+      "HT 85a",
+      "HT 85b",
+      "HT 88",
+      "HT 95b",
+      "KH 11",
+      "KH 13",
+      "KH 20",
+      "KH 22",
+      "KH 86",
+      "KH 94",
+      "SY Za 4",
+      "TY 3a",
+      "ZA 10a",
+      "ZA 10b",
+      "ZA 14",
+      "ZA 15a",
+      "ZA 1a",
+      "ZA 20",
+      "ZA 5a",
+      "ZA 6b",
+      "ZA 9"
+    ],
+    "sites": {
+      "Arkhanes": 1,
+      "Haghia Triada": 11,
+      "Khania": 6,
+      "Syme": 1,
+      "Tylissos": 1,
+      "Zakros": 11
+    },
+    "roles": {
+      "syllabogram": 30,
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 30,
+      "libation_table": 1
+    },
+    "periods": {
+      "unknown": 4,
+      "LM IB": 27
+    },
+    "readings": {
+      "za": 30,
+      "AB17": 1
+    }
+  },
+  "AB51": {
+    "total_occurrences": 68,
+    "documents": [
+      "ARKH 5",
+      "HT 104",
+      "HT 108",
+      "HT 110a",
+      "HT 115b",
+      "HT 122a",
+      "HT 123b",
+      "HT 127a",
+      "HT 13",
+      "HT 133",
+      "HT 14",
+      "HT 15",
+      "HT 19",
+      "HT 25a",
+      "HT 29",
+      "HT 36",
+      "HT 4",
+      "HT 40",
+      "HT 42+59",
+      "HT 43",
+      "HT 47a",
+      "HT 49a",
+      "HT 5",
+      "HT 51b",
+      "HT 58",
+      "HT 6b",
+      "HT 7a",
+      "HT 84",
+      "HT 85a",
+      "HT 85b",
+      "HT 86a",
+      "HT 88",
+      "HT 92",
+      "HT 95a",
+      "HT 95b",
+      "HT 99a",
+      "HT 99b",
+      "HT Wa 1021\u03b1",
+      "HT Wc 3020a",
+      "HT Zb 160",
+      "KH 11",
+      "KH 20",
+      "KH 21",
+      "KH 23",
+      "KH 4",
+      "KH 5",
+      "KN 1b",
+      "KN Zc 7",
+      "MA 10b",
+      "MA 1a",
+      "MA 2a",
+      "MI 2",
+      "PH 31b",
+      "TY 3a",
+      "ZA 10a",
+      "ZA 10b",
+      "ZA 20",
+      "ZA 22",
+      "ZA 31",
+      "ZA Wc 2"
+    ],
+    "sites": {
+      "Arkhanes": 1,
+      "Haghia Triada": 44,
+      "Khania": 6,
+      "Knossos": 2,
+      "Mallia": 3,
+      "Melos": 1,
+      "Phaistos": 1,
+      "Tylissos": 2,
+      "Zakros": 8
+    },
+    "roles": {
+      "syllabogram": 67,
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 63,
+      "nodule": 1,
+      "roundel": 2,
+      "pithos": 1,
+      "cup": 1
+    },
+    "periods": {
+      "unknown": 7,
+      "LM IB": 60,
+      "LM IA": 1
+    },
+    "readings": {
+      "du": 67,
+      "AB51": 1
+    }
+  },
+  "AB69": {
+    "total_occurrences": 61,
+    "documents": [
+      "ARKH 6",
+      "HT 112a",
+      "HT 115a",
+      "HT 115b",
+      "HT 117a",
+      "HT 117b",
+      "HT 119",
+      "HT 12",
+      "HT 122a",
+      "HT 123b",
+      "HT 126b",
+      "HT 128a",
+      "HT 129",
+      "HT 13",
+      "HT 135a",
+      "HT 154A",
+      "HT 23a",
+      "HT 25a",
+      "HT 3",
+      "HT 41a",
+      "HT 42+59",
+      "HT 47a",
+      "HT 49a",
+      "HT 52a",
+      "HT 55a",
+      "HT 79+83",
+      "HT 7a",
+      "HT 7b",
+      "HT 85b",
+      "HT 87",
+      "HT 94b",
+      "HT 98a",
+      "HT 9a",
+      "HT 9b",
+      "HT Wa 1019\u03b3",
+      "HT Zb 158a",
+      "KH 2",
+      "KH 51",
+      "KH 57",
+      "KH 7b",
+      "KH 91",
+      "KN Zb 5",
+      "PH 2",
+      "PH 31b",
+      "TY 3a",
+      "ZA 12b",
+      "ZA 14",
+      "ZA 20",
+      "ZA 4a",
+      "ZA 7a",
+      "ZA 8"
+    ],
+    "sites": {
+      "Arkhanes": 1,
+      "Haghia Triada": 43,
+      "Khania": 5,
+      "Knossos": 1,
+      "Phaistos": 2,
+      "Tylissos": 1,
+      "Zakros": 8
+    },
+    "roles": {
+      "syllabogram": 57,
+      "logogram": 4
+    },
+    "doc_types": {
+      "tablet": 58,
+      "nodule": 1,
+      "pithos": 1,
+      "clay_vase": 1
+    },
+    "periods": {
+      "unknown": 4,
+      "LM IB": 57
+    },
+    "readings": {
+      "tu": 57,
+      "AB69": 4
+    }
+  },
+  "AB53": {
+    "total_occurrences": 71,
+    "documents": [
+      "ARKH 6",
+      "HT 102",
+      "HT 10a",
+      "HT 10b",
+      "HT 113",
+      "HT 114a",
+      "HT 115a",
+      "HT 117a",
+      "HT 118",
+      "HT 119",
+      "HT 11a",
+      "HT 11b",
+      "HT 121",
+      "HT 122a",
+      "HT 128a",
+      "HT 129",
+      "HT 141",
+      "HT 146",
+      "HT 23a",
+      "HT 24a",
+      "HT 25a",
+      "HT 4",
+      "HT 49a",
+      "HT 55b",
+      "HT 6b",
+      "HT 79+83",
+      "HT 81",
+      "HT 85a",
+      "HT 87",
+      "HT 90",
+      "HT 91",
+      "HT 93a",
+      "HT 98a",
+      "HT Zb 158b",
+      "KH 6",
+      "KH 90",
+      "KH 92",
+      "KH 99",
+      "KN Zb 5",
+      "KN Zc 6",
+      "KN Zf 13",
+      "PH 28a",
+      "PH 30",
+      "PH 31b",
+      "PH 6",
+      "PH 7a",
+      "TY 2",
+      "TY 3b",
+      "ZA 11b",
+      "ZA 21b",
+      "ZA 8"
+    ],
+    "sites": {
+      "Arkhanes": 1,
+      "Haghia Triada": 41,
+      "Khania": 4,
+      "Knossos": 4,
+      "Phaistos": 11,
+      "Tylissos": 6,
+      "Zakros": 4
+    },
+    "roles": {
+      "syllabogram": 70,
+      "erasure": 1
+    },
+    "doc_types": {
+      "tablet": 66,
+      "pithos": 1,
+      "clay_vase": 1,
+      "cup": 1,
+      "jewellery": 2
+    },
+    "periods": {
+      "unknown": 16,
+      "LM IB": 55
+    },
+    "readings": {
+      "ri": 70,
+      "AB53": 1
+    }
+  },
+  "A308": {
+    "total_occurrences": 13,
+    "documents": [
+      "ARKH 7",
+      "HT 123a",
+      "HT 123b",
+      "HT 23a",
+      "HT 26b",
+      "HT 32",
+      "HT 35",
+      "KH 12",
+      "KH 85"
+    ],
+    "sites": {
+      "Arkhanes": 1,
+      "Haghia Triada": 10,
+      "Khania": 2
+    },
+    "roles": {
+      "logogram": 11,
+      "syllabogram": 2
+    },
+    "doc_types": {
+      "tablet": 13
+    },
+    "periods": {
+      "unknown": 1,
+      "LM IB": 12
+    },
+    "readings": {
+      "A308": 13
+    }
+  },
+  "AB80": {
+    "total_occurrences": 87,
+    "documents": [
+      "GO Wc 1a",
+      "HS Zg 1",
+      "HT 102",
+      "HT 10a",
+      "HT 110b",
+      "HT 115a",
+      "HT 115b",
+      "HT 116a",
+      "HT 117a",
+      "HT 118",
+      "HT 123b",
+      "HT 128a",
+      "HT 139",
+      "HT 140",
+      "HT 146",
+      "HT 20",
+      "HT 29",
+      "HT 3",
+      "HT 31",
+      "HT 39",
+      "HT 43",
+      "HT 5",
+      "HT 52a",
+      "HT 55a",
+      "HT 64",
+      "HT 69",
+      "HT 6a",
+      "HT 6b",
+      "HT 81",
+      "HT 85b",
+      "HT 87",
+      "HT 88",
+      "HT 89",
+      "HT 90",
+      "HT 94b",
+      "HT 95a",
+      "HT 96a",
+      "HT 97a",
+      "HT 99b",
+      "HT Zd 155",
+      "HT Zd 157",
+      "KH 14",
+      "KH 61",
+      "KH 62",
+      "KH 88",
+      "KH 90",
+      "KN 22c",
+      "MA 1b",
+      "MA 2c",
+      "PH 15a",
+      "PH 30",
+      "PH 31a",
+      "PH 31b",
+      "PH 7a",
+      "PH Wc 38",
+      "PH Wc 40a",
+      "PYR 1",
+      "ZA 10b",
+      "ZA 11a",
+      "ZA 15a",
+      "ZA 20",
+      "ZA 21a",
+      "ZA 29",
+      "ZA 4a",
+      "ZA 5a",
+      "ZA 5b",
+      "ZA 6b",
+      "ZA 7b",
+      "ZA 8",
+      "ZA 9"
+    ],
+    "sites": {
+      "Gournia": 1,
+      "Haghios Stephanos": 1,
+      "Haghia Triada": 50,
+      "Khania": 5,
+      "Knossos": 1,
+      "Mallia": 2,
+      "Phaistos": 7,
+      "Pyrgos": 1,
+      "Zakros": 19
+    },
+    "roles": {
+      "syllabogram": 84,
+      "logogram": 2,
+      "erasure": 1
+    },
+    "doc_types": {
+      "roundel": 3,
+      "plaque": 1,
+      "tablet": 80,
+      "graffiti": 3
+    },
+    "periods": {
+      "LM IB": 75,
+      "unknown": 9,
+      "LM IA": 1,
+      "MM II": 2
+    },
+    "readings": {
+      "ma": 84,
+      "AB80": 3
+    }
+  },
+  "AB23m": {
+    "total_occurrences": 7,
+    "documents": [
+      "GO Wc 1b",
+      "HT 114a",
+      "HT 121",
+      "HT 30",
+      "KH 97",
+      "KH Wc 2069"
+    ],
+    "sites": {
+      "Gournia": 1,
+      "Haghia Triada": 4,
+      "Khania": 2
+    },
+    "roles": {
+      "logogram": 7
+    },
+    "doc_types": {
+      "roundel": 2,
+      "tablet": 5
+    },
+    "periods": {
+      "LM IB": 7
+    },
+    "readings": {
+      "AB23/BOS": 7
+    }
+  },
+  "AB78": {
+    "total_occurrences": 36,
+    "documents": [
+      "HT 1",
+      "HT 11b",
+      "HT 12",
+      "HT 120",
+      "HT 146",
+      "HT 20",
+      "HT 25a",
+      "HT 27a",
+      "HT 3",
+      "HT 31",
+      "HT 37",
+      "HT 41a",
+      "HT 54a",
+      "HT 55b",
+      "HT 57a",
+      "HT 58",
+      "HT 62+73",
+      "HT 6a",
+      "HT 7a",
+      "HT 85b",
+      "HT 87",
+      "HT 95a",
+      "HT 95b",
+      "HT 9a",
+      "HT 9b",
+      "HT Wc 3014b",
+      "KH 21",
+      "KH 50",
+      "MA 1a",
+      "MA 1b",
+      "PH 9a",
+      "ZA 14",
+      "ZA 15a",
+      "ZA 4a"
+    ],
+    "sites": {
+      "Haghia Triada": 28,
+      "Khania": 2,
+      "Mallia": 2,
+      "Phaistos": 1,
+      "Zakros": 3
+    },
+    "roles": {
+      "syllabogram": 36
+    },
+    "doc_types": {
+      "tablet": 36
+    },
+    "periods": {
+      "LM IB": 33,
+      "unknown": 3
+    },
+    "readings": {
+      "qe": 36
+    }
+  },
+  "AB76": {
+    "total_occurrences": 43,
+    "documents": [
+      "HT 1",
+      "HT 100",
+      "HT 101",
+      "HT 102",
+      "HT 108",
+      "HT 114a",
+      "HT 116a",
+      "HT 11b",
+      "HT 121",
+      "HT 130",
+      "HT 139",
+      "HT 18",
+      "HT 28b",
+      "HT 3",
+      "HT 30",
+      "HT 32",
+      "HT 33",
+      "HT 34",
+      "HT 49a",
+      "HT 54a",
+      "HT 6a",
+      "HT 86a",
+      "HT 89",
+      "HT 90",
+      "HT 93a",
+      "HT 94a",
+      "HT 95a",
+      "HT 95b",
+      "HT 97b",
+      "HT 99a",
+      "HT Wa 1006",
+      "HT Wa 1007",
+      "HT Wa 1008",
+      "HT Wa 1009",
+      "HT Wa 1010",
+      "HT Wa 1011",
+      "HT Wa 1012",
+      "HT Wa 1013",
+      "ZA 10b",
+      "ZA 6a"
+    ],
+    "sites": {
+      "Haghia Triada": 41,
+      "Zakros": 2
+    },
+    "roles": {
+      "syllabogram": 43
+    },
+    "doc_types": {
+      "tablet": 35,
+      "nodule": 8
+    },
+    "periods": {
+      "LM IB": 43
+    },
+    "readings": {
+      "ra": 43
+    }
+  },
+  "AB07": {
+    "total_occurrences": 91,
+    "documents": [
+      "HT 1",
+      "HT 101",
+      "HT 102",
+      "HT 108",
+      "HT 117a",
+      "HT 117b",
+      "HT 118",
+      "HT 122a",
+      "HT 122b",
+      "HT 123b",
+      "HT 126a",
+      "HT 128a",
+      "HT 140",
+      "HT 141",
+      "HT 16",
+      "HT 19",
+      "HT 20",
+      "HT 25a",
+      "HT 27a",
+      "HT 28b",
+      "HT 29",
+      "HT 3",
+      "HT 32",
+      "HT 36",
+      "HT 4",
+      "HT 52a",
+      "HT 62+73",
+      "HT 66",
+      "HT 69",
+      "HT 6a",
+      "HT 85b",
+      "HT 86a",
+      "HT 86b",
+      "HT 87",
+      "HT 8a",
+      "HT 93a",
+      "HT 94b",
+      "HT 95a",
+      "HT 95b",
+      "HT 97a",
+      "HT 98a",
+      "HT 9a",
+      "HT 9b",
+      "HT Wc 3007",
+      "HT Wc 3008a",
+      "HT Wc 3008b",
+      "HT Wc 3009a",
+      "HT Wc 3010",
+      "HT Wc 3011",
+      "HT Wc 3012a",
+      "KH 59",
+      "KH 6",
+      "KH 83",
+      "KN 22b",
+      "KN Zb 35",
+      "KN Zc 6",
+      "KN Zf 13",
+      "PH 1a",
+      "PH 2",
+      "PH 31a",
+      "PH 7a",
+      "PH Wc 39a",
+      "ZA 11a",
+      "ZA 14",
+      "ZA 15b",
+      "ZA 26a",
+      "ZA 27",
+      "ZA 4a"
+    ],
+    "sites": {
+      "Haghia Triada": 69,
+      "Khania": 3,
+      "Knossos": 4,
+      "Phaistos": 7,
+      "Zakros": 8
+    },
+    "roles": {
+      "syllabogram": 79,
+      "logogram": 10,
+      "erasure": 2
+    },
+    "doc_types": {
+      "tablet": 80,
+      "roundel": 8,
+      "pithos": 1,
+      "cup": 1,
+      "jewellery": 1
+    },
+    "periods": {
+      "LM IB": 80,
+      "unknown": 9,
+      "MM III": 1,
+      "MM II": 1
+    },
+    "readings": {
+      "di": 79,
+      "AB07": 12
+    }
+  },
+  "AB44": {
+    "total_occurrences": 9,
+    "documents": [
+      "HT 1",
+      "HT 85a",
+      "HT 87",
+      "HT 94b",
+      "HT 98a",
+      "KN Zf 13",
+      "PS Za 2",
+      "ZA 15a",
+      "ZA 21a"
+    ],
+    "sites": {
+      "Haghia Triada": 5,
+      "Knossos": 1,
+      "Psykhro": 1,
+      "Zakros": 2
+    },
+    "roles": {
+      "syllabogram": 9
+    },
+    "doc_types": {
+      "tablet": 7,
+      "jewellery": 1,
+      "libation_table": 1
+    },
+    "periods": {
+      "LM IB": 7,
+      "unknown": 2
+    },
+    "readings": {
+      "ke": 9
+    }
+  },
+  "A568": {
+    "total_occurrences": 9,
+    "documents": [
+      "HT 100",
+      "HT 28a",
+      "HT 88",
+      "HT 97a",
+      "KH Wc 2029",
+      "KH Wc 2030",
+      "KH Wc 2031",
+      "KH Wc 2032",
+      "KH Wc 2106"
+    ],
+    "sites": {
+      "Haghia Triada": 4,
+      "Khania": 5
+    },
+    "roles": {
+      "logogram": 9
+    },
+    "doc_types": {
+      "tablet": 4,
+      "roundel": 5
+    },
+    "periods": {
+      "LM IB": 9
+    },
+    "readings": {
+      "A568": 9
+    }
+  },
+  "A629": {
+    "total_occurrences": 6,
+    "documents": [
+      "HT 100",
+      "HT 127a",
+      "HT Wa 1020\u03b1",
+      "HT Wc 3016b",
+      "KH 73",
+      "KH 7b"
+    ],
+    "sites": {
+      "Haghia Triada": 4,
+      "Khania": 2
+    },
+    "roles": {
+      "logogram": 4,
+      "syllabogram": 2
+    },
+    "doc_types": {
+      "tablet": 5,
+      "nodule": 1
+    },
+    "periods": {
+      "LM IB": 6
+    },
+    "readings": {
+      "A629": 6
+    }
+  },
+  "A523": {
+    "total_occurrences": 2,
+    "documents": [
+      "HT 100",
+      "HT 94a"
+    ],
+    "sites": {
+      "Haghia Triada": 2
+    },
+    "roles": {
+      "logogram": 2
+    },
+    "doc_types": {
+      "tablet": 2
+    },
+    "periods": {
+      "LM IB": 2
+    },
+    "readings": {
+      "A523": 2
+    }
+  },
+  "A305": {
+    "total_occurrences": 18,
+    "documents": [
+      "HT 100",
+      "HT 10a",
+      "HT 126b",
+      "HT 132",
+      "HT 146",
+      "HT 27a",
+      "HT 33",
+      "HT 41a",
+      "HT 45a",
+      "HT 45b",
+      "HT 57b",
+      "HT 63",
+      "HT 79+83",
+      "HT 89",
+      "HT 9b",
+      "KH 7a",
+      "ZA 6a"
+    ],
+    "sites": {
+      "Haghia Triada": 16,
+      "Khania": 1,
+      "Zakros": 1
+    },
+    "roles": {
+      "logogram": 9,
+      "syllabogram": 6,
+      "transaction": 3
+    },
+    "doc_types": {
+      "tablet": 18
+    },
+    "periods": {
+      "LM IB": 18
+    },
+    "readings": {
+      "A305": 18
+    }
+  },
+  "A570": {
+    "total_occurrences": 2,
+    "documents": [
+      "HT 100",
+      "HT 89"
+    ],
+    "sites": {
+      "Haghia Triada": 2
+    },
+    "roles": {
+      "logogram": 2
+    },
+    "doc_types": {
+      "tablet": 2
+    },
+    "periods": {
+      "LM IB": 2
+    },
+    "readings": {
+      "A570": 2
+    }
+  },
+  "A303": {
+    "total_occurrences": 48,
+    "documents": [
+      "HT 100",
+      "HT 112b",
+      "HT 130",
+      "HT 23a",
+      "HT 23b",
+      "HT 27a",
+      "HT 30",
+      "HT 35",
+      "HT 89",
+      "HT 94a",
+      "HT 99a",
+      "HT Wc 3015b",
+      "KH 11",
+      "KH 12",
+      "KH 14",
+      "KH 15",
+      "KH 16",
+      "KH 2",
+      "KH 21",
+      "KH 22",
+      "KH 23",
+      "KH 27",
+      "KH 29",
+      "KH 35",
+      "KH 4",
+      "KH 5",
+      "KH 57",
+      "KH 58",
+      "KH 6",
+      "KH 61",
+      "KH 75",
+      "KH 76",
+      "KH 8",
+      "KH 84",
+      "KH 86",
+      "KH 9",
+      "PH 1a"
+    ],
+    "sites": {
+      "Haghia Triada": 15,
+      "Khania": 32,
+      "Phaistos": 1
+    },
+    "roles": {
+      "logogram": 46,
+      "syllabogram": 1,
+      "erasure": 1
+    },
+    "doc_types": {
+      "tablet": 48
+    },
+    "periods": {
+      "LM IB": 47,
+      "unknown": 1
+    },
+    "readings": {
+      "A303": 48
+    }
+  },
+  "A704": {
+    "total_occurrences": 68,
+    "documents": [
+      "HT 100",
+      "HT 101",
+      "HT 10b",
+      "HT 110b",
+      "HT 123a",
+      "HT 123b",
+      "HT 131a",
+      "HT 154E",
+      "HT 16",
+      "HT 20",
+      "HT 21",
+      "HT 24b",
+      "HT 27a",
+      "HT 28b",
+      "HT 33",
+      "HT 34",
+      "HT 42+59",
+      "HT 45b",
+      "HT 50a",
+      "HT 62+73",
+      "HT 6a",
+      "HT 6b",
+      "HT 70",
+      "HT 82",
+      "HT 89",
+      "HT 8a",
+      "HT 8b",
+      "HT 93a",
+      "HT 96b",
+      "HT 98a",
+      "HT 98b",
+      "HT 9a",
+      "HT Wa 1020\u03b2",
+      "HT Wa 1021\u03b2",
+      "HT Wa 1024",
+      "HT Wc 3019-latus",
+      "HT Zd 156",
+      "KH 100",
+      "KH 2",
+      "KH 76",
+      "KH 86",
+      "KH Wa 1019",
+      "PH Wc 46",
+      "TY 3a"
+    ],
+    "sites": {
+      "Haghia Triada": 61,
+      "Khania": 5,
+      "Phaistos": 1,
+      "Tylissos": 1
+    },
+    "roles": {
+      "fraction": 68
+    },
+    "doc_types": {
+      "tablet": 60,
+      "nodule": 4,
+      "roundel": 2,
+      "graffiti": 2
+    },
+    "periods": {
+      "LM IB": 67,
+      "MM II": 1
+    },
+    "readings": {
+      "A704": 68
+    }
+  },
+  "A703": {
+    "total_occurrences": 27,
+    "documents": [
+      "HT 100",
+      "HT 115a",
+      "HT 120",
+      "HT 30",
+      "HT 33",
+      "HT 35",
+      "HT 41a",
+      "HT 45b",
+      "HT 94a",
+      "KH 80",
+      "KH 85",
+      "TY 3a",
+      "`KE Wc 2a"
+    ],
+    "sites": {
+      "Haghia Triada": 22,
+      "Khania": 2,
+      "Tylissos": 2,
+      "Kea": 1
+    },
+    "roles": {
+      "fraction": 26,
+      "erasure": 1
+    },
+    "doc_types": {
+      "tablet": 26,
+      "roundel": 1
+    },
+    "periods": {
+      "LM IB": 26,
+      "MM III": 1
+    },
+    "readings": {
+      "A703": 27
+    }
+  },
+  "A707": {
+    "total_occurrences": 112,
+    "documents": [
+      "HT 100",
+      "HT 103",
+      "HT 104",
+      "HT 10a",
+      "HT 10b",
+      "HT 110b",
+      "HT 113",
+      "HT 115a",
+      "HT 115b",
+      "HT 120",
+      "HT 123a",
+      "HT 123b",
+      "HT 126a",
+      "HT 128a",
+      "HT 129",
+      "HT 13",
+      "HT 131a",
+      "HT 131b",
+      "HT 139",
+      "HT 140",
+      "HT 147",
+      "HT 154C",
+      "HT 154G",
+      "HT 19",
+      "HT 20",
+      "HT 21",
+      "HT 24a",
+      "HT 24b",
+      "HT 27a",
+      "HT 28a",
+      "HT 30",
+      "HT 32",
+      "HT 36",
+      "HT 42+59",
+      "HT 46a",
+      "HT 46b",
+      "HT 50a",
+      "HT 51b",
+      "HT 56a",
+      "HT 6a",
+      "HT 6b",
+      "HT 89",
+      "HT 8a",
+      "HT 8b",
+      "HT 93a",
+      "HT 94a",
+      "HT 96b",
+      "HT 98a",
+      "HT 98b",
+      "HT 9a",
+      "HT Wa 1021\u03b2",
+      "HT Wa 1025\u03b1",
+      "HT Wc 3001-latus",
+      "HT Zd 156",
+      "KH 75",
+      "KH 84",
+      "KH 85",
+      "KH 86",
+      "KH 91",
+      "KH 97",
+      "KH Wa 1003",
+      "KH Wa 1004",
+      "PH Wc 41",
+      "PYR 2",
+      "TY 3a"
+    ],
+    "sites": {
+      "Haghia Triada": 99,
+      "Khania": 8,
+      "Phaistos": 1,
+      "Pyrgos": 1,
+      "Tylissos": 3
+    },
+    "roles": {
+      "fraction": 111,
+      "erasure": 1
+    },
+    "doc_types": {
+      "tablet": 105,
+      "nodule": 4,
+      "roundel": 2,
+      "graffiti": 1
+    },
+    "periods": {
+      "LM IB": 110,
+      "MM II": 1,
+      "unknown": 1
+    },
+    "readings": {
+      "A707": 112
+    }
+  },
+  "A610": {
+    "total_occurrences": 22,
+    "documents": [
+      "HT 100",
+      "HT 101",
+      "HT 140",
+      "HT 2",
+      "HT 21",
+      "HT 28a",
+      "HT 42+59",
+      "HT 44a",
+      "HT 58",
+      "HT 91",
+      "HT 96b",
+      "TY 3a"
+    ],
+    "sites": {
+      "Haghia Triada": 19,
+      "Tylissos": 3
+    },
+    "roles": {
+      "logogram": 21,
+      "erasure": 1
+    },
+    "doc_types": {
+      "tablet": 22
+    },
+    "periods": {
+      "LM IB": 22
+    },
+    "readings": {
+      "A610": 22
+    }
+  },
+  "A706": {
+    "total_occurrences": 16,
+    "documents": [
+      "HT 100",
+      "HT 123a",
+      "HT 147",
+      "HT 23a",
+      "HT 34",
+      "HT 6b",
+      "HT 81",
+      "HT 93a",
+      "HT 93b",
+      "HT 94a",
+      "HT 99a",
+      "PH 1a"
+    ],
+    "sites": {
+      "Haghia Triada": 15,
+      "Phaistos": 1
+    },
+    "roles": {
+      "fraction": 16
+    },
+    "doc_types": {
+      "tablet": 16
+    },
+    "periods": {
+      "LM IB": 15,
+      "unknown": 1
+    },
+    "readings": {
+      "A706": 16
+    }
+  },
+  "A622": {
+    "total_occurrences": 19,
+    "documents": [
+      "HT 100",
+      "HT 101",
+      "HT 116a",
+      "HT 137",
+      "HT 14",
+      "HT 28a",
+      "HT 42+59",
+      "HT 50a",
+      "HT 58",
+      "HT 90",
+      "HT 91",
+      "TY 3a",
+      "TY 3b"
+    ],
+    "sites": {
+      "Haghia Triada": 15,
+      "Tylissos": 4
+    },
+    "roles": {
+      "logogram": 19
+    },
+    "doc_types": {
+      "tablet": 19
+    },
+    "periods": {
+      "LM IB": 19
+    },
+    "readings": {
+      "A622": 19
+    }
+  },
+  "A612": {
+    "total_occurrences": 5,
+    "documents": [
+      "HT 100",
+      "HT 23a",
+      "HT 32",
+      "TY 3b"
+    ],
+    "sites": {
+      "Haghia Triada": 4,
+      "Tylissos": 1
+    },
+    "roles": {
+      "logogram": 5
+    },
+    "doc_types": {
+      "tablet": 5
+    },
+    "periods": {
+      "LM IB": 5
+    },
+    "readings": {
+      "A612": 5
+    }
+  },
+  "AB22f": {
+    "total_occurrences": 4,
+    "documents": [
+      "HT 101",
+      "HT 64",
+      "PH 31b"
+    ],
+    "sites": {
+      "Haghia Triada": 2,
+      "Phaistos": 2
+    },
+    "roles": {
+      "syllabogram": 1,
+      "logogram": 3
+    },
+    "doc_types": {
+      "tablet": 4
+    },
+    "periods": {
+      "LM IB": 2,
+      "unknown": 2
+    },
+    "readings": {
+      "*22": 1,
+      "AB22/CAP": 3
+    }
+  },
+  "A578": {
+    "total_occurrences": 5,
+    "documents": [
+      "HT 101",
+      "HT 18",
+      "HT 28a",
+      "HT 36",
+      "HT 99a"
+    ],
+    "sites": {
+      "Haghia Triada": 5
+    },
+    "roles": {
+      "logogram": 5
+    },
+    "doc_types": {
+      "tablet": 5
+    },
+    "periods": {
+      "LM IB": 5
+    },
+    "readings": {
+      "A578": 5
+    }
+  },
+  "A618": {
+    "total_occurrences": 20,
+    "documents": [
+      "HT 101",
+      "HT 116a",
+      "HT 129",
+      "HT 140",
+      "HT 18",
+      "HT 28a",
+      "HT 42+59",
+      "HT 50a",
+      "HT 50b",
+      "HT 56b",
+      "HT 8a",
+      "HT 91",
+      "TY 3a",
+      "TY 3b",
+      "ZA 18a"
+    ],
+    "sites": {
+      "Haghia Triada": 16,
+      "Tylissos": 3,
+      "Zakros": 1
+    },
+    "roles": {
+      "logogram": 20
+    },
+    "doc_types": {
+      "tablet": 20
+    },
+    "periods": {
+      "LM IB": 20
+    },
+    "readings": {
+      "A618": 20
+    }
+  },
+  "N800": {
+    "total_occurrences": 4,
+    "documents": [
+      "HT 101",
+      "HT 102",
+      "HT 96b",
+      "KH 44"
+    ],
+    "sites": {
+      "Haghia Triada": 3,
+      "Khania": 1
+    },
+    "roles": {
+      "erasure": 3,
+      "syllabogram": 1
+    },
+    "doc_types": {
+      "tablet": 4
+    },
+    "periods": {
+      "LM IB": 4
+    },
+    "readings": {
+      "N800": 4
+    }
+  },
+  "A506": {
+    "total_occurrences": 1,
+    "documents": [
+      "HT 101"
+    ],
+    "sites": {
+      "Haghia Triada": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A506": 1
+    }
+  },
+  "A304": {
+    "total_occurrences": 25,
+    "documents": [
+      "HT 101",
+      "HT 116a",
+      "HT 116b",
+      "HT 12",
+      "HT 129",
+      "HT 131a",
+      "HT 14",
+      "HT 18",
+      "HT 21",
+      "HT 28a",
+      "HT 41a",
+      "HT 50a",
+      "HT 90",
+      "HT 91",
+      "HT 92",
+      "KH 8",
+      "KH 9",
+      "PH 14a",
+      "PH 28b",
+      "PH 8a",
+      "PYR 2",
+      "ZA 6a"
+    ],
+    "sites": {
+      "Haghia Triada": 18,
+      "Khania": 2,
+      "Phaistos": 3,
+      "Pyrgos": 1,
+      "Zakros": 1
+    },
+    "roles": {
+      "logogram": 24,
+      "syllabogram": 1
+    },
+    "doc_types": {
+      "tablet": 25
+    },
+    "periods": {
+      "LM IB": 21,
+      "unknown": 4
+    },
+    "readings": {
+      "A304": 25
+    }
+  },
+  "A587": {
+    "total_occurrences": 3,
+    "documents": [
+      "HT 101",
+      "HT 116a",
+      "HT 50a"
+    ],
+    "sites": {
+      "Haghia Triada": 3
+    },
+    "roles": {
+      "logogram": 3
+    },
+    "doc_types": {
+      "tablet": 3
+    },
+    "periods": {
+      "LM IB": 3
+    },
+    "readings": {
+      "A587": 3
+    }
+  },
+  "A574": {
+    "total_occurrences": 17,
+    "documents": [
+      "HT 102",
+      "HT 120",
+      "HT 128a",
+      "KH 27",
+      "ZA 11a",
+      "ZA 11b",
+      "ZA 18a",
+      "ZA 24a",
+      "ZA 28",
+      "ZA 6a",
+      "ZA 6b"
+    ],
+    "sites": {
+      "Haghia Triada": 5,
+      "Khania": 1,
+      "Zakros": 11
+    },
+    "roles": {
+      "logogram": 17
+    },
+    "doc_types": {
+      "tablet": 17
+    },
+    "periods": {
+      "LM IB": 17
+    },
+    "readings": {
+      "A574": 17
+    }
+  },
+  "A705": {
+    "total_occurrences": 14,
+    "documents": [
+      "HT 102",
+      "HT 123b",
+      "HT 16",
+      "HT 20",
+      "HT 34",
+      "HT 50a",
+      "HT 51b",
+      "HT 57a",
+      "HT 8b",
+      "HT 93a",
+      "HT Zd 156"
+    ],
+    "sites": {
+      "Haghia Triada": 14
+    },
+    "roles": {
+      "fraction": 14
+    },
+    "doc_types": {
+      "tablet": 13,
+      "graffiti": 1
+    },
+    "periods": {
+      "LM IB": 14
+    },
+    "readings": {
+      "A705": 14
+    }
+  },
+  "AB100": {
+    "total_occurrences": 31,
+    "documents": [
+      "HT 102",
+      "HT 108",
+      "HT 119",
+      "HT 11a",
+      "HT 122b",
+      "HT 128b",
+      "HT 25b",
+      "HT 26b",
+      "HT 27a",
+      "HT 62+73",
+      "HT 66",
+      "HT 68",
+      "HT 72",
+      "HT 7a",
+      "HT 84",
+      "HT 85a",
+      "HT 93a",
+      "HT 94a",
+      "HT Wc 3022",
+      "KH 25",
+      "KH 26",
+      "KH Wc 2004",
+      "KH Wc 2100",
+      "KH Wc 2117a",
+      "PH 12a",
+      "PH 8a",
+      "TY 2"
+    ],
+    "sites": {
+      "Haghia Triada": 22,
+      "Khania": 6,
+      "Phaistos": 2,
+      "Tylissos": 1
+    },
+    "roles": {
+      "logogram": 23,
+      "syllabogram": 7,
+      "transaction": 1
+    },
+    "doc_types": {
+      "tablet": 27,
+      "roundel": 4
+    },
+    "periods": {
+      "LM IB": 29,
+      "unknown": 2
+    },
+    "readings": {
+      "AB100/VIR": 23,
+      "*100": 7,
+      "AB100": 1
+    }
+  },
+  "AB40": {
+    "total_occurrences": 21,
+    "documents": [
+      "HT 102",
+      "HT 113",
+      "HT 115a",
+      "HT 115b",
+      "HT 25a",
+      "HT 25b",
+      "HT 28b",
+      "HT 5",
+      "HT Zd 157",
+      "KH 37",
+      "KH 5",
+      "KN Zb 35",
+      "KN Zc 7",
+      "MA 1a",
+      "PH 18a",
+      "PYR 1",
+      "SY Za 4",
+      "ZA 14",
+      "ZA 9"
+    ],
+    "sites": {
+      "Haghia Triada": 10,
+      "Khania": 3,
+      "Knossos": 2,
+      "Mallia": 1,
+      "Phaistos": 1,
+      "Pyrgos": 1,
+      "Syme": 1,
+      "Zakros": 2
+    },
+    "roles": {
+      "logogram": 1,
+      "syllabogram": 20
+    },
+    "doc_types": {
+      "tablet": 17,
+      "graffiti": 1,
+      "pithos": 1,
+      "cup": 1,
+      "libation_table": 1
+    },
+    "periods": {
+      "LM IB": 15,
+      "MM III": 1,
+      "unknown": 5
+    },
+    "readings": {
+      "AB40": 1,
+      "wi": 20
+    }
+  },
+  "AB66": {
+    "total_occurrences": 12,
+    "documents": [
+      "HT 103",
+      "HT 114a",
+      "HT 11a",
+      "HT 121",
+      "HT 122b",
+      "HT 129",
+      "HT 137",
+      "HT 85b",
+      "HT 90",
+      "KH 29",
+      "ZA 11a",
+      "ZA 6b"
+    ],
+    "sites": {
+      "Haghia Triada": 9,
+      "Khania": 1,
+      "Zakros": 2
+    },
+    "roles": {
+      "syllabogram": 11,
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 12
+    },
+    "periods": {
+      "LM IB": 12
+    },
+    "readings": {
+      "ta": 11,
+      "AB66": 1
+    }
+  },
+  "AB188": {
+    "total_occurrences": 14,
+    "documents": [
+      "HT 103",
+      "HT 123b",
+      "HT 15",
+      "HT 26b",
+      "HT 56a",
+      "HT 8b",
+      "HT 98b",
+      "HT Wa 1021\u03b1",
+      "HT Wc 3009b",
+      "HT Wc 3013",
+      "HT Wc 3020a"
+    ],
+    "sites": {
+      "Haghia Triada": 14
+    },
+    "roles": {
+      "logogram": 6,
+      "syllabogram": 6,
+      "transaction": 2
+    },
+    "doc_types": {
+      "tablet": 10,
+      "nodule": 1,
+      "roundel": 3
+    },
+    "periods": {
+      "LM IB": 14
+    },
+    "readings": {
+      "AB188": 8,
+      "*188": 6
+    }
+  },
+  "A505": {
+    "total_occurrences": 1,
+    "documents": [
+      "HT 104"
+    ],
+    "sites": {
+      "Haghia Triada": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A505": 1
+    }
+  },
+  "A332": {
+    "total_occurrences": 1,
+    "documents": [
+      "HT 107"
+    ],
+    "sites": {
+      "Haghia Triada": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A332": 1
+    }
+  },
+  "A583": {
+    "total_occurrences": 1,
+    "documents": [
+      "HT 108"
+    ],
+    "sites": {
+      "Haghia Triada": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A583": 1
+    }
+  },
+  "A325": {
+    "total_occurrences": 3,
+    "documents": [
+      "HT 10a",
+      "HT 85a"
+    ],
+    "sites": {
+      "Haghia Triada": 3
+    },
+    "roles": {
+      "syllabogram": 3
+    },
+    "doc_types": {
+      "tablet": 3
+    },
+    "periods": {
+      "LM IB": 3
+    },
+    "readings": {
+      "A325": 3
+    }
+  },
+  "AB13": {
+    "total_occurrences": 19,
+    "documents": [
+      "HT 10a",
+      "HT 120",
+      "HT 128a",
+      "HT 154A",
+      "HT 19",
+      "HT 23a",
+      "HT 51b",
+      "HT 85b",
+      "HT 86a",
+      "HT 94b",
+      "HT 95a",
+      "KH 53",
+      "KH 7a",
+      "PS Za 2",
+      "ZA 11a",
+      "ZA 14",
+      "ZA 21a",
+      "ZA 21b",
+      "ZA 4a"
+    ],
+    "sites": {
+      "Haghia Triada": 11,
+      "Khania": 2,
+      "Psykhro": 1,
+      "Zakros": 5
+    },
+    "roles": {
+      "syllabogram": 19
+    },
+    "doc_types": {
+      "tablet": 18,
+      "libation_table": 1
+    },
+    "periods": {
+      "LM IB": 18,
+      "unknown": 1
+    },
+    "readings": {
+      "me": 19
+    }
+  },
+  "AB34": {
+    "total_occurrences": 9,
+    "documents": [
+      "HT 110a",
+      "HT 116a",
+      "HT 135b",
+      "HT 140",
+      "HT 15",
+      "KN Zc 6",
+      "TY 2",
+      "ZA 6a"
+    ],
+    "sites": {
+      "Haghia Triada": 6,
+      "Knossos": 1,
+      "Tylissos": 1,
+      "Zakros": 1
+    },
+    "roles": {
+      "syllabogram": 9
+    },
+    "doc_types": {
+      "tablet": 8,
+      "cup": 1
+    },
+    "periods": {
+      "LM IB": 8,
+      "unknown": 1
+    },
+    "readings": {
+      "*34": 9
+    }
+  },
+  "A626": {
+    "total_occurrences": 15,
+    "documents": [
+      "HT 110a",
+      "HT 12",
+      "KH 11",
+      "KH 14",
+      "KH 20",
+      "KH 22",
+      "KH 34",
+      "KH 5",
+      "KH 54",
+      "KH 58",
+      "KH 77",
+      "KH 7a"
+    ],
+    "sites": {
+      "Haghia Triada": 2,
+      "Khania": 13
+    },
+    "roles": {
+      "logogram": 15
+    },
+    "doc_types": {
+      "tablet": 15
+    },
+    "periods": {
+      "LM IB": 15
+    },
+    "readings": {
+      "A626": 15
+    }
+  },
+  "A648": {
+    "total_occurrences": 1,
+    "documents": [
+      "HT 110b"
+    ],
+    "sites": {
+      "Haghia Triada": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A648": 1
+    }
+  },
+  "AB61": {
+    "total_occurrences": 24,
+    "documents": [
+      "HT 113",
+      "HT 144",
+      "HT 6a",
+      "HT 93a",
+      "HT Wa 1279",
+      "HT Wa 1280",
+      "HT Wa 1281",
+      "HT Wc 3006a",
+      "KH Wc 2001",
+      "KH Wc 2002",
+      "KH Wc 2033",
+      "KH Wc 2034",
+      "KH Wc 2035",
+      "KH Wc 2101",
+      "KH Wc 2104",
+      "KH Wc 2105",
+      "KH Wc 2110",
+      "KH Wc 2115",
+      "KH Wc 2118",
+      "PH 19",
+      "PH 2",
+      "PH 31b",
+      "ZA 27",
+      "ZA 5a"
+    ],
+    "sites": {
+      "Haghia Triada": 8,
+      "Khania": 11,
+      "Phaistos": 3,
+      "Zakros": 2
+    },
+    "roles": {
+      "logogram": 14,
+      "syllabogram": 10
+    },
+    "doc_types": {
+      "tablet": 9,
+      "nodule": 3,
+      "roundel": 12
+    },
+    "periods": {
+      "LM IB": 21,
+      "unknown": 3
+    },
+    "readings": {
+      "AB61": 14,
+      "o": 10
+    }
+  },
+  "A522": {
+    "total_occurrences": 1,
+    "documents": [
+      "HT 114b"
+    ],
+    "sites": {
+      "Haghia Triada": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A522": 1
+    }
+  },
+  "A576": {
+    "total_occurrences": 1,
+    "documents": [
+      "HT 115a"
+    ],
+    "sites": {
+      "Haghia Triada": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A576": 1
+    }
+  },
+  "A718": {
+    "total_occurrences": 1,
+    "documents": [
+      "HT 115a"
+    ],
+    "sites": {
+      "Haghia Triada": 1
+    },
+    "roles": {
+      "syllabogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A718": 1
+    }
+  },
+  "AB11": {
+    "total_occurrences": 6,
+    "documents": [
+      "HT 115a",
+      "HT 122b",
+      "HT 131b",
+      "HT 16",
+      "KH 9",
+      "KN 22b"
+    ],
+    "sites": {
+      "Haghia Triada": 4,
+      "Khania": 1,
+      "Knossos": 1
+    },
+    "roles": {
+      "syllabogram": 6
+    },
+    "doc_types": {
+      "tablet": 6
+    },
+    "periods": {
+      "LM IB": 5,
+      "unknown": 1
+    },
+    "readings": {
+      "po": 6
+    }
+  },
+  "A306": {
+    "total_occurrences": 18,
+    "documents": [
+      "HT 115b",
+      "HT 119",
+      "HT 122a",
+      "HT 122b",
+      "HT 4",
+      "HT 94a",
+      "HT 9a",
+      "HT 9b",
+      "HT Wc 3017a",
+      "KH 100",
+      "KH 11",
+      "KH 21",
+      "KH 4",
+      "KH 47",
+      "KH 6",
+      "KH 84",
+      "KH 97"
+    ],
+    "sites": {
+      "Haghia Triada": 9,
+      "Khania": 9
+    },
+    "roles": {
+      "syllabogram": 12,
+      "logogram": 6
+    },
+    "doc_types": {
+      "tablet": 17,
+      "roundel": 1
+    },
+    "periods": {
+      "LM IB": 18
+    },
+    "readings": {
+      "A306": 18
+    }
+  },
+  "A634": {
+    "total_occurrences": 1,
+    "documents": [
+      "HT 115b"
+    ],
+    "sites": {
+      "Haghia Triada": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A634": 1
+    }
+  },
+  "A608": {
+    "total_occurrences": 12,
+    "documents": [
+      "HT 116a",
+      "HT 12",
+      "HT 129",
+      "HT 14",
+      "HT 28a",
+      "HT 28b",
+      "HT 50b",
+      "HT 90"
+    ],
+    "sites": {
+      "Haghia Triada": 12
+    },
+    "roles": {
+      "logogram": 12
+    },
+    "doc_types": {
+      "tablet": 12
+    },
+    "periods": {
+      "LM IB": 12
+    },
+    "readings": {
+      "A608": 12
+    }
+  },
+  "A529": {
+    "total_occurrences": 4,
+    "documents": [
+      "HT 116a",
+      "HT 42+59",
+      "HT 99b",
+      "HT Wa 1021\u03b3"
+    ],
+    "sites": {
+      "Haghia Triada": 4
+    },
+    "roles": {
+      "logogram": 3,
+      "transaction": 1
+    },
+    "doc_types": {
+      "tablet": 3,
+      "nodule": 1
+    },
+    "periods": {
+      "LM IB": 4
+    },
+    "readings": {
+      "A529": 4
+    }
+  },
+  "AB23": {
+    "total_occurrences": 9,
+    "documents": [
+      "HT 117a",
+      "HT 23b",
+      "HT 3",
+      "HT 46a",
+      "HT 78",
+      "KH 6",
+      "KN Zf 13",
+      "ZA 15a",
+      "ZA 21a"
+    ],
+    "sites": {
+      "Haghia Triada": 5,
+      "Khania": 1,
+      "Knossos": 1,
+      "Zakros": 2
+    },
+    "roles": {
+      "syllabogram": 8,
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 8,
+      "jewellery": 1
+    },
+    "periods": {
+      "LM IB": 8,
+      "unknown": 1
+    },
+    "readings": {
+      "mu": 8,
+      "AB23/BOS": 1
+    }
+  },
+  "AB70": {
+    "total_occurrences": 11,
+    "documents": [
+      "HT 117a",
+      "HT 119",
+      "HT 23a",
+      "HT 24a",
+      "HT 31",
+      "HT 62+73",
+      "KH 7a",
+      "TY 3a",
+      "ZA 11a",
+      "ZA 8",
+      "ZA Wc 2"
+    ],
+    "sites": {
+      "Haghia Triada": 6,
+      "Khania": 1,
+      "Tylissos": 1,
+      "Zakros": 3
+    },
+    "roles": {
+      "syllabogram": 11
+    },
+    "doc_types": {
+      "tablet": 10,
+      "roundel": 1
+    },
+    "periods": {
+      "LM IB": 11
+    },
+    "readings": {
+      "ko": 11
+    }
+  },
+  "AB85": {
+    "total_occurrences": 3,
+    "documents": [
+      "HT 118",
+      "HT 38",
+      "KH 6"
+    ],
+    "sites": {
+      "Haghia Triada": 2,
+      "Khania": 1
+    },
+    "roles": {
+      "logogram": 2,
+      "syllabogram": 1
+    },
+    "doc_types": {
+      "tablet": 3
+    },
+    "periods": {
+      "LM IB": 3
+    },
+    "readings": {
+      "AB85/SUS": 2,
+      "au": 1
+    }
+  },
+  "A516": {
+    "total_occurrences": 10,
+    "documents": [
+      "HT 118",
+      "HT 154",
+      "HT 34",
+      "HT 96b",
+      "KH 12",
+      "KH Wc 2066",
+      "KH Wc 2070a",
+      "ZA 11a",
+      "ZA 11b",
+      "ZA 1a"
+    ],
+    "sites": {
+      "Haghia Triada": 4,
+      "Khania": 3,
+      "Zakros": 3
+    },
+    "roles": {
+      "transaction": 2,
+      "logogram": 7,
+      "syllabogram": 1
+    },
+    "doc_types": {
+      "tablet": 8,
+      "roundel": 2
+    },
+    "periods": {
+      "LM IB": 9,
+      "unknown": 1
+    },
+    "readings": {
+      "A516": 10
+    }
+  },
+  "A327": {
+    "total_occurrences": 3,
+    "documents": [
+      "HT 119",
+      "HT 97a"
+    ],
+    "sites": {
+      "Haghia Triada": 3
+    },
+    "roles": {
+      "logogram": 2,
+      "syllabogram": 1
+    },
+    "doc_types": {
+      "tablet": 3
+    },
+    "periods": {
+      "LM IB": 3
+    },
+    "readings": {
+      "A327": 3
+    }
+  },
+  "A345": {
+    "total_occurrences": 1,
+    "documents": [
+      "HT 119"
+    ],
+    "sites": {
+      "Haghia Triada": 1
+    },
+    "roles": {
+      "syllabogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A345": 1
+    }
+  },
+  "A322": {
+    "total_occurrences": 4,
+    "documents": [
+      "HT 11a",
+      "KH Wc 2026",
+      "KH Wc 2027",
+      "KH Wc 2098"
+    ],
+    "sites": {
+      "Haghia Triada": 1,
+      "Khania": 3
+    },
+    "roles": {
+      "syllabogram": 1,
+      "logogram": 3
+    },
+    "doc_types": {
+      "tablet": 1,
+      "roundel": 3
+    },
+    "periods": {
+      "LM IB": 4
+    },
+    "readings": {
+      "A322": 4
+    }
+  },
+  "AB86": {
+    "total_occurrences": 11,
+    "documents": [
+      "HT 11b",
+      "HT 140",
+      "HT 26b",
+      "HT 27a",
+      "HT 45a",
+      "HT 94a",
+      "HT 94b",
+      "KH Wa 1013\u03b1",
+      "KH Wa 1014\u03b1",
+      "KH Wa 1015\u03b1",
+      "KH Wa 1016\u03b1"
+    ],
+    "sites": {
+      "Haghia Triada": 7,
+      "Khania": 4
+    },
+    "roles": {
+      "syllabogram": 7,
+      "logogram": 2,
+      "transaction": 2
+    },
+    "doc_types": {
+      "tablet": 7,
+      "nodule": 4
+    },
+    "periods": {
+      "LM IB": 11
+    },
+    "readings": {
+      "*86": 7,
+      "AB86": 4
+    }
+  },
+  "A510": {
+    "total_occurrences": 8,
+    "documents": [
+      "HT 12",
+      "HT 23a",
+      "HT 30",
+      "HT 32",
+      "HT 34",
+      "HT 35",
+      "HT 60",
+      "KH 8"
+    ],
+    "sites": {
+      "Haghia Triada": 7,
+      "Khania": 1
+    },
+    "roles": {
+      "logogram": 8
+    },
+    "doc_types": {
+      "tablet": 8
+    },
+    "periods": {
+      "LM IB": 8
+    },
+    "readings": {
+      "A510": 8
+    }
+  },
+  "AB38": {
+    "total_occurrences": 25,
+    "documents": [
+      "HT 12",
+      "HT 23a",
+      "HT 23b",
+      "HT 34",
+      "HT 35",
+      "HT 91",
+      "KE Zb 4",
+      "KH 10",
+      "KH 7a",
+      "KN 1a",
+      "KN 1b",
+      "PH 10",
+      "PH 2",
+      "PH 24",
+      "ZA 11a",
+      "ZA 11b",
+      "ZA 15a",
+      "ZA 1b",
+      "ZA 4a",
+      "ZA 5a"
+    ],
+    "sites": {
+      "Haghia Triada": 7,
+      "Kea": 1,
+      "Khania": 3,
+      "Knossos": 2,
+      "Phaistos": 3,
+      "Zakros": 9
+    },
+    "roles": {
+      "logogram": 9,
+      "transaction": 1,
+      "syllabogram": 15
+    },
+    "doc_types": {
+      "tablet": 23,
+      "lamp": 1,
+      "label": 1
+    },
+    "periods": {
+      "LM IB": 18,
+      "unknown": 5,
+      "LM IA": 2
+    },
+    "readings": {
+      "AB38": 10,
+      "e": 15
+    }
+  },
+  "A559": {
+    "total_occurrences": 1,
+    "documents": [
+      "HT 12"
+    ],
+    "sites": {
+      "Haghia Triada": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A559": 1
+    }
+  },
+  "A511": {
+    "total_occurrences": 1,
+    "documents": [
+      "HT 12"
+    ],
+    "sites": {
+      "Haghia Triada": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A511": 1
+    }
+  },
+  "A708": {
+    "total_occurrences": 22,
+    "documents": [
+      "HT 12",
+      "HT 16",
+      "HT 23a",
+      "HT 32",
+      "HT 34",
+      "HT 35",
+      "HT 60",
+      "HT 65",
+      "HT 82",
+      "HT 96b",
+      "HT 98b",
+      "HT Zd 156",
+      "KH 75",
+      "KH 85",
+      "KH 91",
+      "KN Wc <24a>"
+    ],
+    "sites": {
+      "Haghia Triada": 17,
+      "Khania": 4,
+      "Knossos": 1
+    },
+    "roles": {
+      "fraction": 22
+    },
+    "doc_types": {
+      "tablet": 20,
+      "graffiti": 1,
+      "roundel": 1
+    },
+    "periods": {
+      "LM IB": 21,
+      "unknown": 1
+    },
+    "readings": {
+      "A708": 22
+    }
+  },
+  "A584": {
+    "total_occurrences": 3,
+    "documents": [
+      "HT 120",
+      "HT 86a",
+      "HT 86b"
+    ],
+    "sites": {
+      "Haghia Triada": 3
+    },
+    "roles": {
+      "logogram": 3
+    },
+    "doc_types": {
+      "tablet": 3
+    },
+    "periods": {
+      "LM IB": 3
+    },
+    "readings": {
+      "A584": 3
+    }
+  },
+  "A701": {
+    "total_occurrences": 14,
+    "documents": [
+      "HT 120",
+      "HT 123a",
+      "HT 123b",
+      "HT 34",
+      "HT 91",
+      "KH 86",
+      "KH 91"
+    ],
+    "sites": {
+      "Haghia Triada": 12,
+      "Khania": 2
+    },
+    "roles": {
+      "fraction": 14
+    },
+    "doc_types": {
+      "tablet": 14
+    },
+    "periods": {
+      "LM IB": 14
+    },
+    "readings": {
+      "A701": 14
+    }
+  },
+  "AB49": {
+    "total_occurrences": 3,
+    "documents": [
+      "HT 120",
+      "HT 126a",
+      "ZA 10b"
+    ],
+    "sites": {
+      "Haghia Triada": 2,
+      "Zakros": 1
+    },
+    "roles": {
+      "syllabogram": 3
+    },
+    "doc_types": {
+      "tablet": 3
+    },
+    "periods": {
+      "LM IB": 3
+    },
+    "readings": {
+      "*49": 3
+    }
+  },
+  "A517": {
+    "total_occurrences": 4,
+    "documents": [
+      "HT 120",
+      "HT 43",
+      "HT 93a"
+    ],
+    "sites": {
+      "Haghia Triada": 4
+    },
+    "roles": {
+      "logogram": 4
+    },
+    "doc_types": {
+      "tablet": 4
+    },
+    "periods": {
+      "LM IB": 4
+    },
+    "readings": {
+      "A517": 4
+    }
+  },
+  "A580": {
+    "total_occurrences": 2,
+    "documents": [
+      "HT 120",
+      "HT 86a"
+    ],
+    "sites": {
+      "Haghia Triada": 2
+    },
+    "roles": {
+      "logogram": 2
+    },
+    "doc_types": {
+      "tablet": 2
+    },
+    "periods": {
+      "LM IB": 2
+    },
+    "readings": {
+      "A580": 2
+    }
+  },
+  "A623": {
+    "total_occurrences": 1,
+    "documents": [
+      "HT 121"
+    ],
+    "sites": {
+      "Haghia Triada": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A623": 1
+    }
+  },
+  "A310": {
+    "total_occurrences": 9,
+    "documents": [
+      "HT 122a",
+      "HT 27a",
+      "HT 37",
+      "HT 85b",
+      "HT 8a",
+      "HT 8b",
+      "HT 98a",
+      "KN 28a",
+      "ZA 11a"
+    ],
+    "sites": {
+      "Haghia Triada": 7,
+      "Knossos": 1,
+      "Zakros": 1
+    },
+    "roles": {
+      "syllabogram": 8,
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 9
+    },
+    "periods": {
+      "LM IB": 8,
+      "LM IA": 1
+    },
+    "readings": {
+      "A310": 9
+    }
+  },
+  "A324": {
+    "total_occurrences": 3,
+    "documents": [
+      "HT 122a",
+      "HT 9a",
+      "HT 9b"
+    ],
+    "sites": {
+      "Haghia Triada": 3
+    },
+    "roles": {
+      "syllabogram": 3
+    },
+    "doc_types": {
+      "tablet": 3
+    },
+    "periods": {
+      "LM IB": 3
+    },
+    "readings": {
+      "A324": 3
+    }
+  },
+  "AB46": {
+    "total_occurrences": 9,
+    "documents": [
+      "HT 122b",
+      "HT 140",
+      "HT 36",
+      "HT 8a",
+      "HT Wa 1020\u03b3",
+      "KH 1",
+      "KH 50",
+      "KH 6",
+      "KN 22a"
+    ],
+    "sites": {
+      "Haghia Triada": 5,
+      "Khania": 3,
+      "Knossos": 1
+    },
+    "roles": {
+      "syllabogram": 9
+    },
+    "doc_types": {
+      "tablet": 8,
+      "nodule": 1
+    },
+    "periods": {
+      "LM IB": 8,
+      "unknown": 1
+    },
+    "readings": {
+      "je": 9
+    }
+  },
+  "A346": {
+    "total_occurrences": 1,
+    "documents": [
+      "HT 122b"
+    ],
+    "sites": {
+      "Haghia Triada": 1
+    },
+    "roles": {
+      "transaction": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A346": 1
+    }
+  },
+  "A711": {
+    "total_occurrences": 3,
+    "documents": [
+      "HT 123a",
+      "HT 91"
+    ],
+    "sites": {
+      "Haghia Triada": 3
+    },
+    "roles": {
+      "fraction": 3
+    },
+    "doc_types": {
+      "tablet": 3
+    },
+    "periods": {
+      "LM IB": 3
+    },
+    "readings": {
+      "A711": 3
+    }
+  },
+  "A7092": {
+    "total_occurrences": 12,
+    "documents": [
+      "HT 123b",
+      "HT 28a",
+      "HT 33",
+      "HT 45a",
+      "HT 45b",
+      "HT 60",
+      "KH 75",
+      "KH 82",
+      "KH 91",
+      "KH 97"
+    ],
+    "sites": {
+      "Haghia Triada": 8,
+      "Khania": 4
+    },
+    "roles": {
+      "fraction": 12
+    },
+    "doc_types": {
+      "tablet": 12
+    },
+    "periods": {
+      "LM IB": 12
+    },
+    "readings": {
+      "A709": 12
+    }
+  },
+  "A318": {
+    "total_occurrences": 4,
+    "documents": [
+      "HT 126a",
+      "HT 45a",
+      "HT 45b",
+      "HT 94a"
+    ],
+    "sites": {
+      "Haghia Triada": 4
+    },
+    "roles": {
+      "transaction": 2,
+      "logogram": 1,
+      "syllabogram": 1
+    },
+    "doc_types": {
+      "tablet": 4
+    },
+    "periods": {
+      "LM IB": 4
+    },
+    "readings": {
+      "A318": 4
+    }
+  },
+  "AB87": {
+    "total_occurrences": 2,
+    "documents": [
+      "HT 126b"
+    ],
+    "sites": {
+      "Haghia Triada": 2
+    },
+    "roles": {
+      "logogram": 2
+    },
+    "doc_types": {
+      "tablet": 2
+    },
+    "periods": {
+      "LM IB": 2
+    },
+    "readings": {
+      "AB87": 2
+    }
+  },
+  "A307": {
+    "total_occurrences": 5,
+    "documents": [
+      "HT 127b",
+      "HT 27a",
+      "HT 32",
+      "HT 5",
+      "HT 89"
+    ],
+    "sites": {
+      "Haghia Triada": 5
+    },
+    "roles": {
+      "logogram": 1,
+      "transaction": 3,
+      "syllabogram": 1
+    },
+    "doc_types": {
+      "tablet": 5
+    },
+    "periods": {
+      "LM IB": 5
+    },
+    "readings": {
+      "A307": 5
+    }
+  },
+  "A572": {
+    "total_occurrences": 1,
+    "documents": [
+      "HT 127b"
+    ],
+    "sites": {
+      "Haghia Triada": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A572": 1
+    }
+  },
+  "A545": {
+    "total_occurrences": 2,
+    "documents": [
+      "HT 127b",
+      "HT 26b"
+    ],
+    "sites": {
+      "Haghia Triada": 2
+    },
+    "roles": {
+      "logogram": 2
+    },
+    "doc_types": {
+      "tablet": 2
+    },
+    "periods": {
+      "LM IB": 2
+    },
+    "readings": {
+      "A545": 2
+    }
+  },
+  "A326": {
+    "total_occurrences": 3,
+    "documents": [
+      "HT 128a",
+      "HT 35",
+      "HT 91"
+    ],
+    "sites": {
+      "Haghia Triada": 3
+    },
+    "roles": {
+      "transaction": 3
+    },
+    "doc_types": {
+      "tablet": 3
+    },
+    "periods": {
+      "LM IB": 3
+    },
+    "readings": {
+      "A326": 3
+    }
+  },
+  "A579": {
+    "total_occurrences": 7,
+    "documents": [
+      "HT 128a",
+      "HT 128b",
+      "HT 61"
+    ],
+    "sites": {
+      "Haghia Triada": 7
+    },
+    "roles": {
+      "logogram": 6,
+      "syllabogram": 1
+    },
+    "doc_types": {
+      "tablet": 7
+    },
+    "periods": {
+      "LM IB": 7
+    },
+    "readings": {
+      "A579": 7
+    }
+  },
+  "A329": {
+    "total_occurrences": 2,
+    "documents": [
+      "HT 128b",
+      "HT 7b"
+    ],
+    "sites": {
+      "Haghia Triada": 2
+    },
+    "roles": {
+      "syllabogram": 2
+    },
+    "doc_types": {
+      "tablet": 2
+    },
+    "periods": {
+      "LM IB": 2
+    },
+    "readings": {
+      "A329": 2
+    }
+  },
+  "A702": {
+    "total_occurrences": 19,
+    "documents": [
+      "HT 129",
+      "HT 16",
+      "HT 23a",
+      "HT 23b",
+      "HT 27a",
+      "HT 34",
+      "HT 35",
+      "HT 45b",
+      "KH 75",
+      "KH 86",
+      "KH 96",
+      "`KE Wc 2b"
+    ],
+    "sites": {
+      "Haghia Triada": 12,
+      "Khania": 5,
+      "Kea": 2
+    },
+    "roles": {
+      "fraction": 19
+    },
+    "doc_types": {
+      "tablet": 17,
+      "roundel": 2
+    },
+    "periods": {
+      "LM IB": 17,
+      "MM III": 2
+    },
+    "readings": {
+      "A702": 19
+    }
+  },
+  "A589": {
+    "total_occurrences": 1,
+    "documents": [
+      "HT 131b"
+    ],
+    "sites": {
+      "Haghia Triada": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A589": 1
+    }
+  },
+  "A319": {
+    "total_occurrences": 5,
+    "documents": [
+      "HT 132",
+      "HT Zd 155",
+      "HT Zd 156",
+      "HT Zd 157"
+    ],
+    "sites": {
+      "Haghia Triada": 5
+    },
+    "roles": {
+      "transaction": 1,
+      "syllabogram": 2,
+      "logogram": 2
+    },
+    "doc_types": {
+      "tablet": 1,
+      "graffiti": 4
+    },
+    "periods": {
+      "LM IB": 5
+    },
+    "readings": {
+      "A319": 5
+    }
+  },
+  "A573": {
+    "total_occurrences": 1,
+    "documents": [
+      "HT 133"
+    ],
+    "sites": {
+      "Haghia Triada": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A573": 1
+    }
+  },
+  "AB29": {
+    "total_occurrences": 7,
+    "documents": [
+      "HT 14",
+      "HT 25a",
+      "HT 49a",
+      "HT 63",
+      "HT 8b",
+      "HT Zb 160",
+      "ZA 6a"
+    ],
+    "sites": {
+      "Haghia Triada": 6,
+      "Zakros": 1
+    },
+    "roles": {
+      "syllabogram": 7
+    },
+    "doc_types": {
+      "tablet": 6,
+      "pithos": 1
+    },
+    "periods": {
+      "LM IB": 7
+    },
+    "readings": {
+      "pu": 7
+    }
+  },
+  "AB123": {
+    "total_occurrences": 7,
+    "documents": [
+      "HT 15",
+      "HT 39",
+      "HT 96a",
+      "HT 9a",
+      "HT 9b",
+      "KH 53",
+      "ZA 20"
+    ],
+    "sites": {
+      "Haghia Triada": 5,
+      "Khania": 1,
+      "Zakros": 1
+    },
+    "roles": {
+      "syllabogram": 7
+    },
+    "doc_types": {
+      "tablet": 7
+    },
+    "periods": {
+      "LM IB": 7
+    },
+    "readings": {
+      "*123": 7
+    }
+  },
+  "A586": {
+    "total_occurrences": 1,
+    "documents": [
+      "HT 15"
+    ],
+    "sites": {
+      "Haghia Triada": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A586": 1
+    }
+  },
+  "A604": {
+    "total_occurrences": 1,
+    "documents": [
+      "HT 16"
+    ],
+    "sites": {
+      "Haghia Triada": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A604": 1
+    }
+  },
+  "AB74": {
+    "total_occurrences": 22,
+    "documents": [
+      "HT 16",
+      "HT Wa 1282",
+      "HT Wa 1283",
+      "HT Wa 1287",
+      "HT Wa 1292",
+      "HT Wa 1293",
+      "HT Wa 1294",
+      "HT Wa 1295",
+      "HT Wa 1298",
+      "HT Wa 1303",
+      "HT Wa 1305",
+      "HT Wa 1307",
+      "HT Wa 1308",
+      "HT Wa 1317",
+      "HT Wa 1319",
+      "KH Wa 1005",
+      "KH Wa 1006",
+      "KH Wa 1007",
+      "KH Wa 1008",
+      "KH Wa 1009",
+      "KH Wa 1010",
+      "KN Zc 7"
+    ],
+    "sites": {
+      "Haghia Triada": 15,
+      "Khania": 6,
+      "Knossos": 1
+    },
+    "roles": {
+      "logogram": 21,
+      "syllabogram": 1
+    },
+    "doc_types": {
+      "tablet": 1,
+      "nodule": 20,
+      "cup": 1
+    },
+    "periods": {
+      "LM IB": 21,
+      "unknown": 1
+    },
+    "readings": {
+      "AB74": 21,
+      "ze": 1
+    }
+  },
+  "AB164a": {
+    "total_occurrences": 5,
+    "documents": [
+      "HT 17",
+      "HT 19",
+      "KH Wc 2042",
+      "KH Wc 2043",
+      "KH Wc 2044"
+    ],
+    "sites": {
+      "Haghia Triada": 2,
+      "Khania": 3
+    },
+    "roles": {
+      "syllabogram": 2,
+      "logogram": 3
+    },
+    "doc_types": {
+      "tablet": 2,
+      "roundel": 3
+    },
+    "periods": {
+      "LM IB": 5
+    },
+    "readings": {
+      "*164": 2,
+      "AB164": 3
+    }
+  },
+  "A609": {
+    "total_occurrences": 2,
+    "documents": [
+      "HT 2"
+    ],
+    "sites": {
+      "Haghia Triada": 2
+    },
+    "roles": {
+      "logogram": 2
+    },
+    "doc_types": {
+      "tablet": 2
+    },
+    "periods": {
+      "LM IB": 2
+    },
+    "readings": {
+      "A609": 2
+    }
+  },
+  "A613": {
+    "total_occurrences": 4,
+    "documents": [
+      "HT 2",
+      "HT 21",
+      "HT 50a",
+      "HT 58"
+    ],
+    "sites": {
+      "Haghia Triada": 4
+    },
+    "roles": {
+      "logogram": 4
+    },
+    "doc_types": {
+      "tablet": 4
+    },
+    "periods": {
+      "LM IB": 4
+    },
+    "readings": {
+      "A613": 4
+    }
+  },
+  "AB22m": {
+    "total_occurrences": 5,
+    "documents": [
+      "HT 20",
+      "KH 6",
+      "KN Wc 29",
+      "PH 31b"
+    ],
+    "sites": {
+      "Haghia Triada": 1,
+      "Khania": 1,
+      "Knossos": 1,
+      "Phaistos": 2
+    },
+    "roles": {
+      "logogram": 5
+    },
+    "doc_types": {
+      "tablet": 4,
+      "roundel": 1
+    },
+    "periods": {
+      "LM IB": 2,
+      "unknown": 3
+    },
+    "readings": {
+      "AB22/CAP": 5
+    }
+  },
+  "A684": {
+    "total_occurrences": 1,
+    "documents": [
+      "HT 20"
+    ],
+    "sites": {
+      "Haghia Triada": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A684": 1
+    }
+  },
+  "A585": {
+    "total_occurrences": 1,
+    "documents": [
+      "HT 22"
+    ],
+    "sites": {
+      "Haghia Triada": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A585": 1
+    }
+  },
+  "A643": {
+    "total_occurrences": 1,
+    "documents": [
+      "HT 22"
+    ],
+    "sites": {
+      "Haghia Triada": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A643": 1
+    }
+  },
+  "A621": {
+    "total_occurrences": 3,
+    "documents": [
+      "HT 23a",
+      "HT 28a",
+      "TY 3a"
+    ],
+    "sites": {
+      "Haghia Triada": 2,
+      "Tylissos": 1
+    },
+    "roles": {
+      "logogram": 3
+    },
+    "doc_types": {
+      "tablet": 3
+    },
+    "periods": {
+      "LM IB": 3
+    },
+    "readings": {
+      "A621": 3
+    }
+  },
+  "A614": {
+    "total_occurrences": 4,
+    "documents": [
+      "HT 23a",
+      "HT 35",
+      "HT 60",
+      "KH 82"
+    ],
+    "sites": {
+      "Haghia Triada": 3,
+      "Khania": 1
+    },
+    "roles": {
+      "logogram": 4
+    },
+    "doc_types": {
+      "tablet": 4
+    },
+    "periods": {
+      "LM IB": 4
+    },
+    "readings": {
+      "A614": 4
+    }
+  },
+  "A550": {
+    "total_occurrences": 9,
+    "documents": [
+      "HT 23a",
+      "HT 23b",
+      "HT 32",
+      "HT 34",
+      "HT 35",
+      "HT 81",
+      "KH 12",
+      "KH 36",
+      "KH 60"
+    ],
+    "sites": {
+      "Haghia Triada": 6,
+      "Khania": 3
+    },
+    "roles": {
+      "logogram": 8,
+      "transaction": 1
+    },
+    "doc_types": {
+      "tablet": 9
+    },
+    "periods": {
+      "LM IB": 9
+    },
+    "readings": {
+      "A550": 9
+    }
+  },
+  "A508": {
+    "total_occurrences": 6,
+    "documents": [
+      "HT 23a",
+      "HT 23b",
+      "HT 32",
+      "HT 33",
+      "HT 34",
+      "HT 60"
+    ],
+    "sites": {
+      "Haghia Triada": 6
+    },
+    "roles": {
+      "logogram": 6
+    },
+    "doc_types": {
+      "tablet": 6
+    },
+    "periods": {
+      "LM IB": 6
+    },
+    "readings": {
+      "A508": 6
+    }
+  },
+  "A530": {
+    "total_occurrences": 1,
+    "documents": [
+      "HT 23a"
+    ],
+    "sites": {
+      "Haghia Triada": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A530": 1
+    }
+  },
+  "A546": {
+    "total_occurrences": 1,
+    "documents": [
+      "HT 24a"
+    ],
+    "sites": {
+      "Haghia Triada": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A546": 1
+    }
+  },
+  "A561": {
+    "total_occurrences": 3,
+    "documents": [
+      "HT 24a"
+    ],
+    "sites": {
+      "Haghia Triada": 3
+    },
+    "roles": {
+      "logogram": 3
+    },
+    "doc_types": {
+      "tablet": 3
+    },
+    "periods": {
+      "LM IB": 3
+    },
+    "readings": {
+      "A561": 3
+    }
+  },
+  "A560": {
+    "total_occurrences": 1,
+    "documents": [
+      "HT 24a"
+    ],
+    "sites": {
+      "Haghia Triada": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A560": 1
+    }
+  },
+  "A531": {
+    "total_occurrences": 1,
+    "documents": [
+      "HT 24b"
+    ],
+    "sites": {
+      "Haghia Triada": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A531": 1
+    }
+  },
+  "A539": {
+    "total_occurrences": 1,
+    "documents": [
+      "HT 24b"
+    ],
+    "sites": {
+      "Haghia Triada": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A539": 1
+    }
+  },
+  "A656": {
+    "total_occurrences": 2,
+    "documents": [
+      "HT 26a",
+      "HT 26b"
+    ],
+    "sites": {
+      "Haghia Triada": 2
+    },
+    "roles": {
+      "logogram": 2
+    },
+    "doc_types": {
+      "tablet": 2
+    },
+    "periods": {
+      "LM IB": 2
+    },
+    "readings": {
+      "A656": 2
+    }
+  },
+  "A592": {
+    "total_occurrences": 1,
+    "documents": [
+      "HT 27b"
+    ],
+    "sites": {
+      "Haghia Triada": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A592": 1
+    }
+  },
+  "A597": {
+    "total_occurrences": 2,
+    "documents": [
+      "HT 27b"
+    ],
+    "sites": {
+      "Haghia Triada": 2
+    },
+    "roles": {
+      "logogram": 2
+    },
+    "doc_types": {
+      "tablet": 2
+    },
+    "periods": {
+      "LM IB": 2
+    },
+    "readings": {
+      "A597": 2
+    }
+  },
+  "A590": {
+    "total_occurrences": 1,
+    "documents": [
+      "HT 27b"
+    ],
+    "sites": {
+      "Haghia Triada": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A590": 1
+    }
+  },
+  "A591": {
+    "total_occurrences": 1,
+    "documents": [
+      "HT 27b"
+    ],
+    "sites": {
+      "Haghia Triada": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A591": 1
+    }
+  },
+  "AB72": {
+    "total_occurrences": 1,
+    "documents": [
+      "HT 28a"
+    ],
+    "sites": {
+      "Haghia Triada": 1
+    },
+    "roles": {
+      "syllabogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "*72": 1
+    }
+  },
+  "A323": {
+    "total_occurrences": 4,
+    "documents": [
+      "HT 29",
+      "HT 31",
+      "HT 96a"
+    ],
+    "sites": {
+      "Haghia Triada": 4
+    },
+    "roles": {
+      "syllabogram": 2,
+      "transaction": 2
+    },
+    "doc_types": {
+      "tablet": 4
+    },
+    "periods": {
+      "LM IB": 4
+    },
+    "readings": {
+      "A323": 4
+    }
+  },
+  "A340": {
+    "total_occurrences": 1,
+    "documents": [
+      "HT 29"
+    ],
+    "sites": {
+      "Haghia Triada": 1
+    },
+    "roles": {
+      "syllabogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A340": 1
+    }
+  },
+  "A615": {
+    "total_occurrences": 8,
+    "documents": [
+      "HT 30",
+      "HT 35",
+      "KH 19",
+      "KH 39",
+      "KH 55",
+      "KH 61",
+      "KH 85"
+    ],
+    "sites": {
+      "Haghia Triada": 3,
+      "Khania": 5
+    },
+    "roles": {
+      "logogram": 8
+    },
+    "doc_types": {
+      "tablet": 8
+    },
+    "periods": {
+      "LM IB": 8
+    },
+    "readings": {
+      "A615": 8
+    }
+  },
+  "A410": {
+    "total_occurrences": 1,
+    "documents": [
+      "HT 31"
+    ],
+    "sites": {
+      "Haghia Triada": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A410": 1
+    }
+  },
+  "A402": {
+    "total_occurrences": 4,
+    "documents": [
+      "HT 31"
+    ],
+    "sites": {
+      "Haghia Triada": 4
+    },
+    "roles": {
+      "logogram": 4
+    },
+    "doc_types": {
+      "tablet": 4
+    },
+    "periods": {
+      "LM IB": 4
+    },
+    "readings": {
+      "A402": 4
+    }
+  },
+  "A415": {
+    "total_occurrences": 1,
+    "documents": [
+      "HT 31"
+    ],
+    "sites": {
+      "Haghia Triada": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A415": 1
+    }
+  },
+  "A416": {
+    "total_occurrences": 1,
+    "documents": [
+      "HT 31"
+    ],
+    "sites": {
+      "Haghia Triada": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A416": 1
+    }
+  },
+  "A653": {
+    "total_occurrences": 3,
+    "documents": [
+      "HT 33",
+      "HT 82",
+      "KH 12"
+    ],
+    "sites": {
+      "Haghia Triada": 2,
+      "Khania": 1
+    },
+    "roles": {
+      "logogram": 3
+    },
+    "doc_types": {
+      "tablet": 3
+    },
+    "periods": {
+      "LM IB": 3
+    },
+    "readings": {
+      "A653": 3
+    }
+  },
+  "A509": {
+    "total_occurrences": 3,
+    "documents": [
+      "HT 33",
+      "HT 45b"
+    ],
+    "sites": {
+      "Haghia Triada": 3
+    },
+    "roles": {
+      "logogram": 3
+    },
+    "doc_types": {
+      "tablet": 3
+    },
+    "periods": {
+      "LM IB": 3
+    },
+    "readings": {
+      "A509": 3
+    }
+  },
+  "A7094": {
+    "total_occurrences": 2,
+    "documents": [
+      "HT 33",
+      "HT 81"
+    ],
+    "sites": {
+      "Haghia Triada": 2
+    },
+    "roles": {
+      "fraction": 2
+    },
+    "doc_types": {
+      "tablet": 2
+    },
+    "periods": {
+      "LM IB": 2
+    },
+    "readings": {
+      "A709": 2
+    }
+  },
+  "A526": {
+    "total_occurrences": 2,
+    "documents": [
+      "HT 33",
+      "HT 34"
+    ],
+    "sites": {
+      "Haghia Triada": 2
+    },
+    "roles": {
+      "logogram": 2
+    },
+    "doc_types": {
+      "tablet": 2
+    },
+    "periods": {
+      "LM IB": 2
+    },
+    "readings": {
+      "A526": 2
+    }
+  },
+  "A552": {
+    "total_occurrences": 2,
+    "documents": [
+      "HT 33",
+      "HT 34"
+    ],
+    "sites": {
+      "Haghia Triada": 2
+    },
+    "roles": {
+      "logogram": 2
+    },
+    "doc_types": {
+      "tablet": 2
+    },
+    "periods": {
+      "LM IB": 2
+    },
+    "readings": {
+      "A552": 2
+    }
+  },
+  "A646": {
+    "total_occurrences": 1,
+    "documents": [
+      "HT 33"
+    ],
+    "sites": {
+      "Haghia Triada": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A646": 1
+    }
+  },
+  "A537": {
+    "total_occurrences": 1,
+    "documents": [
+      "HT 33"
+    ],
+    "sites": {
+      "Haghia Triada": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A537": 1
+    }
+  },
+  "A525": {
+    "total_occurrences": 1,
+    "documents": [
+      "HT 34"
+    ],
+    "sites": {
+      "Haghia Triada": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A525": 1
+    }
+  },
+  "A521": {
+    "total_occurrences": 1,
+    "documents": [
+      "HT 34"
+    ],
+    "sites": {
+      "Haghia Triada": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A521": 1
+    }
+  },
+  "A638": {
+    "total_occurrences": 3,
+    "documents": [
+      "HT 36",
+      "HT 85a",
+      "HT 97a"
+    ],
+    "sites": {
+      "Haghia Triada": 3
+    },
+    "roles": {
+      "logogram": 1,
+      "transaction": 2
+    },
+    "doc_types": {
+      "tablet": 3
+    },
+    "periods": {
+      "LM IB": 3
+    },
+    "readings": {
+      "A638": 3
+    }
+  },
+  "A551": {
+    "total_occurrences": 2,
+    "documents": [
+      "HT 37",
+      "KH 81"
+    ],
+    "sites": {
+      "Haghia Triada": 1,
+      "Khania": 1
+    },
+    "roles": {
+      "logogram": 2
+    },
+    "doc_types": {
+      "tablet": 2
+    },
+    "periods": {
+      "LM IB": 2
+    },
+    "readings": {
+      "A551": 2
+    }
+  },
+  "A403": {
+    "total_occurrences": 1,
+    "documents": [
+      "HT 38"
+    ],
+    "sites": {
+      "Haghia Triada": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A403": 1
+    }
+  },
+  "AB21": {
+    "total_occurrences": 3,
+    "documents": [
+      "HT 38",
+      "KH Wc 2062",
+      "KH Wc 2102"
+    ],
+    "sites": {
+      "Haghia Triada": 1,
+      "Khania": 2
+    },
+    "roles": {
+      "logogram": 3
+    },
+    "doc_types": {
+      "tablet": 1,
+      "roundel": 2
+    },
+    "periods": {
+      "LM IB": 3
+    },
+    "readings": {
+      "AB21/OVIS": 3
+    }
+  },
+  "A554": {
+    "total_occurrences": 1,
+    "documents": [
+      "HT 38"
+    ],
+    "sites": {
+      "Haghia Triada": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A554": 1
+    }
+  },
+  "A535": {
+    "total_occurrences": 1,
+    "documents": [
+      "HT 38"
+    ],
+    "sites": {
+      "Haghia Triada": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A535": 1
+    }
+  },
+  "A536": {
+    "total_occurrences": 1,
+    "documents": [
+      "HT 38"
+    ],
+    "sites": {
+      "Haghia Triada": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A536": 1
+    }
+  },
+  "A657": {
+    "total_occurrences": 1,
+    "documents": [
+      "HT 39"
+    ],
+    "sites": {
+      "Haghia Triada": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A657": 1
+    }
+  },
+  "A564": {
+    "total_occurrences": 1,
+    "documents": [
+      "HT 39"
+    ],
+    "sites": {
+      "Haghia Triada": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A564": 1
+    }
+  },
+  "A534": {
+    "total_occurrences": 1,
+    "documents": [
+      "HT 39"
+    ],
+    "sites": {
+      "Haghia Triada": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A534": 1
+    }
+  },
+  "A331": {
+    "total_occurrences": 2,
+    "documents": [
+      "HT 40",
+      "KH 32"
+    ],
+    "sites": {
+      "Haghia Triada": 1,
+      "Khania": 1
+    },
+    "roles": {
+      "syllabogram": 2
+    },
+    "doc_types": {
+      "tablet": 2
+    },
+    "periods": {
+      "LM IB": 2
+    },
+    "readings": {
+      "A331": 2
+    }
+  },
+  "A342": {
+    "total_occurrences": 1,
+    "documents": [
+      "HT 43"
+    ],
+    "sites": {
+      "Haghia Triada": 1
+    },
+    "roles": {
+      "syllabogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A342": 1
+    }
+  },
+  "A617": {
+    "total_occurrences": 1,
+    "documents": [
+      "HT 44a"
+    ],
+    "sites": {
+      "Haghia Triada": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A617": 1
+    }
+  },
+  "A616": {
+    "total_occurrences": 1,
+    "documents": [
+      "HT 44a"
+    ],
+    "sites": {
+      "Haghia Triada": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A616": 1
+    }
+  },
+  "A582": {
+    "total_occurrences": 3,
+    "documents": [
+      "HT 44b",
+      "KH 1",
+      "KH 28"
+    ],
+    "sites": {
+      "Haghia Triada": 1,
+      "Khania": 2
+    },
+    "roles": {
+      "logogram": 3
+    },
+    "doc_types": {
+      "tablet": 3
+    },
+    "periods": {
+      "LM IB": 3
+    },
+    "readings": {
+      "A582": 3
+    }
+  },
+  "A547": {
+    "total_occurrences": 1,
+    "documents": [
+      "HT 47a"
+    ],
+    "sites": {
+      "Haghia Triada": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A547": 1
+    }
+  },
+  "A549": {
+    "total_occurrences": 1,
+    "documents": [
+      "HT 60"
+    ],
+    "sites": {
+      "Haghia Triada": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A549": 1
+    }
+  },
+  "AB28b": {
+    "total_occurrences": 5,
+    "documents": [
+      "HT 62+73",
+      "ZA 15a",
+      "ZA 4a",
+      "ZA 5b",
+      "ZA 6b"
+    ],
+    "sites": {
+      "Haghia Triada": 1,
+      "Zakros": 4
+    },
+    "roles": {
+      "syllabogram": 5
+    },
+    "doc_types": {
+      "tablet": 5
+    },
+    "periods": {
+      "LM IB": 5
+    },
+    "readings": {
+      "i": 5
+    }
+  },
+  "A644": {
+    "total_occurrences": 1,
+    "documents": [
+      "HT 65"
+    ],
+    "sites": {
+      "Haghia Triada": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A644": 1
+    }
+  },
+  "A538": {
+    "total_occurrences": 1,
+    "documents": [
+      "HT 6a"
+    ],
+    "sites": {
+      "Haghia Triada": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A538": 1
+    }
+  },
+  "A717": {
+    "total_occurrences": 1,
+    "documents": [
+      "HT 6a"
+    ],
+    "sites": {
+      "Haghia Triada": 1
+    },
+    "roles": {
+      "syllabogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A717": 1
+    }
+  },
+  "A321": {
+    "total_occurrences": 3,
+    "documents": [
+      "HT 6a",
+      "TY 3a",
+      "ZA 18a"
+    ],
+    "sites": {
+      "Haghia Triada": 1,
+      "Tylissos": 1,
+      "Zakros": 1
+    },
+    "roles": {
+      "syllabogram": 3
+    },
+    "doc_types": {
+      "tablet": 3
+    },
+    "periods": {
+      "LM IB": 3
+    },
+    "readings": {
+      "A321": 3
+    }
+  },
+  "A575": {
+    "total_occurrences": 1,
+    "documents": [
+      "HT 82"
+    ],
+    "sites": {
+      "Haghia Triada": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A575": 1
+    }
+  },
+  "A542": {
+    "total_occurrences": 1,
+    "documents": [
+      "HT 89"
+    ],
+    "sites": {
+      "Haghia Triada": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A542": 1
+    }
+  },
+  "A565": {
+    "total_occurrences": 1,
+    "documents": [
+      "HT 8b"
+    ],
+    "sites": {
+      "Haghia Triada": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A565": 1
+    }
+  },
+  "A577": {
+    "total_occurrences": 1,
+    "documents": [
+      "HT 93a"
+    ],
+    "sites": {
+      "Haghia Triada": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A577": 1
+    }
+  },
+  "A515": {
+    "total_occurrences": 1,
+    "documents": [
+      "HT 93a"
+    ],
+    "sites": {
+      "Haghia Triada": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A515": 1
+    }
+  },
+  "A502": {
+    "total_occurrences": 1,
+    "documents": [
+      "HT 93a"
+    ],
+    "sites": {
+      "Haghia Triada": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A502": 1
+    }
+  },
+  "A406": {
+    "total_occurrences": 1,
+    "documents": [
+      "HT 93a"
+    ],
+    "sites": {
+      "Haghia Triada": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A406": 1
+    }
+  },
+  "A343": {
+    "total_occurrences": 1,
+    "documents": [
+      "HT 93a"
+    ],
+    "sites": {
+      "Haghia Triada": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A343": 1
+    }
+  },
+  "A571": {
+    "total_occurrences": 4,
+    "documents": [
+      "HT 94a",
+      "KH 7a"
+    ],
+    "sites": {
+      "Haghia Triada": 1,
+      "Khania": 3
+    },
+    "roles": {
+      "logogram": 4
+    },
+    "doc_types": {
+      "tablet": 4
+    },
+    "periods": {
+      "LM IB": 4
+    },
+    "readings": {
+      "A571": 4
+    }
+  },
+  "A344": {
+    "total_occurrences": 1,
+    "documents": [
+      "HT 96a"
+    ],
+    "sites": {
+      "Haghia Triada": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A344": 1
+    }
+  },
+  "A541": {
+    "total_occurrences": 1,
+    "documents": [
+      "HT Wa 1021\u03b3"
+    ],
+    "sites": {
+      "Haghia Triada": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "nodule": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A541": 1
+    }
+  },
+  "A520": {
+    "total_occurrences": 1,
+    "documents": [
+      "HT Wa 1022"
+    ],
+    "sites": {
+      "Haghia Triada": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "nodule": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A520": 1
+    }
+  },
+  "A365": {
+    "total_occurrences": 1,
+    "documents": [
+      "HT Wa 1849"
+    ],
+    "sites": {
+      "Haghia Triada": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "nodule": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A365": 1
+    }
+  },
+  "A366": {
+    "total_occurrences": 1,
+    "documents": [
+      "HT Wa 1850"
+    ],
+    "sites": {
+      "Haghia Triada": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "nodule": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A366": 1
+    }
+  },
+  "A367": {
+    "total_occurrences": 1,
+    "documents": [
+      "HT Wa 1851"
+    ],
+    "sites": {
+      "Haghia Triada": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "nodule": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A367": 1
+    }
+  },
+  "A368": {
+    "total_occurrences": 1,
+    "documents": [
+      "HT Wa 1852"
+    ],
+    "sites": {
+      "Haghia Triada": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "nodule": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A368": 1
+    }
+  },
+  "A369": {
+    "total_occurrences": 1,
+    "documents": [
+      "HT Wa 1853"
+    ],
+    "sites": {
+      "Haghia Triada": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "nodule": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A369": 1
+    }
+  },
+  "A370": {
+    "total_occurrences": 1,
+    "documents": [
+      "HT Wa 1854"
+    ],
+    "sites": {
+      "Haghia Triada": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "nodule": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A370": 1
+    }
+  },
+  "A631": {
+    "total_occurrences": 1,
+    "documents": [
+      "HT Wa <1021bis>"
+    ],
+    "sites": {
+      "Haghia Triada": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "nodule": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A631": 1
+    }
+  },
+  "A333": {
+    "total_occurrences": 2,
+    "documents": [
+      "HT Wc 3009a",
+      "HT Wc 3010"
+    ],
+    "sites": {
+      "Haghia Triada": 2
+    },
+    "roles": {
+      "syllabogram": 2
+    },
+    "doc_types": {
+      "roundel": 2
+    },
+    "periods": {
+      "LM IB": 2
+    },
+    "readings": {
+      "A333": 2
+    }
+  },
+  "AB22": {
+    "total_occurrences": 1,
+    "documents": [
+      "HT Wc 3014b"
+    ],
+    "sites": {
+      "Haghia Triada": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "AB22/CAP": 1
+    }
+  },
+  "A624": {
+    "total_occurrences": 18,
+    "documents": [
+      "HT Wc 3016b",
+      "KH 16",
+      "KH 33",
+      "KH 38",
+      "KH 6",
+      "KH 7a",
+      "KH 7b",
+      "KH 8",
+      "KH 9"
+    ],
+    "sites": {
+      "Haghia Triada": 1,
+      "Khania": 17
+    },
+    "roles": {
+      "logogram": 18
+    },
+    "doc_types": {
+      "tablet": 18
+    },
+    "periods": {
+      "LM IB": 18
+    },
+    "readings": {
+      "A624": 18
+    }
+  },
+  "A625": {
+    "total_occurrences": 1,
+    "documents": [
+      "HT Wc 3017b"
+    ],
+    "sites": {
+      "Haghia Triada": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "roundel": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A625": 1
+    }
+  },
+  "A630": {
+    "total_occurrences": 1,
+    "documents": [
+      "HT Wc 3020b"
+    ],
+    "sites": {
+      "Haghia Triada": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "roundel": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A630": 1
+    }
+  },
+  "A595": {
+    "total_occurrences": 1,
+    "documents": [
+      "KE Zb 5"
+    ],
+    "sites": {
+      "Kea": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "sherd": 1
+    },
+    "periods": {
+      "unknown": 1
+    },
+    "readings": {
+      "A595": 1
+    }
+  },
+  "A352": {
+    "total_occurrences": 2,
+    "documents": [
+      "KH 100",
+      "KH Wc 2100"
+    ],
+    "sites": {
+      "Khania": 2
+    },
+    "roles": {
+      "syllabogram": 2
+    },
+    "doc_types": {
+      "tablet": 1,
+      "roundel": 1
+    },
+    "periods": {
+      "LM IB": 2
+    },
+    "readings": {
+      "A352": 2
+    }
+  },
+  "A647": {
+    "total_occurrences": 1,
+    "documents": [
+      "KH 11"
+    ],
+    "sites": {
+      "Khania": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A647": 1
+    }
+  },
+  "A349": {
+    "total_occurrences": 1,
+    "documents": [
+      "KH 11"
+    ],
+    "sites": {
+      "Khania": 1
+    },
+    "roles": {
+      "syllabogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A349": 1
+    }
+  },
+  "A350": {
+    "total_occurrences": 1,
+    "documents": [
+      "KH 11"
+    ],
+    "sites": {
+      "Khania": 1
+    },
+    "roles": {
+      "syllabogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A350": 1
+    }
+  },
+  "A533": {
+    "total_occurrences": 1,
+    "documents": [
+      "KH 11"
+    ],
+    "sites": {
+      "Khania": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A533": 1
+    }
+  },
+  "A335": {
+    "total_occurrences": 3,
+    "documents": [
+      "KH 12",
+      "KH 44",
+      "KH 82"
+    ],
+    "sites": {
+      "Khania": 3
+    },
+    "roles": {
+      "logogram": 2,
+      "syllabogram": 1
+    },
+    "doc_types": {
+      "tablet": 3
+    },
+    "periods": {
+      "LM IB": 3
+    },
+    "readings": {
+      "A335": 3
+    }
+  },
+  "A651": {
+    "total_occurrences": 7,
+    "documents": [
+      "KH 12",
+      "KH 63",
+      "KH 83",
+      "KH 84",
+      "KH 85",
+      "KH 91"
+    ],
+    "sites": {
+      "Khania": 7
+    },
+    "roles": {
+      "logogram": 6,
+      "syllabogram": 1
+    },
+    "doc_types": {
+      "tablet": 7
+    },
+    "periods": {
+      "LM IB": 7
+    },
+    "readings": {
+      "A651": 7
+    }
+  },
+  "A632": {
+    "total_occurrences": 1,
+    "documents": [
+      "KH 13"
+    ],
+    "sites": {
+      "Khania": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A632": 1
+    }
+  },
+  "A336": {
+    "total_occurrences": 1,
+    "documents": [
+      "KH 14"
+    ],
+    "sites": {
+      "Khania": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A336": 1
+    }
+  },
+  "A569": {
+    "total_occurrences": 2,
+    "documents": [
+      "KH 14",
+      "KH 9"
+    ],
+    "sites": {
+      "Khania": 2
+    },
+    "roles": {
+      "logogram": 2
+    },
+    "doc_types": {
+      "tablet": 2
+    },
+    "periods": {
+      "LM IB": 2
+    },
+    "readings": {
+      "A569": 2
+    }
+  },
+  "A649": {
+    "total_occurrences": 3,
+    "documents": [
+      "KH 18",
+      "KH 31",
+      "KH 68"
+    ],
+    "sites": {
+      "Khania": 3
+    },
+    "roles": {
+      "logogram": 3
+    },
+    "doc_types": {
+      "tablet": 3
+    },
+    "periods": {
+      "LM IB": 3
+    },
+    "readings": {
+      "A649": 3
+    }
+  },
+  "AB131c": {
+    "total_occurrences": 4,
+    "documents": [
+      "KH 18",
+      "KH 61",
+      "KH 85"
+    ],
+    "sites": {
+      "Khania": 4
+    },
+    "roles": {
+      "logogram": 4
+    },
+    "doc_types": {
+      "tablet": 4
+    },
+    "periods": {
+      "LM IB": 4
+    },
+    "readings": {
+      "AB131/VIN": 4
+    }
+  },
+  "A503": {
+    "total_occurrences": 1,
+    "documents": [
+      "KH 18"
+    ],
+    "sites": {
+      "Khania": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A503": 1
+    }
+  },
+  "A504": {
+    "total_occurrences": 1,
+    "documents": [
+      "KH 18"
+    ],
+    "sites": {
+      "Khania": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A504": 1
+    }
+  },
+  "A635": {
+    "total_occurrences": 1,
+    "documents": [
+      "KH 19"
+    ],
+    "sites": {
+      "Khania": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A635": 1
+    }
+  },
+  "A636": {
+    "total_occurrences": 1,
+    "documents": [
+      "KH 2"
+    ],
+    "sites": {
+      "Khania": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A636": 1
+    }
+  },
+  "A652": {
+    "total_occurrences": 3,
+    "documents": [
+      "KH 31",
+      "KH 91",
+      "MI 2"
+    ],
+    "sites": {
+      "Khania": 2,
+      "Melos": 1
+    },
+    "roles": {
+      "logogram": 3
+    },
+    "doc_types": {
+      "tablet": 3
+    },
+    "periods": {
+      "LM IB": 2,
+      "unknown": 1
+    },
+    "readings": {
+      "A652": 3
+    }
+  },
+  "A628": {
+    "total_occurrences": 2,
+    "documents": [
+      "KH 37"
+    ],
+    "sites": {
+      "Khania": 2
+    },
+    "roles": {
+      "logogram": 2
+    },
+    "doc_types": {
+      "tablet": 2
+    },
+    "periods": {
+      "LM IB": 2
+    },
+    "readings": {
+      "A628": 2
+    }
+  },
+  "A637": {
+    "total_occurrences": 1,
+    "documents": [
+      "KH 42"
+    ],
+    "sites": {
+      "Khania": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A637": 1
+    }
+  },
+  "A562": {
+    "total_occurrences": 1,
+    "documents": [
+      "KH 43"
+    ],
+    "sites": {
+      "Khania": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A562": 1
+    }
+  },
+  "A527": {
+    "total_occurrences": 1,
+    "documents": [
+      "KH 43"
+    ],
+    "sites": {
+      "Khania": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A527": 1
+    }
+  },
+  "A598": {
+    "total_occurrences": 1,
+    "documents": [
+      "KH 5"
+    ],
+    "sites": {
+      "Khania": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A598": 1
+    }
+  },
+  "AB20": {
+    "total_occurrences": 1,
+    "documents": [
+      "KH 57"
+    ],
+    "sites": {
+      "Khania": 1
+    },
+    "roles": {
+      "syllabogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "zo": 1
+    }
+  },
+  "A347": {
+    "total_occurrences": 1,
+    "documents": [
+      "KH 6"
+    ],
+    "sites": {
+      "Khania": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A347": 1
+    }
+  },
+  "A334": {
+    "total_occurrences": 1,
+    "documents": [
+      "KH 6"
+    ],
+    "sites": {
+      "Khania": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A334": 1
+    }
+  },
+  "AB131": {
+    "total_occurrences": 3,
+    "documents": [
+      "KH 60",
+      "PH 7b",
+      "ZA 4b"
+    ],
+    "sites": {
+      "Khania": 1,
+      "Phaistos": 1,
+      "Zakros": 1
+    },
+    "roles": {
+      "logogram": 3
+    },
+    "doc_types": {
+      "tablet": 3
+    },
+    "periods": {
+      "LM IB": 2,
+      "unknown": 1
+    },
+    "readings": {
+      "AB131/VIN": 3
+    }
+  },
+  "A543": {
+    "total_occurrences": 1,
+    "documents": [
+      "KH 60"
+    ],
+    "sites": {
+      "Khania": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A543": 1
+    }
+  },
+  "AB130": {
+    "total_occurrences": 1,
+    "documents": [
+      "KH 61"
+    ],
+    "sites": {
+      "Khania": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "AB130": 1
+    }
+  },
+  "A605": {
+    "total_occurrences": 3,
+    "documents": [
+      "KH 74",
+      "KH Wc 2054",
+      "KH Wc 2055"
+    ],
+    "sites": {
+      "Khania": 3
+    },
+    "roles": {
+      "logogram": 3
+    },
+    "doc_types": {
+      "tablet": 1,
+      "roundel": 2
+    },
+    "periods": {
+      "LM IB": 3
+    },
+    "readings": {
+      "A605": 3
+    }
+  },
+  "A7096": {
+    "total_occurrences": 1,
+    "documents": [
+      "KH 76"
+    ],
+    "sites": {
+      "Khania": 1
+    },
+    "roles": {
+      "fraction": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A709": 1
+    }
+  },
+  "A710": {
+    "total_occurrences": 1,
+    "documents": [
+      "KH 77"
+    ],
+    "sites": {
+      "Khania": 1
+    },
+    "roles": {
+      "fraction": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A710": 1
+    }
+  },
+  "A641": {
+    "total_occurrences": 1,
+    "documents": [
+      "KH 7a"
+    ],
+    "sites": {
+      "Khania": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A641": 1
+    }
+  },
+  "A627": {
+    "total_occurrences": 1,
+    "documents": [
+      "KH 7b"
+    ],
+    "sites": {
+      "Khania": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A627": 1
+    }
+  },
+  "A567": {
+    "total_occurrences": 1,
+    "documents": [
+      "KH 8"
+    ],
+    "sites": {
+      "Khania": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A567": 1
+    }
+  },
+  "A315": {
+    "total_occurrences": 1,
+    "documents": [
+      "KH 82"
+    ],
+    "sites": {
+      "Khania": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A315": 1
+    }
+  },
+  "A650": {
+    "total_occurrences": 1,
+    "documents": [
+      "KH 83"
+    ],
+    "sites": {
+      "Khania": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A650": 1
+    }
+  },
+  "A633": {
+    "total_occurrences": 1,
+    "documents": [
+      "KH 85"
+    ],
+    "sites": {
+      "Khania": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A633": 1
+    }
+  },
+  "A532": {
+    "total_occurrences": 1,
+    "documents": [
+      "KH 9"
+    ],
+    "sites": {
+      "Khania": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A532": 1
+    }
+  },
+  "A316": {
+    "total_occurrences": 4,
+    "documents": [
+      "KH 91",
+      "PH 1a",
+      "PH 8b"
+    ],
+    "sites": {
+      "Khania": 1,
+      "Phaistos": 3
+    },
+    "roles": {
+      "logogram": 4
+    },
+    "doc_types": {
+      "tablet": 4
+    },
+    "periods": {
+      "LM IB": 1,
+      "unknown": 3
+    },
+    "readings": {
+      "A316": 4
+    }
+  },
+  "A709": {
+    "total_occurrences": 1,
+    "documents": [
+      "KH 96"
+    ],
+    "sites": {
+      "Khania": 1
+    },
+    "roles": {
+      "fraction": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A709": 1
+    }
+  },
+  "A640": {
+    "total_occurrences": 2,
+    "documents": [
+      "KH Wa 1001\u03b1",
+      "KH Wa 1002\u03b1"
+    ],
+    "sites": {
+      "Khania": 2
+    },
+    "roles": {
+      "logogram": 1,
+      "syllabogram": 1
+    },
+    "doc_types": {
+      "nodule": 2
+    },
+    "periods": {
+      "LM IB": 2
+    },
+    "readings": {
+      "A640": 2
+    }
+  },
+  "A501": {
+    "total_occurrences": 2,
+    "documents": [
+      "KH Wa 1001\u03b3",
+      "KH Wa 1002\u03b3"
+    ],
+    "sites": {
+      "Khania": 2
+    },
+    "roles": {
+      "logogram": 1,
+      "syllabogram": 1
+    },
+    "doc_types": {
+      "nodule": 2
+    },
+    "periods": {
+      "LM IB": 2
+    },
+    "readings": {
+      "A501": 2
+    }
+  },
+  "AB82": {
+    "total_occurrences": 3,
+    "documents": [
+      "KH Wa 1003",
+      "KH Wa 1004",
+      "ZA 4a"
+    ],
+    "sites": {
+      "Khania": 2,
+      "Zakros": 1
+    },
+    "roles": {
+      "logogram": 2,
+      "syllabogram": 1
+    },
+    "doc_types": {
+      "nodule": 2,
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 3
+    },
+    "readings": {
+      "AB82": 2,
+      "*82": 1
+    }
+  },
+  "A371": {
+    "total_occurrences": 1,
+    "documents": [
+      "KH Wa 1018"
+    ],
+    "sites": {
+      "Khania": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "nodule": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A371": 1
+    }
+  },
+  "A417": {
+    "total_occurrences": 3,
+    "documents": [
+      "KH Wc 2006",
+      "KH Wc 2007",
+      "PH 8a"
+    ],
+    "sites": {
+      "Khania": 2,
+      "Phaistos": 1
+    },
+    "roles": {
+      "logogram": 3
+    },
+    "doc_types": {
+      "roundel": 2,
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 2,
+      "unknown": 1
+    },
+    "readings": {
+      "A417": 3
+    }
+  },
+  "A411b": {
+    "total_occurrences": 12,
+    "documents": [
+      "KH Wc 2008",
+      "KH Wc 2009",
+      "KH Wc 2011",
+      "KH Wc 2012",
+      "KH Wc 2014",
+      "KH Wc 2015",
+      "KH Wc 2016",
+      "KH Wc 2017",
+      "KH Wc 2018",
+      "KH Wc 2022",
+      "KH Wc 2023",
+      "KH Wc 2024"
+    ],
+    "sites": {
+      "Khania": 12
+    },
+    "roles": {
+      "syllabogram": 2,
+      "logogram": 10
+    },
+    "doc_types": {
+      "roundel": 12
+    },
+    "periods": {
+      "LM IB": 12
+    },
+    "readings": {
+      "A411": 12
+    }
+  },
+  "A411": {
+    "total_occurrences": 1,
+    "documents": [
+      "KH Wc 2010"
+    ],
+    "sites": {
+      "Khania": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "roundel": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A411": 1
+    }
+  },
+  "A411c": {
+    "total_occurrences": 1,
+    "documents": [
+      "KH Wc 2013"
+    ],
+    "sites": {
+      "Khania": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "roundel": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A411": 1
+    }
+  },
+  "A411a": {
+    "total_occurrences": 1,
+    "documents": [
+      "KH Wc 2019"
+    ],
+    "sites": {
+      "Khania": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "roundel": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A411": 1
+    }
+  },
+  "A409": {
+    "total_occurrences": 3,
+    "documents": [
+      "KH Wc 2020",
+      "KH Wc 2021",
+      "KH Wc 2025"
+    ],
+    "sites": {
+      "Khania": 3
+    },
+    "roles": {
+      "logogram": 3
+    },
+    "doc_types": {
+      "roundel": 3
+    },
+    "periods": {
+      "LM IB": 3
+    },
+    "readings": {
+      "A409": 3
+    }
+  },
+  "AB191": {
+    "total_occurrences": 1,
+    "documents": [
+      "KH Wc 2028"
+    ],
+    "sites": {
+      "Khania": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "roundel": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "AB191": 1
+    }
+  },
+  "A606": {
+    "total_occurrences": 10,
+    "documents": [
+      "KH Wc 2036",
+      "KH Wc 2046",
+      "KH Wc 2047",
+      "KH Wc 2048",
+      "KH Wc 2049",
+      "KH Wc 2050",
+      "KH Wc 2051",
+      "KH Wc 2052",
+      "KH Wc 2053",
+      "KH Wc 2113"
+    ],
+    "sites": {
+      "Khania": 10
+    },
+    "roles": {
+      "logogram": 10
+    },
+    "doc_types": {
+      "roundel": 10
+    },
+    "periods": {
+      "LM IB": 10
+    },
+    "readings": {
+      "A606": 10
+    }
+  },
+  "AB164d": {
+    "total_occurrences": 5,
+    "documents": [
+      "KH Wc 2037",
+      "KH Wc 2038",
+      "KH Wc 2039",
+      "KH Wc 2045",
+      "KH Wc 2111"
+    ],
+    "sites": {
+      "Khania": 5
+    },
+    "roles": {
+      "logogram": 5
+    },
+    "doc_types": {
+      "roundel": 5
+    },
+    "periods": {
+      "LM IB": 5
+    },
+    "readings": {
+      "AB164": 5
+    }
+  },
+  "AB164b": {
+    "total_occurrences": 1,
+    "documents": [
+      "KH Wc 2040"
+    ],
+    "sites": {
+      "Khania": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "roundel": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "AB164": 1
+    }
+  },
+  "AB164c": {
+    "total_occurrences": 1,
+    "documents": [
+      "KH Wc 2041"
+    ],
+    "sites": {
+      "Khania": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "roundel": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "AB164": 1
+    }
+  },
+  "A645": {
+    "total_occurrences": 2,
+    "documents": [
+      "KH Wc 2056",
+      "KH Wc 2057"
+    ],
+    "sites": {
+      "Khania": 2
+    },
+    "roles": {
+      "logogram": 2
+    },
+    "doc_types": {
+      "roundel": 2
+    },
+    "periods": {
+      "LM IB": 2
+    },
+    "readings": {
+      "A645": 2
+    }
+  },
+  "A566": {
+    "total_occurrences": 5,
+    "documents": [
+      "KH Wc 2058",
+      "KH Wc 2059",
+      "KH Wc 2060",
+      "KH Wc 2061",
+      "KH Wc 2117b"
+    ],
+    "sites": {
+      "Khania": 5
+    },
+    "roles": {
+      "logogram": 5
+    },
+    "doc_types": {
+      "roundel": 5
+    },
+    "periods": {
+      "LM IB": 5
+    },
+    "readings": {
+      "A566": 5
+    }
+  },
+  "A553": {
+    "total_occurrences": 2,
+    "documents": [
+      "KH Wc 2064",
+      "KH Wc 2099"
+    ],
+    "sites": {
+      "Khania": 2
+    },
+    "roles": {
+      "logogram": 2
+    },
+    "doc_types": {
+      "roundel": 2
+    },
+    "periods": {
+      "LM IB": 2
+    },
+    "readings": {
+      "A553": 2
+    }
+  },
+  "A607": {
+    "total_occurrences": 1,
+    "documents": [
+      "KH Wc 2065"
+    ],
+    "sites": {
+      "Khania": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "roundel": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A607": 1
+    }
+  },
+  "A338": {
+    "total_occurrences": 2,
+    "documents": [
+      "KH Wc 2067",
+      "KH Wc 2068"
+    ],
+    "sites": {
+      "Khania": 2
+    },
+    "roles": {
+      "logogram": 2
+    },
+    "doc_types": {
+      "roundel": 2
+    },
+    "periods": {
+      "LM IB": 2
+    },
+    "readings": {
+      "A338": 2
+    }
+  },
+  "A408": {
+    "total_occurrences": 3,
+    "documents": [
+      "KH Wc 2084",
+      "KH Wc 2103",
+      "KH Wc 2114"
+    ],
+    "sites": {
+      "Khania": 3
+    },
+    "roles": {
+      "logogram": 3
+    },
+    "doc_types": {
+      "roundel": 3
+    },
+    "periods": {
+      "LM IB": 3
+    },
+    "readings": {
+      "A408": 3
+    }
+  },
+  "A519": {
+    "total_occurrences": 1,
+    "documents": [
+      "KN 2"
+    ],
+    "sites": {
+      "Knossos": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IA": 1
+    },
+    "readings": {
+      "A519": 1
+    }
+  },
+  "A7093": {
+    "total_occurrences": 2,
+    "documents": [
+      "KN 28b"
+    ],
+    "sites": {
+      "Knossos": 2
+    },
+    "roles": {
+      "fraction": 2
+    },
+    "doc_types": {
+      "tablet": 2
+    },
+    "periods": {
+      "LM IA": 2
+    },
+    "readings": {
+      "A709": 2
+    }
+  },
+  "A540": {
+    "total_occurrences": 1,
+    "documents": [
+      "KN 28b"
+    ],
+    "sites": {
+      "Knossos": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IA": 1
+    },
+    "readings": {
+      "A540": 1
+    }
+  },
+  "A588": {
+    "total_occurrences": 1,
+    "documents": [
+      "KN Zb 34"
+    ],
+    "sites": {
+      "Knossos": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "pithos": 1
+    },
+    "periods": {
+      "LM IA": 1
+    },
+    "readings": {
+      "A588": 1
+    }
+  },
+  "A528": {
+    "total_occurrences": 1,
+    "documents": [
+      "KN Zg <21>"
+    ],
+    "sites": {
+      "Knossos": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "stone_weight": 1
+    },
+    "periods": {
+      "LM IA": 1
+    },
+    "readings": {
+      "A528": 1
+    }
+  },
+  "A581": {
+    "total_occurrences": 2,
+    "documents": [
+      "KY Zg 1",
+      "MA Wc <5b>"
+    ],
+    "sites": {
+      "Kythera": 1,
+      "Mallia": 1
+    },
+    "roles": {
+      "logogram": 2
+    },
+    "doc_types": {
+      "clay_weight": 1,
+      "roundel": 1
+    },
+    "periods": {
+      "unknown": 2
+    },
+    "readings": {
+      "A581": 2
+    }
+  },
+  "A660": {
+    "total_occurrences": 1,
+    "documents": [
+      "MA 10a"
+    ],
+    "sites": {
+      "Mallia": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "unknown": 1
+    },
+    "readings": {
+      "A660": 1
+    }
+  },
+  "A658": {
+    "total_occurrences": 3,
+    "documents": [
+      "MA 10a",
+      "MA 10b",
+      "MA 10c"
+    ],
+    "sites": {
+      "Mallia": 3
+    },
+    "roles": {
+      "logogram": 3
+    },
+    "doc_types": {
+      "tablet": 3
+    },
+    "periods": {
+      "unknown": 3
+    },
+    "readings": {
+      "A658": 3
+    }
+  },
+  "A659": {
+    "total_occurrences": 2,
+    "documents": [
+      "MA 10a",
+      "MA 10c"
+    ],
+    "sites": {
+      "Mallia": 2
+    },
+    "roles": {
+      "logogram": 2
+    },
+    "doc_types": {
+      "tablet": 2
+    },
+    "periods": {
+      "unknown": 2
+    },
+    "readings": {
+      "A659": 2
+    }
+  },
+  "A655": {
+    "total_occurrences": 1,
+    "documents": [
+      "MA 10b"
+    ],
+    "sites": {
+      "Mallia": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "unknown": 1
+    },
+    "readings": {
+      "A655": 1
+    }
+  },
+  "A654": {
+    "total_occurrences": 1,
+    "documents": [
+      "MA 10b"
+    ],
+    "sites": {
+      "Mallia": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "unknown": 1
+    },
+    "readings": {
+      "A654": 1
+    }
+  },
+  "A524": {
+    "total_occurrences": 1,
+    "documents": [
+      "MA 10b"
+    ],
+    "sites": {
+      "Mallia": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "unknown": 1
+    },
+    "readings": {
+      "A524": 1
+    }
+  },
+  "A713": {
+    "total_occurrences": 1,
+    "documents": [
+      "MA 10b"
+    ],
+    "sites": {
+      "Mallia": 1
+    },
+    "roles": {
+      "fraction": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "unknown": 1
+    },
+    "readings": {
+      "A713": 1
+    }
+  },
+  "A662": {
+    "total_occurrences": 1,
+    "documents": [
+      "MA 10d"
+    ],
+    "sites": {
+      "Mallia": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "unknown": 1
+    },
+    "readings": {
+      "A662": 1
+    }
+  },
+  "A661": {
+    "total_occurrences": 1,
+    "documents": [
+      "MA 10d"
+    ],
+    "sites": {
+      "Mallia": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "unknown": 1
+    },
+    "readings": {
+      "A661": 1
+    }
+  },
+  "A602": {
+    "total_occurrences": 3,
+    "documents": [
+      "MA 4a",
+      "MA 6a",
+      "MA 6c"
+    ],
+    "sites": {
+      "Mallia": 3
+    },
+    "roles": {
+      "logogram": 3
+    },
+    "doc_types": {
+      "tablet": 3
+    },
+    "periods": {
+      "unknown": 3
+    },
+    "readings": {
+      "A602": 3
+    }
+  },
+  "A603": {
+    "total_occurrences": 1,
+    "documents": [
+      "MA 4a"
+    ],
+    "sites": {
+      "Mallia": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "unknown": 1
+    },
+    "readings": {
+      "A603": 1
+    }
+  },
+  "A601": {
+    "total_occurrences": 1,
+    "documents": [
+      "MA 4a"
+    ],
+    "sites": {
+      "Mallia": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "unknown": 1
+    },
+    "readings": {
+      "A601": 1
+    }
+  },
+  "A600": {
+    "total_occurrences": 1,
+    "documents": [
+      "MA 4a"
+    ],
+    "sites": {
+      "Mallia": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "unknown": 1
+    },
+    "readings": {
+      "A600": 1
+    }
+  },
+  "AB180": {
+    "total_occurrences": 9,
+    "documents": [
+      "MA 4b",
+      "MA 6a",
+      "MA 6b",
+      "MA 6d",
+      "MA Wc 7",
+      "PH 10",
+      "PH 12a",
+      "PH 13a",
+      "PH 15b"
+    ],
+    "sites": {
+      "Mallia": 5,
+      "Phaistos": 4
+    },
+    "roles": {
+      "logogram": 8,
+      "syllabogram": 1
+    },
+    "doc_types": {
+      "tablet": 8,
+      "roundel": 1
+    },
+    "periods": {
+      "unknown": 9
+    },
+    "readings": {
+      "AB180": 8,
+      "*180": 1
+    }
+  },
+  "A599": {
+    "total_occurrences": 2,
+    "documents": [
+      "MA 6c"
+    ],
+    "sites": {
+      "Mallia": 2
+    },
+    "roles": {
+      "logogram": 2
+    },
+    "doc_types": {
+      "tablet": 2
+    },
+    "periods": {
+      "unknown": 2
+    },
+    "readings": {
+      "A599": 2
+    }
+  },
+  "AB43": {
+    "total_occurrences": 1,
+    "documents": [
+      "MY Zf 2"
+    ],
+    "sites": {
+      "Mycenae": 1
+    },
+    "roles": {
+      "syllabogram": 1
+    },
+    "doc_types": {
+      "metal_engraving": 1
+    },
+    "periods": {
+      "unknown": 1
+    },
+    "readings": {
+      "*43": 1
+    }
+  },
+  "A355": {
+    "total_occurrences": 1,
+    "documents": [
+      "PH 10"
+    ],
+    "sites": {
+      "Phaistos": 1
+    },
+    "roles": {
+      "syllabogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "unknown": 1
+    },
+    "readings": {
+      "A355": 1
+    }
+  },
+  "A354": {
+    "total_occurrences": 1,
+    "documents": [
+      "PH 10"
+    ],
+    "sites": {
+      "Phaistos": 1
+    },
+    "roles": {
+      "syllabogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "unknown": 1
+    },
+    "readings": {
+      "A354": 1
+    }
+  },
+  "A339": {
+    "total_occurrences": 2,
+    "documents": [
+      "PH 12a",
+      "PH 15a"
+    ],
+    "sites": {
+      "Phaistos": 2
+    },
+    "roles": {
+      "syllabogram": 1,
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 2
+    },
+    "periods": {
+      "unknown": 2
+    },
+    "readings": {
+      "A339": 2
+    }
+  },
+  "A328": {
+    "total_occurrences": 3,
+    "documents": [
+      "PH 13a",
+      "PH Wc 46",
+      "PH Wc <47>"
+    ],
+    "sites": {
+      "Phaistos": 3
+    },
+    "roles": {
+      "syllabogram": 1,
+      "logogram": 2
+    },
+    "doc_types": {
+      "tablet": 1,
+      "roundel": 2
+    },
+    "periods": {
+      "unknown": 1,
+      "MM II": 2
+    },
+    "readings": {
+      "A328": 3
+    }
+  },
+  "A356": {
+    "total_occurrences": 1,
+    "documents": [
+      "PH 13b"
+    ],
+    "sites": {
+      "Phaistos": 1
+    },
+    "roles": {
+      "syllabogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "unknown": 1
+    },
+    "readings": {
+      "A356": 1
+    }
+  },
+  "A357": {
+    "total_occurrences": 1,
+    "documents": [
+      "PH 15b"
+    ],
+    "sites": {
+      "Phaistos": 1
+    },
+    "roles": {
+      "syllabogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "unknown": 1
+    },
+    "readings": {
+      "A357": 1
+    }
+  },
+  "A320": {
+    "total_occurrences": 5,
+    "documents": [
+      "PH 16a",
+      "PH 16b",
+      "PH Wc 37b",
+      "PH Wc 40a"
+    ],
+    "sites": {
+      "Phaistos": 5
+    },
+    "roles": {
+      "syllabogram": 4,
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 2,
+      "roundel": 3
+    },
+    "periods": {
+      "unknown": 2,
+      "MM II": 3
+    },
+    "readings": {
+      "A320": 5
+    }
+  },
+  "A358": {
+    "total_occurrences": 1,
+    "documents": [
+      "PH 16a"
+    ],
+    "sites": {
+      "Phaistos": 1
+    },
+    "roles": {
+      "syllabogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "unknown": 1
+    },
+    "readings": {
+      "A358": 1
+    }
+  },
+  "A359": {
+    "total_occurrences": 1,
+    "documents": [
+      "PH 17a"
+    ],
+    "sites": {
+      "Phaistos": 1
+    },
+    "roles": {
+      "syllabogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "unknown": 1
+    },
+    "readings": {
+      "A359": 1
+    }
+  },
+  "A360": {
+    "total_occurrences": 1,
+    "documents": [
+      "PH 17b"
+    ],
+    "sites": {
+      "Phaistos": 1
+    },
+    "roles": {
+      "syllabogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "unknown": 1
+    },
+    "readings": {
+      "A360": 1
+    }
+  },
+  "A513": {
+    "total_occurrences": 2,
+    "documents": [
+      "PH 31a"
+    ],
+    "sites": {
+      "Phaistos": 2
+    },
+    "roles": {
+      "logogram": 2
+    },
+    "doc_types": {
+      "tablet": 2
+    },
+    "periods": {
+      "unknown": 2
+    },
+    "readings": {
+      "A513": 2
+    }
+  },
+  "AB21m": {
+    "total_occurrences": 6,
+    "documents": [
+      "PH 31a",
+      "PH 31b",
+      "ZA 22"
+    ],
+    "sites": {
+      "Phaistos": 5,
+      "Zakros": 1
+    },
+    "roles": {
+      "logogram": 6
+    },
+    "doc_types": {
+      "tablet": 6
+    },
+    "periods": {
+      "unknown": 5,
+      "LM IB": 1
+    },
+    "readings": {
+      "AB21/OVIS": 6
+    }
+  },
+  "A1000": {
+    "total_occurrences": 1,
+    "documents": [
+      "PH 31a"
+    ],
+    "sites": {
+      "Phaistos": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "unknown": 1
+    },
+    "readings": {
+      "A1000/SUS+SI+RE": 1
+    }
+  },
+  "A1001": {
+    "total_occurrences": 1,
+    "documents": [
+      "PH 31b"
+    ],
+    "sites": {
+      "Phaistos": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "unknown": 1
+    },
+    "readings": {
+      "A1001/SUS+SI": 1
+    }
+  },
+  "A556": {
+    "total_occurrences": 1,
+    "documents": [
+      "PH 3a"
+    ],
+    "sites": {
+      "Phaistos": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "unknown": 1
+    },
+    "readings": {
+      "A556": 1
+    }
+  },
+  "A557": {
+    "total_occurrences": 1,
+    "documents": [
+      "PH 3a"
+    ],
+    "sites": {
+      "Phaistos": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "unknown": 1
+    },
+    "readings": {
+      "A557": 1
+    }
+  },
+  "A563": {
+    "total_occurrences": 1,
+    "documents": [
+      "PH 3a"
+    ],
+    "sites": {
+      "Phaistos": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "unknown": 1
+    },
+    "readings": {
+      "A563": 1
+    }
+  },
+  "A558": {
+    "total_occurrences": 1,
+    "documents": [
+      "PH 3a"
+    ],
+    "sites": {
+      "Phaistos": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "unknown": 1
+    },
+    "readings": {
+      "A558": 1
+    }
+  },
+  "A548": {
+    "total_occurrences": 1,
+    "documents": [
+      "PH 3b"
+    ],
+    "sites": {
+      "Phaistos": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "unknown": 1
+    },
+    "readings": {
+      "A548": 1
+    }
+  },
+  "A418": {
+    "total_occurrences": 1,
+    "documents": [
+      "PH 8a"
+    ],
+    "sites": {
+      "Phaistos": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "unknown": 1
+    },
+    "readings": {
+      "A418": 1
+    }
+  },
+  "A642": {
+    "total_occurrences": 1,
+    "documents": [
+      "PH 8b"
+    ],
+    "sites": {
+      "Phaistos": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "unknown": 1
+    },
+    "readings": {
+      "A642": 1
+    }
+  },
+  "A353": {
+    "total_occurrences": 1,
+    "documents": [
+      "PH 9a"
+    ],
+    "sites": {
+      "Phaistos": 1
+    },
+    "roles": {
+      "syllabogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "unknown": 1
+    },
+    "readings": {
+      "A353": 1
+    }
+  },
+  "A412": {
+    "total_occurrences": 1,
+    "documents": [
+      "PH 9b"
+    ],
+    "sites": {
+      "Phaistos": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "unknown": 1
+    },
+    "readings": {
+      "A412": 1
+    }
+  },
+  "A639": {
+    "total_occurrences": 1,
+    "documents": [
+      "PYR 1"
+    ],
+    "sites": {
+      "Pyrgos": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "unknown": 1
+    },
+    "readings": {
+      "A639": 1
+    }
+  },
+  "AB48": {
+    "total_occurrences": 1,
+    "documents": [
+      "SY Za 4"
+    ],
+    "sites": {
+      "Syme": 1
+    },
+    "roles": {
+      "syllabogram": 1
+    },
+    "doc_types": {
+      "libation_table": 1
+    },
+    "periods": {
+      "unknown": 1
+    },
+    "readings": {
+      "nwa": 1
+    }
+  },
+  "A309b": {
+    "total_occurrences": 5,
+    "documents": [
+      "TY 2"
+    ],
+    "sites": {
+      "Tylissos": 5
+    },
+    "roles": {
+      "syllabogram": 5
+    },
+    "doc_types": {
+      "tablet": 5
+    },
+    "periods": {
+      "LM IB": 5
+    },
+    "readings": {
+      "A309": 5
+    }
+  },
+  "A309a": {
+    "total_occurrences": 5,
+    "documents": [
+      "TY 2"
+    ],
+    "sites": {
+      "Tylissos": 5
+    },
+    "roles": {
+      "syllabogram": 5
+    },
+    "doc_types": {
+      "tablet": 5
+    },
+    "periods": {
+      "LM IB": 5
+    },
+    "readings": {
+      "A309": 5
+    }
+  },
+  "A309c": {
+    "total_occurrences": 2,
+    "documents": [
+      "TY 2"
+    ],
+    "sites": {
+      "Tylissos": 2
+    },
+    "roles": {
+      "syllabogram": 2
+    },
+    "doc_types": {
+      "tablet": 2
+    },
+    "periods": {
+      "LM IB": 2
+    },
+    "readings": {
+      "A309": 2
+    }
+  },
+  "A514": {
+    "total_occurrences": 1,
+    "documents": [
+      "TY 3a"
+    ],
+    "sites": {
+      "Tylissos": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A514": 1
+    }
+  },
+  "A611": {
+    "total_occurrences": 2,
+    "documents": [
+      "TY 3a"
+    ],
+    "sites": {
+      "Tylissos": 2
+    },
+    "roles": {
+      "logogram": 2
+    },
+    "doc_types": {
+      "tablet": 2
+    },
+    "periods": {
+      "LM IB": 2
+    },
+    "readings": {
+      "A611": 2
+    }
+  },
+  "A619": {
+    "total_occurrences": 1,
+    "documents": [
+      "TY 3a"
+    ],
+    "sites": {
+      "Tylissos": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A619": 1
+    }
+  },
+  "A620": {
+    "total_occurrences": 1,
+    "documents": [
+      "TY 3a"
+    ],
+    "sites": {
+      "Tylissos": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A620": 1
+    }
+  },
+  "A361": {
+    "total_occurrences": 1,
+    "documents": [
+      "TY 3a"
+    ],
+    "sites": {
+      "Tylissos": 1
+    },
+    "roles": {
+      "syllabogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A361": 1
+    }
+  },
+  "A362": {
+    "total_occurrences": 1,
+    "documents": [
+      "ZA 10b"
+    ],
+    "sites": {
+      "Zakros": 1
+    },
+    "roles": {
+      "syllabogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A362": 1
+    }
+  },
+  "A555": {
+    "total_occurrences": 1,
+    "documents": [
+      "ZA 11a"
+    ],
+    "sites": {
+      "Zakros": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A555": 1
+    }
+  },
+  "A518": {
+    "total_occurrences": 1,
+    "documents": [
+      "ZA 11b"
+    ],
+    "sites": {
+      "Zakros": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A518": 1
+    }
+  },
+  "A363": {
+    "total_occurrences": 1,
+    "documents": [
+      "ZA 14"
+    ],
+    "sites": {
+      "Zakros": 1
+    },
+    "roles": {
+      "syllabogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A363": 1
+    }
+  },
+  "A507": {
+    "total_occurrences": 1,
+    "documents": [
+      "ZA 15a"
+    ],
+    "sites": {
+      "Zakros": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A507": 1
+    }
+  },
+  "A364": {
+    "total_occurrences": 1,
+    "documents": [
+      "ZA 15a"
+    ],
+    "sites": {
+      "Zakros": 1
+    },
+    "roles": {
+      "syllabogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A364": 1
+    }
+  },
+  "A594": {
+    "total_occurrences": 2,
+    "documents": [
+      "ZA 15b",
+      "ZA 6b"
+    ],
+    "sites": {
+      "Zakros": 2
+    },
+    "roles": {
+      "logogram": 2
+    },
+    "doc_types": {
+      "tablet": 2
+    },
+    "periods": {
+      "LM IB": 2
+    },
+    "readings": {
+      "A594": 2
+    }
+  },
+  "A593": {
+    "total_occurrences": 1,
+    "documents": [
+      "ZA 5a"
+    ],
+    "sites": {
+      "Zakros": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A593": 1
+    }
+  },
+  "AB171": {
+    "total_occurrences": 1,
+    "documents": [
+      "ZA 6a"
+    ],
+    "sites": {
+      "Zakros": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "AB171": 1
+    }
+  },
+  "A596": {
+    "total_occurrences": 1,
+    "documents": [
+      "ZA 6b"
+    ],
+    "sites": {
+      "Zakros": 1
+    },
+    "roles": {
+      "logogram": 1
+    },
+    "doc_types": {
+      "tablet": 1
+    },
+    "periods": {
+      "LM IB": 1
+    },
+    "readings": {
+      "A596": 1
+    }
+  },
+  "A512": {
+    "total_occurrences": 3,
+    "documents": [
+      "ZA 9"
+    ],
+    "sites": {
+      "Zakros": 3
+    },
+    "roles": {
+      "logogram": 3
+    },
+    "doc_types": {
+      "tablet": 3
+    },
+    "periods": {
+      "LM IB": 3
+    },
+    "readings": {
+      "A512": 3
+    }
+  }
+}

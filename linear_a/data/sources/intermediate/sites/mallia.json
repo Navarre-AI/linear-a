@@ -1,0 +1,106 @@
+{
+  "site": "Mallia",
+  "documents": 20,
+  "total_signs": 73,
+  "total_words": 26,
+  "unique_words": 17,
+  "types": {
+    "tablet": 17,
+    "roundel": 3
+  },
+  "periods": {
+    "unknown": 20
+  },
+  "top_words": [
+    [
+      "ti",
+      4
+    ],
+    [
+      "ru",
+      2
+    ],
+    [
+      "du-pi-te-wa",
+      2
+    ],
+    [
+      "qe-de-mi-nu",
+      2
+    ],
+    [
+      "du-ra",
+      2
+    ],
+    [
+      "a-ja",
+      2
+    ],
+    [
+      "a-sa-da-ka",
+      2
+    ],
+    [
+      "i-du-wi-qe-de-mi-nu",
+      1
+    ],
+    [
+      "i-du-wi",
+      1
+    ],
+    [
+      "a-ma-qe-de-mi-nu",
+      1
+    ],
+    [
+      "a-ma",
+      1
+    ],
+    [
+      "re-ti-ti-ja-ku-ti",
+      1
+    ],
+    [
+      "re-ti",
+      1
+    ],
+    [
+      "ja-ku",
+      1
+    ],
+    [
+      "u-na-na-ja-ma-u-ti",
+      1
+    ],
+    [
+      "u-na-na",
+      1
+    ],
+    [
+      "ja-ma-u-ti",
+      1
+    ]
+  ],
+  "document_ids": [
+    "MA 10a",
+    "MA 10b",
+    "MA 10c",
+    "MA 10d",
+    "MA 1a",
+    "MA 1b",
+    "MA 1c",
+    "MA 2a",
+    "MA 2b",
+    "MA 2c",
+    "MA 4a",
+    "MA 4b",
+    "MA 6a",
+    "MA 6b",
+    "MA 6c",
+    "MA 6d",
+    "MA 9",
+    "MA Wc 7",
+    "MA Wc <5a>",
+    "MA Wc <5b>"
+  ]
+}

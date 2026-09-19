@@ -1,0 +1,52 @@
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+(CC BY-NC-SA 4.0)
+
+This folder is an exception to the repository default. The repository default
+is CC BY 4.0. Everything in this folder, and in every subfolder of it, is
+CC BY-NC-SA 4.0 instead, because it is derived from SigLA.
+
+Upstream: SigLA: The Signs of Linear A, a palaeographical database, by Ester
+Salgarella and Simon Castellan, https://sigla.phis.me/. The CSV and Markdown
+files here are reshaped exports of the SigLA structured corpus in the parent
+folder.
+
+One exception in this folder: fm_ingest.py is this project's own code and is
+CC BY 4.0 under part 1 of the root LICENSE.
+
+Summary: https://creativecommons.org/licenses/by-nc-sa/4.0/
+Legal code: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+
+Required credit line. Use it whenever any file in this folder, or any
+derivative of it, appears in a paper, a talk, a web page, or a dataset
+release:
+
+  Sign drawings from SigLA: The Signs of Linear A, a palaeographical
+  database, by Ester Salgarella and Simon Castellan
+  (https://sigla.phis.me/), licensed under CC BY-NC-SA 4.0.
+
+You are free to:
+
+  Share: copy and redistribute the material in any medium or format
+  Adapt: remix, transform, and build upon the material
+
+Under the following terms:
+
+  Attribution: you must give appropriate credit, provide a link to the
+  license, and indicate if changes were made.
+
+  NonCommercial: you may not use the material for commercial purposes.
+
+  ShareAlike: if you remix, transform, or build upon the material, you must
+  distribute your contributions under the same license as the original. This
+  reaches measurements computed from the SigLA material, which the SigLA
+  manifest states are derivative work.
+
+  No additional restrictions: you may not apply legal terms or technological
+  measures that legally restrict others from doing anything the license
+  permits.
+
+Changes made by this project are recorded in PROVENANCE.md in this folder, or
+in the nearest parent folder that has one.
+
+The repository-wide licence split is in LICENSE at the repository root. All
+credits are in CREDITS.md at the repository root.

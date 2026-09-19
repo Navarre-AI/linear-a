@@ -1,0 +1,34 @@
+{
+  "site": "Syme",
+  "documents": 1,
+  "total_signs": 13,
+  "total_words": 4,
+  "unique_words": 4,
+  "types": {
+    "libation_table": 1
+  },
+  "periods": {
+    "unknown": 1
+  },
+  "top_words": [
+    [
+      "a-ta-i-A301-wa-ja-ja-i-nwa-za-*56-ni-wi",
+      1
+    ],
+    [
+      "a-ta-i-A301-wa-ja",
+      1
+    ],
+    [
+      "ja-i-nwa-za",
+      1
+    ],
+    [
+      "*56-ni-wi",
+      1
+    ]
+  ],
+  "document_ids": [
+    "SY Za 4"
+  ]
+}

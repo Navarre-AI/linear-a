@@ -1,0 +1,22 @@
+{
+  "site": "Mycenae",
+  "documents": 1,
+  "total_signs": 1,
+  "total_words": 2,
+  "unique_words": 1,
+  "types": {
+    "metal_engraving": 1
+  },
+  "periods": {
+    "unknown": 1
+  },
+  "top_words": [
+    [
+      "*43",
+      2
+    ]
+  ],
+  "document_ids": [
+    "MY Zf 2"
+  ]
+}

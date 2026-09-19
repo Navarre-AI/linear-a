@@ -1,0 +1,188 @@
+LICENSES FOR THIS REPOSITORY
+============================
+
+This repository holds material under two licences. Read part 1 and part 2.
+Part 1 is the default. Part 2 names every path that is an exception.
+
+Creative Commons permits mixed licensing inside one work when the marking is
+clear. See the Creative Commons FAQ (https://creativecommons.org/faq/) and
+"Marking your work with a CC license"
+(https://wiki.creativecommons.org/wiki/Marking_your_work_with_a_CC_license).
+CC BY 4.0 material can be incorporated into a CC BY-NC-SA 4.0 work. The
+reverse is not permitted: CC BY-NC-SA 4.0 material cannot be relicensed as
+CC BY 4.0.
+
+Credit for every third-party source is in CREDITS.md at the root of this
+repository.
+
+
+PART 1. DEFAULT: CC BY 4.0
+==========================
+
+Applies to all code, text, documentation and project-generated data in this
+repository, except the paths in part 2.
+
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 Matt Navarre
+
+This work is licensed under the Creative Commons Attribution 4.0
+International License. To view a copy of this license, visit
+https://creativecommons.org/licenses/by/4.0/ or send a letter to
+Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+
+Legal code: https://creativecommons.org/licenses/by/4.0/legalcode
+
+You are free to:
+
+  Share: copy and redistribute the material in any medium or format
+  Adapt: remix, transform, and build upon the material for any purpose,
+  even commercially.
+
+The licensor cannot revoke these freedoms as long as you follow the
+license terms.
+
+Under the following terms:
+
+  Attribution: you must give appropriate credit, provide a link to the
+  license, and indicate if changes were made. You may do so in any
+  reasonable manner, but not in any way that suggests the licensor
+  endorses you or your use.
+
+  No additional restrictions: you may not apply legal terms or
+  technological measures that legally restrict others from doing anything
+  the license permits.
+
+Notices:
+
+  You do not have to comply with the license for elements of the material
+  in the public domain or where your use is permitted by an applicable
+  exception or limitation.
+
+  No warranties are given. The license may not give you all of the
+  permissions necessary for your intended use. For example, other rights
+  such as publicity, privacy, or moral rights may limit how you use the
+  material.
+
+Suggested attribution:
+
+  Navarre, M. (2026). Minoan Linear A – Computational Research Project.
+  https://github.com/Navarre-AI/linear-a · https://lineara.eu
+
+
+PART 2. EXCEPTIONS: CC BY-NC-SA 4.0
+===================================
+
+The paths below are derived from SigLA: The Signs of Linear A. SigLA is
+licensed CC BY-NC-SA 4.0. The ShareAlike term reaches derivatives, and the
+SigLA manifest states that measurements computed from SigLA material are
+derivative work. These paths therefore carry CC BY-NC-SA 4.0, not CC BY 4.0.
+
+Licence: Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+International (CC BY-NC-SA 4.0).
+Summary: https://creativecommons.org/licenses/by-nc-sa/4.0/
+Legal code: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+
+Required credit line, to travel with any of these paths and with any
+derivative of them:
+
+  Sign drawings from SigLA: The Signs of Linear A, a palaeographical
+  database, by Ester Salgarella and Simon Castellan
+  (https://sigla.phis.me/), licensed under CC BY-NC-SA 4.0.
+
+Obligations: give credit, link the licence, and state changes (BY); no
+commercial use (NC); release derivatives under the same licence (SA); add no
+further restrictions.
+
+2.1 SigLA-derived data files
+----------------------------
+
+  linear_a/data/sources/sigla/**
+
+    Every file under this path. It includes corpus_structured.json, a
+    structured copy of the SigLA corpus.
+
+  linear_a/data/sources/sigla/filemaker_export/**
+
+    The FileMaker exports: fm_decode.csv, fm_doc.csv, fm_role_count.csv,
+    fm_summary.csv, fm_role_count.md, fm_summary.md. These are reshaped
+    exports of the SigLA structured corpus. The build script fm_ingest.py in
+    the same folder is our own code under part 1.
+
+Each of these folders also carries its own LICENSE file, so that a reader who
+lands on a deep path sees the terms without reading this file.
+
+2.2 SigLA-provenance records inside a mixed file
+------------------------------------------------
+
+  linear_a/data/corpus.json
+
+    This file is a merge of several sources. It is not wholly NC-SA and it is
+    not wholly CC BY. The split is machine-readable, by field:
+
+      A record is CC BY-NC-SA 4.0 when its "sources" array contains the
+      string "sigla". Every such record also carries a "sigla_id" field.
+
+      A record is CC BY 4.0 when its "sources" array does not contain
+      "sigla".
+
+    On 2026-09-18 that rule marks 772 of 1,884 records as CC BY-NC-SA 4.0.
+    Within an NC-SA record, the SigLA-derived fields are "sigla_id",
+    "signs" (per-position "type", "role", "reading" and "certain"),
+    "sign_count", "scribe", "parent_object" and "face_count".
+
+  linear_a/data/signs.json
+
+    Sign occurrence and document counts are computed over the merged corpus,
+    which includes the 772 SigLA records. They are derivative measurements
+    under the SigLA ShareAlike term, so this file is CC BY-NC-SA 4.0.
+
+  linear_a/data/sources/intermediate/unified_corpus_v2.json
+
+    An earlier merge of the same sources. The same field rule applies: a
+    record is CC BY-NC-SA 4.0 when its "sources" array contains "sigla". On
+    2026-09-18 that is 772 of 1,880 records.
+
+  linear_a/data/sources/intermediate/canonical_id_map.json
+
+    The 772 entries that carry a "sigla_id" field tie a SigLA id to a
+    canonical document id. Those entries are CC BY-NC-SA 4.0. The rest of the
+    file is CC BY 4.0.
+
+2.3 Image folders (reserved)
+----------------------------
+
+No image file is tracked in this repository today. When the SigLA-derived
+image layers are published, they land at the paths below and each one carries
+the same CC BY-NC-SA 4.0 terms and the credit line above, plus its own LICENSE
+file:
+
+  images/sigla/**        SigLA tracings and crops
+  images/signs/**        sign exemplar and occurrence crops
+  images/documents/**    per-document image sets
+  images/a301/**         sign *301 attestation crops
+  data/signs/**          per-sign data built from the crops
+  data/sigla-merge.json  the SigLA merge table
+
+
+PART 3. MATERIAL THAT IS NOT LICENSED HERE
+==========================================
+
+Some third-party material is cited in this repository but not included in it.
+No licence in this file grants any right over it. See CREDITS.md.
+
+  GORILA (Godart and Olivier, 1976 to 1985) and RILA Supplement 1 (Del Freo
+  and Zurbach, 2024): cited as sources. No page scan and no text of either
+  work is included.
+
+  Photographs and facsimiles from the lineara.xyz mirror: image rights are
+  largely Ecole francaise d'Athenes. Not included.
+
+  INSCRIBE 3D models (Universita di Bologna): linked only, not included.
+
+  The PDF library in the private companion repository: copyright of the
+  original authors and publishers. Not included.
+
+Public-domain and CC0 upstream material used by the map layer (Natural Earth,
+Wikidata, NASA Blue Marble) is credited in CREDITS.md. Copernicus DEM GLO-30
+requires an attribution line, which CREDITS.md carries verbatim.

@@ -1,0 +1,140 @@
+{
+  "site": "Knossos",
+  "documents": 31,
+  "total_signs": 165,
+  "total_words": 64,
+  "unique_words": 47,
+  "types": {
+    "tablet": 10,
+    "roundel": 8,
+    "sealing": 2,
+    "sherd": 2,
+    "pithos": 2,
+    "cup": 2,
+    "pithoid_jar": 1,
+    "clay_vase": 1,
+    "architecture": 1,
+    "jewellery": 1,
+    "stone_weight": 1
+  },
+  "periods": {
+    "unknown": 21,
+    "LM IA": 9,
+    "MM III": 1
+  },
+  "top_words": [
+    [
+      "te",
+      3
+    ],
+    [
+      "ja-ku-ti",
+      2
+    ],
+    [
+      "ja-du-ra-ti",
+      2
+    ],
+    [
+      "ru-na",
+      2
+    ],
+    [
+      "po-di-*56",
+      2
+    ],
+    [
+      "ma-su-mi-na",
+      2
+    ],
+    [
+      "qa-ki",
+      2
+    ],
+    [
+      "nu-se",
+      2
+    ],
+    [
+      "ru-ja",
+      2
+    ],
+    [
+      "ni-pi",
+      2
+    ],
+    [
+      "ka-i-ka",
+      2
+    ],
+    [
+      "ja-ra",
+      2
+    ],
+    [
+      "na-a-*56",
+      2
+    ],
+    [
+      "a-tu-ri-si-ti",
+      2
+    ],
+    [
+      "a-pi",
+      2
+    ],
+    [
+      "a-re-ne-si-di-A301-pi-ke-pa-ja-ta-ri-se-te-ri-mu-a-ja-ku",
+      2
+    ],
+    [
+      "su-ju-ta-ka-je",
+      1
+    ],
+    [
+      "su-ju-ta",
+      1
+    ],
+    [
+      "ka-je",
+      1
+    ],
+    [
+      "a-pa-a-ka-ta",
+      1
+    ]
+  ],
+  "document_ids": [
+    "KN 1a",
+    "KN 1b",
+    "KN 2",
+    "KN 22a",
+    "KN 22b",
+    "KN 22c",
+    "KN 28a",
+    "KN 28b",
+    "KN 32a",
+    "KN 32b",
+    "KN Wb 33a",
+    "KN Wb 33b",
+    "KN Wc 26a",
+    "KN Wc 26b",
+    "KN Wc 29",
+    "KN Wc 3",
+    "KN Wc 30",
+    "KN Wc <24a>",
+    "KN Wc <24b>",
+    "KN Wc <25>",
+    "KN Zb 20",
+    "KN Zb 34",
+    "KN Zb 35",
+    "KN Zb 4",
+    "KN Zb 40",
+    "KN Zb 5",
+    "KN Zc 6",
+    "KN Zc 7",
+    "KN Ze 16",
+    "KN Zf 13",
+    "KN Zg <21>"
+  ]
+}

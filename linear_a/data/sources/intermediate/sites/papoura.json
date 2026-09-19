@@ -1,0 +1,22 @@
+{
+  "site": "Papoura",
+  "documents": 1,
+  "total_signs": 5,
+  "total_words": 2,
+  "unique_words": 1,
+  "types": {
+    "tablet": 1
+  },
+  "periods": {
+    "LM IB": 1
+  },
+  "top_words": [
+    [
+      "a-ku-ju-pa-*118",
+      2
+    ]
+  ],
+  "document_ids": [
+    "PA 1"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "site": "Pyrgos",
+  "documents": 2,
+  "total_signs": 9,
+  "total_words": 2,
+  "unique_words": 1,
+  "types": {
+    "tablet": 2
+  },
+  "periods": {
+    "unknown": 2
+  },
+  "top_words": [
+    [
+      "ti-ma-ru-wi-te",
+      2
+    ]
+  ],
+  "document_ids": [
+    "PYR 1",
+    "PYR 2"
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "site": "Tylissos",
+  "documents": 3,
+  "total_signs": 99,
+  "total_words": 24,
+  "unique_words": 21,
+  "types": {
+    "tablet": 3
+  },
+  "periods": {
+    "LM IB": 3
+  },
+  "top_words": [
+    [
+      "A309",
+      3
+    ],
+    [
+      "A309-ri-ju",
+      2
+    ],
+    [
+      "A309-*34-pu-pi-A309-A309-ki-pu-A309-da-pu-pa-da-ru-A309-ju-ki-A309-ri-ju-A309-A309-ri-da-ju-A309-ri-ka-ru-A309-ri-wa-ju-A309-ri-ju-A309",
+      1
+    ],
+    [
+      "A309-*34-pu-pi",
+      1
+    ],
+    [
+      "A309-ki-pu",
+      1
+    ],
+    [
+      "A309-da-pu",
+      1
+    ],
+    [
+      "pa-da-ru",
+      1
+    ],
+    [
+      "A309-ju-ki",
+      1
+    ],
+    [
+      "A309-ri-da-ju",
+      1
+    ],
+    [
+      "A309-ri-ka-ru",
+      1
+    ],
+    [
+      "A309-ri-wa-ju",
+      1
+    ],
+    [
+      "za-A321-a-du-a-da-ko-a-du-wa-a-ku-tu-A361",
+      1
+    ],
+    [
+      "za-A321",
+      1
+    ],
+    [
+      "a-du",
+      1
+    ],
+    [
+      "a-da",
+      1
+    ],
+    [
+      "ko-a-du-wa",
+      1
+    ],
+    [
+      "a-ku-tu-A361",
+      1
+    ],
+    [
+      "ki-ri-si-pi-ku-*79-pa-mi",
+      1
+    ],
+    [
+      "ki-ri-si",
+      1
+    ],
+    [
+      "pi-ku-*79",
+      1
+    ]
+  ],
+  "document_ids": [
+    "TY 2",
+    "TY 3a",
+    "TY 3b"
+  ]
+}

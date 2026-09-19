@@ -1,0 +1,539 @@
+{
+  "_about": {
+    "description": "Provenance of every tracked file under linear_a/data. One entry per file. kind is one of derived, source transcription, export, documentation, code, placeholder. For derived, source transcription and export files, generator is either a script in this repository with the command that runs it, or the string hand-maintained when no script in this repository builds the file; inputs names what the file was built from; post_passes lists, in order, the dated scripts that changed it afterwards. scripts/release_gates.py gate 8 fails when a tracked file under linear_a/data has no entry, or when a data entry lacks generator or inputs.",
+    "written": "2026-09-18"
+  },
+  "files": {
+    "linear_a/data/LICENSE-NOTICE.md": {
+      "kind": "documentation"
+    },
+    "linear_a/data/__init__.py": {
+      "kind": "code"
+    },
+    "linear_a/data/corpus.json": {
+      "kind": "derived",
+      "generator": "hand-maintained",
+      "inputs": [
+        "lineara.xyz LinearAInscriptions.js (not in this repository; see sources/lineara/README.md)",
+        "linear_a/data/sources/sigla/corpus_structured.json",
+        "the project's earlier hand-transcribed corpus (sources: old_corpus)",
+        "the private companion repository docs/browser-data.json, read only, for the 2026-09-18 write-back"
+      ],
+      "post_passes": [
+        {
+          "script": "linear_a/apply_private_writeback_2026-09-18.py",
+          "command": "python3 linear_a/apply_private_writeback_2026-09-18.py /path/to/linear-a-private/docs/browser-data.json",
+          "record": "verification/private-writeback-2026-09-18.md"
+        },
+        {
+          "script": "(no script) pseudo-word post-pass",
+          "command": "the rule in verification/pseudo-word-fix-2026-09-18.md: drop words[0] where it equals the join of words[1:]",
+          "record": "verification/pseudo-word-fix-2026-09-18.md"
+        },
+        {
+          "script": "linear_a/apply_ph_wa_32_conflict_2026-09-18.py",
+          "command": "python3 linear_a/apply_ph_wa_32_conflict_2026-09-18.py /path/to/linear-a-private/docs/browser-data.json",
+          "record": "verification/ph-wa-32-conflict-2026-09-18.md"
+        },
+        {
+          "script": "linear_a/apply_word_pages_2026-09-18.py",
+          "command": "python3 linear_a/apply_word_pages_2026-09-18.py /path/to/linear-a-private/references/inbox/sigla-word-pages-2026-09-18/pages",
+          "record": "verification/layer-check-2026-09-18.md"
+        },
+        {
+          "script": "linear_a/apply_layer_conflicts_2026-09-18.py",
+          "command": "python3 linear_a/apply_layer_conflicts_2026-09-18.py",
+          "record": "verification/layer-check-2026-09-18.md"
+        },
+        {
+          "script": "linear_a/apply_siglum_status_2026-09-18.py",
+          "command": "python3 linear_a/apply_siglum_status_2026-09-18.py",
+          "record": "verification/layer-check-2026-09-18.md"
+        },
+        {
+          "script": "linear_a/apply_word_pages_rest_2026-09-18.py",
+          "command": "python3 linear_a/apply_word_pages_rest_2026-09-18.py /path/to/linear-a-private/references/inbox/sigla-word-pages-2026-09-18/pages",
+          "record": "verification/layer-check-2026-09-18.md"
+        },
+        {
+          "script": "linear_a/apply_sign_subscripts_2026-09-18.py",
+          "command": "python3 linear_a/apply_sign_subscripts_2026-09-18.py /path/to/linear-a-private/references/inbox/sigla-refresh-2026-08-13/raw-document-pages-2026-08-14.tar.gz",
+          "record": "verification/layer-check-2026-09-18.md"
+        }
+      ],
+      "note": "The script that first built this file is not in this repository, so the file is hand-maintained here. Every later change is a dated post-pass script in linear_a/, listed in post_passes in the order it ran."
+    },
+    "linear_a/data/corpus_audit_matrix.json": {
+      "kind": "derived",
+      "generator": "hand-maintained",
+      "inputs": [
+        "linear_a/data/corpus.json (1,881 records at the time)",
+        "linear_a/data/gorila_sign_index_rows.json",
+        "linear_a/data/gorila_concordances_full.json"
+      ],
+      "note": "The script that first built this file is not in this repository, so the file is hand-maintained here. Three-way audit of 2026-04-09 (task BIG-2)."
+    },
+    "linear_a/data/corpus_enrichment_audit.json": {
+      "kind": "derived",
+      "generator": "hand-maintained",
+      "inputs": [
+        "linear_a/data/corpus.json; the file records only its date, 2026-04-05"
+      ],
+      "note": "The script that first built this file is not in this repository, so the file is hand-maintained here."
+    },
+    "linear_a/data/doc": {
+      "kind": "export",
+      "generator": "hand-maintained",
+      "inputs": [
+        "Linear A Database.fmp12 (not in this repository)"
+      ],
+      "note": "FileMaker Pro 22.0.5 XML export (FMPXMLRESULT) of the project's FileMaker file Linear A Database.fmp12, which holds the SigLA documents. 773 records. Not reproducible from this repository."
+    },
+    "linear_a/data/gorila_concordances.json": {
+      "kind": "source transcription",
+      "generator": "hand-maintained",
+      "inputs": [
+        "GORILA vol. 5 (1985), concordance tables"
+      ],
+      "note": "Read out of the printed source by an extraction run that is not in this repository. Extraction of 2026-04-04; its metadata key states that the data rows are partial."
+    },
+    "linear_a/data/gorila_concordances_full.json": {
+      "kind": "source transcription",
+      "generator": "hand-maintained",
+      "inputs": [
+        "GORILA vol. 5 (1985), pp. 82-113, concordance generale"
+      ],
+      "note": "Read out of the printed source by an extraction run that is not in this repository. Extraction of 2026-04-04, 468 entries; its metadata key states the coverage."
+    },
+    "linear_a/data/gorila_page_map.json": {
+      "kind": "source transcription",
+      "generator": "hand-maintained",
+      "inputs": [
+        "GORILA vols. 1 to 5 (1976-1985), page scans"
+      ],
+      "note": "Read out of the printed source by an extraction run that is not in this repository. Page classification of 2026-04-04."
+    },
+    "linear_a/data/gorila_sign_index.json": {
+      "kind": "source transcription",
+      "generator": "hand-maintained",
+      "inputs": [
+        "GORILA vol. 5 (1985), pp. 135-326, index des signes"
+      ],
+      "note": "Read out of the printed source by an extraction run that is not in this repository. Schema, page map and batch plan for the sign index extraction."
+    },
+    "linear_a/data/gorila_sign_index.xlsx": {
+      "kind": "source transcription",
+      "generator": "hand-maintained",
+      "inputs": [
+        "GORILA vol. 5 (1985), index des signes; the exact input file is not recorded"
+      ],
+      "note": "Read out of the printed source by an extraction run that is not in this repository. A spreadsheet form of the sign index."
+    },
+    "linear_a/data/gorila_sign_index_rows.json": {
+      "kind": "source transcription",
+      "generator": "hand-maintained",
+      "inputs": [
+        "GORILA vol. 5 (1985), pp. 142-325"
+      ],
+      "note": "Read out of the printed source by an extraction run that is not in this repository. Row extraction of 2026-04-05, 960 rows."
+    },
+    "linear_a/data/gorila_sign_plates.json": {
+      "kind": "source transcription",
+      "generator": "hand-maintained",
+      "inputs": [
+        "GORILA vol. 5 (1985), sign plates"
+      ],
+      "note": "Read out of the printed source by an extraction run that is not in this repository. Extraction of 2026-04-04; its metadata key states that the data rows are partial."
+    },
+    "linear_a/data/gorila_sign_variants.json": {
+      "kind": "source transcription",
+      "generator": "hand-maintained",
+      "inputs": [
+        "GORILA vol. 5 (1985), pp. XXV-LII, tableau des variantes"
+      ],
+      "note": "Read out of the printed source by an extraction run that is not in this repository. Extraction; see its metadata key."
+    },
+    "linear_a/data/image_decode": {
+      "kind": "export",
+      "generator": "hand-maintained",
+      "inputs": [
+        "Linear A Database.fmp12 (not in this repository)"
+      ],
+      "note": "FileMaker Pro 22.0.5 XML export (FMPXMLRESULT) of the project's FileMaker file Linear A Database.fmp12, which holds the SigLA documents. 5,714 records. Not reproducible from this repository."
+    },
+    "linear_a/data/image_names": {
+      "kind": "export",
+      "generator": "hand-maintained",
+      "inputs": [
+        "Linear A Database.fmp12 (not in this repository)"
+      ],
+      "note": "FileMaker Pro 22.0.5 XML export (FMPXMLRESULT) of the project's FileMaker file Linear A Database.fmp12, which holds the SigLA documents. 5,715 records. Not reproducible from this repository."
+    },
+    "linear_a/data/images/test.txt": {
+      "kind": "placeholder",
+      "note": "A 2-byte file that keeps the images folder in git. It holds no data."
+    },
+    "linear_a/data/rila_2025_concordances.json": {
+      "kind": "source transcription",
+      "generator": "hand-maintained",
+      "inputs": [
+        "references/core/RILA_Supplement_2025_Index_Only.pdf in the private companion repository"
+      ],
+      "note": "Read out of the printed source by an extraction run that is not in this repository. Its own note states that the PDF held front matter only, so the file holds the group structure, not the concordance rows."
+    },
+    "linear_a/data/role_count": {
+      "kind": "export",
+      "generator": "hand-maintained",
+      "inputs": [
+        "Linear A Database.fmp12 (not in this repository)"
+      ],
+      "note": "FileMaker Pro 22.0.5 XML export (FMPXMLRESULT) of the project's FileMaker file Linear A Database.fmp12, which holds the SigLA documents. 731 records. Not reproducible from this repository."
+    },
+    "linear_a/data/sign_301_cross_check.json": {
+      "kind": "derived",
+      "generator": "hand-maintained",
+      "inputs": [
+        "linear_a/data/corpus.json and the GORILA tables; the file records only its date, 2026-04-05"
+      ],
+      "note": "The script that first built this file is not in this repository, so the file is hand-maintained here."
+    },
+    "linear_a/data/signs.json": {
+      "kind": "derived",
+      "generator": "hand-maintained",
+      "inputs": [
+        "the private companion repository site/data/signs/index.json (built 2026-09-07)",
+        "the private companion repository comparative-scripts/signs-json-unicode-CORRECTED-MAP.json (revision 3)",
+        "Python unicodedata 16.0.0, for every codepoint"
+      ],
+      "note": "The script that first built this file is not in this repository, so the file is hand-maintained here. The regeneration of 2026-09-18 is recorded in verification/signs-json-regeneration-2026-09-18.md, and the file's own provenance key names its sources."
+    },
+    "linear_a/data/signs_to_gorila_index.json": {
+      "kind": "derived",
+      "generator": "hand-maintained",
+      "inputs": [
+        "linear_a/data/gorila_sign_index_rows.json"
+      ],
+      "note": "The script that first built this file is not in this repository, so the file is hand-maintained here. Built 2026-04-05; the file's own source key names its input."
+    },
+    "linear_a/data/sources/intermediate/canonical_id_map.json": {
+      "kind": "derived",
+      "generator": "hand-maintained",
+      "inputs": [
+        "an earlier merge of lineara.xyz, SigLA and the old corpus (1,880 records)"
+      ],
+      "note": "The script that first built this file is not in this repository, so the file is hand-maintained here. An intermediate table of an earlier merge, kept for reference."
+    },
+    "linear_a/data/sources/intermediate/cross_reference_report.json": {
+      "kind": "derived",
+      "generator": "hand-maintained",
+      "inputs": [
+        "an earlier merge of lineara.xyz, SigLA and the old corpus (1,880 records)"
+      ],
+      "note": "The script that first built this file is not in this repository, so the file is hand-maintained here. An intermediate table of an earlier merge, kept for reference."
+    },
+    "linear_a/data/sources/intermediate/physical_objects.json": {
+      "kind": "derived",
+      "generator": "hand-maintained",
+      "inputs": [
+        "an earlier merge of lineara.xyz, SigLA and the old corpus (1,880 records)"
+      ],
+      "note": "The script that first built this file is not in this repository, so the file is hand-maintained here. An intermediate table of an earlier merge, kept for reference."
+    },
+    "linear_a/data/sources/intermediate/sign_attestation_index.json": {
+      "kind": "derived",
+      "generator": "hand-maintained",
+      "inputs": [
+        "an earlier merge of lineara.xyz, SigLA and the old corpus (1,880 records)"
+      ],
+      "note": "The script that first built this file is not in this repository, so the file is hand-maintained here. An intermediate table of an earlier merge, kept for reference."
+    },
+    "linear_a/data/sources/intermediate/sign_reconciliation.json": {
+      "kind": "derived",
+      "generator": "hand-maintained",
+      "inputs": [
+        "an earlier merge of lineara.xyz, SigLA and the old corpus (1,880 records)"
+      ],
+      "note": "The script that first built this file is not in this repository, so the file is hand-maintained here. An intermediate table of an earlier merge, kept for reference."
+    },
+    "linear_a/data/sources/intermediate/sites/arkhanes.json": {
+      "kind": "derived",
+      "generator": "hand-maintained",
+      "inputs": [
+        "an earlier merge of lineara.xyz, SigLA and the old corpus (1,880 records)"
+      ],
+      "note": "The script that first built this file is not in this repository, so the file is hand-maintained here. An intermediate table of an earlier merge, kept for reference."
+    },
+    "linear_a/data/sources/intermediate/sites/gournia.json": {
+      "kind": "derived",
+      "generator": "hand-maintained",
+      "inputs": [
+        "an earlier merge of lineara.xyz, SigLA and the old corpus (1,880 records)"
+      ],
+      "note": "The script that first built this file is not in this repository, so the file is hand-maintained here. An intermediate table of an earlier merge, kept for reference."
+    },
+    "linear_a/data/sources/intermediate/sites/haghia_triada.json": {
+      "kind": "derived",
+      "generator": "hand-maintained",
+      "inputs": [
+        "an earlier merge of lineara.xyz, SigLA and the old corpus (1,880 records)"
+      ],
+      "note": "The script that first built this file is not in this repository, so the file is hand-maintained here. An intermediate table of an earlier merge, kept for reference."
+    },
+    "linear_a/data/sources/intermediate/sites/haghios_stephanos.json": {
+      "kind": "derived",
+      "generator": "hand-maintained",
+      "inputs": [
+        "an earlier merge of lineara.xyz, SigLA and the old corpus (1,880 records)"
+      ],
+      "note": "The script that first built this file is not in this repository, so the file is hand-maintained here. An intermediate table of an earlier merge, kept for reference."
+    },
+    "linear_a/data/sources/intermediate/sites/kea.json": {
+      "kind": "derived",
+      "generator": "hand-maintained",
+      "inputs": [
+        "an earlier merge of lineara.xyz, SigLA and the old corpus (1,880 records)"
+      ],
+      "note": "The script that first built this file is not in this repository, so the file is hand-maintained here. An intermediate table of an earlier merge, kept for reference."
+    },
+    "linear_a/data/sources/intermediate/sites/khania.json": {
+      "kind": "derived",
+      "generator": "hand-maintained",
+      "inputs": [
+        "an earlier merge of lineara.xyz, SigLA and the old corpus (1,880 records)"
+      ],
+      "note": "The script that first built this file is not in this repository, so the file is hand-maintained here. An intermediate table of an earlier merge, kept for reference."
+    },
+    "linear_a/data/sources/intermediate/sites/knossos.json": {
+      "kind": "derived",
+      "generator": "hand-maintained",
+      "inputs": [
+        "an earlier merge of lineara.xyz, SigLA and the old corpus (1,880 records)"
+      ],
+      "note": "The script that first built this file is not in this repository, so the file is hand-maintained here. An intermediate table of an earlier merge, kept for reference."
+    },
+    "linear_a/data/sources/intermediate/sites/kythera.json": {
+      "kind": "derived",
+      "generator": "hand-maintained",
+      "inputs": [
+        "an earlier merge of lineara.xyz, SigLA and the old corpus (1,880 records)"
+      ],
+      "note": "The script that first built this file is not in this repository, so the file is hand-maintained here. An intermediate table of an earlier merge, kept for reference."
+    },
+    "linear_a/data/sources/intermediate/sites/mallia.json": {
+      "kind": "derived",
+      "generator": "hand-maintained",
+      "inputs": [
+        "an earlier merge of lineara.xyz, SigLA and the old corpus (1,880 records)"
+      ],
+      "note": "The script that first built this file is not in this repository, so the file is hand-maintained here. An intermediate table of an earlier merge, kept for reference."
+    },
+    "linear_a/data/sources/intermediate/sites/melos.json": {
+      "kind": "derived",
+      "generator": "hand-maintained",
+      "inputs": [
+        "an earlier merge of lineara.xyz, SigLA and the old corpus (1,880 records)"
+      ],
+      "note": "The script that first built this file is not in this repository, so the file is hand-maintained here. An intermediate table of an earlier merge, kept for reference."
+    },
+    "linear_a/data/sources/intermediate/sites/mycenae.json": {
+      "kind": "derived",
+      "generator": "hand-maintained",
+      "inputs": [
+        "an earlier merge of lineara.xyz, SigLA and the old corpus (1,880 records)"
+      ],
+      "note": "The script that first built this file is not in this repository, so the file is hand-maintained here. An intermediate table of an earlier merge, kept for reference."
+    },
+    "linear_a/data/sources/intermediate/sites/papoura.json": {
+      "kind": "derived",
+      "generator": "hand-maintained",
+      "inputs": [
+        "an earlier merge of lineara.xyz, SigLA and the old corpus (1,880 records)"
+      ],
+      "note": "The script that first built this file is not in this repository, so the file is hand-maintained here. An intermediate table of an earlier merge, kept for reference."
+    },
+    "linear_a/data/sources/intermediate/sites/phaistos.json": {
+      "kind": "derived",
+      "generator": "hand-maintained",
+      "inputs": [
+        "an earlier merge of lineara.xyz, SigLA and the old corpus (1,880 records)"
+      ],
+      "note": "The script that first built this file is not in this repository, so the file is hand-maintained here. An intermediate table of an earlier merge, kept for reference."
+    },
+    "linear_a/data/sources/intermediate/sites/psykhro.json": {
+      "kind": "derived",
+      "generator": "hand-maintained",
+      "inputs": [
+        "an earlier merge of lineara.xyz, SigLA and the old corpus (1,880 records)"
+      ],
+      "note": "The script that first built this file is not in this repository, so the file is hand-maintained here. An intermediate table of an earlier merge, kept for reference."
+    },
+    "linear_a/data/sources/intermediate/sites/pyrgos.json": {
+      "kind": "derived",
+      "generator": "hand-maintained",
+      "inputs": [
+        "an earlier merge of lineara.xyz, SigLA and the old corpus (1,880 records)"
+      ],
+      "note": "The script that first built this file is not in this repository, so the file is hand-maintained here. An intermediate table of an earlier merge, kept for reference."
+    },
+    "linear_a/data/sources/intermediate/sites/syme.json": {
+      "kind": "derived",
+      "generator": "hand-maintained",
+      "inputs": [
+        "an earlier merge of lineara.xyz, SigLA and the old corpus (1,880 records)"
+      ],
+      "note": "The script that first built this file is not in this repository, so the file is hand-maintained here. An intermediate table of an earlier merge, kept for reference."
+    },
+    "linear_a/data/sources/intermediate/sites/tylissos.json": {
+      "kind": "derived",
+      "generator": "hand-maintained",
+      "inputs": [
+        "an earlier merge of lineara.xyz, SigLA and the old corpus (1,880 records)"
+      ],
+      "note": "The script that first built this file is not in this repository, so the file is hand-maintained here. An intermediate table of an earlier merge, kept for reference."
+    },
+    "linear_a/data/sources/intermediate/sites/zakros.json": {
+      "kind": "derived",
+      "generator": "hand-maintained",
+      "inputs": [
+        "an earlier merge of lineara.xyz, SigLA and the old corpus (1,880 records)"
+      ],
+      "note": "The script that first built this file is not in this repository, so the file is hand-maintained here. An intermediate table of an earlier merge, kept for reference."
+    },
+    "linear_a/data/sources/intermediate/unified_corpus_index.json": {
+      "kind": "derived",
+      "generator": "hand-maintained",
+      "inputs": [
+        "an earlier merge of lineara.xyz, SigLA and the old corpus (1,880 records)"
+      ],
+      "note": "The script that first built this file is not in this repository, so the file is hand-maintained here. An intermediate table of an earlier merge, kept for reference."
+    },
+    "linear_a/data/sources/intermediate/unified_corpus_v2.json": {
+      "kind": "derived",
+      "generator": "hand-maintained",
+      "inputs": [
+        "an earlier merge of lineara.xyz, SigLA and the old corpus (1,880 records)"
+      ],
+      "note": "The script that first built this file is not in this repository, so the file is hand-maintained here. An intermediate table of an earlier merge, kept for reference."
+    },
+    "linear_a/data/sources/intermediate/word_attestation_index.json": {
+      "kind": "derived",
+      "generator": "hand-maintained",
+      "inputs": [
+        "an earlier merge of lineara.xyz, SigLA and the old corpus (1,880 records)"
+      ],
+      "note": "The script that first built this file is not in this repository, so the file is hand-maintained here. An intermediate table of an earlier merge, kept for reference."
+    },
+    "linear_a/data/sources/lineara/README.md": {
+      "kind": "documentation"
+    },
+    "linear_a/data/sources/sigla/LICENSE": {
+      "kind": "documentation"
+    },
+    "linear_a/data/sources/sigla/PROVENANCE.md": {
+      "kind": "documentation"
+    },
+    "linear_a/data/sources/sigla/corpus_structured.json": {
+      "kind": "derived",
+      "generator": {
+        "script": "linear_a/import_sigla.py",
+        "command": "python3 linear_a/import_sigla.py"
+      },
+      "inputs": [
+        "a local HTML mirror of the SigLA document pages, imported/lineara-website/site/document/ (not in this repository; the mirror is no longer on disk)"
+      ],
+      "post_passes": [
+        {
+          "script": "(no script) pseudo-word post-pass",
+          "command": "the rule in verification/pseudo-word-fix-2026-09-18.md",
+          "record": "verification/pseudo-word-fix-2026-09-18.md"
+        },
+        {
+          "script": "linear_a/apply_word_pages_2026-09-18.py",
+          "command": "python3 linear_a/apply_word_pages_2026-09-18.py /path/to/linear-a-private/references/inbox/sigla-word-pages-2026-09-18/pages",
+          "record": "verification/layer-check-2026-09-18.md"
+        },
+        {
+          "script": "linear_a/apply_word_pages_rest_2026-09-18.py",
+          "command": "python3 linear_a/apply_word_pages_rest_2026-09-18.py /path/to/linear-a-private/references/inbox/sigla-word-pages-2026-09-18/pages",
+          "record": "verification/layer-check-2026-09-18.md"
+        },
+        {
+          "script": "linear_a/apply_sign_subscripts_2026-09-18.py",
+          "command": "python3 linear_a/apply_sign_subscripts_2026-09-18.py /path/to/linear-a-private/references/inbox/sigla-refresh-2026-08-13/raw-document-pages-2026-08-14.tar.gz",
+          "record": "verification/layer-check-2026-09-18.md"
+        }
+      ],
+      "note": "The importer is in this repository, but its input is not, so a full re-run is not possible here."
+    },
+    "linear_a/data/sources/sigla/filemaker_export/LICENSE": {
+      "kind": "documentation"
+    },
+    "linear_a/data/sources/sigla/filemaker_export/fm_decode.csv": {
+      "kind": "export",
+      "generator": "hand-maintained",
+      "inputs": [
+        "Linear A Database.fmp12 (not in this repository)"
+      ],
+      "note": "FileMaker CSV export, carriage-return line ends, one row per image reference. PROVENANCE.md in the sigla folder says the CSV files were flattened from corpus_structured.json; fm_doc.csv holds 773 rows against 772 documents in corpus_structured.json and matches the 773 records of the XML export doc, so that statement is not confirmed. Not reproducible from this repository."
+    },
+    "linear_a/data/sources/sigla/filemaker_export/fm_doc.csv": {
+      "kind": "export",
+      "generator": "hand-maintained",
+      "inputs": [
+        "Linear A Database.fmp12 (not in this repository)"
+      ],
+      "note": "FileMaker CSV export, carriage-return line ends, 773 rows. PROVENANCE.md in the sigla folder says the CSV files were flattened from corpus_structured.json; fm_doc.csv holds 773 rows against 772 documents in corpus_structured.json and matches the 773 records of the XML export doc, so that statement is not confirmed. Not reproducible from this repository."
+    },
+    "linear_a/data/sources/sigla/filemaker_export/fm_ingest.py": {
+      "kind": "code"
+    },
+    "linear_a/data/sources/sigla/filemaker_export/fm_role_count.csv": {
+      "kind": "export",
+      "generator": "hand-maintained",
+      "inputs": [
+        "Linear A Database.fmp12 (not in this repository)"
+      ],
+      "note": "FileMaker CSV export, carriage-return line ends, 731 documents by 62 roles. PROVENANCE.md in the sigla folder says the CSV files were flattened from corpus_structured.json; fm_doc.csv holds 773 rows against 772 documents in corpus_structured.json and matches the 773 records of the XML export doc, so that statement is not confirmed. Not reproducible from this repository."
+    },
+    "linear_a/data/sources/sigla/filemaker_export/fm_role_count.md": {
+      "kind": "derived",
+      "generator": "hand-maintained",
+      "inputs": [
+        "linear_a/data/sources/sigla/filemaker_export/fm_role_count.csv"
+      ],
+      "note": "The script that first built this file is not in this repository, so the file is hand-maintained here. A Markdown view of the CSV."
+    },
+    "linear_a/data/sources/sigla/filemaker_export/fm_summary.csv": {
+      "kind": "export",
+      "generator": "hand-maintained",
+      "inputs": [
+        "Linear A Database.fmp12 (not in this repository)"
+      ],
+      "note": "FileMaker CSV export, carriage-return line ends, site totals. PROVENANCE.md in the sigla folder says the CSV files were flattened from corpus_structured.json; fm_doc.csv holds 773 rows against 772 documents in corpus_structured.json and matches the 773 records of the XML export doc, so that statement is not confirmed. Not reproducible from this repository."
+    },
+    "linear_a/data/sources/sigla/filemaker_export/fm_summary.md": {
+      "kind": "derived",
+      "generator": "hand-maintained",
+      "inputs": [
+        "linear_a/data/sources/sigla/filemaker_export/fm_summary.csv"
+      ],
+      "note": "The script that first built this file is not in this repository, so the file is hand-maintained here. A Markdown view of the CSV."
+    },
+    "linear_a/data/summary": {
+      "kind": "export",
+      "generator": "hand-maintained",
+      "inputs": [
+        "Linear A Database.fmp12 (not in this repository)"
+      ],
+      "note": "FileMaker Pro 22.0.5 XML export (FMPXMLRESULT) of the project's FileMaker file Linear A Database.fmp12, which holds the SigLA documents. 19 records. Not reproducible from this repository."
+    },
+    "linear_a/data/word_dedup_audit.json": {
+      "kind": "derived",
+      "generator": "hand-maintained",
+      "inputs": [
+        "linear_a/data/corpus.json, words field; the file does not record its date"
+      ],
+      "note": "The script that first built this file is not in this repository, so the file is hand-maintained here. It was built before the word-layer fixes of 2026-09-18."
+    }
+  }
+}

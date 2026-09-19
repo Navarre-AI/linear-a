@@ -1,0 +1,166 @@
+{
+  "site": "Phaistos",
+  "documents": 63,
+  "total_signs": 252,
+  "total_words": 101,
+  "unique_words": 76,
+  "types": {
+    "tablet": 42,
+    "roundel": 14,
+    "sealing": 5,
+    "label": 1,
+    "nodule": 1
+  },
+  "periods": {
+    "unknown": 43,
+    "MM II": 19,
+    "MM III": 1
+  },
+  "top_words": [
+    [
+      "A355-e-A354",
+      2
+    ],
+    [
+      "*180-A339-*100",
+      2
+    ],
+    [
+      "A328",
+      2
+    ],
+    [
+      "A356",
+      2
+    ],
+    [
+      "te-*79",
+      2
+    ],
+    [
+      "ja-A304",
+      2
+    ],
+    [
+      "a-mi",
+      2
+    ],
+    [
+      "ma-te-re",
+      2
+    ],
+    [
+      "A357",
+      2
+    ],
+    [
+      "A359",
+      2
+    ],
+    [
+      "A360",
+      2
+    ],
+    [
+      "wi-ja",
+      2
+    ],
+    [
+      "pi-o",
+      2
+    ],
+    [
+      "na",
+      2
+    ],
+    [
+      "ro-e",
+      2
+    ],
+    [
+      "A314",
+      2
+    ],
+    [
+      "a",
+      2
+    ],
+    [
+      "pa-ra",
+      2
+    ],
+    [
+      "a-ri",
+      2
+    ],
+    [
+      "A317-qe-A353",
+      2
+    ]
+  ],
+  "document_ids": [
+    "PH 10",
+    "PH 12a",
+    "PH 12b",
+    "PH 12c",
+    "PH 13a",
+    "PH 13b",
+    "PH 13c",
+    "PH 14a",
+    "PH 14b",
+    "PH 15a",
+    "PH 15b",
+    "PH 16a",
+    "PH 16b",
+    "PH 17a",
+    "PH 17b",
+    "PH 18a",
+    "PH 18b",
+    "PH 19",
+    "PH 1a",
+    "PH 1b",
+    "PH 2",
+    "PH 22a",
+    "PH 22b",
+    "PH 24",
+    "PH 25",
+    "PH 26",
+    "PH 27",
+    "PH 28a",
+    "PH 28b",
+    "PH 29a",
+    "PH 29b",
+    "PH 30",
+    "PH 31a",
+    "PH 31b",
+    "PH 3a",
+    "PH 3b",
+    "PH 6",
+    "PH 7a",
+    "PH 7b",
+    "PH 8a",
+    "PH 8b",
+    "PH 9a",
+    "PH 9b",
+    "PH Wa 32",
+    "PH Wb 33a",
+    "PH Wb 33b",
+    "PH Wb 34",
+    "PH Wb 35",
+    "PH Wb 36",
+    "PH Wc 37a",
+    "PH Wc 37b",
+    "PH Wc 38",
+    "PH Wc 39a",
+    "PH Wc 39b",
+    "PH Wc 40a",
+    "PH Wc 40b",
+    "PH Wc 41",
+    "PH Wc 42",
+    "PH Wc 43",
+    "PH Wc 44",
+    "PH Wc 45",
+    "PH Wc 46",
+    "PH Wc <47>"
+  ]
+}

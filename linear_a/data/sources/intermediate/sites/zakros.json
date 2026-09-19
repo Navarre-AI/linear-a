@@ -1,0 +1,143 @@
+{
+  "site": "Zakros",
+  "documents": 44,
+  "total_signs": 453,
+  "total_words": 172,
+  "unique_words": 147,
+  "types": {
+    "tablet": 43,
+    "roundel": 1
+  },
+  "periods": {
+    "LM IB": 42,
+    "unknown": 2
+  },
+  "top_words": [
+    [
+      "du-re-za-se",
+      3
+    ],
+    [
+      "i-nu-ma-re",
+      3
+    ],
+    [
+      "i-da",
+      3
+    ],
+    [
+      "da-i-pi-ta",
+      2
+    ],
+    [
+      "ku-pa",
+      2
+    ],
+    [
+      "su-pa",
+      2
+    ],
+    [
+      "qi-*118",
+      2
+    ],
+    [
+      "qe-si-*79-e",
+      2
+    ],
+    [
+      "ka-di",
+      2
+    ],
+    [
+      "si",
+      2
+    ],
+    [
+      "ra-te",
+      2
+    ],
+    [
+      "ki-re-za",
+      2
+    ],
+    [
+      "me",
+      2
+    ],
+    [
+      "ma",
+      2
+    ],
+    [
+      "te",
+      2
+    ],
+    [
+      "ra",
+      2
+    ],
+    [
+      "ta",
+      2
+    ],
+    [
+      "du",
+      2
+    ],
+    [
+      "ja",
+      2
+    ],
+    [
+      "si-pi-ki",
+      2
+    ]
+  ],
+  "document_ids": [
+    "ZA 10a",
+    "ZA 10b",
+    "ZA 11a",
+    "ZA 11b",
+    "ZA 12a",
+    "ZA 12b",
+    "ZA 13",
+    "ZA 14",
+    "ZA 15a",
+    "ZA 15b",
+    "ZA 16",
+    "ZA 18a",
+    "ZA 18b",
+    "ZA 19",
+    "ZA 1a",
+    "ZA 1b",
+    "ZA 20",
+    "ZA 21a",
+    "ZA 21b",
+    "ZA 22",
+    "ZA 23",
+    "ZA 24a",
+    "ZA 24b",
+    "ZA 25",
+    "ZA 26a",
+    "ZA 26b",
+    "ZA 27",
+    "ZA 28",
+    "ZA 29",
+    "ZA 30",
+    "ZA 31",
+    "ZA 32",
+    "ZA 33",
+    "ZA 4a",
+    "ZA 4b",
+    "ZA 5a",
+    "ZA 5b",
+    "ZA 6a",
+    "ZA 6b",
+    "ZA 7a",
+    "ZA 7b",
+    "ZA 8",
+    "ZA 9",
+    "ZA Wc 2"
+  ]
+}
