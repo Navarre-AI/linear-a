@@ -13,7 +13,8 @@ Unicode name and the signs.json entry must agree. Aegean numbers, the word
 separator, line breaks, spaces and other punctuation are dropped, because the
 word layer never carries them. U+1076B to U+1076F are damage placeholders.
 
-Word layer. Each word is split on "-" (and "+" for a ligature). A token is a
+Word layer. A leading "]" or trailing "[" (a lacuna at the word's edge) is
+dropped first. Each word is split on "-" (and "+" for a ligature). A token is a
 syllable value (looked up in signs.json `phonetic`), a sign number (*301,
 A301, AB120/GRA), "[?]" or "[unclassified]" (a sign SigLA does not identify),
 or a value with a trailing "?" (a sign SigLA marks unsure).
@@ -196,6 +197,12 @@ def local_map(rec: dict) -> dict:
 def word_seq(signs: Signs, words: list[str], local: dict) -> list[dict]:
     out = []
     for wi, w in enumerate(words):
+        # "]" before a word and "[" after it mark a lacuna at that edge
+        # (lineara.xyz raw-layer words, 2026-10-15). They are not signs.
+        if w.startswith("]"):
+            w = w[1:]
+        if w.endswith("[") and not w.endswith("[?]"):
+            w = w[:-1]
         for part in w.split("-"):
             pieces = part.split("+")
             for p in pieces:

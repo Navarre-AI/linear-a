@@ -34,7 +34,8 @@
     "is_ethnographic": false,
     "gorila_ref": "4, p. 2",
     "museum_inventory": "HM 2478",
-    "gorila_dating": "MM III"
+    "gorila_dating": "MM III",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "AP Za 2": {
     "id": "AP Za 2",
@@ -49,18 +50,20 @@
     "period": "",
     "unicode_text": "𐝫𐘅𐘤𐄁𐘚𐘢𐘅𐙁𐝫𐄁𐝫𐘚𐙂𐘰𐘅𐘹𐘅𐘃𐝫\n𐝫𐘢𐘻𐘅𐘃𐄁𐘚𐘅𐘱𐘙𐘳𐝫𐄁𐝫𐘌𐄁",
     "words": [
-      "na-si",
-      "i-pi-na-ma",
-      "i-ku-pa3-na-tu-na-te",
-      "pi-mi-na-te",
-      "i-na-ja-re-ta"
+      "]na-si",
+      "i-pi-na-ma[",
+      "]i-ku-pa3-na-tu-na-te[",
+      "]pi-mi-na-te",
+      "i-na-ja-re-ta[",
+      "]qa"
     ],
     "word_source": "lineara",
     "linguistic_value": "high",
     "is_ethnographic": false,
     "gorila_ref": "4, p. 4",
     "museum_inventory": "HM 2479 [+] 2480",
-    "gorila_dating": "MM III"
+    "gorila_dating": "MM III",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "AP Za <3>": {
     "id": "AP Za <3>",
@@ -112,7 +115,8 @@
     "is_ethnographic": false,
     "gorila_ref": "4, p. 142",
     "museum_inventory": "Boston M. 58.1009",
-    "gorila_scribe": "1 AR Zf"
+    "gorila_scribe": "1 AR Zf",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "AR Zf 2": {
     "id": "AR Zf 2",
@@ -128,14 +132,15 @@
     "scribe": "AR Scribe 2",
     "unicode_text": "𐘚𐘀𐙁𐘃𐝫",
     "words": [
-      "i-da-ma-te"
+      "i-da-ma-te["
     ],
     "word_source": "lineara",
     "linguistic_value": "medium",
     "is_ethnographic": false,
     "gorila_ref": "4, p. 143",
     "museum_inventory": "HM 626",
-    "gorila_scribe": "2 AR Zf"
+    "gorila_scribe": "2 AR Zf",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "ARG Zg 1": {
     "id": "ARG Zg 1",
@@ -152,7 +157,8 @@
     ],
     "word_source": "lineara",
     "linguistic_value": "low",
-    "is_ethnographic": true
+    "is_ethnographic": true,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "ARKH 1a": {
     "id": "ARKH 1a",
@@ -1311,7 +1317,8 @@
         "their_source": "RILA-S1 introduction, period paragraph; research/rila-s1-english-digest-2026-08-13.md",
         "note": "MM IA is Prepalatial, so the two statements cannot both be right. No reading of the object is in question."
       }
-    ]
+    ],
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "ARKH Zf 9": {
     "id": "ARKH Zf 9",
@@ -1329,7 +1336,8 @@
     ],
     "word_source": "lineara",
     "linguistic_value": "medium",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "ARM Zg 1": {
     "id": "ARM Zg 1",
@@ -1371,7 +1379,8 @@
       "CR (?) Zf 1"
     ],
     "siglum_status": "aliased",
-    "siglum_note": "GORILA vol. 5, concordance generale (linear_a/data/gorila_concordances_full.json) prints CR (?) Zf 1, at 4, p. 146, the same volume and page as this record's gorila_ref."
+    "siglum_note": "GORILA vol. 5, concordance generale (linear_a/data/gorila_concordances_full.json) prints CR (?) Zf 1, at 4, p. 146, the same volume and page as this record's gorila_ref.",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "CR Zf 5": {
     "id": "CR Zf 5",
@@ -1415,7 +1424,8 @@
     ],
     "word_source": "lineara",
     "linguistic_value": "low",
-    "is_ethnographic": true
+    "is_ethnographic": true,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "DRA Zg 1": {
     "id": "DRA Zg 1",
@@ -1428,11 +1438,12 @@
     "period": "",
     "unicode_text": "𐘀𐘬𐙕𐝫",
     "words": [
-      "da-du-*301"
+      "da-du-*301["
     ],
     "word_source": "lineara",
     "linguistic_value": "low",
-    "is_ethnographic": true
+    "is_ethnographic": true,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "FOZ c1": {
     "id": "FOZ c1",
@@ -1451,7 +1462,8 @@
     "linguistic_value": "medium",
     "is_ethnographic": false,
     "siglum_status": "nonstandard, unresolved",
-    "siglum_note": "No held source (GORILA concordance, RILA-S1 notes, SigLA id) establishes a standard siglum."
+    "siglum_note": "No held source (GORILA concordance, RILA-S1 notes, SigLA id) establishes a standard siglum.",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "GO 2r": {
     "id": "GO 2r",
@@ -1464,11 +1476,16 @@
     "period": "",
     "unicode_text": "𐝫\n𐘤𐝫\n𐘾𐝄\n𐘤𐄈\n𐘀𐝫\n𐘤𐘀𐘁𐝃𐝫\n𐝫𐘈𐝫\n𐝫",
     "words": [
-      "si-da-ro"
+      "]si[",
+      "]ka",
+      "da[",
+      "]si-da-ro",
+      "]se["
     ],
     "word_source": "lineara",
     "linguistic_value": "high",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "GO 2v": {
     "id": "GO 2v",
@@ -1481,11 +1498,14 @@
     "period": "",
     "unicode_text": "𐝫\n𐝫𐄇𐝄\n𐘀𐝫\n𐘙𐄇𐝫\n𐘈𐘤𐝫\n𐝫\n𐝫",
     "words": [
-      "se-si"
+      "da[",
+      "]re",
+      "]se-si["
     ],
     "word_source": "lineara",
     "linguistic_value": "high",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "GO Wc 1a": {
     "id": "GO Wc 1a",
@@ -2729,13 +2749,16 @@
     "findspot": "Casa Room 7",
     "unicode_text": "𐘾𐘂𐝫\n𐝫\n𐝫𐙇𐄚𐄒𐄊\n𐘞𐘽𐄁𐙇𐄚𐄒𐄋",
     "words": [
-      "ka-pa"
+      "ka-pa[",
+      "]vir+[?]",
+      "sa-ra2"
     ],
     "word_source": "lineara",
     "linguistic_value": "high",
     "is_ethnographic": false,
     "gorila_ref": "1, p. 180",
-    "museum_inventory": "HM 1336"
+    "museum_inventory": "HM 1336",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "HT 106": {
     "id": "HT 106",
@@ -2750,13 +2773,17 @@
     "findspot": "Casa Room 7",
     "unicode_text": "𐘻𐘯𐘃𐙗𐄌𐝫\n𐘤𐄋𐝆\n𐘤𐄇\n—\n𐘀𐝫𐄁𐝫𐄎𐝫\n𐝫𐘤𐄉𐝫\n𐝫",
     "words": [
-      "mi-nu-te"
+      "mi-nu-te",
+      "]si",
+      "da[",
+      "]si"
     ],
     "word_source": "lineara",
     "linguistic_value": "high",
     "is_ethnographic": false,
     "gorila_ref": "1, p. 180",
-    "museum_inventory": "HM 1337"
+    "museum_inventory": "HM 1337",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "HT 107": {
     "id": "HT 107",
@@ -3709,15 +3736,17 @@
     "findspot": "Casa Room 7",
     "unicode_text": "𐝫\n𐝫\n𐝫𐘿𐘾𐄎\n𐘌𐘞𐝫\n𐝫𐘌𐘘𐄎\n𐘆𐄐𐄊𐝫\n𐝫𐘝𐝫\n𐝫",
     "words": [
-      "qe-ka",
-      "qa-sa",
-      "qa-ru"
+      "]qe-ka",
+      "qa-sa[",
+      "]qa-ru",
+      "]ni["
     ],
     "word_source": "lineara",
     "linguistic_value": "high",
     "is_ethnographic": false,
     "gorila_ref": "1, p. 182",
-    "museum_inventory": "HM 1342"
+    "museum_inventory": "HM 1342",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "HT 111b": {
     "id": "HT 111b",
@@ -3733,13 +3762,17 @@
     "findspot": "Casa Room 7",
     "unicode_text": "𐝫\n𐝫𐄐𐄎\n𐘞𐘆𐄊𐝫\n𐝫𐄉\n𐘿𐝫\n𐘅𐝫𐝫𐘝𐄇𐝫\n𐝫",
     "words": [
-      "sa-di"
+      "sa-di",
+      "qe[",
+      "]ni",
+      "]na["
     ],
     "word_source": "lineara",
     "linguistic_value": "high",
     "is_ethnographic": false,
     "gorila_ref": "1, p. 182",
-    "museum_inventory": "HM 1342"
+    "museum_inventory": "HM 1342",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "HT 112a": {
     "id": "HT 112a",
@@ -4156,7 +4189,8 @@
     "gorila_ref": "1, p. 186",
     "museum_inventory": "PIG 83735",
     "gorila_dating": "MR I B",
-    "gorila_scribe": "4 HT"
+    "gorila_scribe": "4 HT",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "HT 115": {
     "id": "HT 115",
@@ -7472,18 +7506,19 @@
       "pu-vin",
       "ki-ro",
       "sa-ru",
-      "ki-ro",
+      "]ki-ro",
       "da-tu",
       "ki-ro",
       "ku-ro",
-      "ku-ro",
+      "ku-ro[",
       "ki-ro"
     ],
     "word_source": "lineara",
     "linguistic_value": "high",
     "is_ethnographic": false,
     "siglum_status": "nonstandard, unresolved",
-    "siglum_note": "No held source (GORILA concordance, RILA-S1 notes, SigLA id) establishes a standard siglum."
+    "siglum_note": "No held source (GORILA concordance, RILA-S1 notes, SigLA id) establishes a standard siglum.",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "HT 123+124b": {
     "id": "HT 123+124b",
@@ -7505,8 +7540,8 @@
       "pi-sa",
       "*188-du",
       "tu-pa-di-da",
-      "ka-na",
-      "si-du",
+      "ka-na[",
+      "]si-du",
       "du-ma-i-na",
       "ku-ro",
       "ki-ro"
@@ -7515,7 +7550,8 @@
     "linguistic_value": "high",
     "is_ethnographic": false,
     "siglum_status": "nonstandard, unresolved",
-    "siglum_note": "No held source (GORILA concordance, RILA-S1 notes, SigLA id) establishes a standard siglum."
+    "siglum_note": "No held source (GORILA concordance, RILA-S1 notes, SigLA id) establishes a standard siglum.",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "HT 123a": {
     "id": "HT 123a",
@@ -8203,14 +8239,20 @@
     "findspot": "Casa del Lebete",
     "unicode_text": "𐝫\n𐝫𐘽𐝫\n𐝫𐜓𐄇𐝂\n𐜋𐝫\n𐝫𐜗𐄇𐝆𐝫\n𐝫𐘞𐘽𐙉𐄈\n𐙖𐝫𐄇",
     "words": [
-      "sa-ra2"
+      "]ra2[",
+      "]ole+ki",
+      "ole+u[",
+      "]ole+mi",
+      "]sa-ra2",
+      "ole["
     ],
     "word_source": "lineara",
     "linguistic_value": "high",
     "is_ethnographic": false,
     "gorila_ref": "1, p. 214",
     "museum_inventory": "HM —",
-    "gorila_dating": "MR I B"
+    "gorila_dating": "MR I B",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "HT 125b": {
     "id": "HT 125b",
@@ -8226,14 +8268,15 @@
     "findspot": "Casa del Lebete",
     "unicode_text": "𐝫\n𐝫\n𐝫𐄑\n𐝫𐘙𐘷𐛭𐄑\n𐛵𐄍𐝆\n𐙘𐄐\n𐘝𐄑𐄉",
     "words": [
-      "re-ta2"
+      "]re-ta2"
     ],
     "word_source": "lineara",
     "linguistic_value": "high",
     "is_ethnographic": false,
     "gorila_ref": "1, p. 214",
     "museum_inventory": "HM —",
-    "gorila_dating": "MR I B"
+    "gorila_dating": "MR I B",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "HT 126a": {
     "id": "HT 126a",
@@ -11477,14 +11520,19 @@
     "findspot": "Casa del Lebete",
     "unicode_text": "𐝫𐘹𐘋𐘂𐘱𐝫\n𐝫𐙋𐝫\n𐝫𐙉𐝫\n𐝫\n𐝫𐙂𐄌𐝫\n𐝫𐘳𐄌",
     "words": [
-      "tu-me-pa-ja"
+      "]tu-me-pa-ja[",
+      "]oliv[",
+      "]gra[",
+      "]ku",
+      "]ta"
     ],
     "word_source": "lineara",
     "linguistic_value": "high",
     "is_ethnographic": false,
     "gorila_ref": "1, p. 242",
     "museum_inventory": "HM 1322",
-    "gorila_dating": "MR I B"
+    "gorila_dating": "MR I B",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "HT 154b": {
     "id": "HT 154b",
@@ -11568,11 +11616,12 @@
     "findspot": "Casa del Lebete",
     "unicode_text": "𐝫\n𐝫\n𐝫𐘯𐘃𐝫\n𐝫",
     "words": [
-      "nu-te"
+      "]nu-te["
     ],
     "word_source": "lineara",
     "linguistic_value": "high",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "HT 154jb": {
     "id": "HT 154jb",
@@ -13222,6 +13271,7 @@
       }
     ],
     "words": [
+      "]*118",
       "si+me-ki-*118",
       "*539-*118"
     ],
@@ -13230,7 +13280,8 @@
     "is_ethnographic": false,
     "gorila_ref": "1, p. 50",
     "museum_inventory": "HM 27",
-    "gorila_dating": "MR I B"
+    "gorila_dating": "MR I B",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "HT 25": {
     "id": "HT 25",
@@ -20696,14 +20747,16 @@
     "findspot": "Villa Magazine",
     "unicode_text": "𐝫\n𐝫\n𐝫𐙂𐘁𐄜𐄑𐝫\n𐝫𐘝𐄁𐘃𐄜𐝫",
     "words": [
-      "ku-ro"
+      "]ku-ro",
+      "]ni"
     ],
     "word_source": "lineara",
     "linguistic_value": "high",
     "is_ethnographic": false,
     "gorila_ref": "1, p. 130",
     "museum_inventory": "HM 68",
-    "gorila_dating": "MR I B"
+    "gorila_dating": "MR I B",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "HT 68": {
     "id": "HT 68",
@@ -28346,7 +28399,8 @@
     ],
     "word_source": "lineara",
     "linguistic_value": "low",
-    "is_ethnographic": true
+    "is_ethnographic": true,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "HT Wa 1019α": {
     "id": "HT Wa 1019α",
@@ -28448,7 +28502,8 @@
     ],
     "word_source": "lineara",
     "linguistic_value": "low",
-    "is_ethnographic": true
+    "is_ethnographic": true,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "HT Wa 1020α": {
     "id": "HT Wa 1020α",
@@ -28584,7 +28639,8 @@
     ],
     "word_source": "lineara",
     "linguistic_value": "low",
-    "is_ethnographic": true
+    "is_ethnographic": true,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "HT Wa 1021bis": {
     "id": "HT Wa 1021bis",
@@ -28600,11 +28656,12 @@
     "findspot": "Portico 11 and Room 13",
     "unicode_text": "𐜝𐜙𐄉",
     "words": [
-      "*304+pa-cyp+d"
+      "*304+pa-*807"
     ],
     "word_source": "lineara",
     "linguistic_value": "low",
-    "is_ethnographic": true
+    "is_ethnographic": true,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "HT Wa 1021α": {
     "id": "HT Wa 1021α",
@@ -28795,7 +28852,8 @@
     ],
     "word_source": "lineara",
     "linguistic_value": "low",
-    "is_ethnographic": true
+    "is_ethnographic": true,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "HT Wa 1025α": {
     "id": "HT Wa 1025α",
@@ -28865,7 +28923,8 @@
     ],
     "word_source": "lineara",
     "linguistic_value": "low",
-    "is_ethnographic": true
+    "is_ethnographic": true,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "HT Wa 1027": {
     "id": "HT Wa 1027",
@@ -28883,7 +28942,8 @@
     ],
     "word_source": "lineara",
     "linguistic_value": "low",
-    "is_ethnographic": true
+    "is_ethnographic": true,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "HT Wa 1028": {
     "id": "HT Wa 1028",
@@ -28903,7 +28963,8 @@
     ],
     "word_source": "lineara",
     "linguistic_value": "low",
-    "is_ethnographic": true
+    "is_ethnographic": true,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "HT Wa 1028α": {
     "id": "HT Wa 1028α",
@@ -28983,7 +29044,8 @@
     ],
     "word_source": "lineara",
     "linguistic_value": "low",
-    "is_ethnographic": true
+    "is_ethnographic": true,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "HT Wa 1029α": {
     "id": "HT Wa 1029α",
@@ -29062,7 +29124,8 @@
     ],
     "word_source": "lineara",
     "linguistic_value": "low",
-    "is_ethnographic": true
+    "is_ethnographic": true,
+    "word_layer": "lineara.xyz transliteratedWords (derived; the raw transcription is empty)"
   },
   "HT Wa 1031": {
     "id": "HT Wa 1031",
@@ -42479,7 +42542,8 @@
     "is_ethnographic": false,
     "gorila_ref": "2, p. 88",
     "museum_inventory": "HM 481.4",
-    "gorila_dating": "MR I B"
+    "gorila_dating": "MR I B",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "HT Wc 3004a": {
     "id": "HT Wc 3004a",
@@ -42574,7 +42638,8 @@
     "is_ethnographic": false,
     "gorila_ref": "2, p. 88",
     "museum_inventory": "HM 482.1",
-    "gorila_dating": "MR I B"
+    "gorila_dating": "MR I B",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "HT Wc 3005a": {
     "id": "HT Wc 3005a",
@@ -42669,7 +42734,8 @@
     "is_ethnographic": false,
     "gorila_ref": "2, p. 90",
     "museum_inventory": "HM 482.2",
-    "gorila_dating": "MR I B"
+    "gorila_dating": "MR I B",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "HT Wc 3006a": {
     "id": "HT Wc 3006a",
@@ -42830,7 +42896,8 @@
     "is_ethnographic": false,
     "gorila_ref": "2, p. 90",
     "museum_inventory": "HM 482.4",
-    "gorila_dating": "MR I B"
+    "gorila_dating": "MR I B",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "HT Wc 3008a": {
     "id": "HT Wc 3008a",
@@ -42950,7 +43017,8 @@
     "is_ethnographic": false,
     "gorila_ref": "2, p. 90",
     "museum_inventory": "HM 482.5",
-    "gorila_dating": "MR I B"
+    "gorila_dating": "MR I B",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "HT Wc 3009a": {
     "id": "HT Wc 3009a",
@@ -43161,7 +43229,8 @@
     "is_ethnographic": false,
     "gorila_ref": "2, p. 92",
     "museum_inventory": "HM 484.2",
-    "gorila_dating": "MR I B"
+    "gorila_dating": "MR I B",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "HT Wc 3012a": {
     "id": "HT Wc 3012a",
@@ -43294,7 +43363,8 @@
     "is_ethnographic": false,
     "gorila_ref": "2, p. 92",
     "museum_inventory": "HM 484.4",
-    "gorila_dating": "MR I B"
+    "gorila_dating": "MR I B",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "HT Wc 3014a": {
     "id": "HT Wc 3014a",
@@ -43399,7 +43469,8 @@
     "is_ethnographic": false,
     "gorila_ref": "2, p. 92",
     "museum_inventory": "HM 484.5",
-    "gorila_dating": "MR I B"
+    "gorila_dating": "MR I B",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "HT Wc 3015a": {
     "id": "HT Wc 3015a",
@@ -43495,7 +43566,8 @@
     "is_ethnographic": false,
     "gorila_ref": "2, p. 92",
     "museum_inventory": "HM 484.6",
-    "gorila_dating": "MR I B"
+    "gorila_dating": "MR I B",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "HT Wc 3016a": {
     "id": "HT Wc 3016a",
@@ -43590,15 +43662,16 @@
     "unicode_text": "𐘌𐙂𐘙𐄁𐘆𐙚𐄁𐜙𐜝",
     "words": [
       "qa-ku-re",
-      "di-*306",
-      "cyp+d-*304+pa"
+      "di-cyp",
+      "*304+pa-*304+pa"
     ],
     "word_source": "lineara",
     "linguistic_value": "medium",
     "is_ethnographic": false,
     "gorila_ref": "2, p. 92",
     "museum_inventory": "HM 485.1",
-    "gorila_dating": "MR I B"
+    "gorila_dating": "MR I B",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "HT Wc 3017a": {
     "id": "HT Wc 3017a",
@@ -43895,7 +43968,8 @@
     "is_ethnographic": false,
     "gorila_ref": "2, p. 96",
     "museum_inventory": "HM 572",
-    "gorila_dating": "MR I B"
+    "gorila_dating": "MR I B",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "HT Wc <3018>": {
     "id": "HT Wc <3018>",
@@ -43965,7 +44039,8 @@
     "linguistic_value": "medium",
     "is_ethnographic": false,
     "siglum_status": "nonstandard, unresolved",
-    "siglum_note": "No held source (GORILA concordance, RILA-S1 notes, SigLA id) establishes a standard siglum."
+    "siglum_note": "No held source (GORILA concordance, RILA-S1 notes, SigLA id) establishes a standard siglum.",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "HT Zb 158a": {
     "id": "HT Zb 158a",
@@ -44554,14 +44629,15 @@
     "period": "LM IB",
     "unicode_text": "𐘣𐘱𐘲𐙁𐘠𐘠𐙫𐄇\n𐙫𐄇𐝆\n𐙫𐄈𐝃\n𐙫𐄉𐝃𐝄\n𐘳𐘱𐝇𐝫",
     "words": [
-      "wi-ja-su-ma-ti-ti",
+      "]ne",
       "ta-ja"
     ],
     "word_source": "lineara",
     "linguistic_value": "low",
     "is_ethnographic": true,
     "siglum_status": "nonstandard, unresolved",
-    "siglum_note": "No held source (GORILA concordance, RILA-S1 notes, SigLA id) establishes a standard siglum."
+    "siglum_note": "No held source (GORILA concordance, RILA-S1 notes, SigLA id) establishes a standard siglum.",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "HT Zf (HM767)": {
     "id": "HT Zf (HM767)",
@@ -44580,7 +44656,8 @@
     "linguistic_value": "medium",
     "is_ethnographic": false,
     "siglum_status": "nonstandard, unresolved",
-    "siglum_note": "No held source (GORILA concordance, RILA-S1 notes, SigLA id) establishes a standard siglum."
+    "siglum_note": "No held source (GORILA concordance, RILA-S1 notes, SigLA id) establishes a standard siglum.",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "HT Zf 163": {
     "id": "HT Zf 163",
@@ -44703,7 +44780,8 @@
     "linguistic_value": "medium",
     "is_ethnographic": false,
     "siglum_status": "nonstandard, unresolved",
-    "siglum_note": "No held source (GORILA concordance, RILA-S1 notes, SigLA id) establishes a standard siglum."
+    "siglum_note": "No held source (GORILA concordance, RILA-S1 notes, SigLA id) establishes a standard siglum.",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "IO Za 1": {
     "id": "IO Za 1",
@@ -44733,13 +44811,15 @@
     "period": "",
     "unicode_text": "𐝫𐘅𐝫𐄁𐝫𐘀𐘀𐝫𐄁𐝫\n𐝫𐘉𐘠𐘯𐄁𐘚𐘅𐘚𐘀𐝫",
     "words": [
-      "da-da",
-      "u-ti-nu",
-      "i-na-i-da"
+      "]na[",
+      "]da-da[",
+      "]u-ti-nu",
+      "i-na-i-da["
     ],
     "word_source": "lineara",
     "linguistic_value": "high",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "IO Za 12": {
     "id": "IO Za 12",
@@ -44754,11 +44834,12 @@
     "words": [
       "ja-sa",
       "sa-ra-me",
-      "i-ti"
+      "i-ti["
     ],
     "word_source": "lineara",
     "linguistic_value": "high",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "IO Za 13": {
     "id": "IO Za 13",
@@ -44771,11 +44852,12 @@
     "period": "",
     "unicode_text": "𐝫𐄁𐝫𐙁𐘚𐝫",
     "words": [
-      "ma-i"
+      "]ma-i["
     ],
     "word_source": "lineara",
     "linguistic_value": "high",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "IO Za 14": {
     "id": "IO Za 14",
@@ -44788,12 +44870,14 @@
     "period": "",
     "unicode_text": "𐘤𐝫𐘘𐘃𐄁𐘚𐘆𐝫",
     "words": [
-      "si-ru-te",
-      "i-di"
+      "si[",
+      "]ru-te",
+      "i-di["
     ],
     "word_source": "lineara",
     "linguistic_value": "high",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "IO Za 15": {
     "id": "IO Za 15",
@@ -44806,12 +44890,14 @@
     "period": "",
     "unicode_text": "𐝫𐘚𐘢𐘅𐙁𐄁𐘤𐘘𐝫𐘃",
     "words": [
-      "i-pi-na-ma",
-      "si-ru-te"
+      "]i-pi-na-ma",
+      "si-ru[",
+      "]te"
     ],
     "word_source": "lineara",
     "linguistic_value": "high",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "IO Za 16": {
     "id": "IO Za 16",
@@ -44824,12 +44910,15 @@
     "period": "",
     "unicode_text": "𐝫𐙌𐄁𐘱𐘞𐘞𐘴\n𐘋𐄁𐘉𐘅𐘘𐘾𐝫𐘅𐘤",
     "words": [
+      "]arom",
       "ja-sa-sa-ra",
-      "u-na-ru-ka-na-si"
+      "u-na-ru-ka[",
+      "]na-si"
     ],
     "word_source": "lineara",
     "linguistic_value": "high",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "IO Za 2": {
     "id": "IO Za 2",
@@ -44845,18 +44934,22 @@
     "unicode_text": "𐘇𐘳𐘚𐙕𐘮𐘱𐄁𐘱𐘆𐘸𐘹𐄁𐘱𐘞𐘞𐘴𐝫𐘋𐄁𐘉𐘅𐘾𐘅𐝫𐘤𐝫𐄁𐝫𐘚𐘢𐘅𐙁𐄁\n𐘤𐘘𐘃𐄁𐘳𐘅𐘴𐘃𐘉𐘠𐘯𐄁𐘚𐝫𐄁𐝫",
     "words": [
       "a-ta-i-*301-wa-ja",
-      "ja-di-ki-tu",
-      "ja-sa-sa-ra-me",
-      "u-na-ka-na-si",
-      "i-pi-na-ma",
+      "ja-di-ki-tu-tu",
+      "ja-sa-sa-ra[",
+      "]me",
+      "u-na-ka-na[",
+      "]si[",
+      "]i-pi-na-ma",
       "si-ru-te",
-      "ta-na-ra-te-u-ti-nu"
+      "ta-na-ra-te-u-ti-nu",
+      "i["
     ],
     "word_source": "lineara",
     "linguistic_value": "high",
     "is_ethnographic": false,
     "gorila_ref": "4, p. 8",
-    "museum_inventory": "HM 3642"
+    "museum_inventory": "HM 3642",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "IO Za 3": {
     "id": "IO Za 3",
@@ -44871,13 +44964,15 @@
     "period": "",
     "unicode_text": "𐄁𐘇𐘳𐘚𐙕𐘮𐘱𐄁𐙄𐝫",
     "words": [
-      "a-ta-i-*301-wa-ja"
+      "a-ta-i-*301-wa-ja",
+      "au["
     ],
     "word_source": "lineara",
     "linguistic_value": "high",
     "is_ethnographic": false,
     "gorila_ref": "4, p. 10",
-    "museum_inventory": "HM 3643"
+    "museum_inventory": "HM 3643",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "IO Za 4": {
     "id": "IO Za 4",
@@ -44892,13 +44987,14 @@
     "period": "",
     "unicode_text": "𐝫𐙕𐘮𐝫",
     "words": [
-      "*301-wa"
+      "]*301-wa["
     ],
     "word_source": "lineara",
     "linguistic_value": "high",
     "is_ethnographic": false,
     "gorila_ref": "4, p. 10",
-    "museum_inventory": "HM 2793"
+    "museum_inventory": "HM 2793",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "IO Za 5": {
     "id": "IO Za 5",
@@ -44913,14 +45009,15 @@
     "period": "",
     "unicode_text": "𐝫𐘚𐘱𐘙𐘆𐘱𐄁𐘚𐘱𐘂𐝫",
     "words": [
-      "i-ja-re-di-ja",
-      "i-ja-pa"
+      "]i-ja-re-di-ja",
+      "i-ja-pa["
     ],
     "word_source": "lineara",
     "linguistic_value": "high",
     "is_ethnographic": false,
     "gorila_ref": "4, p. 12",
-    "museum_inventory": "HM 2792"
+    "museum_inventory": "HM 2792",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "IO Za 6": {
     "id": "IO Za 6",
@@ -44944,7 +45041,8 @@
     "is_ethnographic": false,
     "gorila_ref": "4, p. 12",
     "museum_inventory": "HM 2794",
-    "gorila_dating": "MM III - MR I"
+    "gorila_dating": "MM III - MR I",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "IO Za 7": {
     "id": "IO Za 7",
@@ -44958,13 +45056,14 @@
     "unicode_text": "𐘇𐘳𐘚𐙕𐘮𐘱𐄁𐘱𐘠𐙭𐝫",
     "words": [
       "a-ta-i-*301-wa-ja",
-      "ja-ti-*321"
+      "ja-ti-*321["
     ],
     "word_source": "lineara",
     "linguistic_value": "high",
     "is_ethnographic": false,
     "gorila_ref": "4, p. 14",
-    "museum_inventory": "HM —"
+    "museum_inventory": "HM —",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "IO Za 8": {
     "id": "IO Za 8",
@@ -44977,13 +45076,14 @@
     "period": "LM I",
     "unicode_text": "𐝫𐘇𐘅𐘠𐙕𐘮𐘱𐝫",
     "words": [
-      "a-na-ti-*301-wa-ja"
+      "]a-na-ti-*301-wa-ja["
     ],
     "word_source": "lineara",
     "linguistic_value": "high",
     "is_ethnographic": false,
     "gorila_ref": "4, p. 14",
-    "museum_inventory": "HM —"
+    "museum_inventory": "HM —",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "IO Za 9": {
     "id": "IO Za 9",
@@ -44996,12 +45096,15 @@
     "period": "",
     "unicode_text": "𐘱𐘞𐘞𐝫𐘴𐘋\n𐄁𐘉𐘅𐘾𐝫𐘅𐘤",
     "words": [
-      "ja-sa-sa-ra-me",
-      "u-na-ka-na-si"
+      "ja-sa-sa[",
+      "]ra-me",
+      "u-na-ka[",
+      "]na-si"
     ],
     "word_source": "lineara",
     "linguistic_value": "high",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "IO Za <1>": {
     "id": "IO Za <1>",
@@ -45025,7 +45128,8 @@
     "museum_inventory": "HM 2640",
     "gorila_dating": "MM III - MR I",
     "siglum_status": "nonstandard, unresolved",
-    "siglum_note": "No held source (GORILA concordance, RILA-S1 notes, SigLA id) establishes a standard siglum."
+    "siglum_note": "No held source (GORILA concordance, RILA-S1 notes, SigLA id) establishes a standard siglum.",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "IO Zb 10": {
     "id": "IO Zb 10",
@@ -45038,11 +45142,12 @@
     "period": "LM I",
     "unicode_text": "𐝫𐘇𐘞𐘞𐘴𐘋",
     "words": [
-      "a-sa-sa-ra-me"
+      "]a-sa-sa-ra-me"
     ],
     "word_source": "lineara",
     "linguistic_value": "medium",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "KA NZa1": {
     "id": "KA NZa1",
@@ -45074,7 +45179,8 @@
     ],
     "word_source": "lineara",
     "linguistic_value": "medium",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "KAZ f1": {
     "id": "KAZ f1",
@@ -45098,7 +45204,8 @@
       "KA Zf 1"
     ],
     "siglum_status": "aliased",
-    "siglum_note": "GORILA vol. 5, concordance generale (linear_a/data/gorila_concordances_full.json) prints KA Zf 1, at 4, p. 149, the same volume and page as this record's gorila_ref."
+    "siglum_note": "GORILA vol. 5, concordance generale (linear_a/data/gorila_concordances_full.json) prints KA Zf 1, at 4, p. 149, the same volume and page as this record's gorila_ref.",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "KE 1": {
     "id": "KE 1",
@@ -45565,11 +45672,12 @@
     "period": "LM IIIA",
     "unicode_text": "𐝫𐘇𐘻𐝫",
     "words": [
-      "a-mi"
+      "]a-mi["
     ],
     "word_source": "lineara",
     "linguistic_value": "high",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "KH 103": {
     "id": "KH 103",
@@ -45582,12 +45690,15 @@
     "period": "",
     "unicode_text": "𐙖𐄐𐄇𐝫\n𐙖𐘱𐝫𐄇\n𐙖𐘳𐄎\n𐝫𐘝\n𐙗𐄑𐄉\n𐝫𐙍",
     "words": [
-      "ole-ja",
-      "ole-ta"
+      "]ole-ja[",
+      "ole-ta",
+      "]ni",
+      "]vin"
     ],
     "word_source": "lineara",
     "linguistic_value": "high",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "KH 104": {
     "id": "KH 104",
@@ -45600,11 +45711,12 @@
     "period": "",
     "unicode_text": "𐙉𐝆\n𐝫𐘀𐘙𐙉",
     "words": [
-      "da-re"
+      "]da-re"
     ],
     "word_source": "lineara",
     "linguistic_value": "high",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "KH 105": {
     "id": "KH 105",
@@ -45621,7 +45733,8 @@
     ],
     "word_source": "lineara",
     "linguistic_value": "high",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "KH 11": {
     "id": "KH 11",
@@ -46432,14 +46545,15 @@
       }
     ],
     "words": [
-      "*306-vir+*307"
+      "]*306-vir+[?]-*307"
     ],
     "word_source": "lineara",
     "linguistic_value": "high",
     "is_ethnographic": false,
     "gorila_ref": "3, p. 50",
     "museum_inventory": "Khania M. 34",
-    "gorila_dating": "MR I B"
+    "gorila_dating": "MR I B",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "KH 2": {
     "id": "KH 2",
@@ -47732,14 +47846,16 @@
       }
     ],
     "words": [
-      "*560-re"
+      "]ma-ru-re",
+      "wi+ze[["
     ],
     "word_source": "lineara",
     "linguistic_value": "high",
     "is_ethnographic": false,
     "gorila_ref": "3, p. 70",
     "museum_inventory": "Khania M. 61",
-    "gorila_dating": "MR I B"
+    "gorila_dating": "MR I B",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "KH 44": {
     "id": "KH 44",
@@ -52224,7 +52340,8 @@
     "is_ethnographic": true,
     "gorila_ref": "3, p. 112",
     "museum_inventory": "Khania M. 1010",
-    "gorila_dating": "MR I B"
+    "gorila_dating": "MR I B",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "KH Wa 1013α": {
     "id": "KH Wa 1013α",
@@ -52306,7 +52423,8 @@
     "is_ethnographic": true,
     "gorila_ref": "3, p. 112",
     "museum_inventory": "Khania M. 1011",
-    "gorila_dating": "MR I B"
+    "gorila_dating": "MR I B",
+    "word_layer": "lineara.xyz transliteratedWords (derived; the raw transcription is empty)"
   },
   "KH Wa 1014α": {
     "id": "KH Wa 1014α",
@@ -52388,7 +52506,8 @@
     "is_ethnographic": true,
     "gorila_ref": "3, p. 114",
     "museum_inventory": "Khania M. 1012",
-    "gorila_dating": "MR I B"
+    "gorila_dating": "MR I B",
+    "word_layer": "lineara.xyz transliteratedWords (derived; the raw transcription is empty)"
   },
   "KH Wa 1015α": {
     "id": "KH Wa 1015α",
@@ -52470,7 +52589,8 @@
     "is_ethnographic": true,
     "gorila_ref": "3, p. 114",
     "museum_inventory": "Khania M. 1013",
-    "gorila_dating": "MR I B"
+    "gorila_dating": "MR I B",
+    "word_layer": "lineara.xyz transliteratedWords (derived; the raw transcription is empty)"
   },
   "KH Wa 1016α": {
     "id": "KH Wa 1016α",
@@ -52823,12 +52943,11 @@
         "certain": true
       }
     ],
-    "words": [
-      "*417-vs"
-    ],
+    "words": [],
     "word_source": "lineara",
     "linguistic_value": "medium",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "KH Wc 2007": {
     "id": "KH Wc 2007",
@@ -52858,7 +52977,8 @@
     ],
     "word_source": "lineara",
     "linguistic_value": "medium",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transliteratedWords (derived; the raw transcription is empty)"
   },
   "KH Wc 2008": {
     "id": "KH Wc 2008",
@@ -52946,7 +53066,8 @@
     ],
     "word_source": "lineara",
     "linguistic_value": "medium",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transliteratedWords (derived; the raw transcription is empty)"
   },
   "KH Wc 2011": {
     "id": "KH Wc 2011",
@@ -52976,7 +53097,8 @@
     ],
     "word_source": "lineara",
     "linguistic_value": "medium",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transliteratedWords (derived; the raw transcription is empty)"
   },
   "KH Wc 2012": {
     "id": "KH Wc 2012",
@@ -53006,7 +53128,8 @@
     ],
     "word_source": "lineara",
     "linguistic_value": "medium",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transliteratedWords (derived; the raw transcription is empty)"
   },
   "KH Wc 2013": {
     "id": "KH Wc 2013",
@@ -53035,7 +53158,8 @@
     ],
     "word_source": "lineara",
     "linguistic_value": "medium",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transliteratedWords (derived; the raw transcription is empty)"
   },
   "KH Wc 2014": {
     "id": "KH Wc 2014",
@@ -53065,7 +53189,8 @@
     ],
     "word_source": "lineara",
     "linguistic_value": "medium",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transliteratedWords (derived; the raw transcription is empty)"
   },
   "KH Wc 2015": {
     "id": "KH Wc 2015",
@@ -53095,7 +53220,8 @@
     ],
     "word_source": "lineara",
     "linguistic_value": "medium",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transliteratedWords (derived; the raw transcription is empty)"
   },
   "KH Wc 2016": {
     "id": "KH Wc 2016",
@@ -53125,7 +53251,8 @@
     ],
     "word_source": "lineara",
     "linguistic_value": "medium",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transliteratedWords (derived; the raw transcription is empty)"
   },
   "KH Wc 2017": {
     "id": "KH Wc 2017",
@@ -53155,7 +53282,8 @@
     ],
     "word_source": "lineara",
     "linguistic_value": "medium",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transliteratedWords (derived; the raw transcription is empty)"
   },
   "KH Wc 2018": {
     "id": "KH Wc 2018",
@@ -53185,7 +53313,8 @@
     ],
     "word_source": "lineara",
     "linguistic_value": "medium",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transliteratedWords (derived; the raw transcription is empty)"
   },
   "KH Wc 2019": {
     "id": "KH Wc 2019",
@@ -53214,7 +53343,8 @@
     ],
     "word_source": "lineara",
     "linguistic_value": "medium",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transliteratedWords (derived; the raw transcription is empty)"
   },
   "KH Wc 2020": {
     "id": "KH Wc 2020",
@@ -53243,7 +53373,8 @@
     ],
     "word_source": "lineara",
     "linguistic_value": "medium",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transliteratedWords (derived; the raw transcription is empty)"
   },
   "KH Wc 2021": {
     "id": "KH Wc 2021",
@@ -53272,7 +53403,8 @@
     ],
     "word_source": "lineara",
     "linguistic_value": "medium",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transliteratedWords (derived; the raw transcription is empty)"
   },
   "KH Wc 2022": {
     "id": "KH Wc 2022",
@@ -53302,7 +53434,8 @@
     ],
     "word_source": "lineara",
     "linguistic_value": "medium",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transliteratedWords (derived; the raw transcription is empty)"
   },
   "KH Wc 2023": {
     "id": "KH Wc 2023",
@@ -53332,7 +53465,8 @@
     ],
     "word_source": "lineara",
     "linguistic_value": "medium",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transliteratedWords (derived; the raw transcription is empty)"
   },
   "KH Wc 2024": {
     "id": "KH Wc 2024",
@@ -53362,7 +53496,8 @@
     ],
     "word_source": "lineara",
     "linguistic_value": "medium",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transliteratedWords (derived; the raw transcription is empty)"
   },
   "KH Wc 2025": {
     "id": "KH Wc 2025",
@@ -53391,7 +53526,8 @@
     ],
     "word_source": "lineara",
     "linguistic_value": "medium",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transliteratedWords (derived; the raw transcription is empty)"
   },
   "KH Wc 2026": {
     "id": "KH Wc 2026",
@@ -54131,7 +54267,8 @@
     ],
     "word_source": "lineara",
     "linguistic_value": "medium",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "KH Wc 2055": {
     "id": "KH Wc 2055",
@@ -54161,7 +54298,8 @@
     ],
     "word_source": "lineara",
     "linguistic_value": "medium",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transliteratedWords (derived; the raw transcription is empty)"
   },
   "KH Wc 2056": {
     "id": "KH Wc 2056",
@@ -54408,7 +54546,8 @@
     ],
     "word_source": "lineara",
     "linguistic_value": "medium",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "KH Wc 2066": {
     "id": "KH Wc 2066",
@@ -54605,12 +54744,11 @@
     "type": "roundel",
     "period": "LM IB",
     "unicode_text": "𐚫",
-    "words": [
-      "*411-vs"
-    ],
+    "words": [],
     "word_source": "lineara",
     "linguistic_value": "medium",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "KH Wc 2084": {
     "id": "KH Wc 2084",
@@ -54634,12 +54772,11 @@
         "certain": true
       }
     ],
-    "words": [
-      "*408-vs"
-    ],
+    "words": [],
     "word_source": "lineara",
     "linguistic_value": "medium",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "KH Wc 2088": {
     "id": "KH Wc 2088",
@@ -54922,12 +55059,11 @@
         "certain": true
       }
     ],
-    "words": [
-      "*408-vs"
-    ],
+    "words": [],
     "word_source": "lineara",
     "linguistic_value": "medium",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "KH Wc 2104": {
     "id": "KH Wc 2104",
@@ -55129,11 +55265,12 @@
       }
     ],
     "words": [
-      "*408-vs"
+      "*408-vs["
     ],
     "word_source": "lineara",
     "linguistic_value": "medium",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "KH Wc 2115": {
     "id": "KH Wc 2115",
@@ -55271,12 +55408,11 @@
     "type": "roundel",
     "period": "LM IB",
     "unicode_text": "𐚨",
-    "words": [
-      "*408-vs"
-    ],
+    "words": [],
     "word_source": "lineara",
     "linguistic_value": "medium",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "KH Wc 2123": {
     "id": "KH Wc 2123",
@@ -55289,11 +55425,12 @@
     "period": "Geometric",
     "unicode_text": "𐝭𐘢𐘾",
     "words": [
-      "*810-pi-ka"
+      "]pi-ka"
     ],
     "word_source": "lineara",
     "linguistic_value": "medium",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "KH Wc 2124": {
     "id": "KH Wc 2124",
@@ -55353,7 +55490,8 @@
         "their_source": "RILA-S1 Index des signes, sequence ][.]-31-31-60-73; references/inbox/faculty-asks-2026-08-14/",
         "note": "The whole dispute is one sign in final position. RILA-S1 itself flags the reading uncertain and prints two variants. The initial ja- is a RILA-S1 restoration, not an observation. The 1:1 drawing is at references/core/DelFreo_Zurbach_2024_RILA_Supplement_1_EtCret21-6_OCR.pdf, PDF page 184, printed page 122. The editio princeps, Hallager 2016 pages 290 to 293 figure 81, is not acquired. No reading is picked here: Matt reads the final sign from the drawing."
       }
-    ]
+    ],
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "KKH Zb 1": {
     "id": "KKH Zb 1",
@@ -56066,11 +56204,13 @@
     "period": "",
     "unicode_text": "𐝫\n𐝫𐘫𐘴𐝫\n𐝫𐙏𐝇𐝫\n𐝫",
     "words": [
-      "pu-ra"
+      "]pu-ra[",
+      "]*131c"
     ],
     "word_source": "lineara",
     "linguistic_value": "high",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "KN Anetaki Scepter (Handle)": {
     "id": "KN Anetaki Scepter (Handle)",
@@ -56145,14 +56285,15 @@
     "period": "",
     "unicode_text": "𐘌𐘸𐝫\n𐘯𐘈𐝫",
     "words": [
-      "qa-ki",
-      "nu-se"
+      "qa-ki[",
+      "]nu-se["
     ],
     "word_source": "lineara",
     "linguistic_value": "low",
     "is_ethnographic": true,
     "gorila_ref": "2, p. 82",
-    "museum_inventory": "HM 666"
+    "museum_inventory": "HM 666",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "KN Wb 33a": {
     "id": "KN Wb 33a",
@@ -56294,7 +56435,8 @@
     "linguistic_value": "medium",
     "is_ethnographic": false,
     "gorila_ref": "4, p. 56",
-    "museum_inventory": "Coll. privée"
+    "museum_inventory": "Coll. privée",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "KN Wc 26a": {
     "id": "KN Wc 26a",
@@ -56625,18 +56767,19 @@
     "period": "LM IA",
     "unicode_text": "𐝫𐘳𐘯𐘕𐘠𐄁𐘱𐘞𐘞𐘴𐙁\n𐘅𐄁𐘀𐘮𐝫𐄁𐝫𐘬𐘮𐘄𐄁𐘚𐘱𐝫",
     "words": [
-      "ta-nu-mu-ti",
+      "]ta-nu-mu-ti",
       "ja-sa-sa-ra-ma",
-      "da-wa",
-      "du-wa-to",
-      "i-ja"
+      "da-wa[",
+      "]du-wa-to",
+      "i-ja["
     ],
     "word_source": "lineara",
     "linguistic_value": "high",
     "is_ethnographic": false,
     "gorila_ref": "4, p. 8",
     "museum_inventory": "HM 2100",
-    "gorila_dating": "MR I"
+    "gorila_dating": "MR I",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "KN Za 17": {
     "id": "KN Za 17",
@@ -56649,13 +56792,14 @@
     "period": "",
     "unicode_text": "𐝫𐘱𐘿𐄁",
     "words": [
-      "ja-qe"
+      "]ja-qe"
     ],
     "word_source": "lineara",
     "linguistic_value": "high",
     "is_ethnographic": false,
     "gorila_ref": "4, p. 10",
-    "museum_inventory": "HM 2394"
+    "museum_inventory": "HM 2394",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "KN Za 18": {
     "id": "KN Za 18",
@@ -56668,13 +56812,16 @@
     "period": "",
     "unicode_text": "𐝫𐄁𐝫𐘱𐄁𐝫𐄁𐝫𐘱𐄁𐘱𐘮𐝫𐄁𐝫",
     "words": [
-      "ja-wa"
+      "]ja",
+      "]ja",
+      "ja-wa["
     ],
     "word_source": "lineara",
     "linguistic_value": "high",
     "is_ethnographic": false,
     "gorila_ref": "4, p. 12",
-    "museum_inventory": "HM 2597"
+    "museum_inventory": "HM 2597",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "KN Za 19": {
     "id": "KN Za 19",
@@ -56687,14 +56834,15 @@
     "period": "",
     "unicode_text": "𐝫𐘥𐘶𐘻𐝫𐄁𐝫\n—\n𐝫𐙈𐘻𐘅",
     "words": [
-      "ke-ju-mi",
-      "*118-mi-na"
+      "]ke-ju-mi[",
+      "]*118-mi-na"
     ],
     "word_source": "lineara",
     "linguistic_value": "high",
     "is_ethnographic": false,
     "gorila_ref": "4, p. 14",
-    "museum_inventory": "AM 1938.872"
+    "museum_inventory": "AM 1938.872",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "KN Zb 20": {
     "id": "KN Zb 20",
@@ -57034,7 +57182,8 @@
     ],
     "word_source": "lineara",
     "linguistic_value": "medium",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "KN Zb 56": {
     "id": "KN Zb 56",
@@ -57051,7 +57200,8 @@
     ],
     "word_source": "lineara",
     "linguistic_value": "medium",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "KN Zb <27>": {
     "id": "KN Zb <27>",
@@ -57073,7 +57223,8 @@
     "museum_inventory": "",
     "gorila_dating": "MM III B",
     "siglum_status": "source form",
-    "siglum_note": "GORILA vol. 5 concordance prints this siglum exactly."
+    "siglum_note": "GORILA vol. 5 concordance prints this siglum exactly.",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "KN Zb <36>": {
     "id": "KN Zb <36>",
@@ -57569,11 +57720,13 @@
     "period": "",
     "unicode_text": "𐘚𐝫𐘮𐘱",
     "words": [
-      "i-wa-ja"
+      "i[",
+      "]wa-ja"
     ],
     "word_source": "lineara",
     "linguistic_value": "low",
-    "is_ethnographic": true
+    "is_ethnographic": true,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "KN Ze 45": {
     "id": "KN Ze 45",
@@ -57590,7 +57743,8 @@
     ],
     "word_source": "lineara",
     "linguistic_value": "low",
-    "is_ethnographic": true
+    "is_ethnographic": true,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "KN Ze 49": {
     "id": "KN Ze 49",
@@ -57607,7 +57761,8 @@
     ],
     "word_source": "lineara",
     "linguistic_value": "low",
-    "is_ethnographic": true
+    "is_ethnographic": true,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "KN Ze 56": {
     "id": "KN Ze 56",
@@ -57620,11 +57775,12 @@
     "period": "",
     "unicode_text": "𐘵𐘀𐝫",
     "words": [
-      "o-da"
+      "o-da["
     ],
     "word_source": "lineara",
     "linguistic_value": "low",
-    "is_ethnographic": true
+    "is_ethnographic": true,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "KN Zf 13": {
     "id": "KN Zf 13",
@@ -57795,7 +57951,8 @@
     "period": "",
     "unicode_text": "𐝫𐘤𐝫𐘤𐘍𐘗𐙠𐄁𐘀𐘬𐘻𐘗𐄁𐘌𐘻𐘨𐘅𐘴𐄁𐘇𐘮𐘢𐄁𐘃𐘲𐘦𐘈𐘥𐘚𐄁𐘇𐘀𐘴𐄁𐘠𐘆𐘃𐘌𐘠𐄁𐘳𐘞𐘍𐄁𐘳𐘃𐘚𐘥𐘍𐘙𐄁𐝫",
     "words": [
-      "si-si-za-ne-*310",
+      "]si[",
+      "]si-za-ne-*310",
       "da-du-mi-ne",
       "qa-mi-*47-na-ra",
       "a-wa-pi",
@@ -57810,7 +57967,8 @@
     "is_ethnographic": false,
     "gorila_ref": "4, p. 154",
     "museum_inventory": "HM 540",
-    "gorila_dating": "MR I A"
+    "gorila_dating": "MR I A",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "KN Zg 55": {
     "id": "KN Zg 55",
@@ -57827,7 +57985,8 @@
     ],
     "word_source": "lineara",
     "linguistic_value": "low",
-    "is_ethnographic": true
+    "is_ethnographic": true,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "KN Zg 57a": {
     "id": "KN Zg 57a",
@@ -57937,7 +58096,7 @@
     "period": "",
     "unicode_text": "𐘇𐘴𐘺𐙂𐙀𐘮𐘞𐘄𐙁𐘁𐙄𐘳𐘦𐘊𐘝𐘍",
     "words": [
-      "a-ra-ko-ku-zu-wa-sa-to-ma-ro-au-ta-de-po-ni-za"
+      "a-ra-ko-ku-qa-wa-sa-to-ma-ro-au-ta-de-po-ni-za"
     ],
     "word_source": "lineara",
     "linguistic_value": "medium",
@@ -57948,7 +58107,8 @@
       "KO (?) Zf 2"
     ],
     "siglum_status": "aliased",
-    "siglum_note": "GORILA vol. 5, concordance generale (linear_a/data/gorila_concordances_full.json) prints KO (?) Zf 2, at 4, p. 158, the same volume and page as this record's gorila_ref."
+    "siglum_note": "GORILA vol. 5, concordance generale (linear_a/data/gorila_concordances_full.json) prints KO (?) Zf 2, at 4, p. 158, the same volume and page as this record's gorila_ref.",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "KO Za 1": {
     "id": "KO Za 1",
@@ -57992,7 +58152,8 @@
       "KO Za 1"
     ],
     "siglum_status": "aliased",
-    "siglum_note": "GORILA vol. 5, concordance generale (linear_a/data/gorila_concordances_full.json) prints KO Za 1, at 4, p. 18, the same volume and page as this record's gorila_ref."
+    "siglum_note": "GORILA vol. 5, concordance generale (linear_a/data/gorila_concordances_full.json) prints KO Za 1, at 4, p. 18, the same volume and page as this record's gorila_ref.",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "KY Za 2": {
     "id": "KY Za 2",
@@ -58009,7 +58170,8 @@
     ],
     "word_source": "lineara",
     "linguistic_value": "high",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "KY Zg 1": {
     "id": "KY Zg 1",
@@ -58055,7 +58217,8 @@
     ],
     "word_source": "lineara",
     "linguistic_value": "high",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "LAZ b1(bis)": {
     "id": "LAZ b1(bis)",
@@ -58074,7 +58237,8 @@
     "linguistic_value": "medium",
     "is_ethnographic": false,
     "siglum_status": "nonstandard, unresolved",
-    "siglum_note": "No held source (GORILA concordance, RILA-S1 notes, SigLA id) establishes a standard siglum."
+    "siglum_note": "No held source (GORILA concordance, RILA-S1 notes, SigLA id) establishes a standard siglum.",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "MA 10a": {
     "id": "MA 10a",
@@ -58265,14 +58429,16 @@
       }
     ],
     "words": [
-      "*404-vs"
+      "]*412+e",
+      "*404-vs["
     ],
     "word_source": "lineara",
     "linguistic_value": "high",
     "is_ethnographic": false,
     "gorila_ref": "5, p. 50",
     "museum_inventory": "A. Nik. M. 7336",
-    "gorila_dating": "MM III"
+    "gorila_dating": "MM III",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "MA 10d": {
     "id": "MA 10d",
@@ -58786,7 +58952,8 @@
     "is_ethnographic": false,
     "gorila_ref": "1, p. 272",
     "museum_inventory": "HM 1377",
-    "gorila_dating": "MM III"
+    "gorila_dating": "MM III",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "MA 4b": {
     "id": "MA 4b",
@@ -59047,7 +59214,8 @@
     "gorila_ref": "",
     "museum_inventory": "",
     "siglum_status": "source form",
-    "siglum_note": "GORILA vol. 5 concordance prints this siglum exactly."
+    "siglum_note": "GORILA vol. 5 concordance prints this siglum exactly.",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "MA Wc <5a>": {
     "id": "MA Wc <5a>",
@@ -59153,7 +59321,8 @@
     ],
     "word_source": "lineara",
     "linguistic_value": "medium",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "MA Zb 8": {
     "id": "MA Zb 8",
@@ -59167,14 +59336,15 @@
     "findspot": "Bastion E",
     "unicode_text": "𐘱𐘞𐝫",
     "words": [
-      "ja-sa"
+      "ja-sa["
     ],
     "word_source": "lineara",
     "linguistic_value": "medium",
     "is_ethnographic": false,
     "gorila_ref": "4, p. 89",
     "museum_inventory": "MSMA P 2361",
-    "gorila_dating": "MM III - MR I A"
+    "gorila_dating": "MM III - MR I A",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "MA Ze 11": {
     "id": "MA Ze 11",
@@ -59194,7 +59364,8 @@
     "linguistic_value": "low",
     "is_ethnographic": true,
     "gorila_ref": "4, p. 140",
-    "museum_inventory": "Palais de Mallia. Sud Cour N.-W."
+    "museum_inventory": "Palais de Mallia. Sud Cour N.-W.",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "MARG Wa 1-26": {
     "id": "MARG Wa 1-26",
@@ -59302,7 +59473,8 @@
     "linguistic_value": "medium",
     "is_ethnographic": false,
     "gorila_ref": "4, p. 91",
-    "museum_inventory": "Mus. Nat. Copenhague 6960"
+    "museum_inventory": "Mus. Nat. Copenhague 6960",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "MI Zb 3": {
     "id": "MI Zb 3",
@@ -59319,7 +59491,8 @@
     ],
     "word_source": "lineara",
     "linguistic_value": "medium",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "MIL Zb 1": {
     "id": "MIL Zb 1",
@@ -59332,11 +59505,12 @@
     "period": "",
     "unicode_text": "𐝫𐘰𐘤𐘨",
     "words": [
-      "pa3-si-*47"
+      "]pa3-si-*47"
     ],
     "word_source": "lineara",
     "linguistic_value": "medium",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "MIL Zb 2": {
     "id": "MIL Zb 2",
@@ -59349,11 +59523,12 @@
     "period": "",
     "unicode_text": "𐘰𐘜𐝫",
     "words": [
-      "pa3-pu2"
+      "pa3-pu2["
     ],
     "word_source": "lineara",
     "linguistic_value": "medium",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "MIL Zb 3": {
     "id": "MIL Zb 3",
@@ -59366,11 +59541,12 @@
     "period": "",
     "unicode_text": "𐝫𐘤𐘃𐝫",
     "words": [
-      "si-te"
+      "]si-te["
     ],
     "word_source": "lineara",
     "linguistic_value": "medium",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "MIL Zb 4": {
     "id": "MIL Zb 4",
@@ -59383,11 +59559,12 @@
     "period": "",
     "unicode_text": "𐝫𐘙𐙅𐝫",
     "words": [
-      "re-*86"
+      "]re-*86["
     ],
     "word_source": "lineara",
     "linguistic_value": "medium",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "MOZ b2?": {
     "id": "MOZ b2?",
@@ -59455,7 +59632,8 @@
       "siglum_source": "research/corpus-gap-verification-2026-08-02.md 5.1, against the RILA-S1 Concordance museographique"
     },
     "siglum_status": "aliased",
-    "siglum_note": "RILA Supplement 1, write-back of 2026-09-18 (verification/private-writeback-2026-09-18.md)."
+    "siglum_note": "RILA Supplement 1, write-back of 2026-09-18 (verification/private-writeback-2026-09-18.md).",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "MY Zf 1": {
     "id": "MY Zf 1",
@@ -59523,13 +59701,14 @@
     "period": "",
     "unicode_text": "𐝫𐘚𐘀𐝫",
     "words": [
-      "i-da"
+      "]i-da["
     ],
     "word_source": "lineara",
     "linguistic_value": "high",
     "is_ethnographic": false,
     "siglum_status": "nonstandard, unresolved",
-    "siglum_note": "No held source (GORILA concordance, RILA-S1 notes, SigLA id) establishes a standard siglum."
+    "siglum_note": "No held source (GORILA concordance, RILA-S1 notes, SigLA id) establishes a standard siglum.",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "PA 1": {
     "id": "PA 1",
@@ -59604,11 +59783,15 @@
     "unicode_text": "𐘉𐘾𐘙𐘇𐘈𐘤𐘅\n𐙂𐘂𐘭𐙇𐄔𐝫\n𐛭𐄑𐄌𐝆\n𐘡𐘾𐝫𐙇𐄖𐄈\n𐛭𐄒𐄌",
     "words": [
       "u-ka-re-a-se-si-na",
-      "ku-pa-ri"
+      "ku-pa-ri",
+      "]gra+pa",
+      "e-ka[",
+      "]vir+[?]"
     ],
     "word_source": "lineara",
     "linguistic_value": "high",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "PE 2": {
     "id": "PE 2",
@@ -59623,7 +59806,8 @@
     "period": "",
     "unicode_text": "𐝫\n𐄉𐝁\n𐘘𐘢𐝫𐙙𐘻𐄇𐝄\n𐘇𐙱𐘍𐝃\n𐘇𐘭𐘂𐝃\n𐘌𐘌𐘀𐝆\n𐘄𐘋𐝁\n𐘄𐘪𐘙𐄇\n𐝫",
     "words": [
-      "ru-pi-*305-mi",
+      "ru-pi[",
+      "]*305-mi",
       "a-*325-za",
       "a-ri-pa",
       "qa-qa-da",
@@ -59632,7 +59816,8 @@
     ],
     "word_source": "lineara",
     "linguistic_value": "high",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "PE Ws": {
     "id": "PE Ws",
@@ -59651,7 +59836,8 @@
     "linguistic_value": "high",
     "is_ethnographic": false,
     "siglum_status": "nonstandard, unresolved",
-    "siglum_note": "No held source (GORILA concordance, RILA-S1 notes, SigLA id) establishes a standard siglum."
+    "siglum_note": "No held source (GORILA concordance, RILA-S1 notes, SigLA id) establishes a standard siglum.",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "PE Wy5": {
     "id": "PE Wy5",
@@ -59670,7 +59856,8 @@
     "linguistic_value": "high",
     "is_ethnographic": false,
     "siglum_status": "nonstandard, unresolved",
-    "siglum_note": "No held source (GORILA concordance, RILA-S1 notes, SigLA id) establishes a standard siglum."
+    "siglum_note": "No held source (GORILA concordance, RILA-S1 notes, SigLA id) establishes a standard siglum.",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "PE Zb": {
     "id": "PE Zb",
@@ -59683,13 +59870,14 @@
     "period": "",
     "unicode_text": "𐝫𐘇𐘯𐝫",
     "words": [
-      "a-nu"
+      "]a-nu["
     ],
     "word_source": "lineara",
     "linguistic_value": "medium",
     "is_ethnographic": false,
     "siglum_status": "nonstandard, unresolved",
-    "siglum_note": "No held source (GORILA concordance, RILA-S1 notes, SigLA id) establishes a standard siglum."
+    "siglum_note": "No held source (GORILA concordance, RILA-S1 notes, SigLA id) establishes a standard siglum.",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "PE Zb 3": {
     "id": "PE Zb 3",
@@ -59715,11 +59903,13 @@
     "period": "LM IB",
     "unicode_text": "𐝫𐘇\n𐘱𐘮𐘢𐄇",
     "words": [
+      "]a",
       "ja-wa-pi"
     ],
     "word_source": "lineara",
     "linguistic_value": "medium",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "PE Zb 8": {
     "id": "PE Zb 8",
@@ -59745,12 +59935,13 @@
     "period": "LM IB",
     "unicode_text": "𐝫𐘇𐘱𐝫 ≈ 𐝫𐘱𐘤𐝫",
     "words": [
-      "a-ja",
-      "ja-si"
+      "]a-ja[",
+      "]ja-si["
     ],
     "word_source": "lineara",
     "linguistic_value": "medium",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "PE Zg 5": {
     "id": "PE Zg 5",
@@ -59776,12 +59967,14 @@
     "period": "",
     "unicode_text": "𐘚𐘅𐝫𐄁𐝫𐘃\n—\n𐘳𐘅𐙁𐘧\n—",
     "words": [
-      "i-na",
+      "i-na[",
+      "]te",
       "ta-na-ma-je"
     ],
     "word_source": "lineara",
     "linguistic_value": "low",
-    "is_ethnographic": true
+    "is_ethnographic": true,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "PETS Wc": {
     "id": "PETS Wc",
@@ -59810,10 +60003,14 @@
     "period": "",
     "unicode_text": "𐝫\n𐝫𐘇𐝫\n𐝫𐘘𐚾𐄇\n𐙁𐘆𐘑𐄇\n𐘓𐝫\n𐄁𐝫𐘗𐄇\n𐙂𐘰𐘯𐙄𐘤𐘙𐄇\n𐘂𐘳𐘀𐝫𐝫𐄇\n𐙂𐘁𐚾𐄇\n𐘑𐄋\n𐘐𐄉𐝫",
     "words": [
+      "]a[",
+      "]ru",
       "ma-di",
+      "*21f[",
+      "]ne",
       "ku-pa3-nu",
       "au-si-re",
-      "pa-ta-da",
+      "pa-ta-da[",
       "ku-ro"
     ],
     "word_source": "lineara",
@@ -59822,7 +60019,8 @@
     "gorila_ref": "1, p. 318",
     "museum_inventory": "HM 1609",
     "siglum_status": "nonstandard, unresolved",
-    "siglum_note": "No held source (GORILA concordance, RILA-S1 notes, SigLA id) establishes a standard siglum."
+    "siglum_note": "No held source (GORILA concordance, RILA-S1 notes, SigLA id) establishes a standard siglum.",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "PH (?)31b": {
     "id": "PH (?)31b",
@@ -59837,9 +60035,12 @@
     "period": "",
     "unicode_text": "𐝫\n𐝫𐘓𐄈\n𐘐𐄇𐝫\n𐝫𐘬𐘭𐘔𐄇\n𐘹𐝫\n𐝫𐘗𐘔𐄇\n𐘓𐄋\n𐘃𐘭𐘑𐝫\n𐝫𐄇\n𐘭𐘘𐙁𐘠𐘑\n𐙄𐘤𐘙\n𐘇𐘻𐘀𐘵𐘑𐄇𐝫",
     "words": [
-      "du-ri",
-      "ne-*22m",
+      "]*22f",
+      "]du-ri",
+      "tu[",
+      "]ne-*22m",
       "te-ri",
+      "*21m[",
       "ri-ru-ma-ti",
       "au-si-re",
       "a-mi-da-o"
@@ -59850,7 +60051,8 @@
     "gorila_ref": "1, p. 318",
     "museum_inventory": "HM 1609",
     "siglum_status": "nonstandard, unresolved",
-    "siglum_note": "No held source (GORILA concordance, RILA-S1 notes, SigLA id) establishes a standard siglum."
+    "siglum_note": "No held source (GORILA concordance, RILA-S1 notes, SigLA id) establishes a standard siglum.",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "PH 1": {
     "id": "PH 1",
@@ -62136,11 +62338,12 @@
     "period": "",
     "unicode_text": "𐘚𐘞𐘭𐘥𐝫\n𐝫",
     "words": [
-      "i-sa-ri-ke"
+      "i-sa-ri-ke["
     ],
     "word_source": "lineara",
     "linguistic_value": "high",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "PH 6": {
     "id": "PH 6",
@@ -62675,14 +62878,15 @@
       }
     ],
     "words": [
-      "*412-vs-vin"
+      "]*412-vs-vin"
     ],
     "word_source": "lineara",
     "linguistic_value": "high",
     "is_ethnographic": false,
     "gorila_ref": "1, p. 298",
     "museum_inventory": "HM 1510",
-    "gorila_dating": "MM II"
+    "gorila_dating": "MM II",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "PH Wa 32": {
     "id": "PH Wa 32",
@@ -62954,7 +63158,8 @@
     "is_ethnographic": false,
     "gorila_ref": "2, p. 94",
     "museum_inventory": "HM 1487",
-    "gorila_dating": "MM II"
+    "gorila_dating": "MM II",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "PH Wc 37a": {
     "id": "PH Wc 37a",
@@ -63094,7 +63299,8 @@
     "is_ethnographic": false,
     "gorila_ref": "2, p. 95",
     "museum_inventory": "HM 1489",
-    "gorila_dating": "MM II"
+    "gorila_dating": "MM II",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "PH Wc 39a": {
     "id": "PH Wc 39a",
@@ -63181,7 +63387,8 @@
     "is_ethnographic": false,
     "gorila_ref": "2, p. 95",
     "museum_inventory": "HM 1490",
-    "gorila_dating": "MM II"
+    "gorila_dating": "MM II",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "PH Wc 40a": {
     "id": "PH Wc 40a",
@@ -63451,7 +63658,8 @@
     "is_ethnographic": false,
     "gorila_ref": "2, p. 96",
     "museum_inventory": "HM 1536",
-    "gorila_dating": "MM II"
+    "gorila_dating": "MM II",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "PH Wc <47>": {
     "id": "PH Wc <47>",
@@ -63497,7 +63705,8 @@
     "linguistic_value": "high",
     "is_ethnographic": false,
     "siglum_status": "nonstandard, unresolved",
-    "siglum_note": "No held source (GORILA concordance, RILA-S1 notes, SigLA id) establishes a standard siglum."
+    "siglum_note": "No held source (GORILA concordance, RILA-S1 notes, SigLA id) establishes a standard siglum.",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "PH Wy42": {
     "id": "PH Wy42",
@@ -63533,7 +63742,8 @@
     "is_ethnographic": false,
     "gorila_ref": "4, p. 93",
     "museum_inventory": "HM 1600",
-    "gorila_dating": "MR I"
+    "gorila_dating": "MR I",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "PH Zb 48": {
     "id": "PH Zb 48",
@@ -63546,14 +63756,15 @@
     "period": "MM III",
     "unicode_text": "𐘌𐙙𐝫𐄁𐝫",
     "words": [
-      "qa-*305"
+      "qa-*305["
     ],
     "word_source": "lineara",
     "linguistic_value": "medium",
     "is_ethnographic": false,
     "gorila_ref": "4, p. 95",
     "museum_inventory": "HM 19808",
-    "gorila_dating": "*MM I - MM III"
+    "gorila_dating": "*MM I - MM III",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "PH Zb 5": {
     "id": "PH Zb 5",
@@ -63566,14 +63777,15 @@
     "period": "",
     "unicode_text": "𐘮𐘢𐘠𐘅𐘽",
     "words": [
-      "wa-pi-ti-na-ra2"
+      "wa-wi-ti-na-ra2"
     ],
     "word_source": "lineara",
     "linguistic_value": "medium",
     "is_ethnographic": false,
     "gorila_ref": "4, p. 94",
     "museum_inventory": "Palais de Phaistos. Magasin 33",
-    "gorila_dating": "MR I"
+    "gorila_dating": "MR I",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "PH Zb <47>": {
     "id": "PH Zb <47>",
@@ -63601,16 +63813,17 @@
     "period": "LM I",
     "unicode_text": "𐘤𐝫𐄁𐝫𐘗𐘠𐄇\n𐘾𐘌𐄈\n—\n𐘇𐘬𐘍𐄇\n𐘷𐘳𐘙𐄇\n—\n𐘷𐘠𐘃𐄇\n𐘵𐘾𐘻𐘍𐘤𐘚𐘅𐄇\n—\n𐘵𐘃𐘱𐄇\n—\n𐘴𐘅𐘹𐘲𐄇\n𐘝𐘻𐄇\n—\n𐘹𐘲𐄇\n𐙁𐘠𐘍𐘚𐘃𐄇\n—\n𐙁𐘃𐘠𐄇\n𐙁𐘾𐘚𐘳𐄇",
     "words": [
-      "ne-ti",
+      "si[",
+      "]ne-ti",
       "ka-qa",
       "a-du-za",
       "ta2-ta-re",
       "ta2-ti-te",
-      "o-ka-mi-za-si-i-na",
+      "o-ka-mi-za-si",
+      "i-na",
       "o-te-ja",
       "ra-na-tu-su",
       "ni-mi",
-      "tu-su",
       "ma-ti-za-i-te",
       "ma-te-ti",
       "ma-ka-i-ta"
@@ -63620,7 +63833,8 @@
     "is_ethnographic": false,
     "gorila_ref": "1, p. 280",
     "museum_inventory": "HM 86",
-    "gorila_dating": "MR I"
+    "gorila_dating": "MR I",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "PK 3": {
     "id": "PK 3",
@@ -63633,11 +63847,15 @@
     "period": "",
     "unicode_text": "𐝫𐘿𐄉\n𐘱𐄑\n𐝫𐄒𐄇\n𐘀𐘙𐄖𐄈\n𐝫𐘠𐄈\n𐝫𐙂𐄉\n𐝫𐄉",
     "words": [
-      "da-re"
+      "]qe",
+      "da-re",
+      "]ti",
+      "]ku"
     ],
     "word_source": "lineara",
     "linguistic_value": "high",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "PK Za 10": {
     "id": "PK Za 10",
@@ -63650,13 +63868,16 @@
     "period": "",
     "unicode_text": "𐝫𐘤𐄁𐘚𐘢𐘅𐘻𐘅𐄁𐘤𐝫",
     "words": [
-      "i-pi-na-mi-na"
+      "]si",
+      "i-pi-na-mi-na",
+      "si["
     ],
     "word_source": "lineara",
     "linguistic_value": "high",
     "is_ethnographic": false,
     "gorila_ref": "4, p. 30",
-    "museum_inventory": "HM 1586"
+    "museum_inventory": "HM 1586",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "PK Za 11": {
     "id": "PK Za 11",
@@ -63672,20 +63893,22 @@
     "unicode_text": "𐘇𐘳𐘚𐙕𐘮𐘡𐄁𐘇𐘆𐘸𐘃𐘃𐝫𐄁\n𐄁𐝫𐘙𐄁𐘢𐘃𐘭𐄁𐘇𐘺𐘇𐘗𐄁𐘇\n𐘞𐘞𐘴𐘋𐄁𐘉𐘅𐘘𐘾𐘅𐘠𐄁\n𐘚𐘢𐘅𐘻𐘅𐝫𐘤𐘘𐝫𐄁𐝫𐄁𐘚𐘅𐘱𐘂𐘌",
     "words": [
       "a-ta-i-*301-wa-e",
-      "a-di-ki-te-te",
+      "a-di-ki-te-te[",
+      "]re",
       "pi-te-ri",
       "a-ko-a-ne",
       "sa-sa-ra-me",
       "u-na-ru-ka-na-ti",
-      "i-pi-na-mi-na",
-      "si-ru",
+      "i-pi-na-mi-na[",
+      "]si-ru[",
       "i-na-ja-pa-qa"
     ],
     "word_source": "lineara",
     "linguistic_value": "high",
     "is_ethnographic": false,
     "gorila_ref": "4, p. 32",
-    "museum_inventory": "HM 1341"
+    "museum_inventory": "HM 1341",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "PK Za 12": {
     "id": "PK Za 12",
@@ -63701,18 +63924,23 @@
     "unicode_text": "𐘇𐘳𐘚𐙕𐘮𐘱𐄁𐘇𐘆𐘸𐘃𐝫\n𐝫𐘤𐝫𐘴𐘋𐝫\n𐝫𐘇𐝫𐘗𐄁𐘉𐘅𐘘𐘾𐝫𐄇𐝫𐘱𐘤𐄁\n𐘇𐘂𐘬𐘂𐝫𐘱𐝫𐘱𐘂𐘌",
     "words": [
       "a-ta-i-*301-wa-ja",
-      "a-di-ki-te",
-      "ra-me",
-      "a-ne",
-      "u-na-ru-ka-ja-si",
-      "a-pa-du-pa",
-      "ja-pa-qa"
+      "a-di-ki-te[",
+      "]ru[",
+      "]ra-me[",
+      "]a[",
+      "]ne",
+      "u-na-ru-ka[",
+      "]ja-si",
+      "a-pa-du[",
+      "]ja[",
+      "]ja-pa-qa"
     ],
     "word_source": "lineara",
     "linguistic_value": "high",
     "is_ethnographic": false,
     "gorila_ref": "4, p. 36",
-    "museum_inventory": "HM 942"
+    "museum_inventory": "HM 942",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "PK Za 14": {
     "id": "PK Za 14",
@@ -63725,14 +63953,15 @@
     "period": "",
     "unicode_text": "𐝫𐘹𐘋\n𐘚𐄁𐘱𐘞𐘞𐝫",
     "words": [
-      "tu-me",
-      "ja-sa-sa"
+      "]tu-me",
+      "ja-sa-sa["
     ],
     "word_source": "lineara",
     "linguistic_value": "high",
     "is_ethnographic": false,
     "gorila_ref": "4, p. 40",
-    "museum_inventory": "A. Nik. M. 2470"
+    "museum_inventory": "A. Nik. M. 2470",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "PK Za 15": {
     "id": "PK Za 15",
@@ -63745,13 +63974,14 @@
     "period": "",
     "unicode_text": "𐝫𐘱𐘆𐘸𐘃𐘃𐘬𐘜𐘙𐝫",
     "words": [
-      "ja-di-ki-te-te-du-pu2-re"
+      "]ja-di-ki-te-te-du-pu2-re["
     ],
     "word_source": "lineara",
     "linguistic_value": "high",
     "is_ethnographic": false,
     "gorila_ref": "4, p. 41",
-    "museum_inventory": "A. Nik. M. 2469"
+    "museum_inventory": "A. Nik. M. 2469",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "PK Za 16": {
     "id": "PK Za 16",
@@ -63764,14 +63994,15 @@
     "period": "",
     "unicode_text": "𐝫𐘄𐘞𐄁𐘜\n𐘙𐘱𐝫",
     "words": [
-      "to-sa",
-      "re-ja"
+      "]to-sa",
+      "re-ja["
     ],
     "word_source": "lineara",
     "linguistic_value": "high",
     "is_ethnographic": false,
     "gorila_ref": "4, p. 42",
-    "museum_inventory": "A. Nik. M. 7231"
+    "museum_inventory": "A. Nik. M. 7231",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "PK Za 17": {
     "id": "PK Za 17",
@@ -63784,13 +64015,14 @@
     "period": "",
     "unicode_text": "𐝫𐘚𐘀𐄁𐝫𐄁𐝫",
     "words": [
-      "i-da"
+      "]i-da"
     ],
     "word_source": "lineara",
     "linguistic_value": "high",
     "is_ethnographic": false,
     "gorila_ref": "4, p. 43",
-    "museum_inventory": "A. Nik. M. 7232"
+    "museum_inventory": "A. Nik. M. 7232",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "PK Za 18": {
     "id": "PK Za 18",
@@ -63803,14 +64035,16 @@
     "period": "",
     "unicode_text": "𐝫𐘃𐄁𐘚𐘀𐄁𐘱𐘱𐝫",
     "words": [
+      "]te",
       "i-da",
-      "ja-ja"
+      "ja-ja["
     ],
     "word_source": "lineara",
     "linguistic_value": "high",
     "is_ethnographic": false,
     "gorila_ref": "4, p. 44",
-    "museum_inventory": "A. Nik. M. 7233"
+    "museum_inventory": "A. Nik. M. 7233",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "PK Za 20": {
     "id": "PK Za 20",
@@ -63823,11 +64057,12 @@
     "period": "",
     "unicode_text": "𐝫𐘉𐘅𐘾𐝫",
     "words": [
-      "u-na-ka"
+      "]u-na-ka["
     ],
     "word_source": "lineara",
     "linguistic_value": "high",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "PK Za 27": {
     "id": "PK Za 27",
@@ -63845,7 +64080,8 @@
     ],
     "word_source": "lineara",
     "linguistic_value": "high",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "PK Za 28": {
     "id": "PK Za 28",
@@ -63858,11 +64094,13 @@
     "period": "",
     "unicode_text": "𐝫𐘜𐘙𐄁𐜶𐝫",
     "words": [
-      "pu2-re"
+      "]pu2-re",
+      "*418+l2["
     ],
     "word_source": "lineara",
     "linguistic_value": "high",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "PK Za 4": {
     "id": "PK Za 4",
@@ -63875,13 +64113,14 @@
     "period": "",
     "unicode_text": "𐘇𐘞𐘞𐘴𐝫",
     "words": [
-      "a-sa-sa-ra"
+      "a-sa-sa-ra["
     ],
     "word_source": "lineara",
     "linguistic_value": "high",
     "is_ethnographic": false,
     "gorila_ref": "4, p. 23",
-    "museum_inventory": "HM 504"
+    "museum_inventory": "HM 504",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "PK Za 8": {
     "id": "PK Za 8",
@@ -63894,17 +64133,20 @@
     "period": "",
     "unicode_text": "𐝫𐘯𐄁𐘰𐘡𐄁𐘱𐘆𐘸𐘃𐘃𐙛𐘜𐘙𐄁𐘹𐘋𐘚\n𐘱𐘞𐝫𐘉𐘅𐘾𐘅𐘤𐝫\n𐘚𐘢𐝫",
     "words": [
+      "]nu",
       "pa3-e",
       "ja-di-ki-te-te-*307-pu2-re",
       "tu-me-i",
-      "ja-sa-u-na-ka-na-si",
-      "i-pi"
+      "ja-sa[",
+      "]u-na-ka-na-si[",
+      "]i-pi["
     ],
     "word_source": "lineara",
     "linguistic_value": "high",
     "is_ethnographic": false,
     "gorila_ref": "4, p. 24",
-    "museum_inventory": "HM 618"
+    "museum_inventory": "HM 618",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "PK Za 9": {
     "id": "PK Za 9",
@@ -63917,13 +64159,15 @@
     "period": "",
     "unicode_text": "𐝫\n𐝫𐘱𐘉𐘂𐙁𐘚𐘀𐝫𐄁𐝫𐘆𐝫",
     "words": [
-      "ja-u-pa-ma-i-da"
+      "]ja-u-pa-ma-i-da[",
+      "]di["
     ],
     "word_source": "lineara",
     "linguistic_value": "high",
     "is_ethnographic": false,
     "gorila_ref": "4, p. 28",
-    "museum_inventory": "HM 1585"
+    "museum_inventory": "HM 1585",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "PK Zb 19": {
     "id": "PK Zb 19",
@@ -63936,11 +64180,12 @@
     "period": "",
     "unicode_text": "𐘈𐘤𐘳𐝫",
     "words": [
-      "se-si-ta"
+      "se-si-ta["
     ],
     "word_source": "lineara",
     "linguistic_value": "medium",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "PK Zb 21": {
     "id": "PK Zb 21",
@@ -63957,7 +64202,8 @@
     ],
     "word_source": "lineara",
     "linguistic_value": "medium",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "PK Zb 23": {
     "id": "PK Zb 23",
@@ -64006,7 +64252,8 @@
     ],
     "word_source": "lineara",
     "linguistic_value": "medium",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "PK Zb 26": {
     "id": "PK Zb 26",
@@ -64023,7 +64270,8 @@
     ],
     "word_source": "lineara",
     "linguistic_value": "medium",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "PK Zb ?": {
     "id": "PK Zb ?",
@@ -64036,13 +64284,15 @@
     "period": "",
     "unicode_text": "𐘇𐘰𐘆𐝫\n𐘙𐝁",
     "words": [
-      "a-pa3-di"
+      "a-pa3-di[",
+      "]re"
     ],
     "word_source": "lineara",
     "linguistic_value": "medium",
     "is_ethnographic": false,
     "siglum_status": "nonstandard, unresolved",
-    "siglum_note": "No held source (GORILA concordance, RILA-S1 notes, SigLA id) establishes a standard siglum."
+    "siglum_note": "No held source (GORILA concordance, RILA-S1 notes, SigLA id) establishes a standard siglum.",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "PK Zc 13": {
     "id": "PK Zc 13",
@@ -64055,14 +64305,15 @@
     "period": "",
     "unicode_text": "𐝫𐘯𐘭𐘱𐝫",
     "words": [
-      "nu-ri-ja"
+      "]nu-ri-ja["
     ],
     "word_source": "lineara",
     "linguistic_value": "medium",
     "is_ethnographic": false,
     "gorila_ref": "4, p. 127",
     "museum_inventory": "AM AE 902",
-    "gorila_dating": "MR I A"
+    "gorila_dating": "MR I A",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "PK Zg 22": {
     "id": "PK Zg 22",
@@ -64079,7 +64330,8 @@
     ],
     "word_source": "lineara",
     "linguistic_value": "low",
-    "is_ethnographic": true
+    "is_ethnographic": true,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "PL Zf 1": {
     "id": "PL Zf 1",
@@ -64094,18 +64346,21 @@
     "period": "",
     "unicode_text": "𐝫𐘳𐄁𐘣𐘃𐘱𐘕𐄁𐘉𐘿𐘠𐄁𐘱𐘞𐘞𐘴𐘋𐄁𐘳𐘯𐘝𐘸𐘅𐄁𐘝𐘯𐘝𐄁𐝫𐄁𐝫𐘚𐝫𐄁𐝫",
     "words": [
+      "]ta",
       "wi-te-ja-mu",
       "u-qe-ti",
       "ja-sa-sa-ra-me",
       "ta-nu-ni-ki-na",
-      "ni-nu-ni"
+      "ni-nu-ni",
+      "]i["
     ],
     "word_source": "lineara",
     "linguistic_value": "medium",
     "is_ethnographic": false,
     "gorila_ref": "4, p. 161",
     "museum_inventory": "HM 498",
-    "gorila_dating": "MR I"
+    "gorila_dating": "MR I",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "POR Zf 2": {
     "id": "POR Zf 2",
@@ -64122,7 +64377,8 @@
     ],
     "word_source": "lineara",
     "linguistic_value": "medium",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "POZ c1": {
     "id": "POZ c1",
@@ -64151,7 +64407,8 @@
       "period_source": "RILA-S1 introduction, period paragraph; research/rila-s1-english-digest-2026-08-13.md"
     },
     "siglum_status": "aliased",
-    "siglum_note": "RILA Supplement 1, write-back of 2026-09-18 (verification/private-writeback-2026-09-18.md)."
+    "siglum_note": "RILA Supplement 1, write-back of 2026-09-18 (verification/private-writeback-2026-09-18.md).",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "PR Za 1": {
     "id": "PR Za 1",
@@ -64166,7 +64423,8 @@
     "period": "LM IA",
     "unicode_text": "𐘳𐘅𐘲𐘃𐝫𐘥\n𐘈𐘄𐘚𐘱\n𐘇𐘞𐘞𐝢𐘋",
     "words": [
-      "ta-na-su-te-ke",
+      "ta-na-su-te[",
+      "]ke",
       "se-to-i-ja",
       "a-sa-sa-*802-me"
     ],
@@ -64175,7 +64433,8 @@
     "is_ethnographic": false,
     "gorila_ref": "4, p. 46",
     "museum_inventory": "HM 2444",
-    "gorila_dating": "MM III B - MR I A"
+    "gorila_dating": "MM III B - MR I A",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "PS IZa1": {
     "id": "PS IZa1",
@@ -64188,7 +64447,7 @@
     "period": "LM IB",
     "unicode_text": "𐙓𐘬𐘈𐝫",
     "words": [
-      "*188-du-se"
+      "*188-du-se["
     ],
     "word_source": "lineara",
     "linguistic_value": "high",
@@ -64211,7 +64470,8 @@
       }
     ],
     "siglum_status": "aliased",
-    "siglum_note": "RILA Supplement 1, write-back of 2026-09-18 (verification/private-writeback-2026-09-18.md)."
+    "siglum_note": "RILA Supplement 1, write-back of 2026-09-18 (verification/private-writeback-2026-09-18.md).",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "PS IZa2": {
     "id": "PS IZa2",
@@ -64515,11 +64775,13 @@
     "period": "",
     "unicode_text": "𐘠𐝫𐄁𐝫𐘚𐘤𐝯",
     "words": [
-      "i-si"
+      "ti[",
+      "]i-si["
     ],
     "word_source": "lineara",
     "linguistic_value": "medium",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "PYR Zb 5": {
     "id": "PYR Zb 5",
@@ -64532,11 +64794,12 @@
     "period": "LM I",
     "unicode_text": "𐝫𐘃𐘱𐝫",
     "words": [
-      "te-ja"
+      "]te-ja["
     ],
     "word_source": "lineara",
     "linguistic_value": "medium",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "SAM Wa 1": {
     "id": "SAM Wa 1",
@@ -64549,8 +64812,9 @@
     "period": "MM II",
     "unicode_text": "𐘱𐘞𐝫𐘞𐘴𐝫𐘃𐄐𐝇",
     "words": [
-      "ja-sa",
-      "sa-ra"
+      "ja-sa[",
+      "]sa-ra[",
+      "]te"
     ],
     "word_source": "lineara",
     "linguistic_value": "low",
@@ -64560,7 +64824,8 @@
       "period_certainty": "possible",
       "period_source": "RILA-S1 introduction, period paragraph; research/rila-s1-english-digest-2026-08-13.md",
       "period_note": "RILA-S1 siglum SA We 3, matched to this record by content in research/corpus-gap-verification-2026-08-02.md 3.6"
-    }
+    },
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "SAM We4": {
     "id": "SAM We4",
@@ -64605,7 +64870,8 @@
     "linguistic_value": "medium",
     "is_ethnographic": false,
     "siglum_status": "nonstandard, unresolved",
-    "siglum_note": "No held source (GORILA concordance, RILA-S1 notes, SigLA id) establishes a standard siglum."
+    "siglum_note": "No held source (GORILA concordance, RILA-S1 notes, SigLA id) establishes a standard siglum.",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "SIZ g1": {
     "id": "SIZ g1",
@@ -64618,7 +64884,8 @@
     "period": "",
     "unicode_text": "𐘇𐝫𐄁𐝫𐘀𐙈",
     "words": [
-      "da-*118"
+      "a[",
+      "]da-*118"
     ],
     "word_source": "lineara",
     "linguistic_value": "low",
@@ -64629,7 +64896,8 @@
       "SI Zg 1"
     ],
     "siglum_status": "aliased",
-    "siglum_note": "GORILA vol. 5, concordance generale (linear_a/data/gorila_concordances_full.json) prints SI Zg 1, at 4, p. 168, the same volume and page as this record's gorila_ref."
+    "siglum_note": "GORILA vol. 5, concordance generale (linear_a/data/gorila_concordances_full.json) prints SI Zg 1, at 4, p. 168, the same volume and page as this record's gorila_ref.",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "SK Zb 1": {
     "id": "SK Zb 1",
@@ -64642,13 +64910,14 @@
     "period": "",
     "unicode_text": "𐘇𐙁𐘴𐘗𐝫",
     "words": [
-      "a-ma-ra-ne"
+      "a-ma-ra-ne["
     ],
     "word_source": "lineara",
     "linguistic_value": "medium",
     "is_ethnographic": false,
     "gorila_ref": "4, p. 98",
-    "museum_inventory": "HM 1614"
+    "museum_inventory": "HM 1614",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "SKO Zc 1": {
     "id": "SKO Zc 1",
@@ -64661,8 +64930,8 @@
     "period": "",
     "unicode_text": "𐝫𐄁𐘅𐘹𐙕𐘗𐝫\n𐝫𐘌𐘸𐘠𐝫",
     "words": [
-      "na-tu-*301-ne",
-      "qa-ki-ti"
+      "na-tu-*301-ne[",
+      "]qa-ki-ti["
     ],
     "word_source": "lineara",
     "linguistic_value": "medium",
@@ -64670,7 +64939,8 @@
     "rila": {
       "companion_fragment": "SKO Zc 2",
       "companion_source": "RILA-S1 facsimile lemma; the two are fragments of one chalice under inventory Sko 187"
-    }
+    },
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "SY Za 1": {
     "id": "SY Za 1",
@@ -64685,15 +64955,17 @@
     "period": "MM IIIB",
     "unicode_text": "𐝫𐘇𐘳𐘚𐙕𐘮𐘱𐄁𐘚𐘀𐘻𐄁𐘱𐝫",
     "words": [
-      "a-ta-i-*301-wa-ja",
-      "i-da-mi"
+      "]a-ta-i-*301-wa-ja",
+      "i-da-mi",
+      "ja["
     ],
     "word_source": "lineara",
     "linguistic_value": "high",
     "is_ethnographic": false,
     "gorila_ref": "5, p. 62",
     "museum_inventory": "HM 3459",
-    "gorila_dating": "MM III B - MR I A"
+    "gorila_dating": "MM III B - MR I A",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "SY Za 10": {
     "id": "SY Za 10",
@@ -64710,7 +64982,8 @@
     ],
     "word_source": "lineara",
     "linguistic_value": "high",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "SY Za 11": {
     "id": "SY Za 11",
@@ -64723,11 +64996,12 @@
     "period": "LM IA",
     "unicode_text": "𐄁𐘁𐘌𐝫",
     "words": [
-      "ro-qa"
+      "ro-qa["
     ],
     "word_source": "lineara",
     "linguistic_value": "high",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "SY Za 12": {
     "id": "SY Za 12",
@@ -64765,7 +65039,8 @@
     "is_ethnographic": false,
     "gorila_ref": "5, p. 64",
     "museum_inventory": "HM 3429",
-    "gorila_dating": "MM III B - MR I A"
+    "gorila_dating": "MM III B - MR I A",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "SY Za 3": {
     "id": "SY Za 3",
@@ -64780,16 +65055,19 @@
     "period": "LM IA",
     "unicode_text": "𐘇𐘳𐘚𐙕𐘮𐝫𐘱𐝫𐘈𐘾𐘅𐘤𐝫𐘃𐝫𐘤𐘘𐘃",
     "words": [
-      "a-ta-i-*301-wa-ja",
-      "se-ka-na-si",
-      "si-ru-te"
+      "a-ta-i-*301-wa[",
+      "]ja[",
+      "]se-ka-na-si[",
+      "]te[",
+      "]si-ru-te"
     ],
     "word_source": "lineara",
     "linguistic_value": "high",
     "is_ethnographic": false,
     "gorila_ref": "5, p. 66",
     "museum_inventory": "HM 3757",
-    "gorila_dating": "MM III B - MR I A"
+    "gorila_dating": "MM III B - MR I A",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "SY Za 4": {
     "id": "SY Za 4",
@@ -64919,12 +65197,13 @@
     "period": "",
     "unicode_text": "𐝫𐘻𐘱𐄁𐘱𐘮𐘰𐝫",
     "words": [
-      "mi-ja",
-      "ja-wa-pa3"
+      "]mi-ja",
+      "ja-wa-pa3["
     ],
     "word_source": "lineara",
     "linguistic_value": "high",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "SY Za 6": {
     "id": "SY Za 6",
@@ -64941,7 +65220,8 @@
     ],
     "word_source": "lineara",
     "linguistic_value": "high",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "SY Za 8": {
     "id": "SY Za 8",
@@ -64954,12 +65234,14 @@
     "period": "LM IA",
     "unicode_text": "𐘇𐘳𐝫𐘚𐙕𐘮𐘱𐄁𐘱𐘱𐝫",
     "words": [
-      "a-ta-i-*301-wa-ja",
-      "ja-ja"
+      "a-ta[",
+      "]i-*301-wa-ja",
+      "ja-ja["
     ],
     "word_source": "lineara",
     "linguistic_value": "high",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "SY Za 9": {
     "id": "SY Za 9",
@@ -64976,7 +65258,8 @@
     ],
     "word_source": "lineara",
     "linguistic_value": "high",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "SY Zb 7": {
     "id": "SY Zb 7",
@@ -64989,11 +65272,12 @@
     "period": "",
     "unicode_text": "𐝫𐘴𐘸𐘝𐘈",
     "words": [
-      "ra-ki-ni-se"
+      "]ra-ki-ni-se"
     ],
     "word_source": "lineara",
     "linguistic_value": "medium",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "TEL Zb 1": {
     "id": "TEL Zb 1",
@@ -65010,7 +65294,8 @@
     ],
     "word_source": "lineara",
     "linguistic_value": "medium",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "THE 6": {
     "id": "THE 6",
@@ -65035,13 +65320,14 @@
     "period": "",
     "unicode_text": "𐝫𐘤𐘝𐝫",
     "words": [
-      "si-ni"
+      "]si-ni["
     ],
     "word_source": "lineara",
     "linguistic_value": "medium",
     "is_ethnographic": false,
     "gorila_ref": "4, p. 101",
-    "museum_inventory": "Phira M. AKR P7633"
+    "museum_inventory": "Phira M. AKR P7633",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "THE Zb 13": {
     "id": "THE Zb 13",
@@ -65055,11 +65341,13 @@
     "unicode_text": "𐘏𐛻𐄙𐄑𐘾𐘇𐘤𐝫𐘃𐄙𐄑",
     "words": [
       "qi-vin+te",
-      "ka-a-si-te"
+      "ka-a-si[",
+      "]te"
     ],
     "word_source": "lineara",
     "linguistic_value": "medium",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "THE Zb 15": {
     "id": "THE Zb 15",
@@ -65086,7 +65374,8 @@
         "their_source": "editio princeps Tzachili and Karnava, Minos 39, 2016, pages 27 to 40, figures 4 and 5; research/corpus-gap-verification-2026-08-02.md 3.2",
         "note": "The two readings agree on the numeral 2 and on three elements. They disagree on both syllabograms. Karnava states that only the first sign is readily recognisable and that A332 is the only close candidate for the second. RILA-S1 routes this object to the doubtful class as D 15, and THE Zb 14 is the same object under Del Freo's numbering. No reading is picked here."
       }
-    ]
+    ],
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "THE Zb 2": {
     "id": "THE Zb 2",
@@ -65106,7 +65395,8 @@
     "is_ethnographic": false,
     "gorila_ref": "4, p. 102",
     "museum_inventory": "NM —",
-    "gorila_dating": "MR I A"
+    "gorila_dating": "MR I A",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "THE Zb 3": {
     "id": "THE Zb 3",
@@ -65119,14 +65409,15 @@
     "period": "LM IA",
     "unicode_text": "𐘇𐘗𐝫",
     "words": [
-      "a-ne"
+      "a-ne["
     ],
     "word_source": "lineara",
     "linguistic_value": "medium",
     "is_ethnographic": false,
     "gorila_ref": "4, p. 103",
     "museum_inventory": "NM —",
-    "gorila_dating": "MR I A"
+    "gorila_dating": "MR I A",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "THE Zb 4": {
     "id": "THE Zb 4",
@@ -65139,14 +65430,15 @@
     "period": "LM IA",
     "unicode_text": "𐝫𐘇𐘙𐝫",
     "words": [
-      "a-re"
+      "]a-re["
     ],
     "word_source": "lineara",
     "linguistic_value": "medium",
     "is_ethnographic": false,
     "gorila_ref": "4, p. 104",
     "museum_inventory": "MSAkrotiri 136",
-    "gorila_dating": "MR I A"
+    "gorila_dating": "MR I A",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "THE Zb 5": {
     "id": "THE Zb 5",
@@ -65176,7 +65468,8 @@
     ],
     "word_source": "lineara",
     "linguistic_value": "medium",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "THE Zb 7": {
     "id": "THE Zb 7",
@@ -65193,7 +65486,8 @@
     ],
     "word_source": "lineara",
     "linguistic_value": "medium",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "THE Zg 15": {
     "id": "THE Zg 15",
@@ -65210,7 +65504,8 @@
     ],
     "word_source": "lineara",
     "linguistic_value": "low",
-    "is_ethnographic": true
+    "is_ethnographic": true,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "THE Zg 16": {
     "id": "THE Zg 16",
@@ -65232,7 +65527,8 @@
     "rila": {
       "unpublished_source": "RILA-S1 section on texts awaiting publication; research/rila-s1-reading-notes-2026-08-03.md section 6",
       "unpublished_note": "The record carries a reading, i-ki-ru-qe, for a text RILA-S1 states is still unpublished. The reading is not removed here."
-    }
+    },
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "THE Zg 5": {
     "id": "THE Zg 5",
@@ -65318,13 +65614,14 @@
     "period": "",
     "unicode_text": "𐝫𐄁𐘃𐘋𐘀𐘚𐝫",
     "words": [
-      "te-me-da-i"
+      "te-me-da-i["
     ],
     "word_source": "lineara",
     "linguistic_value": "high",
     "is_ethnographic": false,
     "siglum_status": "nonstandard, unresolved",
-    "siglum_note": "No held source (GORILA concordance, RILA-S1 notes, SigLA id) establishes a standard siglum."
+    "siglum_note": "No held source (GORILA concordance, RILA-S1 notes, SigLA id) establishes a standard siglum.",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "THE tab.6": {
     "id": "THE tab.6",
@@ -65352,11 +65649,12 @@
     "period": "",
     "unicode_text": "𐝫𐙕𐘤𐝫",
     "words": [
-      "*301-si"
+      "]*301-si["
     ],
     "word_source": "lineara",
     "linguistic_value": "medium",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "TL 1": {
     "id": "TL 1",
@@ -65386,16 +65684,17 @@
       "a-ta-i-*301-wa-ja",
       "o-su-qa-re",
       "ja-sa-sa-ra-me",
-      "u-na-ka-na",
-      "i-pi-na-ma",
-      "si-ru-te"
+      "u-na-ka-na-si[",
+      "]na-ma",
+      "si-ru["
     ],
     "word_source": "lineara",
     "linguistic_value": "high",
     "is_ethnographic": false,
     "gorila_ref": "4, p. 58",
     "museum_inventory": "HM 1545",
-    "gorila_dating": "MM III"
+    "gorila_dating": "MM III",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "TR Za 1": {
     "id": "TR Za 1",
@@ -65432,13 +65731,14 @@
     "period": "",
     "unicode_text": "𐝫𐘙𐘱𐝫",
     "words": [
-      "re-ja"
+      "]re-ja["
     ],
     "word_source": "lineara",
     "linguistic_value": "medium",
     "is_ethnographic": false,
     "gorila_ref": "4, p. 107",
-    "museum_inventory": "HM —"
+    "museum_inventory": "HM —",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "TRO Zg 1": {
     "id": "TRO Zg 1",
@@ -65455,7 +65755,8 @@
     ],
     "word_source": "lineara",
     "linguistic_value": "low",
-    "is_ethnographic": true
+    "is_ethnographic": true,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "TRO Zg 2": {
     "id": "TRO Zg 2",
@@ -65472,7 +65773,8 @@
     ],
     "word_source": "lineara",
     "linguistic_value": "low",
-    "is_ethnographic": true
+    "is_ethnographic": true,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "TRY Zb 1": {
     "id": "TRY Zb 1",
@@ -65485,12 +65787,13 @@
     "period": "",
     "unicode_text": "𐝫𐘗𐘻𐝫 ≈ 𐝫𐘻𐘗𐝫",
     "words": [
-      "ne-mi",
-      "mi-ne"
+      "]ne-mi[",
+      "]mi-ne["
     ],
     "word_source": "lineara",
     "linguistic_value": "medium",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "TY 2": {
     "id": "TY 2",
@@ -66313,7 +66616,8 @@
     "is_ethnographic": false,
     "gorila_ref": "4, p. 109",
     "museum_inventory": "HM 7304",
-    "gorila_dating": "MR I"
+    "gorila_dating": "MR I",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "TY Zg 1": {
     "id": "TY Zg 1",
@@ -66326,14 +66630,15 @@
     "period": "LM I",
     "unicode_text": "𐝫𐙁𐘘𐘇",
     "words": [
-      "ma-ru-a"
+      "]ma-ru-a"
     ],
     "word_source": "lineara",
     "linguistic_value": "low",
     "is_ethnographic": true,
     "gorila_ref": "4, p. 170",
     "museum_inventory": "HM 6585",
-    "gorila_dating": "MR I"
+    "gorila_dating": "MR I",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "VRY Za 1": {
     "id": "VRY Za 1",
@@ -66348,14 +66653,15 @@
     "period": "",
     "unicode_text": "𐝫𐘚𐘢𐘅𐙁\n𐘤𐘘𐘃𐄁𐝫",
     "words": [
-      "i-pi-na-ma",
+      "]i-pi-na-ma",
       "si-ru-te"
     ],
     "word_source": "lineara",
     "linguistic_value": "high",
     "is_ethnographic": false,
     "gorila_ref": "4, p. 61",
-    "museum_inventory": "Khania M."
+    "museum_inventory": "Khania M.",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "VRY Zb 2": {
     "id": "VRY Zb 2",
@@ -66372,7 +66678,8 @@
     ],
     "word_source": "lineara",
     "linguistic_value": "medium",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "VRY Zb 3": {
     "id": "VRY Zb 3",
@@ -66389,7 +66696,8 @@
     ],
     "word_source": "lineara",
     "linguistic_value": "medium",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "ZA 1": {
     "id": "ZA 1",
@@ -71088,7 +71396,8 @@
     "is_ethnographic": false,
     "gorila_ref": "4, p. 112",
     "museum_inventory": "HM —",
-    "gorila_dating": "MR I B"
+    "gorila_dating": "MR I B",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "ZA Zb 34": {
     "id": "ZA Zb 34",
@@ -71101,16 +71410,17 @@
     "period": "LM IB",
     "unicode_text": "𐝫𐘜𐘙𐘱𐄁𐘺𐘕𐄁𐘘𐘆𐝫",
     "words": [
-      "pu2-re-ja",
+      "]pu2-re-ja",
       "ko-mu",
-      "ru-di"
+      "ru-di["
     ],
     "word_source": "lineara",
     "linguistic_value": "high",
     "is_ethnographic": false,
     "gorila_ref": "4, p. 114",
     "museum_inventory": "HM —",
-    "gorila_dating": "MR I B"
+    "gorila_dating": "MR I B",
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "ZA Zb 39": {
     "id": "ZA Zb 39",
@@ -71148,12 +71458,13 @@
     "period": "LM IA",
     "unicode_text": "𐝫𐘋𐘻𐘱𐘘𐄁𐘈𐘮𐙄𐘦",
     "words": [
-      "me-mi-ja-ru",
+      "]me-mi-ja-ru",
       "se-wa-au-de"
     ],
     "word_source": "lineara",
     "linguistic_value": "medium",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "ZO 1": {
     "id": "ZO 1",
@@ -71165,12 +71476,11 @@
     "type": "tablet",
     "period": "",
     "unicode_text": "𐚩𐄚𐄐𐄍",
-    "words": [
-      "*409-vs"
-    ],
+    "words": [],
     "word_source": "lineara",
     "linguistic_value": "high",
-    "is_ethnographic": false
+    "is_ethnographic": false,
+    "word_layer": "lineara.xyz transcription (raw)"
   },
   "ZO Za 1": {
     "id": "ZO Za 1",

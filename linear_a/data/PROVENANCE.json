@@ -59,6 +59,11 @@
           "script": "linear_a/apply_sign_subscripts_2026-09-18.py",
           "command": "python3 linear_a/apply_sign_subscripts_2026-09-18.py /path/to/linear-a-private/references/inbox/sigla-refresh-2026-08-13/raw-document-pages-2026-08-14.tar.gz",
           "record": "verification/layer-check-2026-09-18.md"
+        },
+        {
+          "script": "linear_a/apply_lineara_raw_words_2026-10-15.py",
+          "command": "python3 linear_a/apply_lineara_raw_words_2026-10-15.py /path/to/mwenge--lineara.xyz",
+          "record": "verification/lineara-raw-words-2026-10-15.md"
         }
       ],
       "note": "The script that first built this file is not in this repository, so the file is hand-maintained here. Every later change is a dated post-pass script in linear_a/, listed in post_passes in the order it ran."
