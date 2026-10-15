@@ -1,0 +1,1828 @@
+{
+ "_about": "Hand corrections to corpus.json words, made from held printed editions. One entry per record. signs: the edition's transcription sign by sign (number = the edition's sign number, ab_id, value from signs.json phonetic, certainty: dotted = the edition dots the sign, restored = the edition restores it and it is not written in words). readings: alternatives, each labelled with who holds it; none is chosen. Words convention: ']' before / '[' after a word marks a lacuna at that edge; a trailing '?' on a value marks a sign the edition dots (the convention SigLA-sourced words already use). Applied by linear_a/apply_hand_corrections_2026-10-15.py.",
+ "date": "2026-10-15",
+ "corrections": [
+  {
+   "record": "PK Za 8",
+   "field": "words",
+   "register_row": 3,
+   "register": "a reader's register of differences, 2026-10-14 (held in the private companion repository)",
+   "old": [
+    "]nu",
+    "pa3-e",
+    "ja-di-ki-te-te-*307-pu2-re",
+    "tu-me-i",
+    "ja-sa[",
+    "]u-na-ka-na-si[",
+    "]i-pi["
+   ],
+   "new": [
+    "]nu",
+    "pa3-e?",
+    "ja-na-ki-te-te-du?-pu2?-re",
+    "tu-me-i",
+    "ja-sa[",
+    "]u-na-ka-na-si?[",
+    "i-pi?["
+   ],
+   "word_layer_new": "edition (hand correction 2026-10-15; see linear_a/data/corrections.json)",
+   "editions": [
+    {
+     "edition": "GORILA IV (Godart, Olivier 1982)",
+     "page": "26",
+     "what": "normalized copy, faces a, b, c",
+     "image": "private companion repository, research folder of the 2026-10-15 verification: crop-gorila-IV-p26-PKZa8-normalized.jpg"
+    },
+    {
+     "edition": "GORILA V (Godart, Olivier 1985), sign index",
+     "page": "150, 154, 158, 167, 170, 191, 198, 203, 205, 217, 225, 226, 228, 249",
+     "what": "every sequence as numbers",
+     "image": [
+      "private companion repository, research folder of the 2026-10-15 verification: crop-gorila-V-p150-index-04-PKZa8-PKZa11-IOZa2.jpg",
+      "private companion repository, research folder of the 2026-10-15 verification: crop-gorila-V-index-PKZa8-a.jpg",
+      "private companion repository, research folder of the 2026-10-15 verification: crop-gorila-V-index-PKZa8-b-c.jpg",
+      "private companion repository, research folder of the 2026-10-15 verification: crop-gorila-V-p225-index-55-PKZa8a.jpg"
+     ]
+    }
+   ],
+   "signs": [
+    {
+     "pos": 1,
+     "number": "55",
+     "ab_id": "AB55",
+     "value": "nu",
+     "certainty": "certain",
+     "lacuna_before": true,
+     "lacuna_after": false,
+     "divider_after": true,
+     "line": "a"
+    },
+    {
+     "pos": 2,
+     "number": "56",
+     "ab_id": "AB56",
+     "value": "pa3",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": "a"
+    },
+    {
+     "pos": 3,
+     "number": "38",
+     "ab_id": "AB38",
+     "value": "e",
+     "certainty": "dotted (doubtful)",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": true,
+     "line": "a"
+    },
+    {
+     "pos": 4,
+     "number": "57",
+     "ab_id": "AB57",
+     "value": "ja",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": "a"
+    },
+    {
+     "pos": 5,
+     "number": "06",
+     "ab_id": "AB06",
+     "value": "na",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": "a"
+    },
+    {
+     "pos": 6,
+     "number": "67",
+     "ab_id": "AB67",
+     "value": "ki",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": "a"
+    },
+    {
+     "pos": 7,
+     "number": "04",
+     "ab_id": "AB04",
+     "value": "te",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": "a"
+    },
+    {
+     "pos": 8,
+     "number": "04",
+     "ab_id": "AB04",
+     "value": "te",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": "a"
+    },
+    {
+     "pos": 9,
+     "number": "51",
+     "ab_id": "AB51",
+     "value": "du",
+     "certainty": "dotted (doubtful)",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": "a"
+    },
+    {
+     "pos": 10,
+     "number": "29",
+     "ab_id": "AB29",
+     "value": "pu2",
+     "certainty": "dotted (doubtful)",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": "a"
+    },
+    {
+     "pos": 11,
+     "number": "27",
+     "ab_id": "AB27",
+     "value": "re",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": true,
+     "line": "a"
+    },
+    {
+     "pos": 12,
+     "number": "69",
+     "ab_id": "AB69",
+     "value": "tu",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": "a"
+    },
+    {
+     "pos": 13,
+     "number": "13",
+     "ab_id": "AB13",
+     "value": "me",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": "a"
+    },
+    {
+     "pos": 14,
+     "number": "28",
+     "ab_id": "AB28",
+     "value": "i",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": "a"
+    },
+    {
+     "pos": 1,
+     "number": "57",
+     "ab_id": "AB57",
+     "value": "ja",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": "b"
+    },
+    {
+     "pos": 2,
+     "number": "31",
+     "ab_id": "AB31",
+     "value": "sa",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": true,
+     "divider_after": false,
+     "line": "b"
+    },
+    {
+     "lost": "GORILA prints a blank stretch between JA-SA[ and ]U; what it holds is not stated",
+     "line": "b"
+    },
+    {
+     "pos": 3,
+     "number": "10",
+     "ab_id": "AB10",
+     "value": "u",
+     "certainty": "certain",
+     "lacuna_before": true,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": "b"
+    },
+    {
+     "pos": 4,
+     "number": "06",
+     "ab_id": "AB06",
+     "value": "na",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": "b"
+    },
+    {
+     "pos": 5,
+     "number": "77",
+     "ab_id": "AB77",
+     "value": "ka",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": "b"
+    },
+    {
+     "pos": 6,
+     "number": "06",
+     "ab_id": "AB06",
+     "value": "na",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": "b"
+    },
+    {
+     "pos": 7,
+     "number": "41",
+     "ab_id": "AB41",
+     "value": "si",
+     "certainty": "dotted (doubtful)",
+     "lacuna_before": false,
+     "lacuna_after": true,
+     "divider_after": false,
+     "line": "b"
+    },
+    {
+     "lost": "[ ] closing lacuna; GORILA prints dots under the [ and the ] as well",
+     "line": "b"
+    },
+    {
+     "pos": 1,
+     "number": "28",
+     "ab_id": "AB28",
+     "value": "i",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": "c"
+    },
+    {
+     "pos": 2,
+     "number": "39",
+     "ab_id": "AB39",
+     "value": "pi",
+     "certainty": "dotted (doubtful)",
+     "lacuna_before": false,
+     "lacuna_after": true,
+     "divider_after": false,
+     "line": "c"
+    }
+   ],
+   "readings": [
+    {
+     "held_by": "GORILA IV p. 26 apparatus ('pas exclu') and GORILA V p. 150 index, asterisked row",
+     "words_changed": {
+      "ja-na-ki-te-te-du?-pu2?-re": "ja-na-ki-te-te-ku?-pu2?-re"
+     },
+     "numbers": "57-06-67-04-04-81-29-27, dots under 81 and 29"
+    },
+    {
+     "held_by": "Godart, Olivier, Minos 37-38 (2002-2003) p. 446, citing PK Za 8 in passing (not an edition of the text)",
+     "numbers": "AB 57-31-31[-60] 10-06-77-06-41[",
+     "note": "face b read as JA-SA-SA[ with RA restored, against GORILA's JA-SA[ and ]U-NA-KA-NA-SI[. Recorded as theirs; not used for words."
+    }
+   ],
+   "unsettled": [
+    "GORILA dots the [ after SI and the closing ] on face b; the page does not say what a dot under a bracket means.",
+    "The GORILA V index lists PK Za 8b under 10-06-77-06-41 (no dot under 41, no brackets) with a dot under the face letter b; GORILA V p. 137 says dots under any character are critical marks and that the full edition is to be preferred at the least doubt, so the dot on SI is taken from GORILA IV p. 26.",
+    "GORILA writes -[ after JA-SA and after I-PI (index 57-31-[, 28-39-[: a dash before the bracket counts as a lost sign, GORILA V p. 137); the words field writes only [ (the branch convention). The distinction is kept here, not in words.",
+    "lineara.xyz's DI (position 2) and *307 (position 6) are Valerio's emendation via Younger and lineara.xyz's own sign; neither is in GORILA."
+   ]
+  },
+  {
+   "record": "PK Za 27",
+   "field": "words",
+   "register_row": 5,
+   "register": "a reader's register of differences, 2026-10-14 (held in the private companion repository)",
+   "old": [
+    "ja-sa-sa-ra-me",
+    "u-na-ka-na-si"
+   ],
+   "new": [
+    "ja-sa?-sa?-ra-me",
+    "u?-na-ka["
+   ],
+   "word_layer_new": "edition (hand correction 2026-10-15; see linear_a/data/corrections.json)",
+   "editions": [
+    {
+     "edition": "RILA Supplement 1 (Del Freo, Zurbach 2024)",
+     "page": "80",
+     "what": "transcription .a, .b and .a-b, apparatus; index pp. 247-256 (PDF)",
+     "image": "private companion repository, research folder of the 2026-10-15 verification: crop-rila-s1-p80-PKZa27.jpg"
+    }
+   ],
+   "signs": [
+    {
+     "pos": 1,
+     "number": "57",
+     "ab_id": "AB57",
+     "value": "ja",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": "a-b"
+    },
+    {
+     "pos": 2,
+     "number": "31",
+     "ab_id": "AB31",
+     "value": "sa",
+     "certainty": "dotted (doubtful)",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": "a-b"
+    },
+    {
+     "pos": 3,
+     "number": "31",
+     "ab_id": "AB31",
+     "value": "sa",
+     "certainty": "dotted (doubtful)",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": "a-b"
+    },
+    {
+     "pos": 4,
+     "number": "60",
+     "ab_id": "AB60",
+     "value": "ra",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": "a-b"
+    },
+    {
+     "pos": 5,
+     "number": "13",
+     "ab_id": "AB13",
+     "value": "me",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": true,
+     "line": "a-b"
+    },
+    {
+     "pos": 6,
+     "number": "10",
+     "ab_id": "AB10",
+     "value": "u",
+     "certainty": "dotted (doubtful)",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": "a-b"
+    },
+    {
+     "pos": 7,
+     "number": "06",
+     "ab_id": "AB06",
+     "value": "na",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": "a-b"
+    },
+    {
+     "pos": 8,
+     "number": "77",
+     "ab_id": "AB77",
+     "value": "ka",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": true,
+     "divider_after": false,
+     "line": "a-b"
+    }
+   ],
+   "readings": [
+    {
+     "held_by": "RILA Supplement 1 p. 80 apparatus ('presque certainement'); RILA-S1 index, asterisked row",
+     "words_changed": {
+      "u?-na-ka[": "u?-na-ka-na?["
+     },
+     "numbers": "10-06-77-06[-41 (SI restored, not written)"
+    }
+   ],
+   "unsettled": [
+    "The register cites Knappett, Del Freo, Zurbach, SMEA NS 3 (2017) p. 78, not held. That edition's dots could not be checked; RILA-S1 dots both SA and U.",
+    "The lacuna before the first word is followed by a divider, so JA-SA-SA-RA-ME carries no edge mark."
+   ]
+  },
+  {
+   "record": "PK Za 28",
+   "field": "words",
+   "register_row": 6,
+   "register": "a reader's register of differences, 2026-10-14 (held in the private companion repository)",
+   "old": [
+    "]pu2-re",
+    "*418+l2["
+   ],
+   "new": [
+    "]pu2-re"
+   ],
+   "word_layer_new": "edition (hand correction 2026-10-15; see linear_a/data/corrections.json)",
+   "editions": [
+    {
+     "edition": "RILA Supplement 1 (Del Freo, Zurbach 2024)",
+     "page": "81",
+     "what": "transcription and apparatus; index (PDF pp. 251, 252, 256)",
+     "image": "private companion repository, research folder of the 2026-10-15 verification: crop-rila-s1-p81-PKZa28.jpg"
+    }
+   ],
+   "signs": [
+    {
+     "lost": "]- one or more lost signs (a dash after the bracket)",
+     "line": ""
+    },
+    {
+     "pos": 1,
+     "number": "29",
+     "ab_id": "AB29",
+     "value": "pu2",
+     "certainty": "certain",
+     "lacuna_before": true,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": ""
+    },
+    {
+     "pos": 2,
+     "number": "27",
+     "ab_id": "AB27",
+     "value": "re",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": true,
+     "line": ""
+    },
+    {
+     "lost": "[.][ one unidentified sign between lacunae",
+     "line": ""
+    }
+   ],
+   "readings": [
+    {
+     "held_by": "RILA Supplement 1 p. 81 apparatus ('probable', cf. PK Za 8a and 15); RILA-S1 index, asterisked row",
+     "words_changed": {
+      "]pu2-re": "]du?-pu2-re"
+     },
+     "numbers": "]51-29-27"
+    }
+   ],
+   "unsettled": [
+    "The last sign is printed as [.] (unidentified). The apparatus draws one candidate 'pas impossible' and two 'peu vraisemblables' but gives no sign numbers for them; which signs they are was not determined from the page. No word is written for it.",
+    "The register cites Del Freo, Zurbach in Megistos Kouros pp. 128-131, not held."
+   ]
+  },
+  {
+   "record": "IO Za 2",
+   "field": "words",
+   "register_row": 9,
+   "register": "a reader's register of differences, 2026-10-14 (held in the private companion repository)",
+   "old": [
+    "a-ta-i-*301-wa-ja",
+    "ja-di-ki-tu-tu",
+    "ja-sa-sa-ra[",
+    "]me",
+    "u-na-ka-na[",
+    "]si[",
+    "]i-pi-na-ma",
+    "si-ru-te",
+    "ta-na-ra-te-u-ti-nu",
+    "i["
+   ],
+   "new": [
+    "a-ta-i-*301-wa-ja",
+    "ja-di-ki-tu",
+    "ja-sa-sa-ra[",
+    "]si",
+    "i-pi-na-ma",
+    "si-ru-te",
+    "ta-na-ra-te-u-ti-nu",
+    "i-da["
+   ],
+   "word_layer_new": "edition (hand correction 2026-10-15; see linear_a/data/corrections.json)",
+   "editions": [
+    {
+     "edition": "GORILA V (Godart, Olivier 1985)",
+     "page": "19",
+     "what": "normalized copy, lines .1 and .2 (printed vertically)",
+     "image": [
+      "private companion repository, research folder of the 2026-10-15 verification: crop-gorila-V-p19-IOZa2-normalized-1.jpg",
+      "private companion repository, research folder of the 2026-10-15 verification: crop-gorila-V-p19-IOZa2-normalized-2.jpg",
+      "private companion repository, research folder of the 2026-10-15 verification: crop-gorila-V-p19-IOZa2-normalized-3.jpg"
+     ]
+    },
+    {
+     "edition": "GORILA V (Godart, Olivier 1985), sign index",
+     "page": "142, 150, 151, 155, 158, 167, 170, 188, 190, 204",
+     "what": "every sequence as numbers",
+     "image": [
+      "private companion repository, research folder of the 2026-10-15 verification: crop-gorila-V-index-IOZa2.jpg",
+      "private companion repository, research folder of the 2026-10-15 verification: crop-gorila-V-p158-index-07-IOZa2b.jpg"
+     ]
+    }
+   ],
+   "signs": [
+    {
+     "pos": 1,
+     "number": "08",
+     "ab_id": "AB08",
+     "value": "a",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": ".1"
+    },
+    {
+     "pos": 2,
+     "number": "59",
+     "ab_id": "AB59",
+     "value": "ta",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": ".1"
+    },
+    {
+     "pos": 3,
+     "number": "28",
+     "ab_id": "AB28",
+     "value": "i",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": ".1"
+    },
+    {
+     "pos": 4,
+     "number": "301",
+     "ab_id": "A301",
+     "value": "*301",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": ".1"
+    },
+    {
+     "pos": 5,
+     "number": "54",
+     "ab_id": "AB54",
+     "value": "wa",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": ".1"
+    },
+    {
+     "pos": 6,
+     "number": "57",
+     "ab_id": "AB57",
+     "value": "ja",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": true,
+     "line": ".1"
+    },
+    {
+     "pos": 7,
+     "number": "57",
+     "ab_id": "AB57",
+     "value": "ja",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": ".1"
+    },
+    {
+     "pos": 8,
+     "number": "07",
+     "ab_id": "AB07",
+     "value": "di",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": ".1"
+    },
+    {
+     "pos": 9,
+     "number": "67",
+     "ab_id": "AB67",
+     "value": "ki",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": ".1"
+    },
+    {
+     "pos": 10,
+     "number": "69",
+     "ab_id": "AB69",
+     "value": "tu",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": true,
+     "line": ".1"
+    },
+    {
+     "pos": 11,
+     "number": "57",
+     "ab_id": "AB57",
+     "value": "ja",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": ".1"
+    },
+    {
+     "pos": 12,
+     "number": "31",
+     "ab_id": "AB31",
+     "value": "sa",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": ".1"
+    },
+    {
+     "pos": 13,
+     "number": "31",
+     "ab_id": "AB31",
+     "value": "sa",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": ".1"
+    },
+    {
+     "pos": 14,
+     "number": "60",
+     "ab_id": "AB60",
+     "value": "ra",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": ".1"
+    },
+    {
+     "pos": 15,
+     "number": "13",
+     "ab_id": "AB13",
+     "value": "me",
+     "certainty": "restored (not written)",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": true,
+     "line": ".1"
+    },
+    {
+     "pos": 16,
+     "number": "10",
+     "ab_id": "AB10",
+     "value": "u",
+     "certainty": "restored (not written)",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": ".1"
+    },
+    {
+     "pos": 17,
+     "number": "06",
+     "ab_id": "AB06",
+     "value": "na",
+     "certainty": "restored (not written)",
+     "lacuna_before": true,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": ".1"
+    },
+    {
+     "pos": 18,
+     "number": "77",
+     "ab_id": "AB77",
+     "value": "ka",
+     "certainty": "restored (not written)",
+     "lacuna_before": true,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": ".1"
+    },
+    {
+     "pos": 19,
+     "number": "06",
+     "ab_id": "AB06",
+     "value": "na",
+     "certainty": "restored (not written)",
+     "lacuna_before": true,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": ".1"
+    },
+    {
+     "pos": 20,
+     "number": "41",
+     "ab_id": "AB41",
+     "value": "si",
+     "certainty": "certain",
+     "lacuna_before": true,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": ".1"
+    },
+    {
+     "lost": "half brackets enclosing an empty space",
+     "line": ".1"
+    },
+    {
+     "pos": 21,
+     "number": "28",
+     "ab_id": "AB28",
+     "value": "i",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": ".1"
+    },
+    {
+     "pos": 22,
+     "number": "39",
+     "ab_id": "AB39",
+     "value": "pi",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": ".1"
+    },
+    {
+     "pos": 23,
+     "number": "06",
+     "ab_id": "AB06",
+     "value": "na",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": ".1"
+    },
+    {
+     "pos": 24,
+     "number": "80",
+     "ab_id": "AB80",
+     "value": "ma",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": true,
+     "line": ".1"
+    },
+    {
+     "pos": 1,
+     "number": "41",
+     "ab_id": "AB41",
+     "value": "si",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": ".2"
+    },
+    {
+     "pos": 2,
+     "number": "26",
+     "ab_id": "AB26",
+     "value": "ru",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": ".2"
+    },
+    {
+     "pos": 3,
+     "number": "04",
+     "ab_id": "AB04",
+     "value": "te",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": true,
+     "line": ".2"
+    },
+    {
+     "pos": 4,
+     "number": "59",
+     "ab_id": "AB59",
+     "value": "ta",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": ".2"
+    },
+    {
+     "pos": 5,
+     "number": "06",
+     "ab_id": "AB06",
+     "value": "na",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": ".2"
+    },
+    {
+     "pos": 6,
+     "number": "60",
+     "ab_id": "AB60",
+     "value": "ra",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": ".2"
+    },
+    {
+     "pos": 7,
+     "number": "04",
+     "ab_id": "AB04",
+     "value": "te",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": ".2"
+    },
+    {
+     "pos": 8,
+     "number": "10",
+     "ab_id": "AB10",
+     "value": "u",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": ".2"
+    },
+    {
+     "pos": 9,
+     "number": "37",
+     "ab_id": "AB37",
+     "value": "ti",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": ".2"
+    },
+    {
+     "pos": 10,
+     "number": "55",
+     "ab_id": "AB55",
+     "value": "nu",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": true,
+     "line": ".2"
+    },
+    {
+     "pos": 11,
+     "number": "28",
+     "ab_id": "AB28",
+     "value": "i",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": ".2"
+    },
+    {
+     "pos": 12,
+     "number": "01",
+     "ab_id": "AB01",
+     "value": "da",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": true,
+     "divider_after": false,
+     "line": ".2"
+    }
+   ],
+   "readings": [
+    {
+     "held_by": "Godart, Olivier, Minos 37-38 (2002-2003) p. 446, citing IO Za 2",
+     "numbers": "AB 57-31-31-60[-13 and AB 10-06-77-06-]41",
+     "note": "the same as GORILA."
+    }
+   ],
+   "unsettled": [
+    "Between SI and I-PI-NA-MA the normalized copy prints a pair of half brackets enclosing an empty space; GORILA V p. 19 does not say what they enclose. The index treats I-PI-NA-MA as its own sequence (28-39-06-80, IO Za 2d.1).",
+    "GORILA prints one TU in JA-DI-KI-TU (index 57-07-67-69, IO Za 2b.1); lineara.xyz's raw layer has two.",
+    "The last sign of .2 is DA (01) in the index (28-01-[, IO Za 2b-c.2); the normalized copy prints it undotted."
+   ]
+  },
+  {
+   "record": "IO Za 9",
+   "field": "words",
+   "register_row": 10,
+   "register": "a reader's register of differences, 2026-10-14 (held in the private companion repository)",
+   "old": [
+    "ja-sa-sa[",
+    "]ra-me",
+    "u-na-ka[",
+    "]na-si"
+   ],
+   "new": [
+    "u?-na-ka[",
+    "ja-sa-sa["
+   ],
+   "word_layer_new": "edition (hand correction 2026-10-15; see linear_a/data/corrections.json)",
+   "editions": [
+    {
+     "edition": "GORILA V (Godart, Olivier 1985)",
+     "page": "33",
+     "what": "facsimile (with a leftward arrow under ]JA-SA-SA) and normalized copy",
+     "image": "private companion repository, research folder of the 2026-10-15 verification: crop-gorila-V-p33-IOZa9.jpg"
+    },
+    {
+     "edition": "GORILA V (Godart, Olivier 1985), sign index",
+     "page": "155, 167, 197, 228, 258",
+     "what": "10-06-77-[-06-41 with dots under 10; 57-31-31-[",
+     "image": "private companion repository, research folder of the 2026-10-15 verification: crop-gorila-V-index-PKZa8-b-c.jpg"
+    }
+   ],
+   "signs": [
+    {
+     "pos": 1,
+     "number": "10",
+     "ab_id": "AB10",
+     "value": "u",
+     "certainty": "dotted (doubtful)",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": "1"
+    },
+    {
+     "pos": 2,
+     "number": "06",
+     "ab_id": "AB06",
+     "value": "na",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": "1"
+    },
+    {
+     "pos": 3,
+     "number": "77",
+     "ab_id": "AB77",
+     "value": "ka",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": "1"
+    },
+    {
+     "pos": 4,
+     "number": "06",
+     "ab_id": "AB06",
+     "value": "na",
+     "certainty": "restored (not written)",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": "1"
+    },
+    {
+     "pos": 5,
+     "number": "41",
+     "ab_id": "AB41",
+     "value": "si",
+     "certainty": "restored (not written)",
+     "lacuna_before": true,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": "1"
+    },
+    {
+     "pos": 1,
+     "number": "57",
+     "ab_id": "AB57",
+     "value": "ja",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": "2"
+    },
+    {
+     "pos": 2,
+     "number": "31",
+     "ab_id": "AB31",
+     "value": "sa",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": "2"
+    },
+    {
+     "pos": 3,
+     "number": "31",
+     "ab_id": "AB31",
+     "value": "sa",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": "2"
+    },
+    {
+     "pos": 4,
+     "number": "60",
+     "ab_id": "AB60",
+     "value": "ra",
+     "certainty": "restored (not written)",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": "2"
+    },
+    {
+     "pos": 5,
+     "number": "13",
+     "ab_id": "AB13",
+     "value": "me",
+     "certainty": "restored (not written)",
+     "lacuna_before": true,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": "2"
+    }
+   ],
+   "readings": [],
+   "unsettled": [
+    "The two words start from one divider and run in opposite directions on the object (facsimile arrow). GORILA's normalized copy prints U-NA-KA-[NA-SI first and JA-SA-SA-[RA-ME second; words follow that order.",
+    "Godart, Olivier 2003 p. 446 n. 31 refer to a 'divergent' reading of this inscription in Kadmos p. 127, not held: not checked."
+   ]
+  },
+  {
+   "record": "IO Za 16",
+   "field": "words",
+   "register_row": 8,
+   "register": "a reader's register of differences, 2026-10-14 (held in the private companion repository)",
+   "old": [
+    "]arom",
+    "ja-sa-sa-ra",
+    "u-na-ru-ka[",
+    "]na-si"
+   ],
+   "new": [
+    "]*123",
+    "ja-sa-sa-ra-me?",
+    "u-na-ru-ka["
+   ],
+   "word_layer_new": "edition (hand correction 2026-10-15; see linear_a/data/corrections.json)",
+   "editions": [
+    {
+     "edition": "Karetsou, Godart, Olivier, Minos 37-38 (2002-2003)",
+     "page": "443, 445-446 n. 26",
+     "what": "transnumeration a-b; commentary on *123",
+     "image": "private companion repository, research folder of the 2026-10-15 verification: crop-godart-olivier-2003-p443-IOZa16.jpg"
+    },
+    {
+     "edition": "RILA Supplement 1 (Del Freo, Zurbach 2024)",
+     "page": "77",
+     "what": "transcription .a, .b, .a-b; index 10-06-26-77[ and 57-31-31-60-13 IO Za 16a-b",
+     "image": "private companion repository, research folder of the 2026-10-15 verification: crop-rila-s1-p77-IOZa16.jpg"
+    }
+   ],
+   "signs": [
+    {
+     "pos": 1,
+     "number": "123",
+     "ab_id": "AB123",
+     "value": "*123",
+     "certainty": "certain",
+     "lacuna_before": true,
+     "lacuna_after": false,
+     "divider_after": true,
+     "line": "a-b"
+    },
+    {
+     "pos": 2,
+     "number": "57",
+     "ab_id": "AB57",
+     "value": "ja",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": "a-b"
+    },
+    {
+     "pos": 3,
+     "number": "31",
+     "ab_id": "AB31",
+     "value": "sa",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": "a-b"
+    },
+    {
+     "pos": 4,
+     "number": "31",
+     "ab_id": "AB31",
+     "value": "sa",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": "a-b"
+    },
+    {
+     "pos": 5,
+     "number": "60",
+     "ab_id": "AB60",
+     "value": "ra",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": "a-b"
+    },
+    {
+     "pos": 6,
+     "number": "13",
+     "ab_id": "AB13",
+     "value": "me",
+     "certainty": "dotted (doubtful)",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": true,
+     "line": "a-b"
+    },
+    {
+     "pos": 7,
+     "number": "10",
+     "ab_id": "AB10",
+     "value": "u",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": "a-b"
+    },
+    {
+     "pos": 8,
+     "number": "06",
+     "ab_id": "AB06",
+     "value": "na",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": "a-b"
+    },
+    {
+     "pos": 9,
+     "number": "26",
+     "ab_id": "AB26",
+     "value": "ru",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": "a-b"
+    },
+    {
+     "pos": 10,
+     "number": "77",
+     "ab_id": "AB77",
+     "value": "ka",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": true,
+     "divider_after": false,
+     "line": "a-b"
+    }
+   ],
+   "readings": [],
+   "unsettled": [
+    "Both editions agree. *123 is written as *123 (no syllabic value); the editors ask whether it is a logogram here and answer 'non' (p. 445-446 n. 26), and say it 'probably' ends a group whose start is lost.",
+    "ME is on face b, JA-SA-SA-RA on face a; both editions print one word across the corner."
+   ]
+  },
+  {
+   "record": "SY Za 2",
+   "field": "words",
+   "register_row": 13,
+   "register": "a reader's register of differences, 2026-10-14 (held in the private companion repository)",
+   "old": [
+    "a-ta-i-*301-wa-ja",
+    "ja-su-ma-tu-oliv",
+    "u-na-ka-na-si-ole",
+    "a-ja"
+   ],
+   "new": [
+    "a-ta-i-*301-wa-ja",
+    "ja-su-ma-tu",
+    "u-na-ka-na-si",
+    "a-ja"
+   ],
+   "word_layer_new": "edition (hand correction 2026-10-15; see linear_a/data/corrections.json)",
+   "editions": [
+    {
+     "edition": "GORILA V (Godart, Olivier 1985)",
+     "page": "65",
+     "what": "facsimile, tabular copy, apparatus",
+     "image": [
+      "private companion repository, research folder of the 2026-10-15 verification: crop-gorila-V-p65-SYZa2-full.jpg",
+      "private companion repository, research folder of the 2026-10-15 verification: crop-gorila-V-p65-SYZa2-normalized.jpg"
+     ]
+    },
+    {
+     "edition": "GORILA V (Godart, Olivier 1985), sign index",
+     "page": "154, 155, 162, 209, 229, 258, 276, 284",
+     "what": "57-58-80-69 (SY Za 2a); 10-06-77-06-41 (SY Za 2b); 08-57 (SY Za 2d); AB 122 and A 302 each under rubric A [4] (isolated, logogram)",
+     "image": [
+      "private companion repository, research folder of the 2026-10-15 verification: crop-gorila-V-index-SYZa2.jpg",
+      "private companion repository, research folder of the 2026-10-15 verification: gorila-pages/GORILA-V-p284-scan336-index-302.jpg"
+     ]
+    }
+   ],
+   "signs": [
+    {
+     "pos": 1,
+     "number": "08",
+     "ab_id": "AB08",
+     "value": "a",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": "a"
+    },
+    {
+     "pos": 2,
+     "number": "59",
+     "ab_id": "AB59",
+     "value": "ta",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": "a"
+    },
+    {
+     "pos": 3,
+     "number": "28",
+     "ab_id": "AB28",
+     "value": "i",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": "a"
+    },
+    {
+     "pos": 4,
+     "number": "301",
+     "ab_id": "A301",
+     "value": "*301",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": "a"
+    },
+    {
+     "pos": 5,
+     "number": "54",
+     "ab_id": "AB54",
+     "value": "wa",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": "a"
+    },
+    {
+     "pos": 6,
+     "number": "57",
+     "ab_id": "AB57",
+     "value": "ja",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": true,
+     "line": "a"
+    },
+    {
+     "pos": 7,
+     "number": "57",
+     "ab_id": "AB57",
+     "value": "ja",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": "a"
+    },
+    {
+     "pos": 8,
+     "number": "58",
+     "ab_id": "AB58",
+     "value": "su",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": "a"
+    },
+    {
+     "pos": 9,
+     "number": "80",
+     "ab_id": "AB80",
+     "value": "ma",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": "a"
+    },
+    {
+     "pos": 10,
+     "number": "69",
+     "ab_id": "AB69",
+     "value": "tu",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": "a"
+    },
+    {
+     "lost": "OLIV (AB 122), set apart in the tabular copy and dotted there, then a short stroke",
+     "line": "a"
+    },
+    {
+     "pos": 1,
+     "number": "10",
+     "ab_id": "AB10",
+     "value": "u",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": "b"
+    },
+    {
+     "pos": 2,
+     "number": "06",
+     "ab_id": "AB06",
+     "value": "na",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": "b"
+    },
+    {
+     "pos": 3,
+     "number": "77",
+     "ab_id": "AB77",
+     "value": "ka",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": "b"
+    },
+    {
+     "pos": 4,
+     "number": "06",
+     "ab_id": "AB06",
+     "value": "na",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": "b"
+    },
+    {
+     "pos": 5,
+     "number": "41",
+     "ab_id": "AB41",
+     "value": "si",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": "b"
+    },
+    {
+     "lost": "OLE (A 302), set apart in the right-hand column, undotted; apparatus 'b dernier signe curieusement rattache a' SI",
+     "line": "b"
+    },
+    {
+     "pos": 1,
+     "number": "08",
+     "ab_id": "AB08",
+     "value": "a",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": "d"
+    },
+    {
+     "pos": 2,
+     "number": "57",
+     "ab_id": "AB57",
+     "value": "ja",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": "d"
+    }
+   ],
+   "readings": [
+    {
+     "held_by": "Godart, Olivier, Minos 37-38 (2002-2003) p. 445-446 n. 26",
+     "note": "AB 122 in SY Za 2.a 'pourrait' be the phonogram AB 27 (re); A 302 in SY Za 2.b 'pourrait' be the phonogram AB 09 (se). They say 'could'; they do not print the words that would result."
+    }
+   ],
+   "unsettled": [
+    "GORILA indexes OLIV and OLE as isolated logograms, so neither is part of a word; lone logograms are not words in this schema (branch rule 6).",
+    "The register's dot on the sign after SI comes from Muhly, Olivier, ArchEph 2008, not held. GORILA V p. 65 and the p. 284 index print no dot on it.",
+    "The facsimile has a faint mark to the lower right of A on face d; the tabular copy and the index (08-57) print no dot. Not treated as a dot."
+   ]
+  },
+  {
+   "record": "SY Za 3",
+   "field": "words",
+   "register_row": 14,
+   "register": "a reader's register of differences, 2026-10-14 (held in the private companion repository)",
+   "old": [
+    "a-ta-i-*301-wa[",
+    "]ja[",
+    "]se-ka-na-si[",
+    "]te[",
+    "]si-ru-te"
+   ],
+   "new": [
+    "a-ta?-i?-*301?-wa[",
+    "]se?-ka-na[",
+    "]si-ru-te"
+   ],
+   "word_layer_new": "edition (hand correction 2026-10-15; see linear_a/data/corrections.json)",
+   "editions": [
+    {
+     "edition": "RILA Supplement 1 (Del Freo, Zurbach 2024)",
+     "page": "83",
+     "what": "SY Za 3 + 2 frr.: transcription and apparatus; index 08-59-28-301-54[ and ]09-77-06[ (PDF p. 248)",
+     "image": [
+      "private companion repository, research folder of the 2026-10-15 verification: crop-rila-s1-p83-SYZa3.jpg",
+      "private companion repository, research folder of the 2026-10-15 verification: crop-rila-s1-index-08-SYZa3.jpg",
+      "private companion repository, research folder of the 2026-10-15 verification: crop-rila-s1-index-09-SYZa3.jpg"
+     ]
+    },
+    {
+     "edition": "GORILA V (Godart, Olivier 1985)",
+     "page": "67",
+     "what": "SY Za 3 before the two fragments: A-TA-I-*301-WA-[ ca. 20 ]SI-RU-TE; index 41-26-04 (pp. 151, 207) and 08-59-28-301-54-57 with a dot under the siglum numeral (p. 190)",
+     "image": [
+      "private companion repository, research folder of the 2026-10-15 verification: crop-gorila-V-p67-SYZa3.jpg",
+      "private companion repository, research folder of the 2026-10-15 verification: crop-gorila-V-index-SYZa3.jpg"
+     ]
+    }
+   ],
+   "signs": [
+    {
+     "pos": 1,
+     "number": "08",
+     "ab_id": "AB08",
+     "value": "a",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": ""
+    },
+    {
+     "pos": 2,
+     "number": "59",
+     "ab_id": "AB59",
+     "value": "ta",
+     "certainty": "dotted (doubtful)",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": ""
+    },
+    {
+     "pos": 3,
+     "number": "28",
+     "ab_id": "AB28",
+     "value": "i",
+     "certainty": "dotted (doubtful)",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": ""
+    },
+    {
+     "pos": 4,
+     "number": "301",
+     "ab_id": "A301",
+     "value": "*301",
+     "certainty": "dotted (doubtful)",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": ""
+    },
+    {
+     "pos": 5,
+     "number": "54",
+     "ab_id": "AB54",
+     "value": "wa",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": true,
+     "divider_after": false,
+     "line": ""
+    },
+    {
+     "lost": "ca. 7 signs",
+     "line": ""
+    },
+    {
+     "lost": "[...] three lost signs",
+     "line": ""
+    },
+    {
+     "pos": 6,
+     "number": "09",
+     "ab_id": "AB09",
+     "value": "se",
+     "certainty": "dotted (doubtful)",
+     "lacuna_before": true,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": ""
+    },
+    {
+     "pos": 7,
+     "number": "77",
+     "ab_id": "AB77",
+     "value": "ka",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": ""
+    },
+    {
+     "pos": 8,
+     "number": "06",
+     "ab_id": "AB06",
+     "value": "na",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": true,
+     "divider_after": false,
+     "line": ""
+    },
+    {
+     "lost": "[...] three lost signs",
+     "line": ""
+    },
+    {
+     "lost": "ca. 8 signs",
+     "line": ""
+    },
+    {
+     "pos": 9,
+     "number": "41",
+     "ab_id": "AB41",
+     "value": "si",
+     "certainty": "certain",
+     "lacuna_before": true,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": ""
+    },
+    {
+     "pos": 10,
+     "number": "26",
+     "ab_id": "AB26",
+     "value": "ru",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": ""
+    },
+    {
+     "pos": 11,
+     "number": "04",
+     "ab_id": "AB04",
+     "value": "te",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": ""
+    }
+   ],
+   "readings": [
+    {
+     "held_by": "GORILA V p. 67 (before the joins)",
+     "words": [
+      "a-ta-i-*301-wa[",
+      "]si-ru-te"
+     ],
+     "note": "GORILA prints TA, I and *301 undotted and has no SE-KA-NA (the fragments carrying it were not yet joined)."
+    },
+    {
+     "held_by": "RILA Supplement 1 p. 83 apparatus ('probable'); RILA-S1 index, asterisked row",
+     "numbers": "08-59-28-301-54[-57",
+     "note": "JA restored after WA: restored signs are not written, so the word form is unchanged."
+    },
+    {
+     "held_by": "RILA Supplement 1 p. 83 apparatus ('pas totalement exclu'); RILA-S1 index, asterisked row",
+     "words_changed": {
+      "]se?-ka-na[": "]se?-ka-na-i?["
+     },
+     "numbers": "]09-77-06-28[, dots under 09 and 28"
+    },
+    {
+     "held_by": "Muhly, Olivier, ArchEph 2008 pp. 205-207 (not held), as quoted by Younger",
+     "note": "A-TA-I-*301-WA-[JA ... ]SE-KA-NA-SI[.]TE[ ... ]SI-RU-TE; Younger reports them as saying SE and the following TE are 'rather doubtful'. Not checked against the edition itself."
+    }
+   ],
+   "unsettled": [
+    "words must hold one list. RILA-S1 is used because it is the only held edition of the object with its two fragments; GORILA V p. 67 prints the main piece only. Where they overlap they differ on dots (TA, I, *301 dotted in RILA-S1, not in GORILA): both are recorded here. The choice is by coverage, for Matt to confirm.",
+    "lineara.xyz's SI after NA and the lone TE follow the 2008 edition (not held); RILA-S1 prints neither. They are dropped from words and recorded above as the 2008 reading through Younger."
+   ],
+   "choice": "RILA-S1 (covers the joined fragments); GORILA kept in readings"
+  },
+  {
+   "record": "THE Zg 16",
+   "field": "words",
+   "register_row": 63,
+   "register": "a reader's register of differences, 2026-10-14 (held in the private companion repository)",
+   "old": [
+    "i-ki-ru-qe"
+   ],
+   "new": [
+    "]qe",
+    "i-ki?-ru-qe"
+   ],
+   "word_layer_new": "edition (hand correction 2026-10-15; see linear_a/data/corrections.json)",
+   "editions": [
+    {
+     "edition": "Del Freo, Rapport 2016-2021, Ariadne Suppl. 5 (2024)",
+     "page": "106",
+     "what": "]AB 78, AB 28-67-26-78 with 67 dotted; read from a photograph; text unpublished",
+     "image": "private companion repository, research folder of the 2026-10-15 verification: crop-delfreo-2024-p106-THEZg16.jpg"
+    }
+   ],
+   "signs": [
+    {
+     "pos": 1,
+     "number": "78",
+     "ab_id": "AB78",
+     "value": "qe",
+     "certainty": "certain",
+     "lacuna_before": true,
+     "lacuna_after": false,
+     "divider_after": true,
+     "line": ""
+    },
+    {
+     "pos": 2,
+     "number": "28",
+     "ab_id": "AB28",
+     "value": "i",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": ""
+    },
+    {
+     "pos": 3,
+     "number": "67",
+     "ab_id": "AB67",
+     "value": "ki",
+     "certainty": "dotted (doubtful)",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": ""
+    },
+    {
+     "pos": 4,
+     "number": "26",
+     "ab_id": "AB26",
+     "value": "ru",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": ""
+    },
+    {
+     "pos": 5,
+     "number": "78",
+     "ab_id": "AB78",
+     "value": "qe",
+     "certainty": "certain",
+     "lacuna_before": false,
+     "lacuna_after": false,
+     "divider_after": false,
+     "line": ""
+    }
+   ],
+   "readings": [],
+   "unsettled": [
+    "The inscription is unpublished; Del Freo reads it from a photograph. He calls ]AB 78 'quasiment certain' the end of another sequence, and AB 67 the 'most likely' reading of a sign partly lost in a small lacuna.",
+    "No other held edition prints this text."
+   ]
+  }
+ ]
+}

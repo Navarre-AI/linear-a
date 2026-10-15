@@ -64,6 +64,11 @@
           "script": "linear_a/apply_lineara_raw_words_2026-10-15.py",
           "command": "python3 linear_a/apply_lineara_raw_words_2026-10-15.py /path/to/mwenge--lineara.xyz",
           "record": "verification/lineara-raw-words-2026-10-15.md"
+        },
+        {
+          "script": "linear_a/apply_hand_corrections_2026-10-15.py",
+          "command": "python3 linear_a/apply_hand_corrections_2026-10-15.py",
+          "record": "ERRATA.md"
         }
       ],
       "note": "The script that first built this file is not in this repository, so the file is hand-maintained here. Every later change is a dated post-pass script in linear_a/, listed in post_passes in the order it ran."
@@ -539,6 +544,18 @@
         "linear_a/data/corpus.json, words field; the file does not record its date"
       ],
       "note": "The script that first built this file is not in this repository, so the file is hand-maintained here. It was built before the word-layer fixes of 2026-09-18."
+    },
+    "linear_a/data/corrections.json": {
+      "kind": "source transcription",
+      "generator": "hand-maintained",
+      "inputs": [
+        "GORILA IV (1982) p. 26; GORILA V (1985) pp. 19, 33, 65, 67 and sign index pp. 142-284",
+        "RILA Supplement 1 (Del Freo, Zurbach 2024) pp. 77, 80, 81, 83 and its sign index",
+        "Karetsou, Godart, Olivier, Minos 37-38 (2002-2003) pp. 443-446",
+        "Del Freo, Rapport 2016-2021, Ariadne Suppl. 5 (2024) p. 106",
+        "a reader's register of differences, 2026-10-14 (row numbers), held in the private companion repository"
+      ],
+      "note": "Read from the page images by hand; each entry names its page and crop image (the crops are in the private companion repository, in the research folder of the 2026-10-15 verification). Sign values from linear_a/data/signs.json. See ERRATA.md."
     }
   }
 }

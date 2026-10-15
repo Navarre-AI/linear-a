@@ -44910,15 +44910,14 @@
     "period": "",
     "unicode_text": "𐝫𐙌𐄁𐘱𐘞𐘞𐘴\n𐘋𐄁𐘉𐘅𐘘𐘾𐝫𐘅𐘤",
     "words": [
-      "]arom",
-      "ja-sa-sa-ra",
-      "u-na-ru-ka[",
-      "]na-si"
+      "]*123",
+      "ja-sa-sa-ra-me?",
+      "u-na-ru-ka["
     ],
     "word_source": "lineara",
     "linguistic_value": "high",
     "is_ethnographic": false,
-    "word_layer": "lineara.xyz transcription (raw)"
+    "word_layer": "edition (hand correction 2026-10-15; see linear_a/data/corrections.json)"
   },
   "IO Za 2": {
     "id": "IO Za 2",
@@ -44934,22 +44933,20 @@
     "unicode_text": "𐘇𐘳𐘚𐙕𐘮𐘱𐄁𐘱𐘆𐘸𐘹𐄁𐘱𐘞𐘞𐘴𐝫𐘋𐄁𐘉𐘅𐘾𐘅𐝫𐘤𐝫𐄁𐝫𐘚𐘢𐘅𐙁𐄁\n𐘤𐘘𐘃𐄁𐘳𐘅𐘴𐘃𐘉𐘠𐘯𐄁𐘚𐝫𐄁𐝫",
     "words": [
       "a-ta-i-*301-wa-ja",
-      "ja-di-ki-tu-tu",
+      "ja-di-ki-tu",
       "ja-sa-sa-ra[",
-      "]me",
-      "u-na-ka-na[",
-      "]si[",
-      "]i-pi-na-ma",
+      "]si",
+      "i-pi-na-ma",
       "si-ru-te",
       "ta-na-ra-te-u-ti-nu",
-      "i["
+      "i-da["
     ],
     "word_source": "lineara",
     "linguistic_value": "high",
     "is_ethnographic": false,
     "gorila_ref": "4, p. 8",
     "museum_inventory": "HM 3642",
-    "word_layer": "lineara.xyz transcription (raw)"
+    "word_layer": "edition (hand correction 2026-10-15; see linear_a/data/corrections.json)"
   },
   "IO Za 3": {
     "id": "IO Za 3",
@@ -45096,15 +45093,13 @@
     "period": "",
     "unicode_text": "𐘱𐘞𐘞𐝫𐘴𐘋\n𐄁𐘉𐘅𐘾𐝫𐘅𐘤",
     "words": [
-      "ja-sa-sa[",
-      "]ra-me",
-      "u-na-ka[",
-      "]na-si"
+      "u?-na-ka[",
+      "ja-sa-sa["
     ],
     "word_source": "lineara",
     "linguistic_value": "high",
     "is_ethnographic": false,
-    "word_layer": "lineara.xyz transcription (raw)"
+    "word_layer": "edition (hand correction 2026-10-15; see linear_a/data/corrections.json)"
   },
   "IO Za <1>": {
     "id": "IO Za <1>",
@@ -64075,13 +64070,13 @@
     "period": "",
     "unicode_text": "𐘱𐘞𐘞𐘴𐘋\n𐘉𐘅𐘾𐘅𐘤",
     "words": [
-      "ja-sa-sa-ra-me",
-      "u-na-ka-na-si"
+      "ja-sa?-sa?-ra-me",
+      "u?-na-ka["
     ],
     "word_source": "lineara",
     "linguistic_value": "high",
     "is_ethnographic": false,
-    "word_layer": "lineara.xyz transcription (raw)"
+    "word_layer": "edition (hand correction 2026-10-15; see linear_a/data/corrections.json)"
   },
   "PK Za 28": {
     "id": "PK Za 28",
@@ -64094,13 +64089,12 @@
     "period": "",
     "unicode_text": "𐝫𐘜𐘙𐄁𐜶𐝫",
     "words": [
-      "]pu2-re",
-      "*418+l2["
+      "]pu2-re"
     ],
     "word_source": "lineara",
     "linguistic_value": "high",
     "is_ethnographic": false,
-    "word_layer": "lineara.xyz transcription (raw)"
+    "word_layer": "edition (hand correction 2026-10-15; see linear_a/data/corrections.json)"
   },
   "PK Za 4": {
     "id": "PK Za 4",
@@ -64134,19 +64128,19 @@
     "unicode_text": "𐝫𐘯𐄁𐘰𐘡𐄁𐘱𐘆𐘸𐘃𐘃𐙛𐘜𐘙𐄁𐘹𐘋𐘚\n𐘱𐘞𐝫𐘉𐘅𐘾𐘅𐘤𐝫\n𐘚𐘢𐝫",
     "words": [
       "]nu",
-      "pa3-e",
-      "ja-di-ki-te-te-*307-pu2-re",
+      "pa3-e?",
+      "ja-na-ki-te-te-du?-pu2?-re",
       "tu-me-i",
       "ja-sa[",
-      "]u-na-ka-na-si[",
-      "]i-pi["
+      "]u-na-ka-na-si?[",
+      "i-pi?["
     ],
     "word_source": "lineara",
     "linguistic_value": "high",
     "is_ethnographic": false,
     "gorila_ref": "4, p. 24",
     "museum_inventory": "HM 618",
-    "word_layer": "lineara.xyz transcription (raw)"
+    "word_layer": "edition (hand correction 2026-10-15; see linear_a/data/corrections.json)"
   },
   "PK Za 9": {
     "id": "PK Za 9",
@@ -65030,8 +65024,8 @@
     "unicode_text": "𐘇𐘳𐘚𐙕𐘮𐘱𐄁𐘱𐘲𐙁𐘹𐙋𐄇\n𐘉𐘅𐘾𐘅𐘤𐙖\n𐘇𐘱",
     "words": [
       "a-ta-i-*301-wa-ja",
-      "ja-su-ma-tu-oliv",
-      "u-na-ka-na-si-ole",
+      "ja-su-ma-tu",
+      "u-na-ka-na-si",
       "a-ja"
     ],
     "word_source": "lineara",
@@ -65040,7 +65034,7 @@
     "gorila_ref": "5, p. 64",
     "museum_inventory": "HM 3429",
     "gorila_dating": "MM III B - MR I A",
-    "word_layer": "lineara.xyz transcription (raw)"
+    "word_layer": "edition (hand correction 2026-10-15; see linear_a/data/corrections.json)"
   },
   "SY Za 3": {
     "id": "SY Za 3",
@@ -65055,10 +65049,8 @@
     "period": "LM IA",
     "unicode_text": "𐘇𐘳𐘚𐙕𐘮𐝫𐘱𐝫𐘈𐘾𐘅𐘤𐝫𐘃𐝫𐘤𐘘𐘃",
     "words": [
-      "a-ta-i-*301-wa[",
-      "]ja[",
-      "]se-ka-na-si[",
-      "]te[",
+      "a-ta?-i?-*301?-wa[",
+      "]se?-ka-na[",
       "]si-ru-te"
     ],
     "word_source": "lineara",
@@ -65067,7 +65059,7 @@
     "gorila_ref": "5, p. 66",
     "museum_inventory": "HM 3757",
     "gorila_dating": "MM III B - MR I A",
-    "word_layer": "lineara.xyz transcription (raw)"
+    "word_layer": "edition (hand correction 2026-10-15; see linear_a/data/corrections.json)"
   },
   "SY Za 4": {
     "id": "SY Za 4",
@@ -65518,7 +65510,8 @@
     "period": "",
     "unicode_text": "𐘿𐘚𐘸𐘘𐘿",
     "words": [
-      "i-ki-ru-qe"
+      "]qe",
+      "i-ki?-ru-qe"
     ],
     "word_source": "lineara",
     "linguistic_value": "low",
@@ -65528,7 +65521,7 @@
       "unpublished_source": "RILA-S1 section on texts awaiting publication; research/rila-s1-reading-notes-2026-08-03.md section 6",
       "unpublished_note": "The record carries a reading, i-ki-ru-qe, for a text RILA-S1 states is still unpublished. The reading is not removed here."
     },
-    "word_layer": "lineara.xyz transcription (raw)"
+    "word_layer": "edition (hand correction 2026-10-15; see linear_a/data/corrections.json)"
   },
   "THE Zg 5": {
     "id": "THE Zg 5",
