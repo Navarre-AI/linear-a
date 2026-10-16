@@ -11,7 +11,7 @@ words already use). Applied by `linear_a/apply_hand_corrections_2026-10-15.py`.
 
 ## 2026-10-15: nine records whose lineara.xyz raw transcription is itself wrong
 
-Found by a reader's register of differences (2026-10-14) and checked on the page. The raw-layer
+Found by Andrea Catino's register of differences (2026-10-14, ORCID 0009-0005-4157-5163) and checked on the page. The raw-layer
 rebuild of the same day (`verification/lineara-raw-words-2026-10-15.md`) could not fix these,
 because the error is in lineara.xyz's raw glyphs.
 

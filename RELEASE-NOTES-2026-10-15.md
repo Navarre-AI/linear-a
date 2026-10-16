@@ -4,9 +4,10 @@ A second reader's report, a second repair. This release changes how the
 words of 234 records are built, corrects nine records from the printed
 editions, and adds an errata file that every later correction will use.
 
-## Thank you to the reader who reported this
+## Thank you to Andrea Catino, who reported this
 
-A reader emailed on 2026-10-15 with a register of 63 differences between
+Andrea Catino, Independent Researcher, Italy (ORCID 0009-0005-4157-5163),
+emailed on 2026-10-15 with a register of 63 differences between
 lineara.xyz and the printed editions, each with the edition and the page.
 We checked all 63 against our scans of those pages. 60 hold up. 15 of them
 reached this repository's words; all 15 are corrected here. The two general

@@ -200,11 +200,13 @@ A reader of the repository reported the pseudo-word defect by email on
 2026-09-17 and asked for nothing. The report was correct on every point. The
 reader is not named here, by choice.
 
-A second reader emailed on 2026-10-15 with a 63-row register of differences
-between lineara.xyz and the printed editions, each with edition and page.
-60 of the 63 were confirmed and 15 corrections to this data came from it.
-See RELEASE-NOTES-2026-10-15.md and ERRATA.md. Credited by name here if they
-agree to it.
+Andrea Catino, Independent Researcher, Italy (ORCID
+[0009-0005-4157-5163](https://orcid.org/0009-0005-4157-5163)), emailed on
+2026-10-15 with a 63-row register of differences between lineara.xyz and the
+printed editions, each with edition and page. 60 of the 63 were confirmed
+and 15 corrections to this data came from it. See
+RELEASE-NOTES-2026-10-15.md and ERRATA.md. Credited by name with their
+agreement of 2026-10-16.
 
 ## This project
 

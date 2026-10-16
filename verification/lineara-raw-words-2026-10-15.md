@@ -1,7 +1,7 @@
 # lineara.xyz words from the raw layer, 2026-10-15
 
-Reported by a reader of the repository by email on 2026-10-15 (a register of 63
-rows, lineara.xyz against the printed editions). This note covers the importer
+Reported by Andrea Catino (ORCID 0009-0005-4157-5163) by email on 2026-10-15 (a
+register of 63 rows, lineara.xyz against the printed editions). This note covers the importer
 defect behind 15 of those rows. The rows themselves are verified separately.
 
 ## The defect
