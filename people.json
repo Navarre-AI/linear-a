@@ -1,0 +1,7950 @@
+{
+ "schema": "lineara people v1, generated from the private people master",
+ "generated": "2026-10-17",
+ "master_sha256": "d38bb55ea8d18d9c2d29a635b3087b98bbaaf88d56ba8b9663a4ac281fe776fc",
+ "counts": {
+  "listed": 493,
+  "not_listed": 10,
+  "with_orcid": 19,
+  "with_affiliation": 18,
+  "organisations": 2
+ },
+ "people": [
+  {
+   "id": "albers",
+   "name": "Albers",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "e9c9e522-7816-595b-87b8-54410beebf61"
+   ]
+  },
+  {
+   "id": "alberti-lucia",
+   "name": "Alberti, Lucia",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "2bdb4dfd-e54a-52da-9e4b-01c0463a82ee"
+   ]
+  },
+  {
+   "id": "alberti-maria-emanuela",
+   "name": "Alberti, Maria Emanuela",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "editor"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "9592f1cf-d87a-5de3-a7ea-b0480a63a1cb"
+   ]
+  },
+  {
+   "id": "al-jallad-ahmad",
+   "name": "Al-Jallad, Ahmad",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "74ef548f-9c75-55b8-8876-fe79a68ad3e8"
+   ]
+  },
+  {
+   "id": "al-khulaidy-amira",
+   "name": "Al-Khulaidy, Amira",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "77dadd93-0aff-5190-b3f6-478de189cbd6"
+   ]
+  },
+  {
+   "id": "alram-stern",
+   "name": "Alram-Stern",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "0e70c38b-f364-5697-8db2-f8d06cbd74ea"
+   ]
+  },
+  {
+   "id": "anders-gunter",
+   "name": "Anders, Gunter",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 5,
+   "work_ids": [
+    "164d5dcc-b120-539c-ba61-285cce7f20dc",
+    "36fd21f4-8927-5f79-864a-57df4a538724",
+    "73a0ef73-8ca5-566b-9451-a1d8baaa2a67",
+    "778fc1ab-32b7-5430-83ac-413c27aea42a",
+    "87958589-57b0-575a-9c2b-9e68fdb07014"
+   ]
+  },
+  {
+   "id": "anderson-deborah",
+   "name": "Anderson, Deborah",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 2,
+   "work_ids": [
+    "01064422-1fc5-565b-aebd-635de5dc13de",
+    "3e936d69-ce98-5299-9ca9-aa5f9a1db60e"
+   ]
+  },
+  {
+   "id": "andreadaki-vlasaki-maria",
+   "name": "Andreadaki-Vlasaki, Maria",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "c6951d04-f6c3-55d6-93a0-670c446a9544"
+   ]
+  },
+  {
+   "id": "andreadaki-vlazaki-m",
+   "name": "Andreadaki-Vlazaki, M.",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 3,
+   "work_ids": [
+    "0d4fd389-10ea-506f-bb1b-e65e57580858",
+    "2eb4caf4-b478-5c22-9009-fa815cefab2b",
+    "40cb4392-2019-5079-a9c1-525b64750b78"
+   ]
+  },
+  {
+   "id": "aravantinos",
+   "name": "Aravantinos",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 2,
+   "work_ids": [
+    "12fe73e1-69fd-5041-85ac-6578c49b30b4",
+    "3e3b3413-907f-5601-8e43-ea94222cfeb5"
+   ]
+  },
+  {
+   "id": "artzy",
+   "name": "Artzy",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "fcfe8e3c-31d8-5740-99b7-bf27a75d0ecf"
+   ]
+  },
+  {
+   "id": "aruz",
+   "name": "Aruz",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "e8b52b85-1b77-532f-b4b2-34e8b726521f"
+   ]
+  },
+  {
+   "id": "astrom",
+   "name": "Åström",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 2,
+   "work_ids": [
+    "1c8b36c9-b372-5aea-8d9e-18aeb9a66ea1",
+    "742e0709-0f8d-5216-b36f-6312082c4e1b"
+   ]
+  },
+  {
+   "id": "bai-xiang",
+   "name": "Bai, Xiang",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "f2a66d37-1742-5e43-b18c-dfcf75663db7"
+   ]
+  },
+  {
+   "id": "baines-john",
+   "name": "Baines, John",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "editor"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "51da6609-1ccb-5375-9dd0-78efc07da074"
+   ]
+  },
+  {
+   "id": "banou",
+   "name": "Banou",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "6ddc807f-ccd6-587d-9f09-66b14c20c0cd"
+   ]
+  },
+  {
+   "id": "banti-l",
+   "name": "Banti, L.",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "9f303c62-26aa-5195-9f15-6f04176c68d9"
+   ]
+  },
+  {
+   "id": "barclay",
+   "name": "Barclay",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "462edcfa-05d2-54d1-8749-dea38555bd52"
+   ]
+  },
+  {
+   "id": "baroni-antonio",
+   "name": "Baroni, Antonio",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "c3ade976-b544-5794-a2c5-4b6b78511b87"
+   ]
+  },
+  {
+   "id": "barzilay-regina",
+   "name": "Barzilay, Regina",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "a7bb5270-787f-52fb-882b-9c6f7bf51049"
+   ]
+  },
+  {
+   "id": "basch",
+   "name": "Basch",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "c1cae2db-1c87-55ab-a546-2a7fe5fff062"
+   ]
+  },
+  {
+   "id": "basello-gian-pietro",
+   "name": "Basello, Gian Pietro",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "1c84cd2a-0065-5fc3-a026-54bc82ca3536"
+   ]
+  },
+  {
+   "id": "bass",
+   "name": "Bass",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "546f3dc9-103d-5ad1-9f0c-da106e8aeb52"
+   ]
+  },
+  {
+   "id": "becker-nadine",
+   "name": "Becker, Nadine",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "a8e31a6a-1c96-57e8-8930-699e2b94c0eb"
+   ]
+  },
+  {
+   "id": "beekes-robert-s-p",
+   "name": "Beekes, Robert S. P.",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 2,
+   "work_ids": [
+    "0d3c883d-6b45-57bd-aae6-3fa63ec1cc10",
+    "7e98f8a8-084e-54de-bf84-6180e2af8829"
+   ]
+  },
+  {
+   "id": "belousov-alexey-v",
+   "name": "Belousov, Alexey V.",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "4e8728ba-65e1-5934-82ab-98fe451b8e88"
+   ]
+  },
+  {
+   "id": "bendall",
+   "name": "Bendall",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "6ad6bf42-32bd-5c0f-b5f9-cab159097187"
+   ]
+  },
+  {
+   "id": "bennet-john",
+   "name": "Bennet, John",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author",
+    "editor"
+   ],
+   "works_in_bibliography": 3,
+   "work_ids": [
+    "51da6609-1ccb-5375-9dd0-78efc07da074",
+    "63d43535-d10d-5fca-8fab-d85bfe1e026a",
+    "c2b3a033-e461-54db-aeb4-2b3cc51d8653"
+   ]
+  },
+  {
+   "id": "bennett-emmett-l",
+   "name": "Bennett, Emmett L.",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 2,
+   "work_ids": [
+    "07325aa4-7d7f-53af-ba1e-cfd63c56e738",
+    "b66cb1dc-62ba-537e-b161-1f750df7223e"
+   ]
+  },
+  {
+   "id": "berard-jean",
+   "name": "Bérard, Jean",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "ef5e468f-1bb3-5ec6-b620-c5516eabc1b8"
+   ]
+  },
+  {
+   "id": "berea-anamaria",
+   "name": "Berea, Anamaria",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "77dadd93-0aff-5190-b3f6-478de189cbd6"
+   ]
+  },
+  {
+   "id": "bernabo-brea-luigi",
+   "name": "Bernabò Brea, Luigi",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "c38fed4a-28fb-52b5-8b77-5ba649a73ee6"
+   ]
+  },
+  {
+   "id": "betancourt",
+   "name": "Betancourt",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 3,
+   "work_ids": [
+    "4c038f00-61ee-5b08-b24e-601e6e189e58",
+    "6ddc807f-ccd6-587d-9f09-66b14c20c0cd",
+    "e2630c8a-61ad-5cac-81bc-98db842fb58a"
+   ]
+  },
+  {
+   "id": "bibee-joann",
+   "name": "Bibee, Joann",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "e3b2dee3-88f1-54ae-b14a-60ad40bcf94f"
+   ]
+  },
+  {
+   "id": "billigmeier-jon-c",
+   "name": "Billigmeier, Jon C.",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "9f4fd396-fb28-5113-9e35-3aabae61db7c"
+   ]
+  },
+  {
+   "id": "blakolmer",
+   "name": "Blakolmer",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "072ef899-7688-5d60-bb1e-f4ff3e9505f2"
+   ]
+  },
+  {
+   "id": "blazek-vaclav",
+   "name": "Blažek, Václav",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "aa3102a6-173f-5499-a3e7-cac1ca13e669"
+   ]
+  },
+  {
+   "id": "boelle",
+   "name": "Boëlle",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "cd95be7f-7957-52f6-be2c-be793b0e74dd"
+   ]
+  },
+  {
+   "id": "bombardieri-luca",
+   "name": "Bombardieri, Luca",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author",
+    "editor"
+   ],
+   "works_in_bibliography": 2,
+   "work_ids": [
+    "677a10ef-1668-5537-a597-608b2d2dc358",
+    "ba75d772-7783-502e-9e7d-0a8a940e553b"
+   ]
+  },
+  {
+   "id": "bomhard-allan-r",
+   "name": "Bomhard, Allan R.",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "editor"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "f638d1c1-6ce0-5f97-b45d-6b611c3d3549"
+   ]
+  },
+  {
+   "id": "boulotis-ch",
+   "name": "Boulotis, Ch.",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "1754bba0-dfd2-52f3-8142-6faace5725d0"
+   ]
+  },
+  {
+   "id": "bourogiannis-giorgos",
+   "name": "Bourogiannis, Giorgos",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "b77a2f41-ca38-5161-9042-16de71be8afe"
+   ]
+  },
+  {
+   "id": "boyes-philip-j",
+   "name": "Boyes, Philip J.",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author",
+    "editor"
+   ],
+   "works_in_bibliography": 3,
+   "work_ids": [
+    "34bbceb4-4d5b-5ece-b051-0118d811fb6c",
+    "43700216-239b-5f3b-b97e-1e24b9529b4b",
+    "c16ecdc9-82ad-5662-aa34-7d3d5ca9d8f3"
+   ]
+  },
+  {
+   "id": "branigan",
+   "name": "Branigan",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "831d5752-11ec-5d52-83fa-0e0278712eb5"
+   ]
+  },
+  {
+   "id": "breuckmann-bernd",
+   "name": "Breuckmann, Bernd",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "e0df1822-3049-5b04-b19e-404ac52b9466"
+   ]
+  },
+  {
+   "id": "brice-william-charles",
+   "name": "Brice, William Charles",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "09609ec1-4a9d-5da7-9c83-a69478f4c948"
+   ]
+  },
+  {
+   "id": "briggs-charles-a",
+   "name": "Briggs, Charles A.",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "42d4ae59-662f-5550-a433-a16e7afadb12"
+   ]
+  },
+  {
+   "id": "brockelmann-carl",
+   "name": "Brockelmann, Carl",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 2,
+   "work_ids": [
+    "813eba1c-5029-58cd-8501-5826cea01b6b",
+    "a53e3af8-8691-5656-b4a0-d392772688eb"
+   ]
+  },
+  {
+   "id": "brown-francis",
+   "name": "Brown, Francis",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "42d4ae59-662f-5550-a433-a16e7afadb12"
+   ]
+  },
+  {
+   "id": "buchholz-hans-gunther",
+   "name": "Buchholz, Hans-Günther",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "7928f738-becd-5967-98bf-edc61f9a74e6"
+   ]
+  },
+  {
+   "id": "buell-d-matthew",
+   "name": "Buell, D. Matthew",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "fefa852a-25a1-5a90-a1e5-e1badbbb753f"
+   ]
+  },
+  {
+   "id": "cadogan-gerald",
+   "name": "Cadogan, Gerald",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 3,
+   "work_ids": [
+    "20df794b-9540-5c56-ac54-0ed1a003fc80",
+    "a5c4b3b9-1ae5-5e50-8503-ac166b8cd067",
+    "caed225b-9c8b-5d4d-9407-b98c0d77a5d2"
+   ]
+  },
+  {
+   "id": "callaway-carl",
+   "name": "Callaway, Carl",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "5ea0cdc3-5a71-503f-bb36-95c3b3ff6504"
+   ]
+  },
+  {
+   "id": "campbell-dennis-r-m",
+   "name": "Campbell, Dennis R. M.",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "2f1e68dd-2e2b-5282-99bc-951c3bec709e"
+   ]
+  },
+  {
+   "id": "cao-yuan",
+   "name": "Cao, Yuan",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "a7bb5270-787f-52fb-882b-9c6f7bf51049"
+   ]
+  },
+  {
+   "id": "carlier",
+   "name": "Carlier",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "05ccc574-bfa0-56e7-8da8-0e555b1f3b41"
+   ]
+  },
+  {
+   "id": "carratelli-giovanni-pugliese",
+   "name": "Carratelli, Giovanni Pugliese",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "15aee21f-b9ee-54a7-96ae-6ddff97c1130"
+   ]
+  },
+  {
+   "id": "cartwright-mark",
+   "name": "Cartwright, Mark",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "438c8f84-bb1e-5088-993c-36b631057709"
+   ]
+  },
+  {
+   "id": "castellan-simon",
+   "name": "Castellan, Simon",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author",
+    "maintainer"
+   ],
+   "works_in_bibliography": 3,
+   "work_ids": [
+    "0ca376f4-9aad-56ec-bcf4-b2fd4f43b352",
+    "a5977938-5c4a-5350-9e56-5beee45c54b4",
+    "cbdf0dea-b093-5597-8a5e-f173de41335d"
+   ]
+  },
+  {
+   "id": "castellana",
+   "name": "Castellana",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "157c27b1-21ac-5184-b3a8-c402db92f9f9"
+   ]
+  },
+  {
+   "id": "catino-andrea",
+   "name": "Catino, Andrea",
+   "kind": "person",
+   "affiliation": "Independent Researcher, Italy (self-described)",
+   "affiliation_source": "Catino's own email of 2026-10-15, printed in public CREDITS.md",
+   "orcid": "0009-0005-4157-5163",
+   "roles": [
+    "reporter"
+   ],
+   "works_in_bibliography": 0,
+   "work_ids": []
+  },
+  {
+   "id": "caubet",
+   "name": "Caubet",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "3b81576b-1d99-51c8-a901-e012ca8f48bd"
+   ]
+  },
+  {
+   "id": "cavallaro-francesco-paolo",
+   "name": "Cavallaro, Francesco Paolo",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 3,
+   "work_ids": [
+    "170bb44a-23a3-58a8-87e8-c1391854d0f6",
+    "952bb947-acc3-56af-b6b6-72bfbe4989ef",
+    "bdfb4546-03f7-57f3-b9ae-24ab11f08be5"
+   ]
+  },
+  {
+   "id": "chadwick-john",
+   "name": "Chadwick, John",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 4,
+   "work_ids": [
+    "6b08b5e2-620f-57fa-873d-1d1740fd8082",
+    "7b56dee9-f821-52b2-a88a-394ebb5373c7",
+    "cba7b27e-41d2-5139-b843-63b752dfc358",
+    "e03ea389-d8df-5fc0-ab10-2ca2f1a9059c"
+   ]
+  },
+  {
+   "id": "chaniotis-angelos",
+   "name": "Chaniotis, Angelos",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 2,
+   "work_ids": [
+    "20df794b-9540-5c56-ac54-0ed1a003fc80",
+    "488bc757-f44a-546d-b531-2d8a82cbb050"
+   ]
+  },
+  {
+   "id": "chapin-anne",
+   "name": "Chapin, Anne",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "fefa852a-25a1-5a90-a1e5-e1badbbb753f"
+   ]
+  },
+  {
+   "id": "chapouthier-fernand",
+   "name": "Chapouthier, Fernand",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "fa2405c9-1dc1-5c7b-b8da-6b8902d260a4"
+   ]
+  },
+  {
+   "id": "chen-tingzhu",
+   "name": "Chen, Tingzhu",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "83219e9e-4934-5aba-9f44-da03bc2f5aa7"
+   ]
+  },
+  {
+   "id": "chen-zijian",
+   "name": "Chen, Zijian",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "83219e9e-4934-5aba-9f44-da03bc2f5aa7"
+   ]
+  },
+  {
+   "id": "chiapello-duccio",
+   "name": "Chiapello, Duccio",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 20,
+   "work_ids": [
+    "010420cf-ea69-561e-8011-ac316d494d9d",
+    "0fa2185f-656a-5462-a4a9-b7c6ceeb99d5",
+    "27d61a08-5454-5855-a816-90077b898c7a",
+    "3b16eff4-fca6-5073-b288-3247e754775d",
+    "3c591bd3-8ef7-50fe-a9cd-4c2ba161bc78",
+    "3ec5c77c-262a-594d-9257-4432e2275524",
+    "6b0334fc-da0c-5da9-b856-1ebe8f449fb5",
+    "86ba5476-8d82-5cda-8e20-208e2ffc96ff",
+    "8e7ad7ae-06c1-5f50-895b-b7423d1dbc8a",
+    "adba49ce-4b36-5fe2-90fa-8778684f34a5",
+    "afb7f632-b4aa-5249-85c8-d9308da2d2d6",
+    "beb72714-89fb-539d-87a7-ee16e6500e94",
+    "bef4a3c7-c37e-5344-889e-1db709f43dc9",
+    "ca07438b-9f9e-5a75-9205-0133f890d68a",
+    "d9fd829e-6f14-5798-864d-631df74b02af",
+    "e68ea08c-2c37-5f6b-a150-9472138afca4",
+    "e9f0a6ed-008c-5db1-8a3b-041a4f912573",
+    "f13d37d2-589e-592c-98cd-946aaaea78a2",
+    "f8b85d5e-9669-5e37-9ec3-e61c4d4b6c23",
+    "fa61379e-3fcb-545a-b796-312aab6019ed"
+   ]
+  },
+  {
+   "id": "chiotis-eustathios",
+   "name": "Chiotis, Eustathios",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "c0b4f332-83fb-5f83-b00c-6f099e02f609"
+   ]
+  },
+  {
+   "id": "chryssoulaki",
+   "name": "Chryssoulaki",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "7d1392ea-850f-58ab-a2a4-1019a829198f"
+   ]
+  },
+  {
+   "id": "civitillo-matilde",
+   "name": "Civitillo, Matilde",
+   "kind": "person",
+   "affiliation": "Università della Campania Luigi Vanvitelli (Associate Professor)",
+   "affiliation_source": "ORCID record 0000-0002-3604-3489, read 2026-10-16",
+   "orcid": "0000-0002-3604-3489",
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 2,
+   "work_ids": [
+    "0c9c50a8-9c51-5f0f-ad48-33e1440aec45",
+    "71a659b3-91a6-55d3-8017-3cd965c69d58"
+   ]
+  },
+  {
+   "id": "cline-eric-h",
+   "name": "Cline, Eric H.",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 3,
+   "work_ids": [
+    "6b58c0d8-338d-53e9-9e00-7f0ef06e5e7f",
+    "8661247f-8fbc-5fb3-a1e2-3a122eb80797",
+    "bda49631-2d0b-5402-9491-3bfe88d584d3"
+   ]
+  },
+  {
+   "id": "coe-michael",
+   "name": "Coe, Michael",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "898acc81-9d5c-5a6a-b7f7-8ac62686bacf"
+   ]
+  },
+  {
+   "id": "collins-g-w",
+   "name": "Collins, G. W.",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "42373a05-3bd0-5ef2-8359-4ceee0ecb15e"
+   ]
+  },
+  {
+   "id": "consani-carlo",
+   "name": "Consani, Carlo",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "cb90fd89-b9aa-51ec-88bc-ddc37487b9c1"
+   ]
+  },
+  {
+   "id": "cooke-george-albert",
+   "name": "Cooke, George Albert",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "8a8e3315-4168-595d-9535-319d9fcd3f7d"
+   ]
+  },
+  {
+   "id": "corazza-michele",
+   "name": "Corazza, Michele",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "724010b2-5152-5024-b345-0acbbdb7bca9"
+   ]
+  },
+  {
+   "id": "coro-paola",
+   "name": "Corò, Paola",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "5d3cb103-e4d9-5c73-b74d-ff58d5db3fbb"
+   ]
+  },
+  {
+   "id": "cosmopoulos",
+   "name": "Cosmopoulos",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 2,
+   "work_ids": [
+    "b4defd34-2b97-5002-a725-6ae5bd3d4621",
+    "e6198416-405b-539a-a1c8-0361bd37578d"
+   ]
+  },
+  {
+   "id": "cotticelli-kurras-paola",
+   "name": "Cotticelli-Kurras, Paola",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "c9e0ce6e-b645-5696-ae03-2e5bbb30f75a"
+   ]
+  },
+  {
+   "id": "cowley-a-e",
+   "name": "Cowley, A. E.",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 2,
+   "work_ids": [
+    "2c810035-f537-5f6f-a33a-ab897eef9b2d",
+    "42373a05-3bd0-5ef2-8359-4ceee0ecb15e"
+   ]
+  },
+  {
+   "id": "crowley",
+   "name": "Crowley",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 2,
+   "work_ids": [
+    "969f2c41-3fe3-5ff6-ab23-3ab52223a170",
+    "a99fb2c8-5fcb-5272-a2aa-baa6377e0b60"
+   ]
+  },
+  {
+   "id": "cucuzza",
+   "name": "Cucuzza",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "95c7622f-b72a-5e1f-bd51-6420e7f2493a"
+   ]
+  },
+  {
+   "id": "d-agata",
+   "name": "D'Agata",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "de44fbf2-5d79-5dfa-8520-b4c275b97d8c"
+   ]
+  },
+  {
+   "id": "d-agostino-anacleto",
+   "name": "D'Agostino, Anacleto",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "editor"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "ba75d772-7783-502e-9e7d-0a8a940e553b"
+   ]
+  },
+  {
+   "id": "dautais-louis",
+   "name": "Dautais, Louis",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "b38bef53-7ce5-5759-bd9c-a5a620c5b29a"
+   ]
+  },
+  {
+   "id": "david-marcelo",
+   "name": "David, Marcelo",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "decbe01c-af57-5e89-8510-e920961377c4"
+   ]
+  },
+  {
+   "id": "davis-brent",
+   "name": "Davis, Brent",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": "0000-0001-9471-2903",
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 5,
+   "work_ids": [
+    "0fb5ed1c-1645-5605-90d7-f0c6c96706ec",
+    "4c9ea8e7-c3f3-5a7f-9cf1-6e3b256d1b81",
+    "7f05303e-5e75-50fc-9b0a-9e1064797e75",
+    "806203c1-6d0d-5f9d-b05a-5371539429f4",
+    "f369960d-6a03-5569-94fb-26e2a0cc9006"
+   ]
+  },
+  {
+   "id": "davis-simon",
+   "name": "Davis, Simon",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 2,
+   "work_ids": [
+    "0f2a058c-e8d6-59fd-94aa-3087218827dc",
+    "dad5a232-adab-5746-8384-c0064f228705"
+   ]
+  },
+  {
+   "id": "de-decker-filip",
+   "name": "De Decker, Filip",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 2,
+   "work_ids": [
+    "7f7b65a2-9d19-574b-95bf-ae1718be691e",
+    "ac0fdbd5-261e-561c-9b43-dd9df4d54a39"
+   ]
+  },
+  {
+   "id": "decorte-roeland-p-j-e",
+   "name": "Decorte, Roeland P.-J. E.",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 4,
+   "work_ids": [
+    "093e83be-1dbb-54e7-b6f6-c816c9b2812a",
+    "7fea42d6-52af-51d2-b41f-22a99a394b80",
+    "8b017d13-19e9-59b6-8be1-a5229cb0ef82",
+    "b92f2be6-72a2-548c-9289-39ec6ba566c8"
+   ]
+  },
+  {
+   "id": "deger-jalkotzy-sigrid",
+   "name": "Deger-Jalkotzy, Sigrid",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author",
+    "editor"
+   ],
+   "works_in_bibliography": 2,
+   "work_ids": [
+    "5e74c143-612c-5afc-abe8-06eb7fa10aa9",
+    "ad36efa3-eb0e-525d-982b-a3d917c42968"
+   ]
+  },
+  {
+   "id": "delitzsch-friedrich",
+   "name": "Delitzsch, Friedrich",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "198187d1-904a-599c-ba04-5103fd7dc17c"
+   ]
+  },
+  {
+   "id": "demakopoulou",
+   "name": "Demakopoulou",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 2,
+   "work_ids": [
+    "01aa0c4a-9568-5c4f-aa2e-f194ad0310d5",
+    "3dbdf45c-d198-51cb-a659-a7088854e6ec"
+   ]
+  },
+  {
+   "id": "deroy-louis",
+   "name": "Deroy, Louis",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 4,
+   "work_ids": [
+    "7b7d871b-c05f-5119-838a-902a62b5b991",
+    "8b7e2dbc-5bb5-5bc4-95b1-a77ec43bf014",
+    "9c7f4e73-ff27-5b50-a0b5-c1322097ffba",
+    "d8c8a0f4-dc7c-5c55-a31a-2c212ffa82cb"
+   ]
+  },
+  {
+   "id": "desset-francois",
+   "name": "Desset, François",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "1c84cd2a-0065-5fc3-a026-54bc82ca3536"
+   ]
+  },
+  {
+   "id": "diao-xiaolei",
+   "name": "Diao, Xiaolei",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "b37d4951-af3c-5ae6-ba90-30c1fb3b921a"
+   ]
+  },
+  {
+   "id": "dimakis-nikolas",
+   "name": "Dimakis, Nikolas",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "editor"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "34e4eac2-2570-5912-9b1f-622e0467cbc8"
+   ]
+  },
+  {
+   "id": "dimopoulou-nota",
+   "name": "Dimopoulou, Nota",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "2873fbc7-862d-5cb9-9fee-e8b5ef717b26"
+   ]
+  },
+  {
+   "id": "ding-zengmao",
+   "name": "Ding, Zengmao",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 2,
+   "work_ids": [
+    "2ffb1e10-5cec-52c6-98fc-336c0cc0bb70",
+    "d700b375-c7ad-50ef-a8b5-8a83d68612d7"
+   ]
+  },
+  {
+   "id": "dionisio-giulia",
+   "name": "Dionisio, Giulia",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "editor"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "9592f1cf-d87a-5de3-a7ea-b0480a63a1cb"
+   ]
+  },
+  {
+   "id": "divari-valakou",
+   "name": "Divari-Valakou",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "3dbdf45c-d198-51cb-a659-a7088854e6ec"
+   ]
+  },
+  {
+   "id": "dolkos-kostas",
+   "name": "Dolkos, Kostas",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "ff8ecf88-f43d-5a21-ba6c-900ab3f77e99"
+   ]
+  },
+  {
+   "id": "donnelly-cassandra",
+   "name": "Donnelly, Cassandra",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 2,
+   "work_ids": [
+    "1a6e95a7-8281-5687-8cb0-88cfeb35da69",
+    "f3705b9f-509c-5e98-ab8c-af2cfcc66e77"
+   ]
+  },
+  {
+   "id": "doob-penelope-reed",
+   "name": "Doob, Penelope Reed",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "254702b7-f638-575b-ba16-b75e72088df3"
+   ]
+  },
+  {
+   "id": "doumas-ch",
+   "name": "Doumas, Ch.",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 2,
+   "work_ids": [
+    "4bde0be2-b59b-53ca-a3fb-64f051af3620",
+    "9a5faa76-f727-5586-acdd-e43dd2f09603"
+   ]
+  },
+  {
+   "id": "doyle-jessica",
+   "name": "Doyle, Jessica",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "e682a5d8-8c06-5c76-85ce-ad230a2214b3"
+   ]
+  },
+  {
+   "id": "driessen-jan",
+   "name": "Driessen, Jan",
+   "kind": "person",
+   "affiliation": "UCLouvain (professor); KU Leuven; EfA",
+   "affiliation_source": "ORCID record 0000-0001-6146-5010, read 2026-10-16",
+   "orcid": "0000-0001-6146-5010",
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 4,
+   "work_ids": [
+    "4577a8e0-9c52-59a0-8168-b017cfd7f208",
+    "b6201748-3a3f-53f5-a04f-f85c6591278e",
+    "eae512fe-1aac-5e16-99c9-848d10b06385",
+    "f6d0e708-7282-50ef-904c-2761d5f75ee6"
+   ]
+  },
+  {
+   "id": "driver-s-r",
+   "name": "Driver, S. R.",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "42d4ae59-662f-5550-a433-a16e7afadb12"
+   ]
+  },
+  {
+   "id": "dubinsky-lena",
+   "name": "Dubinsky, Lena",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "decbe01c-af57-5e89-8510-e920961377c4"
+   ]
+  },
+  {
+   "id": "duhoux-yves",
+   "name": "Duhoux, Yves",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 6,
+   "work_ids": [
+    "16b9399a-c841-56f9-85c8-301090102278",
+    "7bed88b6-bdb5-5101-b35f-da34e5678f13",
+    "d00c8d3a-a71e-5782-a427-91066d21af87",
+    "e9178f3d-395d-57a1-b78a-709cfb08c568",
+    "f0ce85f8-9224-5181-988a-661535429d4e",
+    "f10fd8cf-4c63-5267-b374-f413c5ed3872"
+   ]
+  },
+  {
+   "id": "eder",
+   "name": "Eder",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "2d7c9e95-da4b-538c-bc42-aac10abbc9e6"
+   ]
+  },
+  {
+   "id": "van-effenterre-henri",
+   "name": "van Effenterre, Henri",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "53607e5a-61a1-5b1c-83c6-e727850ef45a"
+   ]
+  },
+  {
+   "id": "van-effenterre-micheline",
+   "name": "van Effenterre, Micheline",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "53607e5a-61a1-5b1c-83c6-e727850ef45a"
+   ]
+  },
+  {
+   "id": "egetmeyer-markus",
+   "name": "Egetmeyer, Markus",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "30f2026b-4189-5b55-abfd-6f2f5ba0934e"
+   ]
+  },
+  {
+   "id": "elvira-astoreca-natalia",
+   "name": "Elvira Astoreca, Natalia",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "editor"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "c16ecdc9-82ad-5662-aa34-7d3d5ca9d8f3"
+   ]
+  },
+  {
+   "id": "ephron-h-d",
+   "name": "Ephron, H. D.",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "815d340e-aebf-5592-b0b3-2a96fdd8ea23"
+   ]
+  },
+  {
+   "id": "eu-min-niki-cassandra",
+   "name": "Eu Min, Niki Cassandra",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "952bb947-acc3-56af-b6b6-72bfbe4989ef"
+   ]
+  },
+  {
+   "id": "evans-arthur-j",
+   "name": "Evans, Arthur J.",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 12,
+   "work_ids": [
+    "3b4eb901-0562-518f-a528-8d9674580e46",
+    "504c0cfc-992d-5386-a303-657d1daef1bd",
+    "97c6875e-4d99-5563-a507-e9f5964fa4d3",
+    "985cd366-73ec-5b5e-a7d0-39b7c0ee692e",
+    "9c6cd3c6-2703-500a-b5df-5f386b5a3d36",
+    "9ec81272-7e9e-5104-ba9e-b081716d9088",
+    "a3453d69-16ca-58e5-8daa-fb38bc506ef9",
+    "d7acb9a4-f6f2-5815-8bb0-e32a448f5ed1",
+    "dbadd015-719c-5043-92ba-4471d71bbaf4",
+    "e3628ce4-4c4d-5ae5-87f2-a5ff0c7a378b",
+    "f0ca5f7a-4e8c-5478-82c9-8d9cfb09968d",
+    "f1629ec0-bb04-5088-a435-e0eeda44ec7d"
+   ]
+  },
+  {
+   "id": "everson-michael",
+   "name": "Everson, Michael",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 7,
+   "work_ids": [
+    "0e88895c-24fe-56ba-ad4e-f7e46232b517",
+    "2f074fe3-7a6e-59a3-8167-29a5b602b4c5",
+    "3e936d69-ce98-5299-9ca9-aa5f9a1db60e",
+    "a5a1ceed-4260-5a48-882b-dbe43de545b4",
+    "d252e16e-0a27-52d6-b8b5-6ae395b2021f",
+    "d63d0582-e3fc-59e0-8944-be70ead0a633",
+    "ede96525-1653-5898-a04c-0edac91d88d2"
+   ]
+  },
+  {
+   "id": "evrenopoulos-john",
+   "name": "Evrenopoulos, John",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "6bf2ca62-fccf-59ac-bb8b-d1ca081b4c68"
+   ]
+  },
+  {
+   "id": "facchetti-giulio-m",
+   "name": "Facchetti, Giulio M.",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 2,
+   "work_ids": [
+    "2083ef03-b803-55ea-9da0-0daa26b7c512",
+    "7f16e0bb-fc5e-5354-86db-bed920ac4fcd"
+   ]
+  },
+  {
+   "id": "fang-xiao-min",
+   "name": "Fang, Xiao Min",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "170bb44a-23a3-58a8-87e8-c1391854d0f6"
+   ]
+  },
+  {
+   "id": "farnoux-alexandre",
+   "name": "Farnoux, Alexandre",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "bb64d278-75ec-5c4f-827f-1014ec5e0577"
+   ]
+  },
+  {
+   "id": "faure",
+   "name": "Faure",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "1eec3585-257e-5403-9de5-153112197d2b"
+   ]
+  },
+  {
+   "id": "felsch",
+   "name": "Felsch",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "d14759fb-b7d0-5df0-b6e5-975cbdb70186"
+   ]
+  },
+  {
+   "id": "ferrara-silvia",
+   "name": "Ferrara, Silvia",
+   "kind": "person",
+   "affiliation": "Università di Bologna (FICLIT)",
+   "affiliation_source": "faculty page https://www.unibo.it/sitoweb/s.ferrara/en, read 2026-05-04",
+   "orcid": "0000-0003-2498-7666",
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 15,
+   "work_ids": [
+    "00d52c54-3d97-5cc9-87e0-e8d87aa7ee87",
+    "0c9c50a8-9c51-5f0f-ad48-33e1440aec45",
+    "4eeb5f57-e430-533d-a45c-9d2367222f66",
+    "50c66779-e310-5047-a51f-ad0056114db2",
+    "724010b2-5152-5024-b345-0acbbdb7bca9",
+    "7bac8fed-c548-5e06-bd8f-1daa44eac56e",
+    "854787db-6a43-593b-af70-a111c4e8efc3",
+    "90f3e40f-452d-55eb-91a4-9570ea7f4e77",
+    "973a7efa-bbf3-560b-854e-8f581341b517",
+    "9973d9f2-887f-5dbb-946f-0fde1ba02696",
+    "a5c4b3b9-1ae5-5e50-8503-ac166b8cd067",
+    "c9f85d5f-4248-5400-9fba-bdbe4be30f6f",
+    "caed225b-9c8b-5d4d-9407-b98c0d77a5d2",
+    "d02a3078-bc6f-5ed2-8e45-d417458fa163",
+    "dfb6be0c-ca13-59b9-893f-ba54579301ba"
+   ]
+  },
+  {
+   "id": "finet-andre",
+   "name": "Finet, André",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "d530cb6a-0ddc-51a7-910f-a1377ba606ec"
+   ]
+  },
+  {
+   "id": "finkelberg-margalit",
+   "name": "Finkelberg, Margalit",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 4,
+   "work_ids": [
+    "9f6946dd-4651-5048-a3ab-f6ca6a3c52eb",
+    "dbf44ee2-01ab-5ad5-850a-d14d2b2871ce",
+    "e637ff63-1e89-593c-b0e6-45738627a50a",
+    "f3a4e2aa-6999-5432-92cc-e16bf56f8956"
+   ]
+  },
+  {
+   "id": "finlayson-sarah",
+   "name": "Finlayson, Sarah",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 2,
+   "work_ids": [
+    "968205aa-65ac-5a2f-82e1-d8a96f0296e1",
+    "9bb74edb-4c5b-5120-bd49-e54ad0e789e4"
+   ]
+  },
+  {
+   "id": "firth-richard-j",
+   "name": "Firth, Richard J.",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 11,
+   "work_ids": [
+    "147d68ac-74e4-5bf9-a028-7f118f214035",
+    "2c537fea-8bab-5526-a7aa-c74d70ae1acd",
+    "48eae215-4eed-5ea5-aa70-874f5dea5934",
+    "56c99808-fe92-599a-a9a1-9512a7f269b9",
+    "5e5aad56-7b78-5530-9f75-a1d164c646bd",
+    "68ca4297-8f53-5094-a148-ef78982c3301",
+    "976861df-9d1d-5991-bacf-fd485d1c2022",
+    "bc8945ee-29ed-5428-9ff0-a16e4fa484a8",
+    "c4fa9121-89d9-599a-91b1-7f196aa006e6",
+    "ccae9cff-9ca5-52e0-8d81-c260b15680c5",
+    "fa087e93-1a86-51c3-9dc5-9a7cb772102e"
+   ]
+  },
+  {
+   "id": "fischer-josef",
+   "name": "Fischer, Josef",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "cb9151a2-18db-5bd1-ad68-b1275a8929c9"
+   ]
+  },
+  {
+   "id": "fol-a",
+   "name": "Fol, A.",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "f5690645-2081-5805-95d7-564891dcacc6"
+   ]
+  },
+  {
+   "id": "fountoulakis-manolis",
+   "name": "Fountoulakis, Manolis",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "0b4d32de-bb7f-51f7-9bc3-560a44c02817"
+   ]
+  },
+  {
+   "id": "franceschetti-adele",
+   "name": "Franceschetti, Adele",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "260e8590-cffb-5bf5-8c87-631201a5c206"
+   ]
+  },
+  {
+   "id": "french-elizabeth",
+   "name": "French, Elizabeth",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "5fc49606-50cb-5297-9d72-a29a1ababf52"
+   ]
+  },
+  {
+   "id": "del-freo-maurizio",
+   "name": "Del Freo, Maurizio",
+   "kind": "person",
+   "affiliation": "CNR (Dirigente di ricerca); Sapienza",
+   "affiliation_source": "ORCID record 0000-0002-2942-4283, read 2026-10-16",
+   "orcid": "0000-0002-2942-4283",
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 7,
+   "work_ids": [
+    "0ead52c8-0f82-5d6f-8bb9-9e3841512477",
+    "3f9a619f-08eb-50b8-b837-64220dd51bac",
+    "866a1ab8-1ccf-577b-95c9-f3e5ce22e484",
+    "ba3ea4cd-6f00-5c72-bea0-6bf0a130a4ff",
+    "c1b92448-300e-5e06-8d81-485c342a5976",
+    "d53d3e97-1d10-5b22-8a3c-3b417dac8c23",
+    "da60eb82-8e64-5fcd-b8da-278b94862e84"
+   ]
+  },
+  {
+   "id": "friedrich-johannes",
+   "name": "Friedrich, Johannes",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 3,
+   "work_ids": [
+    "0d225dd4-6ccf-5f46-89f1-f4f7435706d3",
+    "4eed1b96-4911-5a49-a288-46586f6cf143",
+    "b054015b-58f7-54a0-9d54-d0781390f892"
+   ]
+  },
+  {
+   "id": "fuls-andreas",
+   "name": "Fuls, Andreas",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "b52bf296-7014-5931-8524-85fd04e3759a"
+   ]
+  },
+  {
+   "id": "gabolde-marc",
+   "name": "Gabolde, Marc",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "b38bef53-7ce5-5759-bd9c-a5a620c5b29a"
+   ]
+  },
+  {
+   "id": "gallimore-scott",
+   "name": "Gallimore, Scott",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "fefa852a-25a1-5a90-a1e5-e1badbbb753f"
+   ]
+  },
+  {
+   "id": "gao-feng",
+   "name": "Gao, Feng",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "d700b375-c7ad-50ef-a8b5-8a83d68612d7"
+   ]
+  },
+  {
+   "id": "garcia-alonso-juan-luis",
+   "name": "García Alonso, Juan Luis",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "f9e4cdcf-4bda-5fd8-92a2-6c4de3a627b0"
+   ]
+  },
+  {
+   "id": "gardiner-alan",
+   "name": "Gardiner, Alan",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "34ebd669-8f73-5eac-95d8-66e77818fc2d"
+   ]
+  },
+  {
+   "id": "gatica-perez-daniel",
+   "name": "Gatica-Perez, Daniel",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "99f91227-b626-5eba-8b08-453661f619ac"
+   ]
+  },
+  {
+   "id": "gaya-nuno-benito",
+   "name": "Gaya Nuño, Benito",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "8910462d-d58e-5f9d-ad4d-4b3a874cfb3f"
+   ]
+  },
+  {
+   "id": "gelb-ignace-j",
+   "name": "Gelb, Ignace J.",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "ab5595aa-f297-5518-a36a-9872a46427d6"
+   ]
+  },
+  {
+   "id": "georgakopoulos-k",
+   "name": "Georgakopoulos, K.",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "4400b79c-b9ec-5bfa-8aab-979c683d8dc0"
+   ]
+  },
+  {
+   "id": "georgiev-vladimir",
+   "name": "Georgiev, Vladimir",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "0ffc9127-dbbf-52ce-976d-d61ae073bb98"
+   ]
+  },
+  {
+   "id": "georgiou-hara-s",
+   "name": "Georgiou, Hara S.",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "24c8a4d5-0796-5a2c-aa0d-c624f1f756b9"
+   ]
+  },
+  {
+   "id": "gesell-geraldine",
+   "name": "Gesell, Geraldine",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "a8033b12-4aea-5e54-b940-951206dcb570"
+   ]
+  },
+  {
+   "id": "gesenius-wilhelm",
+   "name": "Gesenius, Wilhelm",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 2,
+   "work_ids": [
+    "2c810035-f537-5f6f-a33a-ab897eef9b2d",
+    "42373a05-3bd0-5ef2-8359-4ceee0ecb15e"
+   ]
+  },
+  {
+   "id": "giorgieri-mauro",
+   "name": "Giorgieri, Mauro",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "b848e844-8726-5473-bc94-c50a9764468e"
+   ]
+  },
+  {
+   "id": "glowacki-kevin",
+   "name": "Glowacki, Kevin",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "fefa852a-25a1-5a90-a1e5-e1badbbb753f"
+   ]
+  },
+  {
+   "id": "godart-louis",
+   "name": "Godart, Louis",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 19,
+   "work_ids": [
+    "0d805c48-5781-5151-8251-78ab78eb1ef9",
+    "1994a56f-63a0-5794-aeb6-1dbc02eb84e6",
+    "2b19ff71-a42a-5219-bb94-a0c47035686c",
+    "3e556c10-b3d8-5feb-b028-5e5516685ed3",
+    "41ed836c-d4de-59bf-9366-1d8785d89488",
+    "580da24c-08c5-54dc-b2b0-f4b8f6e97b2e",
+    "6bd81931-b5ef-581d-8a83-375f6cba1aa1",
+    "88dae294-3d24-52c1-b10c-a7b082a00c9f",
+    "8aeb8be6-9354-5a00-b126-2a81e6c41f0c",
+    "8e58516d-682e-567b-bf4c-03f521eb0b50",
+    "9caee384-9f8b-5118-a51d-d9d11055d156",
+    "a2ffd91d-2866-583a-b7c5-ddbeed6021ca",
+    "abe26755-69fe-5349-abcb-ed843bc829a1",
+    "bffeebd9-47d1-5ba9-b68a-a24178f4af97",
+    "cf4c7845-5ac4-5f24-8f1d-869d927a43c0",
+    "cff58aa2-e39e-5b85-9b85-1f68beb564d1",
+    "e33a683f-fc16-5c44-a3e4-f508fe356c42",
+    "f3e2f783-fcbe-56f5-a597-6ea933fd3de7",
+    "fd37ee13-d8e5-54ff-8ff8-7d9d84b9559e"
+   ]
+  },
+  {
+   "id": "goedegebuure-petra-m",
+   "name": "Goedegebuure, Petra M.",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "1748bf1d-45d6-53dc-b123-34aebe3396e7"
+   ]
+  },
+  {
+   "id": "goodison-lucy",
+   "name": "Goodison, Lucy",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "9d406ce1-6c85-5870-aa85-1b3163ae916b"
+   ]
+  },
+  {
+   "id": "gordon-cyrus-h",
+   "name": "Gordon, Cyrus H.",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "d1388ef4-8def-56e3-8a10-2b6188b9b35d"
+   ]
+  },
+  {
+   "id": "grigore-george",
+   "name": "Grigore, George",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "424592ed-f6fd-598e-96d3-4c0e6db8696b"
+   ]
+  },
+  {
+   "id": "grosman-leore",
+   "name": "Grosman, Leore",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "decbe01c-af57-5e89-8510-e920961377c4"
+   ]
+  },
+  {
+   "id": "guan-haisu",
+   "name": "Guan, Haisu",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "f2a66d37-1742-5e43-b18c-dfcf75663db7"
+   ]
+  },
+  {
+   "id": "guarducci-guido",
+   "name": "Guarducci, Guido",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "editor"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "ba75d772-7783-502e-9e7d-0a8a940e553b"
+   ]
+  },
+  {
+   "id": "guidi-lorenzo",
+   "name": "Guidi, Lorenzo",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "57e9fe18-17a2-5901-94e0-dcaac7a22488"
+   ]
+  },
+  {
+   "id": "gulizio-joan",
+   "name": "Gulizio, Joan",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "1b7d2f18-240e-5c64-8dc8-60f285de5ddb"
+   ]
+  },
+  {
+   "id": "guterbock-hans-g",
+   "name": "Güterbock, Hans G.",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 3,
+   "work_ids": [
+    "0728f8d1-894b-5022-88b0-c2578974b636",
+    "1748bf1d-45d6-53dc-b123-34aebe3396e7",
+    "1b62cd9f-d55c-5aca-b8c1-d300f3ac7837"
+   ]
+  },
+  {
+   "id": "hackl-johannes",
+   "name": "Hackl, Johannes",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "b0e98245-9b32-5c9e-9570-74df9dc67a3d"
+   ]
+  },
+  {
+   "id": "haider-peter",
+   "name": "Haider, Peter",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "e04ad069-a6ec-574b-a0ef-5d6ac801be75"
+   ]
+  },
+  {
+   "id": "halbherr-f",
+   "name": "Halbherr, F.",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 2,
+   "work_ids": [
+    "9f303c62-26aa-5195-9f15-6f04176c68d9",
+    "cc60d3b5-1d86-5c7a-95b3-6fcb500851fd"
+   ]
+  },
+  {
+   "id": "hallager-birgitta-p",
+   "name": "Hallager, Birgitta P.",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 2,
+   "work_ids": [
+    "112b0fcf-fbbf-5f5b-b468-b66fc763c2cf",
+    "61be1583-29a2-52e9-b9a2-492281fbc4a7"
+   ]
+  },
+  {
+   "id": "hallager-erik",
+   "name": "Hallager, Erik",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 10,
+   "work_ids": [
+    "0d4fd389-10ea-506f-bb1b-e65e57580858",
+    "112b0fcf-fbbf-5f5b-b468-b66fc763c2cf",
+    "1d466c9e-bf70-5f83-9e18-71fbd667c78d",
+    "2eb4caf4-b478-5c22-9009-fa815cefab2b",
+    "40cb4392-2019-5079-a9c1-525b64750b78",
+    "5703c311-80f3-5a99-a5a0-d8e5b59a8ad4",
+    "b7abb8d5-0f95-57eb-8d89-6adea27f09a6",
+    "c6951d04-f6c3-55d6-93a0-670c446a9544",
+    "ebc9f85b-c37f-5597-8906-a76d688a6dd6",
+    "f3e2f783-fcbe-56f5-a597-6ea933fd3de7"
+   ]
+  },
+  {
+   "id": "halmagi",
+   "name": "Hălmagi",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "e68cdccc-751d-571f-ba3c-a1f4a02908b7"
+   ]
+  },
+  {
+   "id": "halstead-paul",
+   "name": "Halstead, Paul",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "0c42b377-d334-5373-9f22-0967a7ab41f3"
+   ]
+  },
+  {
+   "id": "han-shengwei",
+   "name": "Han, Shengwei",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 3,
+   "work_ids": [
+    "2ffb1e10-5cec-52c6-98fc-336c0cc0bb70",
+    "d700b375-c7ad-50ef-a8b5-8a83d68612d7",
+    "f2a66d37-1742-5e43-b18c-dfcf75663db7"
+   ]
+  },
+  {
+   "id": "hankey-vronwy",
+   "name": "Hankey, Vronwy",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 2,
+   "work_ids": [
+    "1b864cc9-f2f8-501b-8eae-eee5ce7cd2ce",
+    "b1758dbc-2fac-5ea4-ad4b-ada129767691"
+   ]
+  },
+  {
+   "id": "harris-cline",
+   "name": "Harris-Cline",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "6b58c0d8-338d-53e9-9e00-7f0ef06e5e7f"
+   ]
+  },
+  {
+   "id": "hatzaki-e",
+   "name": "Hatzaki, E.",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "eae512fe-1aac-5e16-99c9-848d10b06385"
+   ]
+  },
+  {
+   "id": "he-xiaoping",
+   "name": "He, Xiaoping",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "d700b375-c7ad-50ef-a8b5-8a83d68612d7"
+   ]
+  },
+  {
+   "id": "helmke-christophe",
+   "name": "Helmke, Christophe",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 2,
+   "work_ids": [
+    "39175c4c-0b64-5132-aa9b-bc4b7a6840d2",
+    "9e46c661-c34c-5773-b4a9-943fab7b00c0"
+   ]
+  },
+  {
+   "id": "hester-d-a",
+   "name": "Hester, D. A.",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "47289564-bfce-5630-890c-25efa5e697bc"
+   ]
+  },
+  {
+   "id": "heubeck-alfred",
+   "name": "Heubeck, Alfred",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "83e7de81-afa2-5d54-8ad7-e072d8f9b9a8"
+   ]
+  },
+  {
+   "id": "hielte-stavropoulou-maria",
+   "name": "Hielte-Stavropoulou, Maria",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "a7db2b16-3b99-5810-ac84-b3d3a9acd3e3"
+   ]
+  },
+  {
+   "id": "hiller-stefan",
+   "name": "Hiller, Stefan",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 3,
+   "work_ids": [
+    "259c6de6-a1ce-5c6d-96bc-d8f37816b1f0",
+    "4489e02d-7519-5201-8ce3-c8eb551c2217",
+    "aeab4fda-3baf-5f14-95c1-d58f40b1b594"
+   ]
+  },
+  {
+   "id": "hirschfeld-nicolle-e",
+   "name": "Hirschfeld, Nicolle E.",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "763ec271-a699-5f78-bac9-e1dd1bd6f0dd"
+   ]
+  },
+  {
+   "id": "hoffner-harry-a",
+   "name": "Hoffner, Harry A.",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 3,
+   "work_ids": [
+    "0728f8d1-894b-5022-88b0-c2578974b636",
+    "1748bf1d-45d6-53dc-b123-34aebe3396e7",
+    "1b62cd9f-d55c-5aca-b8c1-d300f3ac7837"
+   ]
+  },
+  {
+   "id": "hogan-robert",
+   "name": "Hogan, Robert",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "maintainer"
+   ],
+   "works_in_bibliography": 0,
+   "work_ids": []
+  },
+  {
+   "id": "houston-stephen",
+   "name": "Houston, Stephen",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author",
+    "editor"
+   ],
+   "works_in_bibliography": 2,
+   "work_ids": [
+    "51da6609-1ccb-5375-9dd0-78efc07da074",
+    "898acc81-9d5c-5a6a-b7f7-8ac62686bacf"
+   ]
+  },
+  {
+   "id": "van-den-hout-theo",
+   "name": "van den Hout, Theo",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "1748bf1d-45d6-53dc-b123-34aebe3396e7"
+   ]
+  },
+  {
+   "id": "hu-xiaobin",
+   "name": "Hu, Xiaobin",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "d700b375-c7ad-50ef-a8b5-8a83d68612d7"
+   ]
+  },
+  {
+   "id": "huang-xiaoming",
+   "name": "Huang, Xiaoming",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "2ffb1e10-5cec-52c6-98fc-336c0cc0bb70"
+   ]
+  },
+  {
+   "id": "hutchens-christopher-allen",
+   "name": "Hutchens, Christopher Allen",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "446cd02f-5d38-58c6-ad20-792576f74e00"
+   ]
+  },
+  {
+   "id": "iacovou-maria",
+   "name": "Iacovou, Maria",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "bde358a1-8319-5b7d-8755-678f12207b77"
+   ]
+  },
+  {
+   "id": "iso-iec-jtc-1-sc-2-secretariat",
+   "name": "ISO/IEC JTC 1/SC 2 Secretariat",
+   "kind": "organisation",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "34c5ab15-db9b-537e-aa08-035de6fefe00"
+   ]
+  },
+  {
+   "id": "jaffe-alexandra",
+   "name": "Jaffe, Alexandra",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "b9d735f3-9e22-54be-b253-87f9174de7d7"
+   ]
+  },
+  {
+   "id": "jakob-stefan",
+   "name": "Jakob, Stefan",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "e0df1822-3049-5b04-b19e-404ac52b9466"
+   ]
+  },
+  {
+   "id": "jasink-anna-margherita",
+   "name": "Jasink, Anna Margherita",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author",
+    "editor"
+   ],
+   "works_in_bibliography": 3,
+   "work_ids": [
+    "677a10ef-1668-5537-a597-608b2d2dc358",
+    "9592f1cf-d87a-5de3-a7ea-b0480a63a1cb",
+    "9973d9f2-887f-5dbb-946f-0fde1ba02696"
+   ]
+  },
+  {
+   "id": "jastrow-marcus",
+   "name": "Jastrow, Marcus",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 2,
+   "work_ids": [
+    "5889e061-5c67-581c-af54-8259c162c85b",
+    "7eb02c92-708a-5cf6-9cd7-45f335960966"
+   ]
+  },
+  {
+   "id": "ji-rongrong",
+   "name": "Ji, Rongrong",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "2ffb1e10-5cec-52c6-98fc-336c0cc0bb70"
+   ]
+  },
+  {
+   "id": "jiang-boyuan",
+   "name": "Jiang, Boyuan",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "2ffb1e10-5cec-52c6-98fc-336c0cc0bb70"
+   ]
+  },
+  {
+   "id": "jimenez-delgado-jose-miguel",
+   "name": "Jiménez Delgado, José Miguel",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "da9e5c5f-291b-51b8-a2b0-d89e14c55a2f"
+   ]
+  },
+  {
+   "id": "jin-lianwen",
+   "name": "Jin, Lianwen",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "f2a66d37-1742-5e43-b18c-dfcf75663db7"
+   ]
+  },
+  {
+   "id": "jin-taisong",
+   "name": "Jin, Taisong",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 2,
+   "work_ids": [
+    "2ffb1e10-5cec-52c6-98fc-336c0cc0bb70",
+    "d700b375-c7ad-50ef-a8b5-8a83d68612d7"
+   ]
+  },
+  {
+   "id": "j-l-m",
+   "name": "J. L. M.",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "e3628ce4-4c4d-5ae5-87f2-a5ff0c7a378b"
+   ]
+  },
+  {
+   "id": "johnston-alan",
+   "name": "Johnston, Alan",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "d76e982e-a94f-5944-b07d-bcbb154c3f0f"
+   ]
+  },
+  {
+   "id": "jones-bernice",
+   "name": "Jones, Bernice",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "aed3b1b8-fb7b-56cc-9057-f78c98017527"
+   ]
+  },
+  {
+   "id": "judson-anna-p",
+   "name": "Judson, Anna P.",
+   "kind": "person",
+   "affiliation": "Durham (Assistant Professor); BSA (MSCA Fellow); Cambridge Gonville and Caius",
+   "affiliation_source": "ORCID record 0000-0002-9475-9004, read 2026-10-16",
+   "orcid": "0000-0002-9475-9004",
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 2,
+   "work_ids": [
+    "0ee64ae8-8d50-5e18-8e74-98a0019b8a7e",
+    "bddd8df2-4e77-5bc2-8bd6-87dddfca2ef9"
+   ]
+  },
+  {
+   "id": "kamm-antony",
+   "name": "Kamm, Antony",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "4c356418-c2f0-5784-9637-4ec8b3b9cf3d"
+   ]
+  },
+  {
+   "id": "kanta-athanasia",
+   "name": "Kanta, Athanasia",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 5,
+   "work_ids": [
+    "0bc276b4-82f2-5a1d-b212-57256b09096e",
+    "3f83edb4-5bc3-52ec-99b4-0e9ea9fda241",
+    "520b9000-00b0-5ba0-b137-0ac592ae435e",
+    "d46edf8c-de92-5160-8d54-07d504c3ca55",
+    "e903055d-2b14-53ea-9790-4c6efc17e932"
+   ]
+  },
+  {
+   "id": "karageorghis-vassos",
+   "name": "Karageorghis, Vassos",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 2,
+   "work_ids": [
+    "76025f17-0329-513c-8999-ce11c641a384",
+    "9fa6a69f-3908-502f-86a2-03caef49aee3"
+   ]
+  },
+  {
+   "id": "karajgikar-jajwalya-r",
+   "name": "Karajgikar, Jajwalya R.",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "77dadd93-0aff-5190-b3f6-478de189cbd6"
+   ]
+  },
+  {
+   "id": "karali-liliane",
+   "name": "Karali, Liliane",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "2c6e6bb4-8a4c-5389-bf59-36527b1b1db7"
+   ]
+  },
+  {
+   "id": "karetsou-alexandra",
+   "name": "Karetsou, Alexandra",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 2,
+   "work_ids": [
+    "6bd81931-b5ef-581d-8a83-375f6cba1aa1",
+    "a0b4a0e2-f3a2-5f26-90ee-a7f3591f6cd2"
+   ]
+  },
+  {
+   "id": "karnava-artemis",
+   "name": "Karnava, Artemis",
+   "kind": "person",
+   "affiliation": "University of Crete (Assistant professor)",
+   "affiliation_source": "ORCID record 0000-0001-5694-5933, read 2026-10-16",
+   "orcid": "0000-0001-5694-5933",
+   "roles": [
+    "author",
+    "editor"
+   ],
+   "works_in_bibliography": 23,
+   "work_ids": [
+    "0b5dc71f-ea4c-5225-bb09-6623a48c27a6",
+    "1cabad03-2b00-5560-8713-be8cf7a11b4f",
+    "28d49c5b-b7ec-5bf7-bcd5-5ebba4d809d9",
+    "2a773e8b-c9b0-588b-a975-ca383ff90ab6",
+    "325a03d2-8c99-55e0-87cf-eeb23f50caf8",
+    "5aef6e8b-1ce0-58e3-b872-695574cc6ca2",
+    "63d43535-d10d-5fca-8fab-d85bfe1e026a",
+    "64d43a9f-3e4e-56ed-9c09-e795194de495",
+    "659802aa-9bb8-54cc-a953-5eaa36a5d3a9",
+    "66ec256c-96d4-5b44-b004-32da5933ba83",
+    "6922ebfa-82ab-5695-b711-7aa3eb98fc70",
+    "70e2a14c-42e2-5e06-8342-5a2e4d7801c0",
+    "901bbe99-2476-528f-80a6-96533f26668b",
+    "909ba9f7-0806-54fd-839c-185d1dff0301",
+    "93690d44-9513-5b6d-8ac6-ea9d5cd6fdb6",
+    "9ec4d9e4-0301-5af0-8970-e4cfaab6a3ab",
+    "9ef1be56-8d19-5666-a2e5-7d40d7dc01c6",
+    "ac53ec6f-1ac9-5c7f-bd64-732409565642",
+    "bde358a1-8319-5b7d-8755-678f12207b77",
+    "c2b3a033-e461-54db-aeb4-2b3cc51d8653",
+    "cc5e57fd-dede-5cbc-aba0-772dbd389dcd",
+    "d1cbee56-8a7c-57b8-a3a2-c313243e4d10",
+    "df6c8a23-3788-53d7-83aa-7243c56fd7a1"
+   ]
+  },
+  {
+   "id": "kautzsch-e",
+   "name": "Kautzsch, E.",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "editor"
+   ],
+   "works_in_bibliography": 2,
+   "work_ids": [
+    "2c810035-f537-5f6f-a33a-ab897eef9b2d",
+    "42373a05-3bd0-5ef2-8359-4ceee0ecb15e"
+   ]
+  },
+  {
+   "id": "kazansky-nikolai-n",
+   "name": "Kazansky, Nikolai N.",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "47bcfd7f-0979-53eb-afa8-afe96298e42a"
+   ]
+  },
+  {
+   "id": "kefalidou-eurydice",
+   "name": "Kefalidou, Eurydice",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "editor"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "34e4eac2-2570-5912-9b1f-622e0467cbc8"
+   ]
+  },
+  {
+   "id": "kelly-piers",
+   "name": "Kelly, Piers",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "77ce7708-b22b-55fe-9e9d-a6c8ec7a8bda"
+   ]
+  },
+  {
+   "id": "kenanidis-ioannis-k",
+   "name": "Kenanidis, Ioannis K.",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 6,
+   "work_ids": [
+    "0d64b064-b759-5f89-9cce-3652c8e56723",
+    "157a0dfe-847b-528d-b905-276a85d28abf",
+    "17836fb7-ce86-587e-9ec8-25f9edf0837f",
+    "91e7ef1d-714e-5533-81b9-575c26babeed",
+    "9affafe9-2375-586e-8304-c221f1147c63",
+    "c2d8d820-0575-5ca9-ab23-82d502700b5e"
+   ]
+  },
+  {
+   "id": "kettunen-harri",
+   "name": "Kettunen, Harri",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 2,
+   "work_ids": [
+    "39175c4c-0b64-5132-aa9b-bc4b7a6840d2",
+    "9e46c661-c34c-5773-b4a9-943fab7b00c0"
+   ]
+  },
+  {
+   "id": "kiely-thomas",
+   "name": "Kiely, Thomas",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "c36c6405-f495-5c19-8152-dd1006cf3be6"
+   ]
+  },
+  {
+   "id": "killebrew-ann-e",
+   "name": "Killebrew, Ann E.",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "24aba2aa-7b94-5eda-ab7e-68be06b60a72"
+   ]
+  },
+  {
+   "id": "killen-john",
+   "name": "Killen, John",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 2,
+   "work_ids": [
+    "313842d5-3605-5226-ab10-9bb74df04f64",
+    "ab09f64f-0867-5f91-acee-17c972aaa2c9"
+   ]
+  },
+  {
+   "id": "knapp-a-bernard",
+   "name": "Knapp, A. Bernard",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 2,
+   "work_ids": [
+    "07a65373-8a05-507e-bd2f-41d9d9cd16a9",
+    "57ca597a-68dd-5d5f-b08c-dda50d93e5d1"
+   ]
+  },
+  {
+   "id": "knappett-carl",
+   "name": "Knappett, C.",
+   "kind": "person",
+   "affiliation": "University of Toronto (Professor)",
+   "affiliation_source": "ORCID record 0000-0002-9919-8859, read 2026-10-16",
+   "orcid": "0000-0002-9919-8859",
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 2,
+   "work_ids": [
+    "0ead52c8-0f82-5d6f-8bb9-9e3841512477",
+    "3f9a619f-08eb-50b8-b837-64220dd51bac"
+   ]
+  },
+  {
+   "id": "knight-kevin",
+   "name": "Knight, Kevin",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "40151c23-ff2f-5457-89f8-76533bb36ab1"
+   ]
+  },
+  {
+   "id": "koehl-robert",
+   "name": "Koehl, Robert",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "a149811e-6d95-5fbb-9f95-0f2a66907e85"
+   ]
+  },
+  {
+   "id": "konsolaki-yannopoulou-eleni",
+   "name": "Konsolaki-Yannopoulou, Eleni",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "97ed167c-5a27-584a-beb6-4d363e6abf74"
+   ]
+  },
+  {
+   "id": "kopaka-katerina",
+   "name": "Kopaka, Katerina",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 2,
+   "work_ids": [
+    "66eda264-bfee-55a3-b0b2-26b05895b243",
+    "d5b7d81f-e0bd-5df6-a10b-c010d36fb11d"
+   ]
+  },
+  {
+   "id": "kowalski-jeff-karl",
+   "name": "Kowalski, Jeff Karl",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "45f20338-e1a9-56e9-bf71-c72078132d85"
+   ]
+  },
+  {
+   "id": "kretschmer-paul",
+   "name": "Kretschmer, Paul",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "cc05042c-580d-568a-b48a-4a94f7c0e5fa"
+   ]
+  },
+  {
+   "id": "kritzas-charalambos-b",
+   "name": "Kritzas, Charalambos B.",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 2,
+   "work_ids": [
+    "2fca499a-a4c0-5447-aa1b-2577174165c6",
+    "c1448407-6db5-5786-bbf2-2c083b6db25d"
+   ]
+  },
+  {
+   "id": "kromker-susanne",
+   "name": "Krömker, Susanne",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "e0df1822-3049-5b04-b19e-404ac52b9466"
+   ]
+  },
+  {
+   "id": "ktistopoulos-kyriakos-d",
+   "name": "Ktistopoulos, Kyriakos D.",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "dd8ad0bd-df43-5d07-9a5c-48d77c3efb70"
+   ]
+  },
+  {
+   "id": "kuang-zhebin",
+   "name": "Kuang, Zhebin",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "f2a66d37-1742-5e43-b18c-dfcf75663db7"
+   ]
+  },
+  {
+   "id": "kunkel-brian-s",
+   "name": "Kunkel, Brian S.",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "fefa852a-25a1-5a90-a1e5-e1badbbb753f"
+   ]
+  },
+  {
+   "id": "kyriakidis-evangelos",
+   "name": "Kyriakidis, Evangelos",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "75bc49cd-bf7f-56c0-88f6-87fa791ab571"
+   ]
+  },
+  {
+   "id": "laffineur-robert",
+   "name": "Laffineur, Robert",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 4,
+   "work_ids": [
+    "1e3dcd5d-ac27-5956-a096-f12026afc283",
+    "88dae294-3d24-52c1-b10c-a7b082a00c9f",
+    "a65dc60b-1dd1-5aa1-b442-bdbda5dd21c4",
+    "c19baf37-aba9-5967-99a9-aeec73eb7da1"
+   ]
+  },
+  {
+   "id": "lambrou-phillipson-connie",
+   "name": "Lambrou-Phillipson, Connie",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "35d7ef3d-3192-5dcb-98a4-9e5beedc6ac7"
+   ]
+  },
+  {
+   "id": "laroche-emmanuel",
+   "name": "Laroche, Emmanuel",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 3,
+   "work_ids": [
+    "23731c0c-2ee7-544f-b5f2-5a32b0388fd5",
+    "611bee9a-dd32-5321-85d5-2544db57444a",
+    "873612fc-85b4-5a74-9080-827ef21cbafe"
+   ]
+  },
+  {
+   "id": "lefevre-novaro-daniela",
+   "name": "Lefèvre-Novaro, Daniela",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "1cefc114-d428-53b0-91f5-a993cbb1842f"
+   ]
+  },
+  {
+   "id": "leonard-albert-jr",
+   "name": "Leonard, Albert, Jr.",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 2,
+   "work_ids": [
+    "12899091-b700-5cfa-b995-ae7d9d7b7194",
+    "1b864cc9-f2f8-501b-8eae-eee5ce7cd2ce"
+   ]
+  },
+  {
+   "id": "levi-d",
+   "name": "Levi, D.",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "348d3ff1-83cf-5ae8-aa2a-68d022df409b"
+   ]
+  },
+  {
+   "id": "lewartowski-kazimierz",
+   "name": "Lewartowski, Kazimierz",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "6676f321-2e48-5d31-a4ba-d7ecd517ff5a"
+   ]
+  },
+  {
+   "id": "li-bang",
+   "name": "Li, Bang",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 2,
+   "work_ids": [
+    "2ffb1e10-5cec-52c6-98fc-336c0cc0bb70",
+    "d700b375-c7ad-50ef-a8b5-8a83d68612d7"
+   ]
+  },
+  {
+   "id": "li-caoshuo",
+   "name": "Li, Caoshuo",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "d700b375-c7ad-50ef-a8b5-8a83d68612d7"
+   ]
+  },
+  {
+   "id": "li-ziqi",
+   "name": "Li, Ziqi",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "83219e9e-4934-5aba-9f44-da03bc2f5aa7"
+   ]
+  },
+  {
+   "id": "liang-yujie",
+   "name": "Liang, Yujie",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "2ffb1e10-5cec-52c6-98fc-336c0cc0bb70"
+   ]
+  },
+  {
+   "id": "lidzbarski-mark",
+   "name": "Lidzbarski, Mark",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 2,
+   "work_ids": [
+    "56e2a85b-e264-52ce-86e5-75518e231a24",
+    "dce5564a-8515-50a2-935f-336362d46d2b"
+   ]
+  },
+  {
+   "id": "liu-yongge",
+   "name": "Liu, Yongge",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 3,
+   "work_ids": [
+    "2ffb1e10-5cec-52c6-98fc-336c0cc0bb70",
+    "d700b375-c7ad-50ef-a8b5-8a83d68612d7",
+    "f2a66d37-1742-5e43-b18c-dfcf75663db7"
+   ]
+  },
+  {
+   "id": "liu-yuliang",
+   "name": "Liu, Yuliang",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "f2a66d37-1742-5e43-b18c-dfcf75663db7"
+   ]
+  },
+  {
+   "id": "looper-matthew",
+   "name": "Looper, Matthew",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 3,
+   "work_ids": [
+    "07ea5b59-0f00-515d-b147-4359bb799e47",
+    "5ea9f46a-b9d0-5361-8ad1-f44eff1b2de9",
+    "7efb25a1-887d-59da-9b85-0e0ed69c842a"
+   ]
+  },
+  {
+   "id": "lozano-mendoza-juan-antonio",
+   "name": "Lozano Mendoza, Juan Antonio",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "d3c188cd-c3d5-569c-b99c-e71989b31dbf"
+   ]
+  },
+  {
+   "id": "luo-donghao",
+   "name": "Luo, Donghao",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 2,
+   "work_ids": [
+    "2ffb1e10-5cec-52c6-98fc-336c0cc0bb70",
+    "d700b375-c7ad-50ef-a8b5-8a83d68612d7"
+   ]
+  },
+  {
+   "id": "luo-jiaming",
+   "name": "Luo, Jiaming",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "a7bb5270-787f-52fb-882b-9c6f7bf51049"
+   ]
+  },
+  {
+   "id": "luria-s",
+   "name": "Luria, S.",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "0e13151e-19cd-520c-bfd4-3d14745070e4"
+   ]
+  },
+  {
+   "id": "ma-yiran-rex",
+   "name": "Ma, Yiran Rex",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "77b59933-68ff-513a-bfb4-24d46782a84e"
+   ]
+  },
+  {
+   "id": "macgillivray-j-a",
+   "name": "MacGillivray, J. A.",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "eae512fe-1aac-5e16-99c9-848d10b06385"
+   ]
+  },
+  {
+   "id": "macri-martha-j",
+   "name": "Macri, Martha J.",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 3,
+   "work_ids": [
+    "07ea5b59-0f00-515d-b147-4359bb799e47",
+    "5ea9f46a-b9d0-5361-8ad1-f44eff1b2de9",
+    "7efb25a1-887d-59da-9b85-0e0ed69c842a"
+   ]
+  },
+  {
+   "id": "madhu-adithyan",
+   "name": "Madhu, Adithyan",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "6966c72f-2f5f-5918-994c-d2828a84d8f0"
+   ]
+  },
+  {
+   "id": "mann-manisha",
+   "name": "Mann, Manisha",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "d21f453f-af4d-57de-8003-5682c0da0937"
+   ]
+  },
+  {
+   "id": "manning-m-b",
+   "name": "Manning, M. B.",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 2,
+   "work_ids": [
+    "14df72f9-7967-5d4d-9d4f-5e014992d774",
+    "bb357e26-bced-5e1a-87ac-405d5f4e8f88"
+   ]
+  },
+  {
+   "id": "manning-stuart-w",
+   "name": "Manning, Sturt W.",
+   "kind": "person",
+   "affiliation": "Cornell (Professor)",
+   "affiliation_source": "ORCID record 0000-0002-6917-0927, read 2026-10-16",
+   "orcid": "0000-0002-6917-0927",
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "ce2a28fb-8817-5a6c-bae1-274b7d19c10c"
+   ]
+  },
+  {
+   "id": "manoj-pratham",
+   "name": "Manoj, Pratham",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "27b4f152-665b-533b-a308-70dfd22313e3"
+   ]
+  },
+  {
+   "id": "mara-hubert",
+   "name": "Mara, Hubert",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "e0df1822-3049-5b04-b19e-404ac52b9466"
+   ]
+  },
+  {
+   "id": "maran-joseph",
+   "name": "Maran, Joseph",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 3,
+   "work_ids": [
+    "5bb27d9f-b94f-51b9-9610-8944e91e05f0",
+    "ecd956fb-00a0-5e32-9b24-dde7e6b5c1b3",
+    "f369960d-6a03-5569-94fb-26e2a0cc9006"
+   ]
+  },
+  {
+   "id": "marangou-christina",
+   "name": "Marangou, Christina",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "24de0f40-054f-5660-aba4-88b79e60803c"
+   ]
+  },
+  {
+   "id": "marchesi-gianni",
+   "name": "Marchesi, Gianni",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 2,
+   "work_ids": [
+    "1c84cd2a-0065-5fc3-a026-54bc82ca3536",
+    "50f04db3-9f77-5cb4-824b-9da34aef0b1a"
+   ]
+  },
+  {
+   "id": "margaritis-evi",
+   "name": "Margaritis, Evi",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "fefa852a-25a1-5a90-a1e5-e1badbbb753f"
+   ]
+  },
+  {
+   "id": "marinatos-spyridon",
+   "name": "Marinatos, Spyridon",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 3,
+   "work_ids": [
+    "4ac2d9b7-d50f-5a82-95af-fe45383bd4d4",
+    "80808677-2d84-5397-9aa9-2c2ad2fc8b26",
+    "e3852b28-5b14-5fb3-936f-981a9abb69bd"
+   ]
+  },
+  {
+   "id": "markou-evangeline",
+   "name": "Markou, Evangéline",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "659802aa-9bb8-54cc-a953-5eaa36a5d3a9"
+   ]
+  },
+  {
+   "id": "markoulakis-s",
+   "name": "Markoulakis, S.",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "ebc9f85b-c37f-5597-8906-a76d688a6dd6"
+   ]
+  },
+  {
+   "id": "martelli-i",
+   "name": "Martelli, I.",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "157c27b1-21ac-5184-b3a8-c402db92f9f9"
+   ]
+  },
+  {
+   "id": "masson-emilia",
+   "name": "Masson, Emilia",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 2,
+   "work_ids": [
+    "07750ab9-fe4e-5acf-9c38-71d14af8dac0",
+    "965b7b5b-7c87-5cda-9a09-424fc9d4eb7a"
+   ]
+  },
+  {
+   "id": "masson-olivier",
+   "name": "Masson, Olivier",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 2,
+   "work_ids": [
+    "c472c94e-eb49-5b5d-a44d-764b861cd837",
+    "c78792bb-6a09-56c3-8998-1eabd394ff4d"
+   ]
+  },
+  {
+   "id": "mccants-pizarro",
+   "name": "McCants, Pizarro",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "8d28025f-04e8-5b2c-a7b4-37f7265894a4"
+   ]
+  },
+  {
+   "id": "mcenroe-john-c",
+   "name": "McEnroe, John C.",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "fefa852a-25a1-5a90-a1e5-e1badbbb753f"
+   ]
+  },
+  {
+   "id": "mee",
+   "name": "Mee",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "d0707200-81a5-5291-b902-4a6058ee2859"
+   ]
+  },
+  {
+   "id": "meissner-torsten",
+   "name": "Meißner, Torsten",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author",
+    "editor"
+   ],
+   "works_in_bibliography": 7,
+   "work_ids": [
+    "01f57e25-9dc9-5da8-9072-879f2989d0b0",
+    "0c9c50a8-9c51-5f0f-ad48-33e1440aec45",
+    "2fa249c8-1fca-5f01-8d15-3c60b0a2b098",
+    "63d43535-d10d-5fca-8fab-d85bfe1e026a",
+    "71dcde05-ae50-5cf6-9dd6-86fbc71e88f6",
+    "7a2e18b8-5988-5c2e-b9f4-119f8ad4e2e7",
+    "c2b3a033-e461-54db-aeb4-2b3cc51d8653"
+   ]
+  },
+  {
+   "id": "melas",
+   "name": "Melas",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "98ce023d-b0f9-5efb-8a87-bc64dbd66419"
+   ]
+  },
+  {
+   "id": "melchert-h-craig",
+   "name": "Melchert, H. Craig",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "4fec5cc2-dbf5-5162-810f-7f133c9f76b3"
+   ]
+  },
+  {
+   "id": "melena-jose-luis",
+   "name": "Melena, José Luis",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 7,
+   "work_ids": [
+    "2c537fea-8bab-5526-a7aa-c74d70ae1acd",
+    "3e52fd2f-3d66-5faa-99c3-fdfa66f2c893",
+    "48eae215-4eed-5ea5-aa70-874f5dea5934",
+    "976861df-9d1d-5991-bacf-fd485d1c2022",
+    "bc8945ee-29ed-5428-9ff0-a16e4fa484a8",
+    "d92f341a-5da6-5546-b630-f57e11b664bc",
+    "eb2fe177-818b-5e37-a744-1b7c8a8596e6"
+   ]
+  },
+  {
+   "id": "meriggi-piero",
+   "name": "Meriggi, Piero",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 3,
+   "work_ids": [
+    "43bb6dae-874a-5f1b-b3d9-e4878f271b8b",
+    "63851c1c-9f0e-540f-b79d-63197223d778",
+    "a5e0ae30-6f16-52f7-a0ff-cd4b9e74f77e"
+   ]
+  },
+  {
+   "id": "merrillees",
+   "name": "Merrillees",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 2,
+   "work_ids": [
+    "86bce239-96da-5d6f-8165-99a4937f0c57",
+    "c28afebd-f69a-5ad3-a528-227ddbe2b8e4"
+   ]
+  },
+  {
+   "id": "michailidou-anna",
+   "name": "Michailidou, Anna",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "e19b075f-a1b0-56e3-bc1f-e8344de1d18b"
+   ]
+  },
+  {
+   "id": "militello-p",
+   "name": "Militello, P.",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 2,
+   "work_ids": [
+    "f0893af5-8064-5d36-bfec-64c685abb278",
+    "f44b8c4c-700b-5f94-b74d-ed0f8bae59b8"
+   ]
+  },
+  {
+   "id": "miller-mary",
+   "name": "Miller, Mary",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "898acc81-9d5c-5a6a-b7f7-8ac62686bacf"
+   ]
+  },
+  {
+   "id": "mitford-terence-bruce",
+   "name": "Mitford, Terence Bruce",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 2,
+   "work_ids": [
+    "59188bd0-b3ab-5381-b780-0957affc1952",
+    "af020a60-66f1-53f4-91ae-3068cedcfd8f"
+   ]
+  },
+  {
+   "id": "montecchi-barbara",
+   "name": "Montecchi, Barbara",
+   "kind": "person",
+   "affiliation": "Bologna (Junior Assistant Professor); Firenze; SAIA Athens",
+   "affiliation_source": "ORCID record 0000-0001-8077-0256, read 2026-10-16",
+   "orcid": "0000-0001-8077-0256",
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 11,
+   "work_ids": [
+    "00d52c54-3d97-5cc9-87e0-e8d87aa7ee87",
+    "2b56297f-6d0a-54c3-92de-cfdd0ff9ca1b",
+    "4eeb5f57-e430-533d-a45c-9d2367222f66",
+    "724010b2-5152-5024-b345-0acbbdb7bca9",
+    "7bac8fed-c548-5e06-bd8f-1daa44eac56e",
+    "80970dc8-5d21-5584-9226-4093f9aebbe6",
+    "854787db-6a43-593b-af70-a111c4e8efc3",
+    "973a7efa-bbf3-560b-854e-8f581341b517",
+    "d00b1d60-7f17-520c-a5bb-2808a1a68a13",
+    "d02a3078-bc6f-5ed2-8e45-d417458fa163",
+    "dfb6be0c-ca13-59b9-893f-ba54579301ba"
+   ]
+  },
+  {
+   "id": "monti-orazio",
+   "name": "Monti, Orazio",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "00d51513-0d5a-5025-8cc6-4e09a391a4ba"
+   ]
+  },
+  {
+   "id": "mora-marin-david-f",
+   "name": "Mora-Marín, David F.",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 2,
+   "work_ids": [
+    "4b22429a-4cd7-5c02-8625-9126b764d32e",
+    "68e2ccbb-bb0b-57d3-b760-e175dd2d44be"
+   ]
+  },
+  {
+   "id": "morris",
+   "name": "Morris",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 2,
+   "work_ids": [
+    "0e6db057-5fbd-5f78-beb3-33ac21998d05",
+    "c21bf2b2-8d3b-5b9f-add8-e14976f4998b"
+   ]
+  },
+  {
+   "id": "motsiou-paraskevi",
+   "name": "Motsiou, Paraskevi",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "editor"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "34e4eac2-2570-5912-9b1f-622e0467cbc8"
+   ]
+  },
+  {
+   "id": "muhlestein-hugo",
+   "name": "Mühlestein, Hugo",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "29c4708d-6ba2-5489-8b8b-5e136f022ecc"
+   ]
+  },
+  {
+   "id": "muhly",
+   "name": "Muhly",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "99cd736c-39d8-504b-ba55-81b17b2ad0a6"
+   ]
+  },
+  {
+   "id": "muhly-polymnia",
+   "name": "Muhly, Polymnia",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "fad0df32-e5b5-5998-a356-457b8f1f4264"
+   ]
+  },
+  {
+   "id": "muller-sylvie",
+   "name": "Müller, Sylvie",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "0294f4ff-692a-50e5-b930-3f760438e392"
+   ]
+  },
+  {
+   "id": "myres-john-linton",
+   "name": "Myres, John Linton",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author",
+    "editor"
+   ],
+   "works_in_bibliography": 2,
+   "work_ids": [
+    "1a456cf4-acc2-5dae-8b88-b99e437f0e0f",
+    "985cd366-73ec-5b5e-a7d0-39b7c0ee692e"
+   ]
+  },
+  {
+   "id": "nakassis-dimitri",
+   "name": "Nakassis, Dimitri",
+   "kind": "person",
+   "affiliation": "University of Colorado Boulder, Department of Classics",
+   "affiliation_source": "faculty page https://www.colorado.edu/classics/dimitri-nakassis, read 2026-05-04",
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "0bc276b4-82f2-5a1d-b212-57256b09096e"
+   ]
+  },
+  {
+   "id": "nash-theodore",
+   "name": "Nash, Theodore",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "8e4a953c-c85e-5ace-879b-5c33bd0a54c9"
+   ]
+  },
+  {
+   "id": "navarre-matt",
+   "name": "Navarre, Matt",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": "0009-0002-4190-5765",
+   "roles": [
+    "maintainer"
+   ],
+   "works_in_bibliography": 0,
+   "work_ids": []
+  },
+  {
+   "id": "negri-mario",
+   "name": "Negri, Mario",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "157c27b1-21ac-5184-b3a8-c402db92f9f9"
+   ]
+  },
+  {
+   "id": "nepal-aaradh",
+   "name": "Nepal, Aaradh",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "c58580a9-e671-576b-a5d1-c89f30b6eaa4"
+   ]
+  },
+  {
+   "id": "niemeier",
+   "name": "Niemeier",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 3,
+   "work_ids": [
+    "1a77ca96-39b9-5b4b-8c14-c311763663a8",
+    "5c4e43df-2505-53a1-b988-5818473641fb",
+    "deaacadb-29e3-5ccc-966c-c7349f9462cb"
+   ]
+  },
+  {
+   "id": "niesiolowski-spano-lukasz",
+   "name": "Niesiołowski-Spanò, Łukasz",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "b65c1863-c041-5a8f-8124-7bb97d1f383e"
+   ]
+  },
+  {
+   "id": "nikolakopoulou-irene",
+   "name": "Nikolakopoulou, Irene",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 2,
+   "work_ids": [
+    "0b5dc71f-ea4c-5225-bb09-6623a48c27a6",
+    "187ceb46-e8f9-5504-ae3f-98d539b88e88"
+   ]
+  },
+  {
+   "id": "nikoloudis-stavroula",
+   "name": "Nikoloudis, Stavroula",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "13324658-01f6-5236-b271-141ddec6cff7"
+   ]
+  },
+  {
+   "id": "nosch-marie-louise",
+   "name": "Nosch, Marie-Louise",
+   "kind": "person",
+   "affiliation": "Københavns Universitet (professor)",
+   "affiliation_source": "ORCID record 0000-0002-2104-1085, read 2026-10-16",
+   "orcid": "0000-0002-2104-1085",
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "87b3204c-5461-5b22-8408-1516ec952cd0"
+   ]
+  },
+  {
+   "id": "notti-erika",
+   "name": "Notti, Erika",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "8f415ede-2ec7-5787-81dd-a841e3462ce4"
+   ]
+  },
+  {
+   "id": "nowicki",
+   "name": "Nowicki",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "6e948d3e-9d72-5553-ad5b-4d204387b6e6"
+   ]
+  },
+  {
+   "id": "odobez-jean-marc",
+   "name": "Odobez, Jean-Marc",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "99f91227-b626-5eba-8b08-453661f619ac"
+   ]
+  },
+  {
+   "id": "olivier-jean-pierre",
+   "name": "Olivier, Jean-Pierre",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 27,
+   "work_ids": [
+    "0294f4ff-692a-50e5-b930-3f760438e392",
+    "0d805c48-5781-5151-8251-78ab78eb1ef9",
+    "0fa52fb2-b2e5-5e42-a2b8-b1a9be5b0a60",
+    "11df490f-7b90-5a8c-a969-d451fde80a71",
+    "1994a56f-63a0-5794-aeb6-1dbc02eb84e6",
+    "241d26f7-d2d9-531f-8ea9-311afe4748e8",
+    "2873fbc7-862d-5cb9-9fee-e8b5ef717b26",
+    "292d7531-dde5-5559-a868-cc3e0910ac22",
+    "34661c4d-f129-5ab9-b429-1b87d6cfa336",
+    "41ed836c-d4de-59bf-9366-1d8785d89488",
+    "42e19ef8-6e3f-5e26-ab79-47007b113d57",
+    "6bd81931-b5ef-581d-8a83-375f6cba1aa1",
+    "85d5952e-a75d-5b78-9778-a6dda6d7075c",
+    "88dae294-3d24-52c1-b10c-a7b082a00c9f",
+    "8aeb8be6-9354-5a00-b126-2a81e6c41f0c",
+    "8ca6dd73-953f-5b37-b14f-8d85735d0f52",
+    "8e58516d-682e-567b-bf4c-03f521eb0b50",
+    "9ef1be56-8d19-5666-a2e5-7d40d7dc01c6",
+    "a2ffd91d-2866-583a-b7c5-ddbeed6021ca",
+    "a85b1eba-73e4-54c8-bd2b-00253a1ac713",
+    "bb64d278-75ec-5c4f-827f-1014ec5e0577",
+    "bffeebd9-47d1-5ba9-b68a-a24178f4af97",
+    "e33a683f-fc16-5c44-a3e4-f508fe356c42",
+    "efeac90c-c085-5a06-a69a-67186f182c20",
+    "f3e2f783-fcbe-56f5-a597-6ea933fd3de7",
+    "fad0df32-e5b5-5998-a356-457b8f1f4264",
+    "ffa4f07a-a9b7-5857-94a4-5d17107bb5a0"
+   ]
+  },
+  {
+   "id": "oppenheim-a-leo",
+   "name": "Oppenheim, A. Leo",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "editor"
+   ],
+   "works_in_bibliography": 14,
+   "work_ids": [
+    "00cd254d-0e7b-55e6-90e7-b680224ac62e",
+    "04ad7ec8-8f09-562d-b9cc-f7d985d13e19",
+    "06654842-945a-5419-a691-00d5519a470b",
+    "0aea73b4-280e-546f-996c-72afa18293a4",
+    "2fb013a5-8ed4-590d-99f7-5480d136c221",
+    "47d9a45e-bdc1-5ba3-9fee-84980322db28",
+    "53417754-7654-5e54-aeb8-5d2e998effb9",
+    "62f4d0e4-9a54-575b-94af-7ad24aba353c",
+    "772a8d7d-b523-5232-aa21-d44f643e898c",
+    "8cb5258a-7f6a-5073-b20e-5a4e929fb728",
+    "a15e00e0-5c61-5a12-b3c1-47a103d12a5a",
+    "d6033465-2557-52d6-8155-881b4ad229f7",
+    "e8ade751-0d53-575a-82df-2d44566df9ad",
+    "f02eb842-2b31-5958-a71d-678c965a4af4"
+   ]
+  },
+  {
+   "id": "orsi-valentina",
+   "name": "Orsi, Valentina",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "editor"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "ba75d772-7783-502e-9e7d-0a8a940e553b"
+   ]
+  },
+  {
+   "id": "owens-gareth",
+   "name": "Owens, Gareth",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 2,
+   "work_ids": [
+    "8712a02d-f87a-56a8-a461-99321dd64c38",
+    "c3f9425a-3845-53d0-a81d-55aa5bb24ff8"
+   ]
+  },
+  {
+   "id": "packard-david-w",
+   "name": "Packard, David W.",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "d95b5c99-3b31-5b4f-9bb7-6e63bfdbe6e0"
+   ]
+  },
+  {
+   "id": "pae-hye-k",
+   "name": "Pae, Hye K.",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "3f0a13cd-3074-524f-ac4c-5d081a755bc8"
+   ]
+  },
+  {
+   "id": "palaima-thomas-g",
+   "name": "Palaima, Thomas G.",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 17,
+   "work_ids": [
+    "0bc276b4-82f2-5a1d-b212-57256b09096e",
+    "1b7d2f18-240e-5c64-8dc8-60f285de5ddb",
+    "3db2ea7e-7cef-5c27-aa0b-0dc9b89d0d56",
+    "4a490d8a-5144-5892-a952-33dd63477dce",
+    "520b9000-00b0-5ba0-b137-0ac592ae435e",
+    "6ba2c8b9-dc18-56bc-a227-739ffdd1af52",
+    "7766ed99-bd7e-5461-a65e-f398332565f7",
+    "82ab924d-c56a-550e-b8f6-15829d85f066",
+    "aa9b04a3-0c97-5028-b539-891274f0df7f",
+    "b2c31832-df73-58d2-aea4-fa0cdd1abe2a",
+    "c07ce4e1-b318-5dbe-8de8-b7a66963d3d3",
+    "cb34d0fc-a73d-58f8-a4b2-6134b4d08181",
+    "cbfd8c99-89b1-5492-b2c1-edb990b9e257",
+    "d92f341a-5da6-5546-b630-f57e11b664bc",
+    "df51c4e7-e9e6-570d-a9ac-3c3f75beb51e",
+    "e3b2dee3-88f1-54ae-b14a-60ad40bcf94f",
+    "f7f30696-7b21-59f8-a26d-1fd42263212c"
+   ]
+  },
+  {
+   "id": "pallan-carlos",
+   "name": "Pallan, Carlos",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "99f91227-b626-5eba-8b08-453661f619ac"
+   ]
+  },
+  {
+   "id": "pallan-gayol-carlos",
+   "name": "Pallán Gayol, Carlos",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "34aaa6bb-ba86-5d2f-9ebe-1ec2c77b27ef"
+   ]
+  },
+  {
+   "id": "palmer",
+   "name": "Palmer",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "2786dbd4-77e0-57c8-a01b-923324d1f1cc"
+   ]
+  },
+  {
+   "id": "pantou-panagiota-a",
+   "name": "Pantou, Panagiota A.",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "fefa852a-25a1-5a90-a1e5-e1badbbb753f"
+   ]
+  },
+  {
+   "id": "papadopoulos-angelos",
+   "name": "Papadopoulos, Angelos",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "4189c4bb-275a-5ada-99c7-042cc2c48ff5"
+   ]
+  },
+  {
+   "id": "papadopoulou-eleni",
+   "name": "Papadopoulou, Eleni",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "5703c311-80f3-5a99-a5a0-d8e5b59a8ad4"
+   ]
+  },
+  {
+   "id": "papakitsos-evangelos-c",
+   "name": "Papakitsos, Evangelos C.",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 7,
+   "work_ids": [
+    "0d64b064-b759-5f89-9cce-3652c8e56723",
+    "157a0dfe-847b-528d-b905-276a85d28abf",
+    "17836fb7-ce86-587e-9ec8-25f9edf0837f",
+    "7874d734-1d39-57d8-b83b-a1c35d3e98c0",
+    "91e7ef1d-714e-5533-81b9-575c26babeed",
+    "9affafe9-2375-586e-8304-c221f1147c63",
+    "c2d8d820-0575-5ca9-ab23-82d502700b5e"
+   ]
+  },
+  {
+   "id": "papathanassopoulos-georges",
+   "name": "Papathanassopoulos, Georges",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "91b0bb51-8843-5dea-a756-a309a24c265e"
+   ]
+  },
+  {
+   "id": "papatsaroucha",
+   "name": "Papatsaroucha",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "f975a66a-08a5-5a3c-a413-47b5ea224fff"
+   ]
+  },
+  {
+   "id": "paradis-michel",
+   "name": "Paradis, Michel",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "77af0236-b578-53ef-a9ff-caf6c7eaf73c"
+   ]
+  },
+  {
+   "id": "pathak-seema-rani",
+   "name": "Pathak, Seema Rani",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "d21f453f-af4d-57de-8003-5682c0da0937"
+   ]
+  },
+  {
+   "id": "payne-annick",
+   "name": "Payne, Annick",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 2,
+   "work_ids": [
+    "0e1a9fc8-60d5-51ae-a8f0-2805305a16e7",
+    "fbf3b8d9-2baa-5454-bde6-54c4d51e16e6"
+   ]
+  },
+  {
+   "id": "payne-smith-j-mrs-margoliouth",
+   "name": "Payne Smith, J. (Mrs. Margoliouth)",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "editor"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "e7225c35-8873-5c5d-83d8-27e266d03cd4"
+   ]
+  },
+  {
+   "id": "peatfield",
+   "name": "Peatfield",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "c3f6c40e-8786-51c3-b936-0adc55be9149"
+   ]
+  },
+  {
+   "id": "pelon-olivier",
+   "name": "Pelon, Olivier",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 3,
+   "work_ids": [
+    "0c615c61-f8ac-5827-986d-81a121faa67c",
+    "85d5952e-a75d-5b78-9778-a6dda6d7075c",
+    "efeac90c-c085-5a06-a69a-67186f182c20"
+   ]
+  },
+  {
+   "id": "pendlebury-j-d-s",
+   "name": "Pendlebury, J. D. S.",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "3f34f929-e494-53a0-bb10-bb18ccd104ed"
+   ]
+  },
+  {
+   "id": "peng-xu",
+   "name": "Peng, Xu",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 2,
+   "work_ids": [
+    "2ffb1e10-5cec-52c6-98fc-336c0cc0bb70",
+    "d700b375-c7ad-50ef-a8b5-8a83d68612d7"
+   ]
+  },
+  {
+   "id": "perdih-anton",
+   "name": "Perdih, Anton",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "4c435f1b-210c-5365-9558-c164f0fe5ff4"
+   ]
+  },
+  {
+   "id": "perlman-paula",
+   "name": "Perlman, Paula",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "5e067f0e-0fd0-591f-bf96-3cfaf5b87a67"
+   ]
+  },
+  {
+   "id": "perna-massimo",
+   "name": "Perna, Massimo",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 10,
+   "work_ids": [
+    "0bc276b4-82f2-5a1d-b212-57256b09096e",
+    "520b9000-00b0-5ba0-b137-0ac592ae435e",
+    "87b3204c-5461-5b22-8408-1516ec952cd0",
+    "909ba9f7-0806-54fd-839c-185d1dff0301",
+    "c36c6405-f495-5c19-8152-dd1006cf3be6",
+    "d46edf8c-de92-5160-8d54-07d504c3ca55",
+    "e8acbdc5-e664-5bc5-99b9-078b268bab95",
+    "e903055d-2b14-53ea-9790-4c6efc17e932",
+    "ead53046-5e59-5dba-a5b5-744d6d81e028",
+    "f692c14c-0135-5969-baa9-7b9e274c200d"
+   ]
+  },
+  {
+   "id": "perono-cacciafoco-francesco",
+   "name": "Perono Cacciafoco, Francesco",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 6,
+   "work_ids": [
+    "170bb44a-23a3-58a8-87e8-c1391854d0f6",
+    "81eafbbf-6355-57af-8783-f5c9f00abb4d",
+    "952bb947-acc3-56af-b6b6-72bfbe4989ef",
+    "bdfb4546-03f7-57f3-b9ae-24ab11f08be5",
+    "be68541c-8795-56f4-9cc8-75ed6ba30066",
+    "c58580a9-e671-576b-a5d1-c89f30b6eaa4"
+   ]
+  },
+  {
+   "id": "peruzzi-emilio",
+   "name": "Peruzzi, Emilio",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 5,
+   "work_ids": [
+    "08de3354-22ed-5846-8fb3-1e8946b03a55",
+    "1037047a-9c65-5172-9320-0478e6203a5f",
+    "7cce7800-139b-5fa8-ada0-1941df8fec51",
+    "a6284011-9ff2-5579-b7b6-33ac424c80a5",
+    "cd2ee58f-d260-50ea-bcc6-5f562b4338cb"
+   ]
+  },
+  {
+   "id": "petrakis-vassilis-p",
+   "name": "Petrakis, Vassilis P.",
+   "kind": "person",
+   "affiliation": "National and Kapodistrian University of Athens (Assistant Professor)",
+   "affiliation_source": "ORCID record 0009-0003-4044-2313, read 2026-10-16",
+   "orcid": "0009-0003-4044-2313",
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 22,
+   "work_ids": [
+    "08bed5b2-22f1-53e5-969e-4823aa63ff5c",
+    "35954dfe-4b68-5696-8c09-354cadcd5d8d",
+    "3f44b267-4abe-50b9-89ad-c5e81c91f48d",
+    "4189c4bb-275a-5ada-99c7-042cc2c48ff5",
+    "493cd641-c99f-5945-bd08-9bb4c419c62f",
+    "7cc0a960-b4f4-5b16-80f0-be5151185c70",
+    "8633cd39-cc95-506d-8761-8c8898f7eb5f",
+    "89f821f4-e2e5-5d18-a1a3-8945813531b1",
+    "8cc9b8a7-da96-5664-a94c-24064ff82cb7",
+    "933e475b-36f2-556c-be9d-53192142eb67",
+    "a577c10e-df5c-5776-ac8b-cda1dc07a082",
+    "a5f42919-cfbe-55a4-b06c-b4655375c4c8",
+    "a60a0a79-944d-51d8-a861-cf36b8082244",
+    "b1f86302-bc44-5528-b771-f3e463a0fbf2",
+    "c2031654-c02b-5c8b-9ac0-d8c43761fd65",
+    "c6b275da-09c6-544f-8a7b-b3ba44fc92df",
+    "da565549-646f-5a1b-a905-03249a3ddb3f",
+    "e04e0bf3-be07-56bb-9042-e6b02573344b",
+    "e6f37a00-57b0-5f1b-91e4-c5bbc5fdf7d5",
+    "ea61ac51-931f-5fe1-8068-42ce01423e08",
+    "f2dbf614-b78e-5c92-9fd1-367e277952a3",
+    "f45bf0fe-2534-50b0-9f42-3dcaa5161add"
+   ]
+  },
+  {
+   "id": "petrolito-ruggero",
+   "name": "Petrolito, Ruggero",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "81eafbbf-6355-57af-8783-f5c9f00abb4d"
+   ]
+  },
+  {
+   "id": "petrolito-tommaso",
+   "name": "Petrolito, Tommaso",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "81eafbbf-6355-57af-8783-f5c9f00abb4d"
+   ]
+  },
+  {
+   "id": "philippou-constantinos",
+   "name": "Philippou, Constantinos",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "5a8c6764-edca-5d00-ad6e-c78e8252a416"
+   ]
+  },
+  {
+   "id": "pierini-rachele",
+   "name": "Pierini, Rachele",
+   "kind": "person",
+   "affiliation": "Københavns Universitet",
+   "affiliation_source": "ORCID record 0000-0002-1739-7062, read 2026-10-16",
+   "orcid": "0000-0002-1739-7062",
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "11724066-ab1d-5a82-9c5c-c909321230ae"
+   ]
+  },
+  {
+   "id": "pini",
+   "name": "Pini",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "c188d2cc-34bf-5a87-9689-346fbbd2e57c"
+   ]
+  },
+  {
+   "id": "pluta-kevin",
+   "name": "Pluta, Kevin",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "1b7d2f18-240e-5c64-8dc8-60f285de5ddb"
+   ]
+  },
+  {
+   "id": "polyukhovych-yuriy",
+   "name": "Polyukhovych, Yuriy",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "7efb25a1-887d-59da-9b85-0e0ed69c842a"
+   ]
+  },
+  {
+   "id": "pope-maurice",
+   "name": "Pope, Maurice",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 2,
+   "work_ids": [
+    "16298757-dfd8-58f1-96ce-c1d9a7c70675",
+    "9fae2d46-43c9-5779-9da7-4efaafb89ba1"
+   ]
+  },
+  {
+   "id": "poursat-jean-claude",
+   "name": "Poursat, Jean-Claude",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "a2ffd91d-2866-583a-b7c5-ddbeed6021ca"
+   ]
+  },
+  {
+   "id": "pugliese-carratelli-giovanni",
+   "name": "Pugliese Carratelli, Giovanni",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "71124be3-48a5-5c52-ac35-36966c300ce5"
+   ]
+  },
+  {
+   "id": "qi-ruihua",
+   "name": "Qi, Ruihua",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "b37d4951-af3c-5ae6-ba90-30c1fb3b921a"
+   ]
+  },
+  {
+   "id": "qi-yun",
+   "name": "Qi, Yun",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "2ffb1e10-5cec-52c6-98fc-336c0cc0bb70"
+   ]
+  },
+  {
+   "id": "qin-peichao",
+   "name": "Qin, Peichao",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "2ffb1e10-5cec-52c6-98fc-336c0cc0bb70"
+   ]
+  },
+  {
+   "id": "raban",
+   "name": "Raban",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "817339d6-5d12-581c-8e11-c32db124e5fc"
+   ]
+  },
+  {
+   "id": "raison-jacques",
+   "name": "Raison, Jacques",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 4,
+   "work_ids": [
+    "0c08f238-6416-5c54-b24a-ddd6e7bcd043",
+    "cec752be-2536-5cb7-afad-54d9506a70dc",
+    "d1e65d47-888b-5ca6-88c0-7f819d9d62e5",
+    "e15d7433-14aa-5c7d-8f46-91e4c29a82c7"
+   ]
+  },
+  {
+   "id": "ravi-sujith",
+   "name": "Ravi, Sujith",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "40151c23-ff2f-5457-89f8-76533bb36ab1"
+   ]
+  },
+  {
+   "id": "rawson",
+   "name": "Rawson",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "11af17f2-1d41-593f-ad38-dab7673eb05b"
+   ]
+  },
+  {
+   "id": "reckel-johannes",
+   "name": "Reckel, Johannes",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "8406d144-da86-5a5d-9650-447918f511c2"
+   ]
+  },
+  {
+   "id": "rehak",
+   "name": "Rehak",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 2,
+   "work_ids": [
+    "a8945c88-a8d4-5301-b254-f40a31f8f081",
+    "f9385413-c7e4-5c9a-b2c2-073acc9f18da"
+   ]
+  },
+  {
+   "id": "reiner-erica",
+   "name": "Reiner, Erica",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "editor"
+   ],
+   "works_in_bibliography": 16,
+   "work_ids": [
+    "06654842-945a-5419-a691-00d5519a470b",
+    "0779632b-5d40-5686-93a3-724edd0fa6ac",
+    "14bfac3a-d025-5584-9a46-26e98397b487",
+    "24ec9d56-1ca4-5749-a081-cc6f1c68f26a",
+    "290dfaf5-7d39-515b-bb0f-60d0f961e14f",
+    "331c581f-d8ef-5fc2-b2a4-ed8dd9b61596",
+    "33560e34-8047-5eff-95c0-01029c3ebdec",
+    "47d9a45e-bdc1-5ba3-9fee-84980322db28",
+    "53417754-7654-5e54-aeb8-5d2e998effb9",
+    "5b683e11-40cc-5fdd-84f9-56fcb58e7047",
+    "62f4d0e4-9a54-575b-94af-7ad24aba353c",
+    "908d5d9d-c96f-5d07-8163-93561892f1c4",
+    "a15e00e0-5c61-5a12-b3c1-47a103d12a5a",
+    "b7efa925-c845-59e8-9a2c-6ddf66a6e537",
+    "d6033465-2557-52d6-8155-881b4ad229f7",
+    "e8ade751-0d53-575a-82df-2d44566df9ad"
+   ]
+  },
+  {
+   "id": "rendsburg-gary-a",
+   "name": "Rendsburg, Gary A.",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 5,
+   "work_ids": [
+    "29978e95-3f7c-5fba-8100-ffb01077b20a",
+    "a8825668-12fe-56f7-9b3a-bf57c201ece0",
+    "ac3496d5-5a75-5f81-a53a-a306b2f8235b",
+    "c1c79f14-817d-519f-a1e7-2172736eb0d2",
+    "d1d09e74-d589-5605-98ca-0c63029ee016"
+   ]
+  },
+  {
+   "id": "rethemiotakis-georges",
+   "name": "Réthémiotakis, Georges",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "2873fbc7-862d-5cb9-9fee-e8b5ef717b26"
+   ]
+  },
+  {
+   "id": "revesz-peter-z",
+   "name": "Revesz, Peter Z.",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author",
+    "editor"
+   ],
+   "works_in_bibliography": 2,
+   "work_ids": [
+    "9fd25eb7-4f56-5cf2-be73-02986176f0ce",
+    "d3e3bf20-9798-5461-bb33-d1e9f3828145"
+   ]
+  },
+  {
+   "id": "rizza-alfredo",
+   "name": "Rizza, Alfredo",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "c9e0ce6e-b645-5696-ae03-2e5bbb30f75a"
+   ]
+  },
+  {
+   "id": "rjabchikov-sergei-victorovich",
+   "name": "Rjabchikov, Sergei Victorovich",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 3,
+   "work_ids": [
+    "6127ccd0-2075-5c61-b5e7-9474e0c9c709",
+    "91936db5-2dcd-5c94-97f2-3911c8779bed",
+    "c84dd0dc-7d61-59b7-8a7f-3ca5025b3a28"
+   ]
+  },
+  {
+   "id": "roberts",
+   "name": "Roberts",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "759dc269-2d13-5301-8a36-7d3d36b5ad6a"
+   ]
+  },
+  {
+   "id": "roch",
+   "name": "Roch",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "f3467343-7dc9-510e-8cd7-f3c1a0681459"
+   ]
+  },
+  {
+   "id": "roman-rangel-edgar",
+   "name": "Roman-Rangel, Edgar",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "99f91227-b626-5eba-8b08-453661f619ac"
+   ]
+  },
+  {
+   "id": "la-rosa-vincenzo",
+   "name": "La Rosa, Vincenzo",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "e8aca414-3bbd-514b-bd6b-9a3a199c9db2"
+   ]
+  },
+  {
+   "id": "roth-martha-t",
+   "name": "Roth, Martha T.",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "editor"
+   ],
+   "works_in_bibliography": 4,
+   "work_ids": [
+    "8de577f1-216a-5f8c-b872-9e1cd6b32ea0",
+    "908d5d9d-c96f-5d07-8163-93561892f1c4",
+    "97237393-20fe-5ce5-84be-c92a845765a6",
+    "f15c1efb-bd68-51b6-9bc5-2cf91036c8d7"
+   ]
+  },
+  {
+   "id": "rougemont-francoise",
+   "name": "Rougemont, Françoise",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "241d26f7-d2d9-531f-8ea9-311afe4748e8"
+   ]
+  },
+  {
+   "id": "rousioti",
+   "name": "Rousioti",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "6000d613-b36f-5667-ade2-fbcd718d2e36"
+   ]
+  },
+  {
+   "id": "rystedt",
+   "name": "Rystedt",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "dae8d259-c501-55d8-8249-418982fac085"
+   ]
+  },
+  {
+   "id": "sacconi-anna",
+   "name": "Sacconi, Anna",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 2,
+   "work_ids": [
+    "1018c94b-6eda-52a7-88dd-ce787f73f92e",
+    "3e556c10-b3d8-5feb-b028-5e5516685ed3"
+   ]
+  },
+  {
+   "id": "sackett-l-h",
+   "name": "Sackett, L. H.",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "eae512fe-1aac-5e16-99c9-848d10b06385"
+   ]
+  },
+  {
+   "id": "sakellarakis-yannis",
+   "name": "Sakellarakis, Yannis",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 2,
+   "work_ids": [
+    "a85b1eba-73e4-54c8-bd2b-00253a1ac713",
+    "bb310ab4-5251-505d-adca-e0b2e6506f9d"
+   ]
+  },
+  {
+   "id": "salgarella-ester",
+   "name": "Salgarella, Ester",
+   "kind": "person",
+   "affiliation": "Hamburg (Research Fellow); Aarhus; Bologna; Cambridge (JRF)",
+   "affiliation_source": "ORCID record 0000-0001-5091-5311, read 2026-10-16",
+   "orcid": "0000-0001-5091-5311",
+   "roles": [
+    "author",
+    "maintainer"
+   ],
+   "works_in_bibliography": 16,
+   "work_ids": [
+    "0ca376f4-9aad-56ec-bcf4-b2fd4f43b352",
+    "0ee64ae8-8d50-5e18-8e74-98a0019b8a7e",
+    "3fa79d37-7e5f-59f8-9a8c-d37050de71e2",
+    "6834bb8e-6eb9-5104-ac2a-908f6c6e5431",
+    "90f3e40f-452d-55eb-91a4-9570ea7f4e77",
+    "a5977938-5c4a-5350-9e56-5beee45c54b4",
+    "a5f42919-cfbe-55a4-b06c-b4655375c4c8",
+    "ad156c0f-5ca0-5dba-a86f-a60e2f1ea120",
+    "baf19b4b-8d07-5134-afb7-76933748118b",
+    "c53f66e0-6f12-5763-9537-a9ed6a8ccc7f",
+    "c6b275da-09c6-544f-8a7b-b3ba44fc92df",
+    "cbdf0dea-b093-5597-8a5e-f173de41335d",
+    "d19cb113-2507-5995-b5e5-a53005540b4a",
+    "dd1de9ec-67dc-5606-a824-0a9384160905",
+    "ef8f707d-0e63-5496-b238-61ba3e930327",
+    "f2dbf614-b78e-5c92-9fd1-367e277952a3"
+   ]
+  },
+  {
+   "id": "sampson-adamantios",
+   "name": "Sampson, Adamantios",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 2,
+   "work_ids": [
+    "8b3886e5-41b6-5f3e-ad31-75c7f2e6dc45",
+    "d8c36b5e-ca28-5da6-9cd0-594d4e7b8a57"
+   ]
+  },
+  {
+   "id": "sapouna-sakellaraki-e",
+   "name": "Sapouna-Sakellaraki, E.",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "bb310ab4-5251-505d-adca-e0b2e6506f9d"
+   ]
+  },
+  {
+   "id": "schafer-jorg",
+   "name": "Schäfer, Jörg",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "0ea92f96-e1bf-5884-a73a-0270676226f9"
+   ]
+  },
+  {
+   "id": "schafer-robert",
+   "name": "Schafer, Robert",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "9859e296-522e-51dd-87cc-f6856156091a"
+   ]
+  },
+  {
+   "id": "schatz-merle",
+   "name": "Schatz, Merle",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "8406d144-da86-5a5d-9650-447918f511c2"
+   ]
+  },
+  {
+   "id": "schmitt-r",
+   "name": "Schmitt, R.",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "f5690645-2081-5805-95d7-564891dcacc6"
+   ]
+  },
+  {
+   "id": "schoep-ilse",
+   "name": "Schoep, Ilse",
+   "kind": "person",
+   "affiliation": "KU Leuven (Senior lecturer)",
+   "affiliation_source": "ORCID record 0000-0001-9236-8993, read 2026-10-16",
+   "orcid": "0000-0001-9236-8993",
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 4,
+   "work_ids": [
+    "3d8fc31a-9f85-56b5-8b99-8ac4cbc6def3",
+    "6804f957-cb8d-5f83-af7b-384b21935809",
+    "b6201748-3a3f-53f5-a04f-f85c6591278e",
+    "eae512fe-1aac-5e16-99c9-848d10b06385"
+   ]
+  },
+  {
+   "id": "schurr-diether",
+   "name": "Schürr, Diether",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "0dca385b-1045-56e3-b266-f8cbde90ee84"
+   ]
+  },
+  {
+   "id": "schwartz-adam-craig",
+   "name": "Schwartz, Adam Craig",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "4a5d52cb-2b6b-59f8-9e4f-82f8fca1618a"
+   ]
+  },
+  {
+   "id": "serafimov-pavel",
+   "name": "Serafimov, Pavel",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "4c435f1b-210c-5365-9558-c164f0fe5ff4"
+   ]
+  },
+  {
+   "id": "sevenshu",
+   "name": "SevenShu",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "d700b375-c7ad-50ef-a8b5-8a83d68612d7"
+   ]
+  },
+  {
+   "id": "shelmerdine-cynthia-w",
+   "name": "Shelmerdine, Cynthia W.",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "7c938946-6687-521a-872c-1bef03d3fe19"
+   ]
+  },
+  {
+   "id": "sherratt-andrew",
+   "name": "Sherratt, Andrew",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "8d17f1c3-6795-552f-a524-4b9f022bdddb"
+   ]
+  },
+  {
+   "id": "sherratt-susan",
+   "name": "Sherratt, Susan",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "8d17f1c3-6795-552f-a524-4b9f022bdddb"
+   ]
+  },
+  {
+   "id": "shi-daqian",
+   "name": "Shi, Daqian",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "b37d4951-af3c-5ae6-ba90-30c1fb3b921a"
+   ]
+  },
+  {
+   "id": "shi-lida",
+   "name": "Shi, Lida",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "b37d4951-af3c-5ae6-ba90-30c1fb3b921a"
+   ]
+  },
+  {
+   "id": "shu-zhan",
+   "name": "Shu, Zhan",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "2ffb1e10-5cec-52c6-98fc-336c0cc0bb70"
+   ]
+  },
+  {
+   "id": "shukla-sudhir-kumar",
+   "name": "Shukla, Sudhir Kumar",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "d21f453f-af4d-57de-8003-5682c0da0937"
+   ]
+  },
+  {
+   "id": "sikkenga",
+   "name": "Sikkenga",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "df51c4e7-e9e6-570d-a9ac-3c3f75beb51e"
+   ]
+  },
+  {
+   "id": "sittig-ernst",
+   "name": "Sittig, Ernst",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 3,
+   "work_ids": [
+    "865d156d-ffdf-5d2e-9629-5952132e56cf",
+    "939dc5cc-97ca-521c-a1c3-444daa439a9e",
+    "dd601d5d-3f5e-5e94-8e34-316461ab3df9"
+   ]
+  },
+  {
+   "id": "skafida-evangelia",
+   "name": "Skafida, Evangelia",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 2,
+   "work_ids": [
+    "2a773e8b-c9b0-588b-a975-ca383ff90ab6",
+    "9ef1be56-8d19-5666-a2e5-7d40d7dc01c6"
+   ]
+  },
+  {
+   "id": "skelton-christina",
+   "name": "Skelton, Christina",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 3,
+   "work_ids": [
+    "56c99808-fe92-599a-a9a1-9512a7f269b9",
+    "ccae9cff-9ca5-52e0-8d81-c260b15680c5",
+    "fa087e93-1a86-51c3-9dc5-9a7cb772102e"
+   ]
+  },
+  {
+   "id": "smith-angus",
+   "name": "Smith, Angus",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "fefa852a-25a1-5a90-a1e5-e1badbbb753f"
+   ]
+  },
+  {
+   "id": "smith-joanna",
+   "name": "Smith, J. S.",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "763ec271-a699-5f78-bac9-e1dd1bd6f0dd"
+   ]
+  },
+  {
+   "id": "smith-stuart-tyson",
+   "name": "Smith, Stuart Tyson",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "2d16ec8c-4d1f-53af-ba5c-9572f4abb2e0"
+   ]
+  },
+  {
+   "id": "sobrino-gomez-martin",
+   "name": "Sobrino Gómez, Martín",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "130d53ac-a365-5f51-9b1e-0d1b95b86ef9"
+   ]
+  },
+  {
+   "id": "van-soesbergen-peter-g",
+   "name": "van Soesbergen, Peter G.",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 27,
+   "work_ids": [
+    "03f9673d-b4e6-5025-92fa-15f3e8d31038",
+    "06dbd054-ce96-5cb6-b2a8-201c18c5f126",
+    "0a2a8a6a-117a-530d-8288-e35803706782",
+    "1e264aca-0b39-5cce-81d0-7565fd15e51d",
+    "233771d2-7ca8-5eb5-b27e-dcfb348acfa1",
+    "2fa1d2c4-1d93-56c8-8e41-bf7d2f2bc66f",
+    "309eab0e-bcdd-5a1c-8587-38322c23715e",
+    "37fd8f9d-8c04-5785-9ad0-1d24908570dc",
+    "3b47326f-8460-52d0-b72d-3ca5d09050d3",
+    "3ba7e9b3-1ace-5b17-a18d-34f701dc0e9d",
+    "57f97bc3-457c-5ee8-97a5-3a42f29fd508",
+    "5b5b9a77-9133-522e-9e53-66c81f2eab2b",
+    "62488feb-5666-5780-adc7-b72bba92b555",
+    "66941f95-50e6-52d4-9535-3825ad0da56c",
+    "82918dee-1b90-528f-ab56-0e2eea8e9242",
+    "84817716-aab9-5bb7-899d-f0b2e2b9608c",
+    "91307a40-e7e9-5587-b7da-d795bdbca74f",
+    "9377c372-a18d-5abf-9dba-165fde142d4e",
+    "b2252dcc-063b-5b5f-a44a-26972f3db2df",
+    "b33c1ab3-be6d-532a-823c-a382ccab4082",
+    "c2778e2c-cc17-50df-b3b8-ca61dc301f99",
+    "c845d7ec-5fac-5e31-8ec1-3016e4e505df",
+    "d27d9996-1c42-59bc-81cb-a27b0bf2f213",
+    "dd469e94-d4fb-5b80-b122-a088a8dc1751",
+    "e452c39b-3cc0-53dc-920c-0ede16593b03",
+    "fcccd3a8-155e-5577-a269-99c5499ba594",
+    "ffcc3c50-1218-5a4d-8d43-6f5c38114b72"
+   ]
+  },
+  {
+   "id": "soles-jeffrey-s",
+   "name": "Soles, Jeffrey S.",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 2,
+   "work_ids": [
+    "8e6c26a9-15fc-5efe-b6f0-ea1d12073925",
+    "f57bc072-bb03-5f0f-a80a-3bb19d0e051a"
+   ]
+  },
+  {
+   "id": "sorbets-pierre-andre",
+   "name": "Sorbets, Pierre-André",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "5281e6fc-24c9-514c-8a92-2280108c81ef"
+   ]
+  },
+  {
+   "id": "speiser-ephraim-avigdor",
+   "name": "Speiser, Ephraim Avigdor",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "b79bde5d-666f-5801-8573-c1bda41ce675"
+   ]
+  },
+  {
+   "id": "steele-philippa-m",
+   "name": "Steele, Philippa M.",
+   "kind": "person",
+   "affiliation": "Cambridge (Research Professor); Magdalene College; All Souls Oxford",
+   "affiliation_source": "ORCID record 0000-0003-3109-265X, read 2026-10-16",
+   "orcid": "0000-0003-3109-265X",
+   "roles": [
+    "author",
+    "editor"
+   ],
+   "works_in_bibliography": 9,
+   "work_ids": [
+    "01f57e25-9dc9-5da8-9072-879f2989d0b0",
+    "26806e37-2200-5ce3-8fd6-6a9e18ae6f75",
+    "2fa249c8-1fca-5f01-8d15-3c60b0a2b098",
+    "34bbceb4-4d5b-5ece-b051-0118d811fb6c",
+    "43700216-239b-5f3b-b97e-1e24b9529b4b",
+    "71dcde05-ae50-5cf6-9dd6-86fbc71e88f6",
+    "7a2e18b8-5988-5c2e-b9f4-119f8ad4e2e7",
+    "ac1114c1-6bb6-5d31-a280-91e9be6d05b0",
+    "c16ecdc9-82ad-5662-aa34-7d3d5ca9d8f3"
+   ]
+  },
+  {
+   "id": "stefani-e",
+   "name": "Stefani, E.",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "9f303c62-26aa-5195-9f15-6f04176c68d9"
+   ]
+  },
+  {
+   "id": "steinherr-franz",
+   "name": "Steinherr, Franz",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "1651cd28-e81c-5cfb-8ad7-0b5a39cbe25b"
+   ]
+  },
+  {
+   "id": "stol-m",
+   "name": "Stol, M.",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "w-16f5decaa42b"
+   ]
+  },
+  {
+   "id": "streccioni-maria",
+   "name": "Streccioni, Maria",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "dfb6be0c-ca13-59b9-893f-ba54579301ba"
+   ]
+  },
+  {
+   "id": "stuart-david",
+   "name": "Stuart, David",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 2,
+   "work_ids": [
+    "a54927b3-822d-5522-af9b-8acb4cdc2ebc",
+    "c5639436-8783-5556-8bcd-66f5b2d83ad6"
+   ]
+  },
+  {
+   "id": "sturmer-veit",
+   "name": "Stürmer, Veit",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 2,
+   "work_ids": [
+    "8eb6c611-5370-582f-a79d-1051448465dd",
+    "cbcaf82b-2dbe-5a5f-8df0-c572a98e2d26"
+   ]
+  },
+  {
+   "id": "sui-dan",
+   "name": "Sui, Dan",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "2ffb1e10-5cec-52c6-98fc-336c0cc0bb70"
+   ]
+  },
+  {
+   "id": "sundwall-johannes",
+   "name": "Sundwall, Johannes",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 3,
+   "work_ids": [
+    "7bca9dec-7d9e-5ee6-b891-0bf47f2dbe93",
+    "824506df-713a-521d-bb8f-e36f13095602",
+    "a32e382a-51cf-5281-973d-18a2a90595c9"
+   ]
+  },
+  {
+   "id": "tabibzadeh-kambiz",
+   "name": "Tabibzadeh, Kambiz",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "1c84cd2a-0065-5fc3-a026-54bc82ca3536"
+   ]
+  },
+  {
+   "id": "tamburini-fabio",
+   "name": "Tamburini, Fabio",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "724010b2-5152-5024-b345-0acbbdb7bca9"
+   ]
+  },
+  {
+   "id": "taube-karl",
+   "name": "Taube, Karl",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "898acc81-9d5c-5a6a-b7f7-8ac62686bacf"
+   ]
+  },
+  {
+   "id": "the-unicode-consortium",
+   "name": "The Unicode Consortium",
+   "kind": "organisation",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 2,
+   "work_ids": [
+    "d8d3f871-7773-55a9-93b4-d38642cc7e95",
+    "dea8dc3a-9cb3-5a66-8ab8-04dba49f4055"
+   ]
+  },
+  {
+   "id": "thomas-carol-g",
+   "name": "Thomas, Carol G.",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 2,
+   "work_ids": [
+    "24620997-33b9-5f15-817d-adaf815c4468",
+    "6f5a25cd-ed57-53ae-8729-4cafdb623c63"
+   ]
+  },
+  {
+   "id": "tokovinine-alexandre",
+   "name": "Tokovinine, Alexandre",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "598d25a8-0fff-5506-9a1d-63a7346288d2"
+   ]
+  },
+  {
+   "id": "tomas-helena",
+   "name": "Tomas, Helena",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "1dda2d02-aa7a-585d-87a3-a7f0ae7db69f"
+   ]
+  },
+  {
+   "id": "tovar-antonio",
+   "name": "Tovar, Antonio",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "616ca0bc-1a27-50c2-b01c-84dd38bce7d7"
+   ]
+  },
+  {
+   "id": "trognitz-martina",
+   "name": "Trognitz, Martina",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "1430ae25-17f3-5bd2-b84a-c368dda5bdf3"
+   ]
+  },
+  {
+   "id": "trumpy-catherine",
+   "name": "Trümpy, Catherine",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "98cdf5af-9b43-581b-91eb-c7eee1bf4ddf"
+   ]
+  },
+  {
+   "id": "tsikritsis-minas",
+   "name": "Tsikritsis, Minas",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "8b3886e5-41b6-5f3e-ad31-75c7f2e6dc45"
+   ]
+  },
+  {
+   "id": "tsipopoulou-metaxia",
+   "name": "Tsipopoulou, Metaxia",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "bdf40b8a-41bc-5067-bec5-0be97d206963"
+   ]
+  },
+  {
+   "id": "tsouchlos-nicos",
+   "name": "Tsouchlos, Nicos",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "91b0bb51-8843-5dea-a756-a309a24c265e"
+   ]
+  },
+  {
+   "id": "turner-lee-ann",
+   "name": "Turner, Lee Ann",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "fefa852a-25a1-5a90-a1e5-e1badbbb753f"
+   ]
+  },
+  {
+   "id": "tyree-e-loeta",
+   "name": "Tyree, E. Loeta",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "7fdb93ae-6d20-5d0d-b9e8-3c2e0c55156c"
+   ]
+  },
+  {
+   "id": "tyree-l",
+   "name": "Tyree, L.",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "d46edf8c-de92-5160-8d54-07d504c3ca55"
+   ]
+  },
+  {
+   "id": "tzachili-iris",
+   "name": "Tzachili, Iris",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 4,
+   "work_ids": [
+    "4400b79c-b9ec-5bfa-8aab-979c683d8dc0",
+    "5703c311-80f3-5a99-a5a0-d8e5b59a8ad4",
+    "9ec4d9e4-0301-5af0-8970-e4cfaab6a3ab",
+    "d898a347-00c2-5c7b-b734-45fba901bc30"
+   ]
+  },
+  {
+   "id": "tzedakis-yannis",
+   "name": "Tzedakis, Yannis",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 2,
+   "work_ids": [
+    "40cb4392-2019-5079-a9c1-525b64750b78",
+    "abe26755-69fe-5349-abcb-ed843bc829a1"
+   ]
+  },
+  {
+   "id": "tzigounaki-anastasia",
+   "name": "Tzigounaki, Anastasia",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 2,
+   "work_ids": [
+    "3f83edb4-5bc3-52ec-99b4-0e9ea9fda241",
+    "5aef6e8b-1ce0-58e3-b872-695574cc6ca2"
+   ]
+  },
+  {
+   "id": "uchitel-alexander",
+   "name": "Uchitel, Alexander",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 4,
+   "work_ids": [
+    "26a76bbd-f40f-5ee7-8b26-0dcf43d08d3a",
+    "55edd4e8-2768-56b9-9a3f-15a7fd493cd0",
+    "dbf44ee2-01ab-5ad5-850a-d14d2b2871ce",
+    "ff379cb2-1827-5407-ab40-baf3ced05b28"
+   ]
+  },
+  {
+   "id": "unseth-peter",
+   "name": "Unseth, Peter",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "7f546873-1c42-5fd7-9474-5bbfb9a0eb01"
+   ]
+  },
+  {
+   "id": "ussishkin-d",
+   "name": "Ussishkin, D.",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "dbf44ee2-01ab-5ad5-850a-d14d2b2871ce"
+   ]
+  },
+  {
+   "id": "vail-gabrielle",
+   "name": "Vail, Gabrielle",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 2,
+   "work_ids": [
+    "7efb25a1-887d-59da-9b85-0e0ed69c842a",
+    "82d9f5d2-1e23-572b-ad10-0a53e1e3755b"
+   ]
+  },
+  {
+   "id": "valentini-stefano",
+   "name": "Valentini, Stefano",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "editor"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "ba75d772-7783-502e-9e7d-0a8a940e553b"
+   ]
+  },
+  {
+   "id": "valerio-miguel",
+   "name": "Valério, Miguel",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 10,
+   "work_ids": [
+    "00d52c54-3d97-5cc9-87e0-e8d87aa7ee87",
+    "4eeb5f57-e430-533d-a45c-9d2367222f66",
+    "6d8f1780-247f-5753-a385-6fb16cee409d",
+    "724010b2-5152-5024-b345-0acbbdb7bca9",
+    "7bac8fed-c548-5e06-bd8f-1daa44eac56e",
+    "854787db-6a43-593b-af70-a111c4e8efc3",
+    "973a7efa-bbf3-560b-854e-8f581341b517",
+    "9a653a09-da8b-50ea-80bf-c52ac66c9bb9",
+    "bb02d44d-18d8-5af2-9447-a2f4c32d2e41",
+    "d02a3078-bc6f-5ed2-8e45-d417458fa163"
+   ]
+  },
+  {
+   "id": "vallance-janke-richard",
+   "name": "Vallance Janke, Richard",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 5,
+   "work_ids": [
+    "029ba745-8910-5335-8e4e-77a190222a22",
+    "0ff3ea45-f6d5-5b47-9ad3-b48ba49bdbc4",
+    "22d02b86-f057-5d6e-a382-7dd7807971e2",
+    "3ead0331-cf49-5f30-8d42-d0c7a20406d0",
+    "87498480-b7cb-51a3-9ab5-4c1489141717"
+   ]
+  },
+  {
+   "id": "vandenabeele-frieda",
+   "name": "Vandenabeele, Frieda",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 3,
+   "work_ids": [
+    "42e19ef8-6e3f-5e26-ab79-47007b113d57",
+    "efeac90c-c085-5a06-a69a-67186f182c20",
+    "ffda34f3-260a-5864-a0d2-48c5c32d3484"
+   ]
+  },
+  {
+   "id": "ventris-michael",
+   "name": "Ventris, Michael",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 3,
+   "work_ids": [
+    "4c473aa5-c66b-547d-9eb1-1a2ec67255e9",
+    "6b08b5e2-620f-57fa-873d-1d1740fd8082",
+    "7b56dee9-f821-52b2-a88a-394ebb5373c7"
+   ]
+  },
+  {
+   "id": "vichos-yannis",
+   "name": "Vichos, Yannis",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "91b0bb51-8843-5dea-a756-a309a24c265e"
+   ]
+  },
+  {
+   "id": "viredaz-remy",
+   "name": "Viredaz, Rémy",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "5239e075-26d9-53a1-8418-e652a8993c40"
+   ]
+  },
+  {
+   "id": "vlasakis-m",
+   "name": "Vlasakis, M.",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "ebc9f85b-c37f-5597-8906-a76d688a6dd6"
+   ]
+  },
+  {
+   "id": "vogazianos-roy-steven",
+   "name": "Vogazianos-Roy, Steven",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "6d21cc7d-35f0-5755-8076-f52fa1192e73"
+   ]
+  },
+  {
+   "id": "voutsaki-sofia",
+   "name": "Voutsaki, Sofia",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "18740921-9073-55cd-b729-57ee2cb2d801"
+   ]
+  },
+  {
+   "id": "walberg-gisela",
+   "name": "Walberg, Gisela",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "f926a896-e8a0-556c-a4bb-39220c387158"
+   ]
+  },
+  {
+   "id": "walls-jonathan",
+   "name": "Walls, Jonathan",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "019fff93-b650-57bf-9ae7-89ba17a0306c"
+   ]
+  },
+  {
+   "id": "wan-jinpeng",
+   "name": "Wan, Jinpeng",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "f2a66d37-1742-5e43-b18c-dfcf75663db7"
+   ]
+  },
+  {
+   "id": "wang-chaoyang",
+   "name": "Wang, Chaoyang",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 2,
+   "work_ids": [
+    "2ffb1e10-5cec-52c6-98fc-336c0cc0bb70",
+    "d700b375-c7ad-50ef-a8b5-8a83d68612d7"
+   ]
+  },
+  {
+   "id": "wang-chengjie",
+   "name": "Wang, Chengjie",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 2,
+   "work_ids": [
+    "2ffb1e10-5cec-52c6-98fc-336c0cc0bb70",
+    "d700b375-c7ad-50ef-a8b5-8a83d68612d7"
+   ]
+  },
+  {
+   "id": "wang-pengjie",
+   "name": "Wang, Pengjie",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "f2a66d37-1742-5e43-b18c-dfcf75663db7"
+   ]
+  },
+  {
+   "id": "wang-ting",
+   "name": "Wang, Ting",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "b37d4951-af3c-5ae6-ba90-30c1fb3b921a"
+   ]
+  },
+  {
+   "id": "wang-xinyu",
+   "name": "Wang, Xinyu",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "f2a66d37-1742-5e43-b18c-dfcf75663db7"
+   ]
+  },
+  {
+   "id": "was-daniel-a",
+   "name": "Was, Daniel A.",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 2,
+   "work_ids": [
+    "1341d6ba-90ff-5891-b518-51b712fa74f4",
+    "177306db-2aaf-5c3d-aada-36d9c477570f"
+   ]
+  },
+  {
+   "id": "watrous-l-vance",
+   "name": "Watrous, L. Vance",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 3,
+   "work_ids": [
+    "bb2bf44d-f691-559d-9868-11cfa4eeffaf",
+    "bd7a1daa-b59a-5150-93c0-c98a2de63404",
+    "fefa852a-25a1-5a90-a1e5-e1badbbb753f"
+   ]
+  },
+  {
+   "id": "wedde-michael",
+   "name": "Wedde, Michael",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 2,
+   "work_ids": [
+    "6f5a25cd-ed57-53ae-8729-4cafdb623c63",
+    "c43a3ad4-6cd0-5461-a613-4a7af073bd34"
+   ]
+  },
+  {
+   "id": "wegner-ilse",
+   "name": "Wegner, Ilse",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 2,
+   "work_ids": [
+    "3c73ca1c-808d-5f69-9c2a-8598f6a86956",
+    "f638d1c1-6ce0-5f97-b45d-6b611c3d3549"
+   ]
+  },
+  {
+   "id": "weingarten-judith",
+   "name": "Weingarten, Judith",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 6,
+   "work_ids": [
+    "3abebb9e-4b6d-5043-8afa-a05879a0f793",
+    "79288bf0-7604-5f03-86bd-a08ea5bb5e6c",
+    "9973d9f2-887f-5dbb-946f-0fde1ba02696",
+    "a5c4b3b9-1ae5-5e50-8503-ac166b8cd067",
+    "c9f85d5f-4248-5400-9fba-bdbe4be30f6f",
+    "caed225b-9c8b-5d4d-9407-b98c0d77a5d2"
+   ]
+  },
+  {
+   "id": "whalen-sean",
+   "name": "Whalen, Sean",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "52f6766a-3e77-56d8-a016-978bff37d28e"
+   ]
+  },
+  {
+   "id": "whittaker-helene",
+   "name": "Whittaker, Helène",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 2,
+   "work_ids": [
+    "63d80106-08be-55f5-abb7-99c0dffd1b60",
+    "b85c46c6-da35-5f3b-998d-1757141c1eac"
+   ]
+  },
+  {
+   "id": "wilhelm-gernot",
+   "name": "Wilhelm, Gernot",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "d7bab153-584b-58e2-a994-d2ba2339570a"
+   ]
+  },
+  {
+   "id": "van-windekens-albert-j",
+   "name": "van Windekens, Albert J.",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "d33a23fb-d85e-5df0-abde-17dcf0a606b1"
+   ]
+  },
+  {
+   "id": "winterstein-gregoire",
+   "name": "Winterstein, Gregoire",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "81eafbbf-6355-57af-8783-f5c9f00abb4d"
+   ]
+  },
+  {
+   "id": "wirghova-sona",
+   "name": "Wirghová, Soňa",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "f369960d-6a03-5569-94fb-26e2a0cc9006"
+   ]
+  },
+  {
+   "id": "wolf-diana",
+   "name": "Wolf, Diana",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "308dd8bf-ad60-5245-bd6c-b7bc25bbfde5"
+   ]
+  },
+  {
+   "id": "woudhuizen-fred-c",
+   "name": "Woudhuizen, Fred C.",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "e38a0c2f-70ad-596f-8257-234137123798"
+   ]
+  },
+  {
+   "id": "wright-william",
+   "name": "Wright, William",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "eb1746ba-14f1-53f7-ad46-b1cdc2461bac"
+   ]
+  },
+  {
+   "id": "wu-andypian",
+   "name": "Wu, AndyPian",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "d700b375-c7ad-50ef-a8b5-8a83d68612d7"
+   ]
+  },
+  {
+   "id": "wu-pian",
+   "name": "Wu, Pian",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "2ffb1e10-5cec-52c6-98fc-336c0cc0bb70"
+   ]
+  },
+  {
+   "id": "wu-yunsheng",
+   "name": "Wu, Yunsheng",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "2ffb1e10-5cec-52c6-98fc-336c0cc0bb70"
+   ]
+  },
+  {
+   "id": "van-wyk-koot",
+   "name": "van Wyk, Koot",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "d253873e-e063-533e-98c0-453ecddd638a"
+   ]
+  },
+  {
+   "id": "xenaki-sakellariou-agnes",
+   "name": "Xénaki-Sakellariou, Agnès",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "1aa447d6-8ca6-5874-ada1-1ca177202f03"
+   ]
+  },
+  {
+   "id": "xu-hao",
+   "name": "Xu, Hao",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "b37d4951-af3c-5ae6-ba90-30c1fb3b921a"
+   ]
+  },
+  {
+   "id": "yang-jing",
+   "name": "Yang, Jing",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 2,
+   "work_ids": [
+    "2ffb1e10-5cec-52c6-98fc-336c0cc0bb70",
+    "d700b375-c7ad-50ef-a8b5-8a83d68612d7"
+   ]
+  },
+  {
+   "id": "yao-yuetong",
+   "name": "Yao, Yuetong",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "bdfb4546-03f7-57f3-b9ae-24ab11f08be5"
+   ]
+  },
+  {
+   "id": "yasur-landau-assaf",
+   "name": "Yasur-Landau, Assaf",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "edf418c4-0e40-5a97-bd39-379036068534"
+   ]
+  },
+  {
+   "id": "yener-k-asl-han",
+   "name": "Yener, K. Aslıhan",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "beb26490-26e2-5a71-bcf2-b1e89679c32b"
+   ]
+  },
+  {
+   "id": "younger",
+   "name": "Younger",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "a8945c88-a8d4-5301-b254-f40a31f8f081"
+   ]
+  },
+  {
+   "id": "younger-john-g",
+   "name": "Younger, John G.",
+   "kind": "person",
+   "affiliation": "University of Kansas (emeritus)",
+   "affiliation_source": "ORCID record 0009-0003-5005-2378, read 2026-10-16",
+   "orcid": "0009-0003-5005-2378",
+   "roles": [
+    "author",
+    "maintainer"
+   ],
+   "works_in_bibliography": 13,
+   "work_ids": [
+    "368633d5-e603-5124-89d0-75722a2f8f53",
+    "586405b7-6155-506a-93f8-b72424f36b38",
+    "6f92d478-0fb3-5bd1-b0c8-c5f9a02b4d57",
+    "98ceb38b-9a88-50b5-b1af-9641d661e364",
+    "9a5a4abc-9dd9-5282-942d-e83c0425e490",
+    "ad86ae73-0194-5ed3-8d22-50b7863e40c3",
+    "bb58267d-8857-5776-b3ad-769c9e42fe8b",
+    "e7296e04-ab4c-5e81-bb84-04cd82e08758",
+    "ee82f39a-7450-5b4e-be7c-b75f9c286254",
+    "f0ce4c7c-8c7c-524b-a306-e1c1bc3455ef",
+    "f57d3277-58fc-535e-abc1-786cd37c0e61",
+    "fefa852a-25a1-5a90-a1e5-e1badbbb753f",
+    "ff35ad4c-9427-5ca4-becf-ec2b9a8f8a01"
+   ]
+  },
+  {
+   "id": "yule-paul",
+   "name": "Yule, Paul",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "b7767dd1-b4a7-527c-bf95-ffc581d335c2"
+   ]
+  },
+  {
+   "id": "zadka-malgorzata",
+   "name": "Zadka, Małgorzata",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "e94c0b10-01c4-5edf-85df-039105bec2a6"
+   ]
+  },
+  {
+   "id": "zavadil-michaela",
+   "name": "Zavadil, Michaela",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "editor"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "5e74c143-612c-5afc-abe8-06eb7fa10aa9"
+   ]
+  },
+  {
+   "id": "zender-marc",
+   "name": "Zender, Marc",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "a5e84bc4-6a13-561e-aa29-a9d6c0be5bbe"
+   ]
+  },
+  {
+   "id": "zhai-guangtao",
+   "name": "Zhai, Guangtao",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "83219e9e-4934-5aba-9f44-da03bc2f5aa7"
+   ]
+  },
+  {
+   "id": "zhang-kaile",
+   "name": "Zhang, Kaile",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "f2a66d37-1742-5e43-b18c-dfcf75663db7"
+   ]
+  },
+  {
+   "id": "zhou-zhihan",
+   "name": "Zhou, Zhihan",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 1,
+   "work_ids": [
+    "b37d4951-af3c-5ae6-ba90-30c1fb3b921a"
+   ]
+  },
+  {
+   "id": "zurbach-julien",
+   "name": "Zurbach, Julien",
+   "kind": "person",
+   "affiliation": null,
+   "affiliation_source": null,
+   "orcid": null,
+   "roles": [
+    "author"
+   ],
+   "works_in_bibliography": 5,
+   "work_ids": [
+    "0ead52c8-0f82-5d6f-8bb9-9e3841512477",
+    "3f9a619f-08eb-50b8-b837-64220dd51bac",
+    "866a1ab8-1ccf-577b-95c9-f3e5ce22e484",
+    "d53d3e97-1d10-5b22-8a3c-3b417dac8c23",
+    "da60eb82-8e64-5fcd-b8da-278b94862e84"
+   ]
+  }
+ ]
+}
